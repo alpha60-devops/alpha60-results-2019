@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9561862",
+    "imdb_id": "tt9561862",
+    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
+    "wikidata_id": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Love,_Death_%26_Robots"
+  },
+  "coverage_sha256": "1e7c6ffb39f9a79f20def886907b12e377d8fdf7059725dade760b3846547be2",
+  "generated_at": "2026-09-05T18:35:25.838316+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/love-death-robots-01.cache/cache.20190516.tar.xz",
+      "sha256": "e129248101db37d4974f964e1c4d861ebc48b205a5f32df180f7060d4d13b541",
+      "size": 1831675516
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/love-death-robots-01.md",
+      "sha256": "96643237c5530287c5cb8eaf8673d1db42b51f983c9113062cb4eefb5874387d",
+      "size": 598
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/love-death-robots-01.json",
+      "sha256": "5cfe9b0de21ba5b97f0d5246f56188b8d2b282763a4dce4445db4ee274867e68",
+      "size": 2405
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/love-death-robots-01.json",
+      "sha256": "2af435c27c4d58f943505dd50380c0575ed7c023a2ea8cf836220e6eebd84c47",
+      "size": 372
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "7911aae557caa5b9d78dffc736d9346c4a420fb9dc94cb24a9d7911e4d311b2f",
+      "size": 47076
+    }
+  },
+  "media_object": "love-death-robots-01",
+  "published_files": {
+    "data/csv/bytes/love-death-robots-01-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "99fbf1a60cfd896150a5788df27266013beb7b25f3c92a076f39d6635e3a546a",
+    "docs/itemized/figures/love-death-robots-01-carto-4k.webp": "ea07ee869b51c06b00c8f7a46a15ef9e1905b704a9c2fddba897fd232ac5399f",
+    "docs/itemized/figures/love-death-robots-01-carto.png": "c7e3dea6cbbca80b2d985c1585755d4f6f97b36ecf5d99652ebc2adf6ad7158c",
+    "docs/itemized/figures/love-death-robots-01-cumulative-detail-btiha-itemized-by-bytes.svg": "a2e8efd005bae5e5f9b599913cfa8cfa1b5b55b2d5c46fb1d74b1531d63ca3ad",
+    "docs/itemized/figures/love-death-robots-01-data-ge-1080p-4k.webp": "d50b4f6e400bc47e05883b1d231cbfce8d31e93d303b1a748fb37fd1853cb2bd",
+    "docs/itemized/figures/love-death-robots-01-data-ge-1080p.webp": "a9c08bbfbeedce53234840412eca7dfc5021e97c54a16cdc03a7b9d5bc8af80e",
+    "docs/itemized/figures/love-death-robots-01-data-lt-1080p-4k.webp": "588a92af3de0b2ad0092d42666b9445d8583c024056fd106dbf8acbe47a78730",
+    "docs/itemized/figures/love-death-robots-01-data-lt-1080p.webp": "a1f2da176c2af6c65a1f4068f2f07fb313b642e9e8bbbd03f5a5a65fcd2bc821",
+    "docs/itemized/figures/love-death-robots-01-downloads-by-day-day.svg": "6892bd1613c4be5bd69d909e6252c5b9dc6c36c0217b145c9c9242bfd0b528c5",
+    "docs/itemized/figures/love-death-robots-01-downloads-by-week-love-death-robots-01-week.svg": "208c6abbf562694753ed07fc9d29c99904873566f916175e3434450836d7946d",
+    "docs/itemized/love-death-robots-01-sample-cache-audit.md": "96bde25a4e3c7716b769c22014f4354a411b58822b4d9c96ec2947b16fef9d13",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "5986b46764300ac2e71bdfb79ee35c915f446205",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/love-death-robots-01/tmp/love-death-robots-01-cumulative-btiha.geojson",
+        "sha256": "92f2c68456eb18d6e9444ce2d39798c4dd85c09881717f7179ef49efd1280917",
+        "size": 108653603
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/love-death-robots-01/tmp/love-death-robots-01-cumulative-btiha-media-objects.json",
+        "sha256": "d55fd76168f3f7051c83e1033f83239c2e2a12da81bfd1bbd3e42cb109b229de",
+        "size": 670881
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "love-death-robots-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          52.0,
+          49.0,
+          46.0,
+          38.0,
+          30.0,
+          30.0,
+          29.0,
+          27.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Saint Petersburg",
+          "Columbus",
+          "Shanghai",
+          "Seattle",
+          "New York City",
+          "London",
+          "Shenzhen",
+          "Seoul"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          60.0,
+          45.0,
+          36.0,
+          31.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Shanghai",
+          "Shenzhen",
+          "Beijing",
+          "Nanjing",
+          "Columbus",
+          "Moscow",
+          "Chengdu",
+          "Jiaxing",
+          "Hangzhou",
+          "Ashburn"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 31,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 9,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "5986b46764300ac2e71bdfb79ee35c915f446205",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}
