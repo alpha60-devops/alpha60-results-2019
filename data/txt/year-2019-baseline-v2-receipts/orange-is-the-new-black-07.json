@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt2372162",
+    "imdb_id": "tt2372162",
+    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
+    "wikidata_id": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Orange_Is_the_New_Black"
+  },
+  "coverage_sha256": "d32eedda47b85936500eb6839151f8d88919ce60738e8fb9bf497897bea58c27",
+  "generated_at": "2026-09-05T18:09:50.614502+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/orange-is-the-new-black-07.cache/cache.20191003.tar.xz",
+      "sha256": "720e8e127d48c290b120fe5c9bbad62c1c9d1688ea12ab7a6813f00b9ec0f4d4",
+      "size": 486728468
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/orange-is-the-new-black-07.md",
+      "sha256": "bc1f81c6c2a4d4c89b35e7163a883827d1af86f095e90867bdf0839720974321",
+      "size": 781
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/orange-is-the-new-black-07.json",
+      "sha256": "c6aae75c30ece91b4628ad8d29d794174a6326ad477711fc4fadcbb434e4cb6d",
+      "size": 2483
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/orange-is-the-new-black-07.json",
+      "sha256": "34ec47df350505ef57c2256a618c8531cb0b9854e482d6f26ebcb529505b9803",
+      "size": 377
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "c1c212754c31864df8eff7df764ea81851725028d25a7b2bc6d3092033343c41",
+      "size": 49746
+    }
+  },
+  "media_object": "orange-is-the-new-black-07",
+  "published_files": {
+    "data/csv/bytes/orange-is-the-new-black-07-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "ef362cab07880e3d618e72d0a3554977606e476191279eb7a7ceb79471991165",
+    "docs/itemized/figures/orange-is-the-new-black-07-carto-4k.webp": "7d61548da16a8f4b468a06b801638304da8a1777f803efe8ec0c6ccaa430bd5d",
+    "docs/itemized/figures/orange-is-the-new-black-07-carto.png": "5280fb8fbbea2febc8c979ea49336b90bc8af5d3ed27da02e135125e2dc0e05d",
+    "docs/itemized/figures/orange-is-the-new-black-07-cumulative-detail-btiha-itemized-by-bytes.svg": "334917976f868533c797c35ff238cd6301d790a1242be23f0e97f2e032d1b165",
+    "docs/itemized/figures/orange-is-the-new-black-07-data-ge-1080p-4k.webp": "91de34ed69242c6aaa47fcba6eab5c94358da89126d990d248828cda9ebae8f5",
+    "docs/itemized/figures/orange-is-the-new-black-07-data-ge-1080p.webp": "e8aae5aa2f153d2d1b3a529093b035f7d7c551605aecaf5c15ded93d5ee36cca",
+    "docs/itemized/figures/orange-is-the-new-black-07-data-lt-1080p-4k.webp": "56446fc724830adf9ad5a3e54bef7d05af4caa27b79cb55f544c99579e8d19aa",
+    "docs/itemized/figures/orange-is-the-new-black-07-data-lt-1080p.webp": "7806640b110f1dfa6ce90f91e67c01c2100eb5eaa75121ac1e1fffb87a542cb1",
+    "docs/itemized/figures/orange-is-the-new-black-07-downloads-by-day-day.svg": "57a6fee4e96571bb906a0adaeae261ad3c1972c85746cba408c7d617676de1d3",
+    "docs/itemized/figures/orange-is-the-new-black-07-downloads-by-week-orange-is-the-new-black-07-week.svg": "c93dd2f6c4024e0ef5179c30aba389cee0815b19d1d9d1d8df992b37512e322a",
+    "docs/itemized/orange-is-the-new-black-07-sample-cache-audit.md": "a24ebbd437a1dff9782aab2072f2623d6f64e71423fdd52dfdcc477993c96b07",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "266d3ea17853fe1320391793ac55e9383a0ace90",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/orange-is-the-new-black-07/tmp/orange-is-the-new-black-07-cumulative-btiha.geojson",
+        "sha256": "65504ec5dbbfc64ee3bc3350e5d368b2e5c6051c0e7f44e49b77530407ceacc1",
+        "size": 47305813
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/orange-is-the-new-black-07/tmp/orange-is-the-new-black-07-cumulative-btiha-media-objects.json",
+        "sha256": "bdddec92177bae6576bebd8d7c9a14054b116abb868af6e8ff7fb466a47b3680",
+        "size": 912168
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "orange-is-the-new-black-07",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          45.0,
+          35.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Moscow",
+          "Seoul",
+          "Frankfurt am Main",
+          "Lelystad",
+          "Cape Town",
+          "Dublin",
+          "Boardman",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          59.0,
+          46.0,
+          38.0,
+          36.0,
+          34.0,
+          31.0,
+          30.0,
+          28.0,
+          28.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Moscow",
+          "Shanghai",
+          "Seoul",
+          "Cape Town",
+          "Frankfurt am Main",
+          "Lelystad",
+          "Dublin",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 24,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 9,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "266d3ea17853fe1320391793ac55e9383a0ace90",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}
