@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt7049682",
+    "imdb_id": "tt7049682",
+    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
+    "wikidata_id": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Watchmen_(TV_series)"
+  },
+  "coverage_sha256": "b6cdd235bb4d80659472b965ba832ce6cc79749d95ab61837912d0bf4c007a11",
+  "generated_at": "2026-09-05T19:16:07.883440+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/watchmen-104.cache/cache.20191215.tar.xz",
+      "sha256": "5974cab8fb5f13ff564006763645997549ae692e742ef3fa948cbdadff7635e6",
+      "size": 755715296
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/watchmen-104.md",
+      "sha256": "b511f4f11c85ea310c480ac508d15032493ecb51c9f31e20dac1d2e7dcfcfecb",
+      "size": 590
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/watchmen-104.json",
+      "sha256": "0fd7c9d8e01f720ab032c4f939f3560e4b61ef041ce4a342deef001f5fa57d8e",
+      "size": 2155
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/watchmen-104.json",
+      "sha256": "3c0fe20f0c8473b8ef7625f2910eaff60c717d03a19bf4ac63a029a502f4df87",
+      "size": 364
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "7911aae557caa5b9d78dffc736d9346c4a420fb9dc94cb24a9d7911e4d311b2f",
+      "size": 47076
+    }
+  },
+  "media_object": "watchmen-104",
+  "published_files": {
+    "data/csv/bytes/watchmen-104-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "1361654dc11854b411a2658164b96c3b2513720073100f37478a747f4aae2ccf",
+    "docs/itemized/figures/watchmen-104-carto-4k.webp": "3214c791de90bed4d73ab1c15a439fbd930cd14afd9ab32f6f4b7a1d6960302f",
+    "docs/itemized/figures/watchmen-104-carto.png": "37173793a582ea8afae15b909d90ebcc1ee08c56cf2dd07dde30877a31d18909",
+    "docs/itemized/figures/watchmen-104-cumulative-detail-btiha-itemized-by-bytes.svg": "055e557483c0f3bed113611b2648afa7bd1e590fbd24054711c7908f3b1c20cd",
+    "docs/itemized/figures/watchmen-104-data-ge-1080p-4k.webp": "995ab3ed45ce01c92db95ad2d05517320a8e3859d505a4685f21f118a5860fad",
+    "docs/itemized/figures/watchmen-104-data-ge-1080p.webp": "3588c96e69e631614d47289120cfce6a92aa3125e31b363e1d522f4bbd9078b3",
+    "docs/itemized/figures/watchmen-104-data-lt-1080p-4k.webp": "70f76fd47b64be4bb81a22df68217c80e15b83db1e76cb30859e775343aad327",
+    "docs/itemized/figures/watchmen-104-data-lt-1080p.webp": "101eba34a127bdb69da71a140df7feb343e875c73681c9e1ee9ad77af0465ac2",
+    "docs/itemized/figures/watchmen-104-downloads-by-day-day.svg": "9ac03f2a58ea4db1ee32fa6dcfe48bc96de950225c79fe52a1aa4e8653b2f5f2",
+    "docs/itemized/figures/watchmen-104-downloads-by-week-watchmen-104-week.svg": "306a293db424ef1637e9f18c7193171dbac8738d475edeb5e2cf26c549e951c9",
+    "docs/itemized/watchmen-104-sample-cache-audit.md": "14bcde0e380a96e330d8053024a25550fd9de7f5e48063ea3e7cb7901f93c842",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "5986b46764300ac2e71bdfb79ee35c915f446205",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/watchmen-104/tmp/watchmen-104-cumulative-btiha.geojson",
+        "sha256": "29d524335208ce4e855f31eb703a6295b2203b5612a5115a1713d8b655daa8c4",
+        "size": 68528511
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/watchmen-104/tmp/watchmen-104-cumulative-btiha-media-objects.json",
+        "sha256": "a1c51c9692092cdde9209d777a715c0c0b26e6370f75b85e10a00e9e5855d62a",
+        "size": 169274
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "watchmen-104",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          71.0,
+          66.0,
+          61.0,
+          52.0,
+          43.0,
+          42.0,
+          41.0,
+          35.0,
+          32.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Ashburn",
+          "Columbus",
+          "New York City",
+          "S\u00e3o Paulo",
+          "Tokyo",
+          "Moscow",
+          "Seattle",
+          "Seoul",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          67.0,
+          60.0,
+          53.0,
+          42.0,
+          42.0,
+          38.0,
+          35.0,
+          33.0,
+          31.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Ashburn",
+          "Columbus",
+          "New York City",
+          "Moscow",
+          "S\u00e3o Paulo",
+          "Seattle",
+          "Seoul",
+          "Sydney",
+          "Tokyo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 35,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 33,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 5,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "5986b46764300ac2e71bdfb79ee35c915f446205",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}
