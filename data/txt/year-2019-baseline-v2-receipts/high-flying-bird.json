@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt8128188",
+    "imdb_id": "tt8128188",
+    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
+    "wikidata_id": "",
+    "wikipedia_url": ""
+  },
+  "coverage_sha256": "bd6e57349aa44dbc4d8a7d67a781f8b1acb1e18090eca21229bf680b9088cc67",
+  "generated_at": "2026-09-05T17:56:51.938657+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/high-flying-bird.cache/cache.20190314.tar.xz",
+      "sha256": "5894b710298c868e95513a68deee6e327166dc21a27ad7225b9a55546ab9cfae",
+      "size": 89930048
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/high-flying-bird.md",
+      "sha256": "5f755917b610dd4d4b1d67dd3d5ae99c69418b3f3126baff8a9a529a5761a596",
+      "size": 594
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/high-flying-bird.json",
+      "sha256": "6e1987964f8574a29bd67d095e76113e337d1996b6fbbf8369948e7365eff884",
+      "size": 2167
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/high-flying-bird.json",
+      "sha256": "e096b9fd673ef5cb4561de79657076ec13e634882f12e3cb40c0ee2fee60da1a",
+      "size": 368
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "c1c212754c31864df8eff7df764ea81851725028d25a7b2bc6d3092033343c41",
+      "size": 49746
+    }
+  },
+  "media_object": "high-flying-bird",
+  "published_files": {
+    "data/csv/bytes/high-flying-bird-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "f3a686ed60f2f4fe7e00510a19a85b3538a306b4aeec8f53d9af49c61a6d3633",
+    "docs/itemized/figures/high-flying-bird-carto-4k.webp": "6ea212a5de92f09da7394f506d1e65c7573aee9632ba20bac534a087fb5fae2f",
+    "docs/itemized/figures/high-flying-bird-carto.png": "2e2442ef2e06d5dcfbfc406165ec224a3a2a093196751e7cbcb993bdb0d955f0",
+    "docs/itemized/figures/high-flying-bird-cumulative-detail-btiha-itemized-by-bytes.svg": "5a31a566d07862a319c2961d595c80ae5005b6c9a3e6165b4d17426c412b6e89",
+    "docs/itemized/figures/high-flying-bird-data-ge-1080p-4k.webp": "cd10a3c0878299f8870ed9cb6fdf30b57ceb244edc6811e3456a3397921d8e21",
+    "docs/itemized/figures/high-flying-bird-data-ge-1080p.webp": "ea98557a50f062c93046b31170821470a83b09a14d2f557ba324812e5922136d",
+    "docs/itemized/figures/high-flying-bird-data-lt-1080p-4k.webp": "ef61d7556f18c52261602df0dc758061ec568aa0da1f8bbd47ee108339cdb40a",
+    "docs/itemized/figures/high-flying-bird-data-lt-1080p.webp": "c478818f3ac98d731b7a27aa3f63543f5c3453a280eedcf8142fb75602ab0016",
+    "docs/itemized/figures/high-flying-bird-downloads-by-day-day.svg": "d7fbb2b7901de8f955867ad9863414830d5537b9dbb45350722c14fbbc7b689c",
+    "docs/itemized/figures/high-flying-bird-downloads-by-week-high-flying-bird-week.svg": "a315cb6f533be095bff55fca86419561a78627ee2da849a15b8dc0b7d9bec3cc",
+    "docs/itemized/high-flying-bird-sample-cache-audit.md": "8e831cdb71c978f5cb5f485c040f9825150efc4f3320737d2e16ca744b866263",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "266d3ea17853fe1320391793ac55e9383a0ace90",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/high-flying-bird/tmp/high-flying-bird-cumulative-btiha.geojson",
+        "sha256": "506463cb95a47ff459e0d398322335892a9aaf30d24f0af728cbd97a956c7573",
+        "size": 15947903
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/high-flying-bird/tmp/high-flying-bird-cumulative-btiha-media-objects.json",
+        "sha256": "30da154ede4b30f05146449a215e07bc3713e7944d23cc0376c04891245b745d",
+        "size": 60735
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "high-flying-bird",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          89.0,
+          54.0,
+          50.0,
+          49.0,
+          48.0,
+          40.0,
+          36.0,
+          28.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "New York City",
+          "Seattle",
+          "Seoul",
+          "London",
+          "Independence",
+          "Shanghai",
+          "Beijing",
+          "Asagaya-minami"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          62.0,
+          37.0,
+          35.0,
+          31.0,
+          28.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "Seattle",
+          "Seoul",
+          "New York City",
+          "Independence",
+          "Shanghai",
+          "Tokyo",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 35,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 13,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 5,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "266d3ea17853fe1320391793ac55e9383a0ace90",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}
