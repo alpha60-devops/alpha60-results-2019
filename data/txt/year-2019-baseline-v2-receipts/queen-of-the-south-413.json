@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt1064899",
+    "imdb_id": "tt1064899",
+    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
+    "wikidata_id": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Queen_of_the_South_(TV_series)"
+  },
+  "coverage_sha256": "e55e3995896a5e8e4257de8c7b929cb74756a2c253a116721309789a16564b0f",
+  "generated_at": "2026-09-05T18:17:03.063231+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/queen-of-the-south-413.cache/cache.20191107.tar.xz",
+      "sha256": "e0598a68a1c66a752ef4698d8c650cbe65c67d71e25cf90e008c76456a0642ea",
+      "size": 470048416
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/queen-of-the-south-413.md",
+      "sha256": "da041539f4b5537b0af6c6e1fcc089f893b3418380762a8f71efd09df8ef0509",
+      "size": 600
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/queen-of-the-south-413.json",
+      "sha256": "bf206abb21b54ba698b7f13ca352ca416eb90c322cdb052db5b23df62302f769",
+      "size": 2465
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/queen-of-the-south-413.json",
+      "sha256": "db155e8e3ead40cecfdee29c7875add46dec7a597d6d2773cf11e2846276eac5",
+      "size": 374
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "c1c212754c31864df8eff7df764ea81851725028d25a7b2bc6d3092033343c41",
+      "size": 49746
+    }
+  },
+  "media_object": "queen-of-the-south-413",
+  "published_files": {
+    "data/csv/bytes/queen-of-the-south-413-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "1c461b151d87ac90f1f4e8de98b311718522a1f8d95c108fd2fa8e8206bb8e6d",
+    "docs/itemized/figures/queen-of-the-south-413-carto-4k.webp": "b9a59a4b1b82f73464f3508556cd89a20aa84f4c7df4f700cef5bbe31180a00c",
+    "docs/itemized/figures/queen-of-the-south-413-carto.png": "2a6194cff4fd39abf343b87d86f20586cbdd1584c449ea97246358158da4d02a",
+    "docs/itemized/figures/queen-of-the-south-413-cumulative-detail-btiha-itemized-by-bytes.svg": "91c91461cd34b0b81e1330d8a2cdbb98c7e10ab821dd1b9439d0abae4d7dcfb1",
+    "docs/itemized/figures/queen-of-the-south-413-data-ge-1080p-4k.webp": "1371eeff50cc0b3e65faad6ce6c0b4e13eab162413fecfffca218db858fa0e35",
+    "docs/itemized/figures/queen-of-the-south-413-data-ge-1080p.webp": "aded9959c4da4e6196bee15a558dec6b62266fac823513f75f0d0e779cad7349",
+    "docs/itemized/figures/queen-of-the-south-413-data-lt-1080p-4k.webp": "35dad2d4102a2b91af9937ed3b227540175ae0a8f93d0017678a8432567d08ca",
+    "docs/itemized/figures/queen-of-the-south-413-data-lt-1080p.webp": "c90f1e099a7dbad6424305a2f1c479f6622d9b64ac8f0984ab069da3f0d38503",
+    "docs/itemized/figures/queen-of-the-south-413-downloads-by-day-day.svg": "6b136255f7459f25ab7c138a7d55596c2649809e2961902bb4d790e854417dbf",
+    "docs/itemized/figures/queen-of-the-south-413-downloads-by-week-queen-of-the-south-413-week.svg": "dc2dc6ec5c19e281d31a7c2937c023b5cb2b24be24cc20d2f3a2e54019e0e571",
+    "docs/itemized/queen-of-the-south-413-sample-cache-audit.md": "a82581d245962daecf497dfb31ea6fb6123498b0e5548984e6efd20e960dbb31",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "266d3ea17853fe1320391793ac55e9383a0ace90",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/queen-of-the-south-413/tmp/queen-of-the-south-413-cumulative-btiha.geojson",
+        "sha256": "462ab504b74423efd58f487ebe170d2d2a22ca72dd38230bc0f6936f873fb367",
+        "size": 48397276
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/queen-of-the-south-413/tmp/queen-of-the-south-413-cumulative-btiha-media-objects.json",
+        "sha256": "9f06df280161cb8e629a46a6fd25f4369ca6c8f03eaf0dbc99d47b7bf2bf1a80",
+        "size": 158029
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "queen-of-the-south-413",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          81.0,
+          59.0,
+          52.0,
+          50.0,
+          46.0,
+          42.0,
+          40.0,
+          35.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "London",
+          "Seattle",
+          "New York City",
+          "Seoul",
+          "Tokyo",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          73.0,
+          57.0,
+          52.0,
+          52.0,
+          46.0,
+          45.0,
+          40.0,
+          35.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "New York City",
+          "Seattle",
+          "London",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 16,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "266d3ea17853fe1320391793ac55e9383a0ace90",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}

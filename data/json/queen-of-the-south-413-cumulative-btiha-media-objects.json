@@ -1,0 +1,3639 @@
+{
+    "collection_name": "Queen Of The South",
+    "collection_id": "413",
+    "collection_key": "queen-of-the-south-413",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "55f6f61938135a381a2f74ca887bb1a4a7e8e1ca",
+            "duplicate_0_0": "Queen-of-the-South-S04-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rartv]",
+            "duplicate_0_1": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "c26b020517579d074252efc1cd2d5273b41b7213",
+            "duplicate_1_0": "Queen-of-the-South-S04-WEB-DL-1080p-LostFilm",
+            "duplicate_1_1": "Королева юга Queen of the South Сезон 4 Серии 1-13 из 13 (Эдуардо Санчес, Дэвид Бойд, Дэйв Родригез) [2019, США, Испания, [rutracker-5760899]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "8282e7272d77323f27da6d487acc20fdb1e3ca1f",
+            "duplicate_2_0": "Queen-of-the-South-S04E13-720p-HDTV-x264-AVS[rarbg]",
+            "duplicate_2_1": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "81279c3d0d32ebb2f49a626e71ca5530b5dfb418",
+            "duplicate_3_0": "Queen-of-the-South-S04E13-720p-HDTV-x265-MiNX[eztv]",
+            "duplicate_3_1": "Queen.of.the.South.S04E13.720p.HDTV.x265-MiNX[eztv].mkv"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "dec4ac48b0e092da58e7f658ad2978e1b6966388",
+            "duplicate_4_0": "Queen-of-the-South-S04E13-HDTV-x264-SVA[eztv]",
+            "duplicate_4_1": "Queen.of.the.South.S04E13.HDTV.x264-SVA[eztv].mkv"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "c42e1a6674bd44e791871846fbdb52bf7b210524",
+            "duplicate_5_0": "Queen-of-the-South-S04E13-HDTV-x264-SVA[rarbg]",
+            "duplicate_5_1": "Queen.of.the.South.S04E13.HDTV.x264-SVA[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "9c4cba3bd6edd63c83b5a7df56ee0aabad0fdd76",
+            "duplicate_6_0": "Queen-of-the-South-S04E13-Vienen-Por-Ti-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "duplicate_6_1": "Queen.of.the.South.S04E13.Vienen.Por.Ti.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "ed770da06d0b1e81e919a1b7e4d125c986cca430",
+            "duplicate_7_0": "Queen-of-the-South-S04E13-Vienen-Por-Ti-720p-AMZN-WEB-DL-DDP5-1-H-264-NTb[eztv]",
+            "duplicate_7_1": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "d15ed03cf15923030f6209d510cb27bd998762c8",
+            "duplicate_8_0": "Queen-of-the-South-S04E13-Vienen-Por-Ti-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "duplicate_8_1": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "e662bde9c19d49ecfe68e0b72ca3d53f3d281e00",
+            "duplicate_9_0": "Queen-of-the-South-S04E13-iNTERNAL-480p-x264-mSD[eztv]",
+            "duplicate_9_1": "Queen.of.the.South.S04E13.iNTERNAL.480p.x264-mSD[eztv].mkv"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "904f278db8d4a9193640ad8e2067d65419c5c27f",
+            "duplicate_10_0": "Queen-of-the-South-S04E13-iNTERNAL-720p-WEB-H264-AMRAP[eztv]",
+            "duplicate_10_1": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP[eztv].mkv"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "c3d9cb0c602ec4e40650ba96c7bc8ff169637ae7",
+            "duplicate_11_0": "[rutor.is]Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Stu",
+            "duplicate_11_1": "Queen-Of-The-South-S04-1080p-WEBRip-TUMBLER-Studio"
+        },
+        {
+            "duplicate_id": 12,
+            "duplicate_btih": "171cae73f993f9eb3500d17554a0d9c1117bd2a1",
+            "duplicate_12_0": "[rutor.is]Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Stud",
+            "duplicate_12_1": "Queen-Of-The-South-S04-400p-WEBRip-TUMBLER-Studio"
+        },
+        {
+            "duplicate_id": 13,
+            "duplicate_btih": "bc88ef837b75c3178bb8af7e4d8f56fa7fcf80e7",
+            "duplicate_13_0": "[rutor.is]Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Stud",
+            "duplicate_13_1": "Queen-Of-The-South-S04-720p-WEBRip-TUMBLER-Studio"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[rutor.is]Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Stu",
+            "size_total": 34.960637507,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.461802061,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E09.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.875987784,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E02.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.846953323,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E03.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.856727867,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E04.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.87095935,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E05.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.895649897,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E06.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 3.355034563,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E07.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 3.349166058,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E08.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.981446795,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E01.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 3.308044103,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E10.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 3.403965767,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E11.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 3.390682775,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E12.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 3.364217164,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E13.1080p.WEBRip.TUMBLER.Studio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Stud",
+            "size_total": 7.792601088,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.627785728,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E01.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.599590912,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E02.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.598638592,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E03.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.588695552,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E04.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.5935104,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E05.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.599580672,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E06.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.599191552,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E07.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.599570432,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E08.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.599578624,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E09.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.59072512,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E10.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.599568384,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E11.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.59695104,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E12.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.59921408,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E13.400p.WEBRip.TUMBLER.Studio.avi"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Stud",
+            "size_total": 13.579842676,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.292348447,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E12.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.01614529,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E02.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.81959674,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E03.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.919466027,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E04.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.917053442,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E05.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.867670854,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E06.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.205960542,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E07.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.158836446,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E08.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.121030135,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E09.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.05830341,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E10.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.099052799,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E11.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.000862792,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E01.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 1.103515752,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E13.720p.WEBRip.TUMBLER.Studio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Queen-of-the-South-(Season-04)-LostFilm",
+            "size_total": 8.01247232,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.529747968,
+                    "path": "Queen.of.the.South.(Season 04).LostFilm/Queen.of.the.South.S04E01.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.540987392,
+                    "path": "Queen.of.the.South.(Season 04).LostFilm/Queen.of.the.South.S04E02.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.667877376,
+                    "path": "Queen.of.the.South.(Season 04).LostFilm/Queen.of.the.South.S04E03.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.655138816,
+                    "path": "Queen.of.the.South.(Season 04).LostFilm/Queen.of.the.South.S04E04.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.660508672,
+                    "path": "Queen.of.the.South.(Season 04).LostFilm/Queen.of.the.South.S04E05.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.66684928,
+                    "path": "Queen.of.the.South.(Season 04).LostFilm/Queen.of.the.South.S04E06.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.666830848,
+                    "path": "Queen.of.the.South.(Season 04).LostFilm/Queen.of.the.South.S04E07.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.667127808,
+                    "path": "Queen.of.the.South.(Season 04).LostFilm/Queen.of.the.South.S04E08.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.667363328,
+                    "path": "Queen.of.the.South.(Season 04).LostFilm/Queen.of.the.South.S04E09.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.657451008,
+                    "path": "Queen.of.the.South.(Season 04).LostFilm/Queen.of.the.South.S04E10.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.480894976,
+                    "path": "Queen.of.the.South.(Season 04).LostFilm/Queen.of.the.South.S04E11.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.632864768,
+                    "path": "Queen.of.the.South.(Season 04).LostFilm/Queen.of.the.South.S04E12.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.51883008,
+                    "path": "Queen.of.the.South.(Season 04).LostFilm/Queen.of.the.South.S04E13.rus.LostFilm.TV.avi"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Queen-Of-The-South-S04-1080p-WEBRip-TUMBLER-Studio",
+            "size_total": 34.960637507,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.461802061,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E09.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.875987784,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E02.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.846953323,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E03.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.856727867,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E04.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.87095935,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E05.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.895649897,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E06.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 3.355034563,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E07.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 3.349166058,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E08.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.981446795,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E01.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 3.308044103,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E10.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 3.403965767,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E11.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 3.390682775,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E12.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 3.364217164,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E13.1080p.WEBRip.TUMBLER.Studio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Queen-Of-The-South-S04-400p-WEBRip-TUMBLER-Studio",
+            "size_total": 7.792601088,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.627785728,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E01.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.599590912,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E02.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.598638592,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E03.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.588695552,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E04.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.5935104,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E05.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.599580672,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E06.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.599191552,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E07.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.599570432,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E08.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.599578624,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E09.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.59072512,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E10.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.599568384,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E11.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.59695104,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E12.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.59921408,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E13.400p.WEBRip.TUMBLER.Studio.avi"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Queen-of-the-South-S04-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rartv]",
+            "size_total": 21.492083238,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.659336206,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E01.Bienvenidos.a.Nuevo.Orleans.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.658506315,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E02.Un.Asunto.de.Familia.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.266845496,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E03.Hospitalidad.Surena.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.510562803,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E04.La.Maldicion.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.603880978,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E05.Noche.de.las.Chicas.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.350972738,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E06.La.Mujer.en.el.Espejo.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.754560214,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E07.Amores.Perros.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.679682553,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E08.Secretos.y.Mentiras.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 2.081107123,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E09.Los.Pecados.de.los.Padres.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.656695142,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E10.Lo.Que.Mas.Temes.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.721995969,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E11.Mientras.Dormias.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.890294543,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E12.Diosa.de.la.Guerra.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 1.657643127,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 3.1e-8,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Queen-Of-The-South-S04-720p-WEBRip-TUMBLER-Studio",
+            "size_total": 13.579842676,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.292348447,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E12.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.01614529,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E02.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.81959674,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E03.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.919466027,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E04.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.917053442,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E05.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.867670854,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E06.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.205960542,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E07.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.158836446,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E08.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.121030135,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E09.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.05830341,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E10.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.099052799,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E11.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.000862792,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E01.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 1.103515752,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E13.720p.WEBRip.TUMBLER.Studio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Queen-of-the-South-s04-HD1080p-WEBRip-Rus-BaibaKo-tv",
+            "size_total": 16.895232036,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.511185174,
+                    "path": "Queen.of.the South.s04.HD1080p.WEBRip.Rus.BaibaKo.tv/Queen.of.the South.s04e01.HD1080p.WEBRip.Rus.BaibaKo.tv.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.348714171,
+                    "path": "Queen.of.the South.s04.HD1080p.WEBRip.Rus.BaibaKo.tv/Queen.of.the South.s04e02.HD1080p.WEBRip.Rus.BaibaKo.tv.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.353512105,
+                    "path": "Queen.of.the South.s04.HD1080p.WEBRip.Rus.BaibaKo.tv/Queen.of.the South.s04e03.HD1080p.WEBRip.Rus.BaibaKo.tv.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.354535391,
+                    "path": "Queen.of.the South.s04.HD1080p.WEBRip.Rus.BaibaKo.tv/Queen.of.the South.s04e04.HD1080p.WEBRip.Rus.BaibaKo.tv.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.327285195,
+                    "path": "Queen.of.the South.s04.HD1080p.WEBRip.Rus.BaibaKo.tv/Queen.of.the South.s04e05.HD1080p.WEBRip.Rus.BaibaKo.tv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Queen-of-the-South-S04-WEB-DL-1080p-LostFilm",
+            "size_total": 42.75132936,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.03496923,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E01.Bienvenidos.a.Nuevo.Orleans.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.082798068,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E02.Un.Asunto.de.Familia.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.262256509,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E03.Hospitalidad.Surena.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.238639303,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E04.La.Maldicion.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.313010402,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E05.Noche.de.las.Chicas.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.186412836,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E06.La.Mujer.en.el.Espejo.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 3.355070555,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E07.Amores.Perros.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 3.349215331,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E08.Secretos.y.Mentiras.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 3.461851592,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E09.Los.Pecados.de.los.Padres.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 3.308098168,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E10.Lo.Que.Mas.Temes.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 3.404015608,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E11.Mientras.Dormias.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 3.390731252,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E12.Diosa.de.la.Guerra.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 3.364260506,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E13.Vienen.Por.Ti.AMZN.WEB-DL.1080p.mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Queen-of-the-South-S04E13-1080p-WEB-x264-worldmkv",
+            "size_total": 0.551981778,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.551981778,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.x264-worldmkv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Queen-of-the-South-S04E13-720p-HDTV-x264-AVS[ettv]",
+            "size_total": 0.955190547,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.85e-7,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS[ettv]/Downloaded from www.ettv.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.955190362,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS[ettv]/Queen.of.the.South.S04E13.720p.HDTV.x264-AVS[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Queen-of-the-South-S04E13-720p-HDTV-x264-AVS[rarbg]",
+            "size_total": 0.955190557,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.955190362,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS[rarbg]/Queen.of.the.South.S04E13.720p.HDTV.x264-AVS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 6.6e-8,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS[rarbg]/queen.of.the.south.s04e13.720p.hdtv.x264-avs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Queen-of-the-South-S04E13-720p-HDTV-x265-MiNX[eztv]",
+            "size_total": 0.178114696,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.178114696,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Queen-of-the-South-S04E13-720p-HDTV-x265-MiNX[TGx]",
+            "size_total": 0.178115385,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.178114696,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x265-MiNX[TGx]/Queen.of.the.South.S04E13.720p.HDTV.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.89e-7,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Queen-of-the-South-S04E13-720p-WEB-x264-worldmkv",
+            "size_total": 0.323452743,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.323452743,
+                    "path": "Queen.of.the.South.S04E13.720p.WEB.x264-worldmkv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Queen-of-the-South-S04E13-HDTV-x264-SVA",
+            "size_total": 0.258243987,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.256744576,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/Queen.of.the.South.S04E13.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000480528,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/Screens/screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000389763,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/Screens/screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000263364,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/Screens/screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000365694,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/Screens/screen0004.png"
+                },
+                {
+                    "number": 6,
+                    "size": 6.2e-8,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Queen-of-the-South-S04E13-HDTV-x264-SVA[ettv]",
+            "size_total": 0.256744775,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.99e-7,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[ettv]/Downloaded from www.ettv.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.256744576,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[ettv]/Queen.of.the.South.S04E13.HDTV.x264-SVA[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Queen-of-the-South-S04E13-HDTV-x264-SVA[eztv]",
+            "size_total": 0.256744576,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.256744576,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Queen-of-the-South-S04E13-HDTV-x264-SVA[rarbg]",
+            "size_total": 0.256744767,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.256744576,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[rarbg]/Queen.of.the.South.S04E13.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 6.2e-8,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[rarbg]/queen.of.the.south.s04e13.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Queen-of-the-South-S04E13-HDTV-x264-SVA[TGx]",
+            "size_total": 0.258244676,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.256744576,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[TGx]/Queen.of.the.South.S04E13.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000480528,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000389763,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000263364,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000365694,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 6,
+                    "size": 6.89e-7,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 7,
+                    "size": 6.2e-8,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[TGx]/queen.of.the.south.s04e13.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Queen-of-the-South-S04E13-iNTERNAL-480p-x264-mSD[eztv]",
+            "size_total": 0.359742846,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.359742846,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Queen-of-the-South-S04E13-iNTERNAL-720p-WEB-H264-AMRAP[eztv]",
+            "size_total": 1.657643027,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.657643027,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Queen-of-the-South-S04E13-Vienen-Por-Ti-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "size_total": 3.242610204,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.242610075,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Queen.of.the.South.S04E13.Vienen.Por.Ti.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Queen-of-the-South-S04E13-Vienen-Por-Ti-720p-AMZN-WEB-DL-DDP5-1-H-264-NTb[eztv]",
+            "size_total": 1.657643127,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.657643127,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Queen-of-the-South-S04E13-Vienen-Por-Ti-720p-AMZN-WEB-DL-DDP5-1",
+            "size_total": 1.662241315,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.657643127,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001733,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001392754,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00097585,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000874528,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001352634,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 6.89e-7,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Queen-of-the-South-S04E13-Vienen-Por-Ti-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "size_total": 1.657643256,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.657643127,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Queen-of-the-South-S04E13-XviD-AFG[TGx]",
+            "size_total": 0.342091919,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.341404708,
+                    "path": "Queen.of.the.South.S04E13.XviD-AFG[TGx]/Queen.of.the.South.S04E13.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000117,
+                    "path": "Queen.of.the.South.S04E13.XviD-AFG[TGx]/Queen.of.the.South.S04E13.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000152227,
+                    "path": "Queen.of.the.South.S04E13.XviD-AFG[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000125829,
+                    "path": "Queen.of.the.South.S04E13.XviD-AFG[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000185849,
+                    "path": "Queen.of.the.South.S04E13.XviD-AFG[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000221447,
+                    "path": "Queen.of.the.South.S04E13.XviD-AFG[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 6.89e-7,
+                    "path": "Queen.of.the.South.S04E13.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Queen-Of-The-South-Season-4-(WEBRip-l-400p-l-Jaskier)",
+            "size_total": 6.852440064,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.604227584,
+                    "path": "Queen Of The.South. Season 4 (WEBRip l 400p l Jaskier)/Queen.Of.The.South.S04E01.WEBRip.Rus.Jaskier.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.527366144,
+                    "path": "Queen Of The.South. Season 4 (WEBRip l 400p l Jaskier)/Queen.Of.The.South.S04E02.WEBRip.Rus.Jaskier.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.577073152,
+                    "path": "Queen Of The.South. Season 4 (WEBRip l 400p l Jaskier)/Queen.Of.The.South.S04E03.WEBRip.Rus.Jaskier.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.565909504,
+                    "path": "Queen Of The.South. Season 4 (WEBRip l 400p l Jaskier)/Queen.Of.The.South.S04E04.WEBRip.Rus.Jaskier.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.562692096,
+                    "path": "Queen Of The.South. Season 4 (WEBRip l 400p l Jaskier)/Queen.Of.The.South.S04E05.WEBRip.Rus.Jaskier.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.577337344,
+                    "path": "Queen Of The.South. Season 4 (WEBRip l 400p l Jaskier)/Queen.Of.The.South.S04E06.WEBRip.Rus.Jaskier.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.575870976,
+                    "path": "Queen Of The.South. Season 4 (WEBRip l 400p l Jaskier)/Queen.Of.The.South.S04E07.WEBRip.Rus.Jaskier.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.576219136,
+                    "path": "Queen Of The.South. Season 4 (WEBRip l 400p l Jaskier)/Queen.Of.The.South.S04E08.WEBRip.Rus.Jaskier.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.576231424,
+                    "path": "Queen Of The.South. Season 4 (WEBRip l 400p l Jaskier)/Queen.Of.The.South.S04E09.WEBRip.Rus.Jaskier.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.567834624,
+                    "path": "Queen Of The.South. Season 4 (WEBRip l 400p l Jaskier)/Queen.Of.The.South.S04E10.WEBRip.Rus.Jaskier.avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.576221184,
+                    "path": "Queen Of The.South. Season 4 (WEBRip l 400p l Jaskier)/Queen.Of.The.South.S04E11.WEBRip.Rus.Jaskier.avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.565456896,
+                    "path": "Queen Of The.South. Season 4 (WEBRip l 400p l Jaskier)/Queen.Of.The.South.S04E12.WEBRip.Rus.Jaskier.avi"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Queen-of-the-South-Season-4-revittony",
+            "size_total": 5.115364423,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.447630225,
+                    "path": "Queen of the South Season 4/S04E01 Bienvenidos a Nuevo Orleans.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001567,
+                    "path": "Queen of the South Season 4/Media info.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.426829696,
+                    "path": "Queen of the South Season 4/S04E02 Un Asunto de Familia.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.430805032,
+                    "path": "Queen of the South Season 4/S04E03 Hospitalidad Sureña.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.420072678,
+                    "path": "Queen of the South Season 4/S04E04 La Maldición.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.425424881,
+                    "path": "Queen of the South Season 4/S04E05 Noche de las Chicas.mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 0.428018798,
+                    "path": "Queen of the South Season 4/S04E06 La Mujer en el Espejo.mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 0.431433218,
+                    "path": "Queen of the South Season 4/S04E07 Amores Perros.mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 0.430807778,
+                    "path": "Queen of the South Season 4/S04E08 Secretos y Mentiras.mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 0.435925994,
+                    "path": "Queen of the South Season 4/S04E09 Los Pecados de los Padres.mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 0.423265269,
+                    "path": "Queen of the South Season 4/S04E10 Lo Que Más Temes.mp4"
+                },
+                {
+                    "number": 12,
+                    "size": 0.257983613,
+                    "path": "Queen of the South Season 4/S04E11 Mientras Dormías.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 0.300421098,
+                    "path": "Queen of the South Season 4/S04E12 Diosa de la Guerra.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 0.256744576,
+                    "path": "Queen of the South Season 4/S04E13 Vienen Por Ti.mkv"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Queen-of-the-South-Season-4-WEBDL-1080p-LostFilm",
+            "size_total": 28.856592333,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.517836956,
+                    "path": "Queen_of_the_South_Season_4_WEBDL_1080p_LostFilm/s04e01.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.404709174,
+                    "path": "Queen_of_the_South_Season_4_WEBDL_1080p_LostFilm/s04e02.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.405390054,
+                    "path": "Queen_of_the_South_Season_4_WEBDL_1080p_LostFilm/s04e03.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.361171314,
+                    "path": "Queen_of_the_South_Season_4_WEBDL_1080p_LostFilm/s04e04.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.380940153,
+                    "path": "Queen_of_the_South_Season_4_WEBDL_1080p_LostFilm/s04e05.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.403959217,
+                    "path": "Queen_of_the_South_Season_4_WEBDL_1080p_LostFilm/s04e06.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.403484668,
+                    "path": "Queen_of_the_South_Season_4_WEBDL_1080p_LostFilm/s04e07.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 2.405740367,
+                    "path": "Queen_of_the_South_Season_4_WEBDL_1080p_LostFilm/s04e08.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 2.404061602,
+                    "path": "Queen_of_the_South_Season_4_WEBDL_1080p_LostFilm/s04e09.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 2.368991818,
+                    "path": "Queen_of_the_South_Season_4_WEBDL_1080p_LostFilm/s04e10.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 2.405340341,
+                    "path": "Queen_of_the_South_Season_4_WEBDL_1080p_LostFilm/s04e11.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 2.394966669,
+                    "path": "Queen_of_the_South_Season_4_WEBDL_1080p_LostFilm/s04e12.mkv"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Queen.of.the.South.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 41.792407842,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.326095485,
+                    "path": "Queen.of.the.South.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E01.Bienvenidos.a.Nuevo.Orleans.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.165793666,
+                    "path": "Queen.of.the.South.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E02.Un.Asunto.de.Familia.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.140531998,
+                    "path": "Queen.of.the.South.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E03.Hospitalidad.Surena.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.119126992,
+                    "path": "Queen.of.the.South.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E04.La.Maldicion.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.192518692,
+                    "path": "Queen.of.the.South.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E05.Noche.de.las.Chicas.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.064691395,
+                    "path": "Queen.of.the.South.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E06.La.Mujer.en.el.Espejo.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 3.233420975,
+                    "path": "Queen.of.the.South.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 3.227493908,
+                    "path": "Queen.of.the.South.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E08.Secretos.y.Mentiras.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 3.340127389,
+                    "path": "Queen.of.the.South.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E09.Los.Pecados.de.los.Padres.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 3.188169102,
+                    "path": "Queen.of.the.South.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E10.Lo.Que.Mas.Temes.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 3.28229101,
+                    "path": "Queen.of.the.South.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E11.Mientras.Dormias.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 3.269537124,
+                    "path": "Queen.of.the.South.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E12.Diosa.de.la.Guerra.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 3.242610075,
+                    "path": "Queen.of.the.South.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E13.Vienen.Por.Ti.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 3.1e-8,
+                    "path": "Queen.of.the.South.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 21.492083238,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.659336206,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E01.Bienvenidos.a.Nuevo.Orleans.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.658506315,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E02.Un.Asunto.de.Familia.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.266845496,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E03.Hospitalidad.Surena.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.510562803,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E04.La.Maldicion.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.603880978,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E05.Noche.de.las.Chicas.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.350972738,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E06.La.Mujer.en.el.Espejo.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.754560214,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E07.Amores.Perros.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.679682553,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E08.Secretos.y.Mentiras.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 2.081107123,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E09.Los.Pecados.de.los.Padres.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.656695142,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E10.Lo.Que.Mas.Temes.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.721995969,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E11.Mientras.Dormias.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.890294543,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E12.Diosa.de.la.Guerra.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 1.657643127,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 14,
+                    "size": 3.1e-8,
+                    "path": "Queen.of.the.South.S04.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/RARBG.txt"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Queen.of.the.South.S04.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 5.589581476,
+            "files_total": 27,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.447630367,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Queen.of.the.South.S04E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.426829838,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Queen.of.the.South.S04E02.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.430805174,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Queen.of.the.South.S04E03.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.42007282,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Queen.of.the.South.S04E04.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.425425023,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Queen.of.the.South.S04E05.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.42801894,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Queen.of.the.South.S04E06.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 7,
+                    "size": 0.43143336,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Queen.of.the.South.S04E07.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 8,
+                    "size": 0.43080792,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Queen.of.the.South.S04E08.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 9,
+                    "size": 0.435926136,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Queen.of.the.South.S04E09.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 10,
+                    "size": 0.423265411,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Queen.of.the.South.S04E10.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 11,
+                    "size": 0.429686398,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Queen.of.the.South.S04E11.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 12,
+                    "size": 0.428954872,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Queen.of.the.South.S04E12.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 13,
+                    "size": 0.430131954,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Queen.of.the.South.S04E13.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 14,
+                    "size": 3.1e-8,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.00005318,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Subs/Queen.of.the.South.S04E01.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 16,
+                    "size": 0.00004684,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Subs/Queen.of.the.South.S04E02.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.000051853,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Subs/Queen.of.the.South.S04E03.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000043896,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Subs/Queen.of.the.South.S04E04.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000046682,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Subs/Queen.of.the.South.S04E05.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000037575,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Subs/Queen.of.the.South.S04E06.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000033918,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Subs/Queen.of.the.South.S04E07.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 22,
+                    "size": 0.000046476,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Subs/Queen.of.the.South.S04E08.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000046628,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Subs/Queen.of.the.South.S04E09.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000051231,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Subs/Queen.of.the.South.S04E10.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 25,
+                    "size": 0.000047002,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Subs/Queen.of.the.South.S04E11.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000047053,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Subs/Queen.of.the.South.S04E12.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000040898,
+                    "path": "Queen.of.the.South.S04.WEBRip.x264-ION10/Subs/Queen.of.the.South.S04E13.WEBRip.x264-ION10.srt"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Queen.of.the.South.S04E13.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.46493025,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.44226727,
+                    "path": "Queen.of.the.South.S04E13.1080p.HEVC.x265-MeGusta/Queen.of.the.South.S04E13.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001145,
+                    "path": "Queen.of.the.South.S04E13.1080p.HEVC.x265-MeGusta/Queen.of.the.South.S04E13.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.006923003,
+                    "path": "Queen.of.the.South.S04E13.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.008307833,
+                    "path": "Queen.of.the.South.S04E13.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.007430999,
+                    "path": "Queen.of.the.South.S04E13.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON [IPT]",
+            "size_total": 3.242613731,
+            "files_total": 19,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.9e-7,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.2,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.2,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.2,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.2,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.2,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.2,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.2,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.2,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.2,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.2,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.2,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.2,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.2,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.2,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.2,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.042612287,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.2,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.rar"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000001054,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON/queen.of.the.south.s04e13.1080p.web.h264-metcon.sfv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON[rartv]-[rarbg.to]",
+            "size_total": 3.242610494,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.242609975,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON[rarbg]/Queen.of.the.South.S04E13.1080p.WEB.H264-METCON.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 3.9e-7,
+                    "path": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON[rarbg]/queen.of.the.south.s04e13.1080p.web.h264-metcon.nfo"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Queen.of.the.South.S04E13.480p.x264-mSD [IPT]",
+            "size_total": 0.279711152,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.27683414,
+                    "path": "Queen.of.the.South.S04E13.480p.x264-mSD/Queen.of.the.South.S04E13.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.87e-7,
+                    "path": "Queen.of.the.South.S04E13.480p.x264-mSD/Queen.of.the.South.S04E13.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001071351,
+                    "path": "Queen.of.the.South.S04E13.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000843259,
+                    "path": "Queen.of.the.South.S04E13.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000961415,
+                    "path": "Queen.of.the.South.S04E13.480p.x264-mSD/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS [IPT]",
+            "size_total": 0.955193608,
+            "files_total": 22,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.6e-8,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.005192362,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.rar"
+                },
+                {
+                    "number": 22,
+                    "size": 0.00000118,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS/queen.of.the.south.s04e13.720p.hdtv.x264-avs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS[eztv].mkv",
+            "size_total": 0.955190362,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.955190362,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS[rartv]-[rarbg.to]",
+            "size_total": 0.955190557,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.955190362,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS[rarbg]/Queen.of.the.South.S04E13.720p.HDTV.x264-AVS.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 6.6e-8,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS[rarbg]/queen.of.the.south.s04e13.720p.hdtv.x264-avs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Queen.of.the.South.S04E13.720p.HDTV.x265-MiNX[eztv].mkv",
+            "size_total": 0.178114696,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.178114696,
+                    "path": "Queen.of.the.South.S04E13.720p.HDTV.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Queen.of.the.South.S04E13.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.279245716,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.271315605,
+                    "path": "Queen.of.the.South.S04E13.720p.HEVC.x265-MeGusta/Queen.of.the.South.S04E13.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001144,
+                    "path": "Queen.of.the.South.S04E13.720p.HEVC.x265-MeGusta/Queen.of.the.South.S04E13.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.003137752,
+                    "path": "Queen.of.the.South.S04E13.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002250842,
+                    "path": "Queen.of.the.South.S04E13.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002540373,
+                    "path": "Queen.of.the.South.S04E13.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Queen.of.the.South.S04E13.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.154470446,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.154070829,
+                    "path": "Queen.of.the.South.S04E13.AAC.MP4-Mobile/Queen.of.the.South.S04E13.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001238,
+                    "path": "Queen.of.the.South.S04E13.AAC.MP4-Mobile/Queen.of.the.South.S04E13.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000183229,
+                    "path": "Queen.of.the.South.S04E13.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000101576,
+                    "path": "Queen.of.the.South.S04E13.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000113574,
+                    "path": "Queen.of.the.South.S04E13.AAC.MP4-Mobile/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Queen.of.the.South.S04E13.HDTV.x264-SVA [IPT]",
+            "size_total": 0.25674732,
+            "files_total": 20,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.2e-8,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.001746286,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.015,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.rar"
+                },
+                {
+                    "number": 20,
+                    "size": 9.72e-7,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA/queen.of.the.south.s04e13.hdtv.x264-sva.sfv"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Queen.of.the.South.S04E13.HDTV.x264-SVA[eztv].mkv",
+            "size_total": 0.256744576,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.256744576,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Queen.of.the.South.S04E13.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "size_total": 0.256744767,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.256744576,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[rarbg]/Queen.of.the.South.S04E13.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 6.2e-8,
+                    "path": "Queen.of.the.South.S04E13.HDTV.x264-SVA[rarbg]/queen.of.the.south.s04e13.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Queen.of.the.South.S04E13.iNTERNAL.480p.x264-mSD [IPT]",
+            "size_total": 0.363065038,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.359742846,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.480p.x264-mSD/Queen.of.the.South.S04E13.iNTERNAL.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.97e-7,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.480p.x264-mSD/Queen.of.the.South.S04E13.iNTERNAL.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001130174,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001193491,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00099753,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.480p.x264-mSD/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Queen.of.the.South.S04E13.iNTERNAL.480p.x264-mSD[eztv].mkv",
+            "size_total": 0.359742846,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.359742846,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP [IPT]",
+            "size_total": 1.65764688,
+            "files_total": 19,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.85e-7,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.057645322,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.rar"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000001173,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.sfv"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP[eztv].mkv",
+            "size_total": 1.657643027,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.657643027,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP[rartv]-[rarbg.to]",
+            "size_total": 1.657643541,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.657643027,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP[rarbg]/Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 3.85e-7,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP[rarbg]/queen.of.the.south.s04e13.internal.720p.web.h264-amrap.nfo"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Queen.of.the.South.S04E13.iNTERNAL.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.155038259,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.15434374,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.AAC.MP4-Mobile/Queen.of.the.South.S04E13.iNTERNAL.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001255,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.AAC.MP4-Mobile/Queen.of.the.South.S04E13.iNTERNAL.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000221857,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000319286,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000152121,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.AAC.MP4-Mobile/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Queen.of.the.South.S04E13.iNTERNAL.XviD-AFG [IPT]",
+            "size_total": 0.370550637,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.36956357,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.XviD-AFG/Queen.of.the.South.S04E13.iNTERNAL.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001188,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.XviD-AFG/Queen.of.the.South.S04E13.iNTERNAL.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000203726,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000313219,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000213886,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000255048,
+                    "path": "Queen.of.the.South.S04E13.iNTERNAL.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Queen.of.the.South.S04E13.Vienen.Por.Ti.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 3.242610204,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.242610075,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Queen.of.the.South.S04E13.Vienen.Por.Ti.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 1.662240626,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.657643127,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001733,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001392754,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00097585,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000874528,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001352634,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv",
+            "size_total": 1.657643127,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.657643127,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.657643256,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.657643127,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Queen.of.the.South.S04E13.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.430172981,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.430131954,
+                    "path": "Queen.of.the.South.S04E13.WEBRip.x264-ION10/Queen.of.the.South.S04E13.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E13.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E13.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000040898,
+                    "path": "Queen.of.the.South.S04E13.WEBRip.x264-ION10/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Queen.of.the.South.S04E13.XviD-AFG [IPT]",
+            "size_total": 0.34209123,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.341404708,
+                    "path": "Queen.of.the.South.S04E13.XviD-AFG/Queen.of.the.South.S04E13.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000117,
+                    "path": "Queen.of.the.South.S04E13.XviD-AFG/Queen.of.the.South.S04E13.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000152227,
+                    "path": "Queen.of.the.South.S04E13.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000125829,
+                    "path": "Queen.of.the.South.S04E13.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000185849,
+                    "path": "Queen.of.the.South.S04E13.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000221447,
+                    "path": "Queen.of.the.South.S04E13.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Torrent9-cz-]-Queen-Of-The-South-S04E13-FiNAL-FASTSUB-VOSTFR-HDTV-XviD-EXTREME",
+            "size_total": 0.37092306,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.37092306,
+                    "path": "[ Torrent9.cz ] Queen.Of.The.South.S04E13.FiNAL.FASTSUB.VOSTFR.HDTV.XviD-EXTREME.avi"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Королева юга Queen of the South Сезон 4 Серии 1-13 из 13 (Эдуардо Санчес, Дэвид Бойд, Дэйв Родригез) [2019, США, Испания, [rutracker-5751258]",
+            "size_total": 8.227404167,
+            "files_total": 26,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000056583,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000049967,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000055344,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000046827,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000049809,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00004007,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000036197,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000049679,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000049979,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000054474,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000050249,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E11.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000050448,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E12.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.000043597,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E13.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 14,
+                    "size": 0.6626816,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 15,
+                    "size": 0.632909824,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 16,
+                    "size": 0.632915968,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 17,
+                    "size": 0.621420544,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 18,
+                    "size": 0.62650368,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 19,
+                    "size": 0.63290368,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 20,
+                    "size": 0.63251456,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 21,
+                    "size": 0.632891392,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E08.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 22,
+                    "size": 0.632909824,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E09.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 23,
+                    "size": 0.6235648,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E10.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 24,
+                    "size": 0.632911872,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E11.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 25,
+                    "size": 0.63010816,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E12.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 26,
+                    "size": 0.63253504,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E13.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Королева юга Queen of the South Сезон 4 Серии 1-13 из 13 (Эдуардо Санчес, Дэвид Бойд, Дэйв Родригез) [2019, США, Испания, [rutracker-5760899]",
+            "size_total": 42.75132936,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.03496923,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E01.Bienvenidos.a.Nuevo.Orleans.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.082798068,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E02.Un.Asunto.de.Familia.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.262256509,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E03.Hospitalidad.Surena.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.238639303,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E04.La.Maldicion.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.313010402,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E05.Noche.de.las.Chicas.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.186412836,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E06.La.Mujer.en.el.Espejo.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 3.355070555,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E07.Amores.Perros.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 3.349215331,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E08.Secretos.y.Mentiras.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 3.461851592,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E09.Los.Pecados.de.los.Padres.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 3.308098168,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E10.Lo.Que.Mas.Temes.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 3.404015608,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E11.Mientras.Dormias.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 3.390731252,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E12.Diosa.de.la.Guerra.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 13,
+                    "size": 3.364260506,
+                    "path": "Queen.of.the.South.S04.WEB-DL.1080p.LostFilm/Queen.of.the.South.S04E13.Vienen.Por.Ti.AMZN.WEB-DL.1080p.mkv"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 72,
+            "name": "multi-btih-8-2-x-Queen-of-the-South-S04E13-Vienen-Por-Ti-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "btih": "d15ed03cf15923030f6209d510cb27bd998762c8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.657643256,
+            "creation": "2019-08-30T12:05:30.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 137070,
+            "uuploaders": 22016
+        },
+        {
+            "id": 16,
+            "name": "Queen-of-the-South-S04E13-720p-WEB-x264-worldmkv",
+            "btih": "1b4e8a736d0c15081eaebe0db07b87a0d24b86bb",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.323452743,
+            "creation": "2019-08-31T01:30:22.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 127318,
+            "uuploaders": 36486
+        },
+        {
+            "id": 43,
+            "name": "Queen.of.the.South.S04E13.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "ff28f8f6b0923cd8e613b0c8659aedd77508795b",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.279245716,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 127022,
+            "uuploaders": 27180
+        },
+        {
+            "id": 17,
+            "name": "Queen-of-the-South-S04E13-HDTV-x264-SVA",
+            "btih": "b8343a03a2f17b2339f0d72ec57141b0e4631115",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.258243987,
+            "creation": "2019-09-04T17:56:28.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 122853,
+            "uuploaders": 25839
+        },
+        {
+            "id": 65,
+            "name": "multi-btih-1-2-x-Queen-of-the-South-S04-WEB-DL-1080p-LostFilm",
+            "btih": "c26b020517579d074252efc1cd2d5273b41b7213",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 42.75132936,
+            "creation": "2019-09-04T20:31:39.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 111721,
+            "uuploaders": 17947
+        },
+        {
+            "id": 70,
+            "name": "multi-btih-6-2-x-Queen-of-the-South-S04E13-Vienen-Por-Ti-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "btih": "9c4cba3bd6edd63c83b5a7df56ee0aabad0fdd76",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.242610204,
+            "creation": "2019-08-30T12:15:18.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 108487,
+            "uuploaders": 12297
+        },
+        {
+            "id": 69,
+            "name": "multi-btih-5-2-x-Queen-of-the-South-S04E13-HDTV-x264-SVA[rarbg]",
+            "btih": "c42e1a6674bd44e791871846fbdb52bf7b210524",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.256744767,
+            "creation": "2019-08-30T03:10:43.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 105186,
+            "uuploaders": 6639
+        },
+        {
+            "id": 76,
+            "name": "multi-btih-12-2-x-[rutor.is]Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Stud",
+            "btih": "171cae73f993f9eb3500d17554a0d9c1117bd2a1",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 7.792601088,
+            "creation": "2019-08-31T10:22:42.000000000Z,qBittorrent v4.1.7,http://rutor.is/torrent/715481",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 101151,
+            "uuploaders": 6621
+        },
+        {
+            "id": 31,
+            "name": "Queen-of-the-South-Season-4-WEBDL-1080p-LostFilm",
+            "btih": "4d15c8367cb362d63140480a6c85bacda96e152b",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 28.856592333,
+            "creation": "2019-09-05T02:32:07.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 99266,
+            "uuploaders": 12072
+        },
+        {
+            "id": 73,
+            "name": "multi-btih-9-2-x-Queen-of-the-South-S04E13-iNTERNAL-480p-x264-mSD[eztv]",
+            "btih": "e662bde9c19d49ecfe68e0b72ca3d53f3d281e00",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.359742846,
+            "creation": "2019-08-30T07:25:07.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 99094,
+            "uuploaders": 5828
+        },
+        {
+            "id": 39,
+            "name": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS [IPT]",
+            "btih": "c0f44e344a86b94262a79785c5265712f24a3f74",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.955193608,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 98198,
+            "uuploaders": 11774
+        },
+        {
+            "id": 37,
+            "name": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON[rartv]-[rarbg.to]",
+            "btih": "b6e2a4c2048e89e41ffc6e32f90def10a238ed3c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.242610494,
+            "creation": "2019-08-30T07:08:11.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 92546,
+            "uuploaders": 7539
+        },
+        {
+            "id": 52,
+            "name": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP[rartv]-[rarbg.to]",
+            "btih": "5809741fcf58fecb9a5001f6c300f88d50d02273",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.657643541,
+            "creation": "2019-08-30T07:08:39.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 89604,
+            "uuploaders": 11510
+        },
+        {
+            "id": 38,
+            "name": "Queen.of.the.South.S04E13.480p.x264-mSD [IPT]",
+            "btih": "bc6b516f1dc7796649e867c2e34fa7a37636199d",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.279711152,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 88255,
+            "uuploaders": 11936
+        },
+        {
+            "id": 30,
+            "name": "Queen-of-the-South-Season-4-revittony",
+            "btih": "aad5fcf4450b1c07a50103a9cd25ce6dd6cc293f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 5.115364423,
+            "creation": "2019-08-30T10:00:07.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 87811,
+            "uuploaders": 2810
+        },
+        {
+            "id": 77,
+            "name": "multi-btih-13-2-x-[rutor.is]Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Stud",
+            "btih": "bc88ef837b75c3178bb8af7e4d8f56fa7fcf80e7",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 13.579842676,
+            "creation": "2019-08-31T10:23:36.000000000Z,qBittorrent v4.1.7,http://rutor.is/torrent/715480",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 86388,
+            "uuploaders": 5072
+        },
+        {
+            "id": 12,
+            "name": "Queen-of-the-South-S04E13-720p-HDTV-x264-AVS[ettv]",
+            "btih": "9227faa4d1070fa2076ee2deb543cdc476b45976",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.955190547,
+            "creation": "2019-08-30T03:20:08.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 85359,
+            "uuploaders": 9675
+        },
+        {
+            "id": 11,
+            "name": "Queen-of-the-South-S04E13-1080p-WEB-x264-worldmkv",
+            "btih": "ae608c6307a8d13133a7c1a5bfb437efb9679f53",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.551981778,
+            "creation": "2019-08-31T01:10:25.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 84983,
+            "uuploaders": 3816
+        },
+        {
+            "id": 34,
+            "name": "Queen.of.the.South.S04.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "00e644a2c8c7cd00f19de0be816e07154c5ffb59",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 5.589581476,
+            "creation": "2019-08-30T13:09:45.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 84966,
+            "uuploaders": 3217
+        },
+        {
+            "id": 74,
+            "name": "multi-btih-10-2-x-Queen-of-the-South-S04E13-iNTERNAL-720p-WEB-H264-AMRAP[eztv]",
+            "btih": "904f278db8d4a9193640ad8e2067d65419c5c27f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.657643027,
+            "creation": "2019-08-30T07:15:09.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 84388,
+            "uuploaders": 5036
+        },
+        {
+            "id": 54,
+            "name": "Queen.of.the.South.S04E13.iNTERNAL.XviD-AFG [IPT]",
+            "btih": "0b2228ff7ccd62906de2015a0561d3d8eb9c09e3",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.370550637,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 84287,
+            "uuploaders": 4719
+        },
+        {
+            "id": 29,
+            "name": "Queen-Of-The-South-Season-4-(WEBRip-l-400p-l-Jaskier)",
+            "btih": "3bcf6b9ae1314698cfa24f8eafef2c8133b8d458",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 6.852440064,
+            "creation": "2019-09-04T00:40:44.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 81400,
+            "uuploaders": 3583
+        },
+        {
+            "id": 71,
+            "name": "multi-btih-7-2-x-Queen-of-the-South-S04E13-Vienen-Por-Ti-720p-AMZN-WEB-DL-DDP5-1-H-264-NTb[eztv]",
+            "btih": "ed770da06d0b1e81e919a1b7e4d125c986cca430",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.657643127,
+            "creation": "2019-08-30T13:25:07.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 81385,
+            "uuploaders": 4273
+        },
+        {
+            "id": 48,
+            "name": "Queen.of.the.South.S04E13.iNTERNAL.480p.x264-mSD [IPT]",
+            "btih": "3fc81df11c943656b63e66063888be5261781b83",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.363065038,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 81192,
+            "uuploaders": 1414
+        },
+        {
+            "id": 15,
+            "name": "Queen-of-the-South-S04E13-720p-HDTV-x265-MiNX[TGx]",
+            "btih": "54b375c21a8253f649c1b7c768d37452573f745a",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.178115385,
+            "creation": "2019-08-30T04:20:21.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 80787,
+            "uuploaders": 2662
+        },
+        {
+            "id": 66,
+            "name": "multi-btih-2-2-x-Queen-of-the-South-S04E13-720p-HDTV-x264-AVS[rarbg]",
+            "btih": "8282e7272d77323f27da6d487acc20fdb1e3ca1f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.955190557,
+            "creation": "2019-08-30T03:07:31.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 80220,
+            "uuploaders": 2373
+        },
+        {
+            "id": 44,
+            "name": "Queen.of.the.South.S04E13.AAC.MP4-Mobile [IPT]",
+            "btih": "6ff2dbe200e72574d9eb8b8e440aa9d5fe95c4e0",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.154470446,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 79441,
+            "uuploaders": 6154
+        },
+        {
+            "id": 75,
+            "name": "multi-btih-11-2-x-[rutor.is]Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Stu",
+            "btih": "c3d9cb0c602ec4e40650ba96c7bc8ff169637ae7",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 34.960637507,
+            "creation": "2019-08-31T10:25:02.000000000Z,qBittorrent v4.1.7,http://rutor.is/torrent/715479",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 78280,
+            "uuploaders": 4427
+        },
+        {
+            "id": 60,
+            "name": "Queen.of.the.South.S04E13.XviD-AFG [IPT]",
+            "btih": "5255b498ad8b28209fb5b9ede5e66e8f6469124a",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.34209123,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 74116,
+            "uuploaders": 4214
+        },
+        {
+            "id": 62,
+            "name": "Королева юга Queen of the South Сезон 4 Серии 1-13 из 13 (Эдуардо Санчес, Дэвид Бойд, Дэйв Родригез) [2019, США, Испания, [rutracker-5751258]",
+            "btih": "7a391dfce71776323e4313aa490601265a76a28e",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 8.227404167,
+            "creation": "2019-09-01T20:17:23.000000000Z,uTorrent/2040,https://rutracker.org/forum/viewtopic.php?t=5751258",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 74070,
+            "uuploaders": 5956
+        },
+        {
+            "id": 61,
+            "name": "Torrent9-cz-]-Queen-Of-The-South-S04E13-FiNAL-FASTSUB-VOSTFR-HDTV-XviD-EXTREME",
+            "btih": "950a572fa489c82f6affd13e3aa8e2239bbe8ce2",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.37092306,
+            "creation": "2019-09-02T04:24:36.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 73715,
+            "uuploaders": 3873
+        },
+        {
+            "id": 28,
+            "name": "Queen-of-the-South-S04E13-XviD-AFG[TGx]",
+            "btih": "3171b0987dee8b738e057c4e2286ac895391f6a4",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.342091919,
+            "creation": "2019-08-30T03:30:14.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 71626,
+            "uuploaders": 1261
+        },
+        {
+            "id": 9,
+            "name": "Queen-of-the-South-s04-HD1080p-WEBRip-Rus-BaibaKo-tv",
+            "btih": "242dd4bcd3058d50fb311bc106043316c134f4c7",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 16.895232036,
+            "creation": "2019-07-06T16:56:07.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 71415,
+            "uuploaders": 2199
+        },
+        {
+            "id": 59,
+            "name": "Queen.of.the.South.S04E13.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "ae115aeaa4d21b31c79d16f27d0ebeca3050510a",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.430172981,
+            "creation": "2019-08-30T07:21:46.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 68977,
+            "uuploaders": 3203
+        },
+        {
+            "id": 18,
+            "name": "Queen-of-the-South-S04E13-HDTV-x264-SVA[ettv]",
+            "btih": "2fff5f2b78f8a29db91e0fa09f0325bca870760e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.256744775,
+            "creation": "2019-08-30T03:10:27.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 68443,
+            "uuploaders": 4414
+        },
+        {
+            "id": 45,
+            "name": "Queen.of.the.South.S04E13.HDTV.x264-SVA [IPT]",
+            "btih": "71daa8c115c779b750da81cb926fd2568de12f27",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.25674732,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 66970,
+            "uuploaders": 2935
+        },
+        {
+            "id": 67,
+            "name": "multi-btih-3-2-x-Queen-of-the-South-S04E13-720p-HDTV-x265-MiNX[eztv]",
+            "btih": "81279c3d0d32ebb2f49a626e71ca5530b5dfb418",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.178114696,
+            "creation": "2019-08-30T04:45:07.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 66704,
+            "uuploaders": 1929
+        },
+        {
+            "id": 68,
+            "name": "multi-btih-4-2-x-Queen-of-the-South-S04E13-HDTV-x264-SVA[eztv]",
+            "btih": "dec4ac48b0e092da58e7f658ad2978e1b6966388",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.256744576,
+            "creation": "2019-08-30T03:07:57.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 65519,
+            "uuploaders": 2744
+        },
+        {
+            "id": 64,
+            "name": "multi-btih-0-2-x-Queen-of-the-South-S04-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rartv]",
+            "btih": "55f6f61938135a381a2f74ca887bb1a4a7e8e1ca",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 21.492083238,
+            "creation": "2019-08-30T19:05:19.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 63726,
+            "uuploaders": 3014
+        },
+        {
+            "id": 4,
+            "name": "Queen-of-the-South-(Season-04)-LostFilm",
+            "btih": "a70e73b27646d5c420327223f240f6d0f612ff17",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 8.01247232,
+            "creation": "2019-09-07T03:00:14.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 63375,
+            "uuploaders": 509
+        },
+        {
+            "id": 21,
+            "name": "Queen-of-the-South-S04E13-HDTV-x264-SVA[TGx]",
+            "btih": "5f68f445e15f0c3413b85f96f6e70b35304e19e9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.258244676,
+            "creation": "2019-08-30T03:07:20.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 54633,
+            "uuploaders": 1249
+        },
+        {
+            "id": 26,
+            "name": "Queen-of-the-South-S04E13-Vienen-Por-Ti-720p-AMZN-WEB-DL-DDP5-1",
+            "btih": "2e0869bd4026dd8e462d5aff8c0dd243a699c4f6",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.662241315,
+            "creation": "2019-08-30T12:01:06.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 952,
+            "uuploaders": 925
+        },
+        {
+            "id": 50,
+            "name": "Queen.of.the.South.S04E13.iNTERNAL.720p.WEB.H264-AMRAP [IPT]",
+            "btih": "5c62054d61097180b9b4bf489c1947534d64a259",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.65764688,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 939,
+            "uuploaders": 622
+        },
+        {
+            "id": 36,
+            "name": "Queen.of.the.South.S04E13.1080p.WEB.H264-METCON [IPT]",
+            "btih": "d949fad571a1cc82b0a98b38e100875b49206056",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.242613731,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 799,
+            "uuploaders": 519
+        },
+        {
+            "id": 40,
+            "name": "Queen.of.the.South.S04E13.720p.HDTV.x264-AVS[eztv].mkv",
+            "btih": "8d1365edabda9bcb27e31217d7b4efa1f7aee27a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.955190362,
+            "creation": "2019-08-30T03:23:20.000000000Z,EZTV,Visit us: https://eztv.io/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 772,
+            "uuploaders": 417
+        },
+        {
+            "id": 32,
+            "name": "Queen.of.the.South.S04.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "0525ba68d9ca132211f25470e91dc6b37069619b",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 41.792407842,
+            "creation": "2019-08-30T18:15:23.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 538,
+            "uuploaders": 354
+        },
+        {
+            "id": 35,
+            "name": "Queen.of.the.South.S04E13.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "044cd33484a7313c66ab43139bf765871e4a12f6",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.46493025,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 370,
+            "uuploaders": 321
+        },
+        {
+            "id": 53,
+            "name": "Queen.of.the.South.S04E13.iNTERNAL.AAC.MP4-Mobile [IPT]",
+            "btih": "e8154003f9d13b953b8158f3616186d730366e6e",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.155038259,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 169,
+            "uuploaders": 120
+        },
+        {
+            "id": 56,
+            "name": "Queen.of.the.South.S04E13.Vienen.Por.Ti.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "btih": "31b27ebc1d768d4185694c194cb00bdb317a6ce4",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.662240626,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 119,
+            "uuploaders": 95
+        }
+    ]
+}
