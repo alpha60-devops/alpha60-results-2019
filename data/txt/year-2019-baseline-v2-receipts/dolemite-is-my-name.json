@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt8526872",
+    "imdb_id": "tt8526872",
+    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
+    "wikidata_id": "",
+    "wikipedia_url": ""
+  },
+  "coverage_sha256": "4dbb214a4821eea956653b79f53bd634244926247b11f841e12bd0d7a86bf8b5",
+  "generated_at": "2026-09-05T17:23:08.952165+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/dolemite-is-my-name.cache/cache.20191205.tar.xz",
+      "sha256": "a0cd35be35beda50c7f47f6a7773e9776581cd85191b3050fdfcbb4d76574cc4",
+      "size": 471704800
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/dolemite-is-my-name.md",
+      "sha256": "cea83a40b6a9acc561cac13a5d65a295afef62df77406955fddadd7ae7f36e48",
+      "size": 630
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/dolemite-is-my-name.json",
+      "sha256": "0be3e3029b900efa72fde4835ef24d7f8698d8a4e35b0322e9330f8ae006dbc3",
+      "size": 2233
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/dolemite-is-my-name.json",
+      "sha256": "15b072965c8e1b8d673aac03370dba4878e6cba660f672054d2319aa38e8f3ce",
+      "size": 370
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "7911aae557caa5b9d78dffc736d9346c4a420fb9dc94cb24a9d7911e4d311b2f",
+      "size": 47076
+    }
+  },
+  "media_object": "dolemite-is-my-name",
+  "published_files": {
+    "data/csv/bytes/dolemite-is-my-name-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "2be2234c2e5599d0c2f825c86c4acbe31572f16d1b569f3e2fcc7b54c08f6358",
+    "docs/itemized/dolemite-is-my-name-sample-cache-audit.md": "3ae0a14b9b12a6f9636c1103cf8fb10cdbc61b42acbbb520287eea38f2ba7635",
+    "docs/itemized/figures/dolemite-is-my-name-carto-4k.webp": "ac85f445acd3637ff2c534e65a8aff75ac7b152dbbc69a82b034cd078fe7eb76",
+    "docs/itemized/figures/dolemite-is-my-name-carto.png": "0a41c99730938e103ab9ebdd6a7988038577abfee2acde69683bf58d6cdd7e1e",
+    "docs/itemized/figures/dolemite-is-my-name-cumulative-detail-btiha-itemized-by-bytes.svg": "7a26d8bf5fed23d5263449e4e8dd41b47c2da281434b23c3785d9a278f47510a",
+    "docs/itemized/figures/dolemite-is-my-name-data-ge-1080p-4k.webp": "6c5414561bc7edd9aaf4eabbd5f17f28fd14868f88e56fb2cd46c219febd83c9",
+    "docs/itemized/figures/dolemite-is-my-name-data-ge-1080p.webp": "3bb5be98c10810c37dec198bc42d62b9ed1dfca1b727168d2d8f64f3e941cd8e",
+    "docs/itemized/figures/dolemite-is-my-name-data-lt-1080p-4k.webp": "314e5529d57b69019179f4bff131917eab23f0b82a162a7bd3c9ccfd1d119841",
+    "docs/itemized/figures/dolemite-is-my-name-data-lt-1080p.webp": "717ea29ac0ea785bb80e80dedd42c1a2db84eca06b4801e9ba1792c4b124f2f0",
+    "docs/itemized/figures/dolemite-is-my-name-downloads-by-day-day.svg": "428583c53ddd5b085699d27a9b2605ad49ea3fd3bcb2e5af469464c4c2f31d55",
+    "docs/itemized/figures/dolemite-is-my-name-downloads-by-week-dolemite-is-my-name-week.svg": "c8ae5e528a1ef78a138a9928089940e4b97352accf4e95888eabbbce9f4199c4",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "266d3ea17853fe1320391793ac55e9383a0ace90",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/dolemite-is-my-name/tmp/dolemite-is-my-name-cumulative-btiha.geojson",
+        "sha256": "88ac8336180f46dfc8801f10035b4e0ba9f34a983670f9151992e1802d6484ea",
+        "size": 51673910
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/dolemite-is-my-name/tmp/dolemite-is-my-name-cumulative-btiha-media-objects.json",
+        "sha256": "5c6ffebc0e6e08e6b4c6f7af953a9d95f589c1c683a3c2447d6382b7c2fad55f",
+        "size": 153970
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "dolemite-is-my-name",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          85.0,
+          73.0,
+          67.0,
+          61.0,
+          54.0,
+          51.0,
+          41.0,
+          40.0,
+          37.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "Moscow",
+          "New York City",
+          "London",
+          "Seattle",
+          "Seoul",
+          "Tokyo",
+          "Independence",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          83.0,
+          78.0,
+          63.0,
+          55.0,
+          50.0,
+          48.0,
+          40.0,
+          37.0,
+          35.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "London",
+          "New York City",
+          "Seattle",
+          "Seoul",
+          "Moscow",
+          "Independence",
+          "Shanghai",
+          "Tokyo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 20,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 32,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 6,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "266d3ea17853fe1320391793ac55e9383a0ace90",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}
