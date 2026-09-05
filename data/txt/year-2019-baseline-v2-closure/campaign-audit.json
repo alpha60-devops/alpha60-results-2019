@@ -1,0 +1,795 @@
+{
+  "counts": {
+    "archive_records": 41,
+    "baseline_v2_pages": 41,
+    "day_complete": 6,
+    "day_product_pairs": 533,
+    "excluded_records": 0,
+    "index_links": 41,
+    "inventory": 41,
+    "worker_failed": 0,
+    "worker_passed": 41
+  },
+  "day_records": [
+    {
+      "collection_key": "big-bang-theory-1223",
+      "issue": "no native day JSON products for big-bang-theory-1223 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "big-little-lies-207",
+      "issue": "no native day JSON products for big-little-lies-207 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "black-monday-110",
+      "issue": "no native day JSON products for black-monday-110 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "cobra-kai-02",
+      "issue": "no native day JSON products for cobra-kai-02 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "doctor-who-1200",
+      "issue": "no native day JSON products for doctor-who-1200 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "dolemite-is-my-name",
+      "issue": "no native day JSON products for dolemite-is-my-name in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "baseline_sha256": "61df604cddae78854013d4840959f05d54ce9d7b225c0c180d47e57d4ce80c92",
+      "collection_key": "expanse-04",
+      "coverage_sha256": "c54810dc20218ba13406a4c0f671e46618e61de9b339b76ceea7bb1837514da3",
+      "day_products": 70,
+      "product_sha256": "dad2acf2dad9d7cd968ab02c1e24b869f9e0672b58d943c4506a93c14c1e4ea0",
+      "status": "pass",
+      "stream_sha256": "a9c29ac436db209b41a8d00bbfbd70b20d20a66a98f1b4f5351844fdd1427ac0"
+    },
+    {
+      "baseline_sha256": "9bf7912d4b102920e5f59a62032c2bb870d25451d283a092144a5f8681644256",
+      "collection_key": "ferhat-ile-sirin",
+      "coverage_sha256": "f5e15b8c9dc5c8584afb09080fedd38c1a2e39f535cbed0a613eb1639b953d95",
+      "day_products": 77,
+      "product_sha256": "98c6c6033f903ac5eaba044070b7e5bf78be000bf8cf7b4be318a452ce8a63c1",
+      "status": "pass",
+      "stream_sha256": "b37e9753dbd01cca52d3d6355277a9bc436455914ca0eb32f15258e522db164a"
+    },
+    {
+      "collection_key": "game-of-thrones-801",
+      "issue": "no native day JSON products for game-of-thrones-801 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "game-of-thrones-803",
+      "issue": "no native day JSON products for game-of-thrones-803 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "game-of-thrones-806",
+      "issue": "no native day JSON products for game-of-thrones-806 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "glow-03",
+      "issue": "no native day JSON products for glow-03 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "good-fight-301",
+      "issue": "no native day JSON products for good-fight-301 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "good-fight-310",
+      "issue": "no native day JSON products for good-fight-310 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "high-flying-bird",
+      "issue": "no native day JSON products for high-flying-bird in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "i-am-the-night-106",
+      "issue": "no native day JSON products for i-am-the-night-106 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "killing-eve-208",
+      "issue": "no native day JSON products for killing-eve-208 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "baseline_sha256": "1ae4f18ea6b42fbe3a9765bca55471201d127513e5fd96186814a078cdbef339",
+      "collection_key": "kurulus-osman-01",
+      "coverage_sha256": "84f8289827ff4dbba7a9c7d121dbc09b6328854fe942bf3ae984edb68f7cd54a",
+      "day_products": 66,
+      "product_sha256": "3792ceec681bac91f04124349210d1c9c474450bc88c88b15a14d4b5a6620381",
+      "status": "pass",
+      "stream_sha256": "1a43cb56196d5e84189e8cc65eea84f1e8a3233f90a2c7f74084816d3d26730c"
+    },
+    {
+      "collection_key": "love-death-robots-01",
+      "issue": "no native day JSON products for love-death-robots-01 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "mandalorian-101",
+      "issue": "no native day JSON products for mandalorian-101 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "mandalorian-102",
+      "issue": "no native day JSON products for mandalorian-102 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "baseline_sha256": "c973ea3f994d7c1b22cd67f41943bfafc9c55d6b99ad35e874d9ec2e7994d6ce",
+      "collection_key": "mandalorian-108",
+      "coverage_sha256": "f4a535e70720635d59a51a9d7d4f4ef0ed835e0dac59aba747431a8dbe0263e1",
+      "day_products": 181,
+      "product_sha256": "5ad032103ac2cd262242be6592724d975a625b5bc91c567b70ff0bc078e1f8df",
+      "status": "pass",
+      "stream_sha256": "4058f02020e4795f3d31831efb8cbad5deb3fd3a915d11837098bce691e1d56c"
+    },
+    {
+      "baseline_sha256": "07a4b75d5b950ca5daec47156a7ff30c51fc972bad6c6738ee72fbef4282b0d2",
+      "collection_key": "marvelous-mrs-maisel-03",
+      "coverage_sha256": "c0d5f4ad88d4660001f82e73837af6dce834e14aa6d7274712ae3362d2e9145a",
+      "day_products": 69,
+      "product_sha256": "f9e9ac7d47833f429c3bfcf88dca92f73465797df4d7fd40e3f195c79c357bea",
+      "status": "pass",
+      "stream_sha256": "383ed3dc8dc8731479c1e916e360520735099fac1018710406a51601eb940835"
+    },
+    {
+      "collection_key": "oa-02",
+      "issue": "no native day JSON products for oa-02 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "orange-is-the-new-black-07",
+      "issue": "no native day JSON products for orange-is-the-new-black-07 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "orville-214",
+      "issue": "no native day JSON products for orville-214 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "queen-of-the-south-413",
+      "issue": "no native day JSON products for queen-of-the-south-413 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "queer-eye-2018-04",
+      "issue": "no native day JSON products for queer-eye-2018-04 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "she-ra-04",
+      "issue": "no native day JSON products for she-ra-04 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "star-trek-discovery-201",
+      "issue": "no native day JSON products for star-trek-discovery-201 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "star-trek-discovery-214",
+      "issue": "no native day JSON products for star-trek-discovery-214 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "stranger-things-03",
+      "issue": "no native day JSON products for stranger-things-03 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "tales-of-the-city-2019",
+      "issue": "no native day JSON products for tales-of-the-city-2019 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "true-detective-308",
+      "issue": "no native day JSON products for true-detective-308 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "umbrella-academy-01",
+      "issue": "no native day JSON products for umbrella-academy-01 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "undone-01",
+      "issue": "no native day JSON products for undone-01 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "walking-dead-1008",
+      "issue": "no native day JSON products for walking-dead-1008 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "walking-dead-916",
+      "issue": "no native day JSON products for walking-dead-916 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "collection_key": "watchmen-104",
+      "issue": "no native day JSON products for watchmen-104 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    },
+    {
+      "baseline_sha256": "4cb01e56a9cb28cef1b954812c9b4c7f41e8d52a90e6cd1af754115f9ecf7f46",
+      "collection_key": "watchmen-109",
+      "coverage_sha256": "c71208747f17f04d7fe6d62fd559df218f55508ca1a466e23afaa5eab5992209",
+      "day_products": 70,
+      "product_sha256": "fa451a63273a84c78c20f910dba69e0461a6d330c36a9e9b50e7e57a47224ba6",
+      "status": "pass",
+      "stream_sha256": "28b2b76f8992747572251454334ac7a556aa7788f1bc6bbd8e0063a229c20ea3"
+    },
+    {
+      "collection_key": "wu-assassins-01",
+      "issue": "no native day JSON products for wu-assassins-01 in /home/bkoz/src/alpha60-results-2019/data/json",
+      "status": "fail"
+    }
+  ],
+  "excluded_outputs": {},
+  "gates": {
+    "exclusions": true,
+    "index": true,
+    "inventory_map": true,
+    "metadata": true,
+    "products": false,
+    "repositories": true,
+    "site": true,
+    "workers": true
+  },
+  "generated_at": "2026-09-05T20:06:55.912766+00:00",
+  "index": {
+    "links": 41,
+    "missing_targets": [],
+    "path": "/home/bkoz/src/alpha60-results-2019/_includes/year-2019-0-media-objects.txt"
+  },
+  "inputs": {
+    "archive_map": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-cache-archive-map.json",
+      "sha256": "f021db0c94fa18448bd4c9f33394bada3539d7aeb4b68537c51409e2566fce53",
+      "size": 94010
+    },
+    "config": {
+      "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/year-2019-v1.json",
+      "sha256": "9a8e3118d92d42f0b404c69e0ebffa27bbce25b44b005cfdd8f09dff4a6554bf",
+      "size": 2298
+    },
+    "inventory": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-0-media-objects.txt",
+      "sha256": "54809ca736ba85a62d0e43b0ce59ad74c254ae70cd86ee8d8b8c656d46e91232",
+      "size": 707
+    },
+    "metadata_audit": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-baseline-v2-closure/metadata-audit.json",
+      "sha256": "3c0a73ddd0ff22143157e91fbae47f3395234c8744e001eb1ce96897683ba0a5",
+      "size": 4790
+    },
+    "scope_exclusions": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-scope-exclusions.json",
+      "sha256": "8fe3a2b38da0e7f031d8e931d51c340992fcd8d1d27521dfefec97d68150d49b",
+      "size": 310
+    },
+    "site_audit": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-baseline-v2-closure/site-audit.json",
+      "sha256": "54dd235fe2d7b8a0f6d9da5702fd74694d1078704e6ff6aa6e59354255c9519b",
+      "size": 4450
+    },
+    "worker_receipts": [
+      {
+        "counts": {
+          "errors": 19,
+          "passed": 2,
+          "records": 21
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-baseline-v2-closure/worker-original-01.json",
+          "sha256": "87d9ecb8ffa0fc8d05d226ee8a20d0187d5897ce5b3c96569bc1fe0542693cd1",
+          "size": 23417
+        },
+        "kind": "original",
+        "owner": "ord",
+        "status": "error"
+      },
+      {
+        "counts": {
+          "errors": 17,
+          "passed": 3,
+          "records": 20
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-baseline-v2-closure/worker-original-02.json",
+          "sha256": "cf0bf335ca14f5a998e89ca5f49aa53dcca6aa789cf4b9df933d9a9270ed71f0",
+          "size": 21316
+        },
+        "kind": "original",
+        "owner": "eureka",
+        "status": "error"
+      },
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 19,
+          "records": 19
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-baseline-v2-closure/worker-repair-01.json",
+          "sha256": "031fc74a524c25a4b556eac26474bd459baa06e7ad3349b09ad68a375ed3e836",
+          "size": 8084
+        },
+        "kind": "repair",
+        "owner": "ord",
+        "status": "pass"
+      },
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 17,
+          "records": 17
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-baseline-v2-closure/worker-repair-02.json",
+          "sha256": "518d69174dc247113d202d192bc2865a626f005085dadfe0f1e26a5f4518bce1",
+          "size": 7412
+        },
+        "kind": "repair",
+        "owner": "eureka",
+        "status": "pass"
+      }
+    ]
+  },
+  "issues": [
+    "product audit failed for big-bang-theory-1223: no native day JSON products for big-bang-theory-1223 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for big-little-lies-207: no native day JSON products for big-little-lies-207 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for black-monday-110: no native day JSON products for black-monday-110 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for cobra-kai-02: no native day JSON products for cobra-kai-02 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for doctor-who-1200: no native day JSON products for doctor-who-1200 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for dolemite-is-my-name: no native day JSON products for dolemite-is-my-name in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for game-of-thrones-801: no native day JSON products for game-of-thrones-801 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for game-of-thrones-803: no native day JSON products for game-of-thrones-803 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for game-of-thrones-806: no native day JSON products for game-of-thrones-806 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for glow-03: no native day JSON products for glow-03 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for good-fight-301: no native day JSON products for good-fight-301 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for good-fight-310: no native day JSON products for good-fight-310 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for high-flying-bird: no native day JSON products for high-flying-bird in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for i-am-the-night-106: no native day JSON products for i-am-the-night-106 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for killing-eve-208: no native day JSON products for killing-eve-208 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for love-death-robots-01: no native day JSON products for love-death-robots-01 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for mandalorian-101: no native day JSON products for mandalorian-101 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for mandalorian-102: no native day JSON products for mandalorian-102 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for oa-02: no native day JSON products for oa-02 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for orange-is-the-new-black-07: no native day JSON products for orange-is-the-new-black-07 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for orville-214: no native day JSON products for orville-214 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for queen-of-the-south-413: no native day JSON products for queen-of-the-south-413 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for queer-eye-2018-04: no native day JSON products for queer-eye-2018-04 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for she-ra-04: no native day JSON products for she-ra-04 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for star-trek-discovery-201: no native day JSON products for star-trek-discovery-201 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for star-trek-discovery-214: no native day JSON products for star-trek-discovery-214 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for stranger-things-03: no native day JSON products for stranger-things-03 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for tales-of-the-city-2019: no native day JSON products for tales-of-the-city-2019 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for true-detective-308: no native day JSON products for true-detective-308 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for umbrella-academy-01: no native day JSON products for umbrella-academy-01 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for undone-01: no native day JSON products for undone-01 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for walking-dead-1008: no native day JSON products for walking-dead-1008 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for walking-dead-916: no native day JSON products for walking-dead-916 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for watchmen-104: no native day JSON products for watchmen-104 in /home/bkoz/src/alpha60-results-2019/data/json",
+    "product audit failed for wu-assassins-01: no native day JSON products for wu-assassins-01 in /home/bkoz/src/alpha60-results-2019/data/json"
+  ],
+  "metadata_repository": {
+    "path": "/home/bkoz/src/alpha60-swarm-metadata",
+    "revision": "7f973ef903a4f8faf7271e7273fed4ff725fa525",
+    "tracked_clean": true,
+    "untracked_files": [
+      "metrics/current/all.canonical-work.json",
+      "reports/inventory/2026-07-27/v2-only/batch-000-dry-run.json",
+      "reports/inventory/2026-07-27/v2-only/batches/keys-000",
+      "reports/inventory/2026-07-27/v2-only/batches/keys-001",
+      "reports/inventory/2026-07-27/v2-only/batches/keys-002",
+      "reports/inventory/2026-07-27/v2-only/batches/keys-003",
+      "reports/inventory/2026-07-27/v2-only/batches/keys-004",
+      "reports/inventory/2026-07-27/v2-only/batches/keys-005",
+      "reports/inventory/2026-07-27/v2-only/batches/keys-006",
+      "reports/inventory/2026-07-27/v2-only/enrichment-dry-run.json",
+      "reports/inventory/2026-07-27/v2-only/final-v2-audit.json",
+      "reports/inventory/2026-07-27/v2-only/final-v2-validation.json",
+      "reports/inventory/2026-07-27/v2-only/network-test.json",
+      "reports/inventory/2026-07-27/v2-only/v2-after-init-validation.json"
+    ],
+    "worktree_clean": false
+  },
+  "results_repository": {
+    "path": "/home/bkoz/src/alpha60-results-2019",
+    "revision": "11d259ec57d4ed0548d7855f2621ecdf479ff291",
+    "tracked_clean": true,
+    "untracked_files": [],
+    "worktree_clean": true
+  },
+  "schema": "alpha60-year-baseline-v2-campaign-audit/1",
+  "status": "fail",
+  "terminal_records": [
+    {
+      "collection_key": "big-bang-theory-1223",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass",
+      "results_revision": "74862498a88e3330336bba91707d3667b44de174"
+    },
+    {
+      "collection_key": "big-little-lies-207",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "black-monday-110",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "cobra-kai-02",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "doctor-who-1200",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass",
+      "results_revision": "d64d35961f9b324cf420c6411f96471fd088cf54"
+    },
+    {
+      "collection_key": "dolemite-is-my-name",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass",
+      "results_revision": "46ab6d8d847fc5402f970b1cc89e92cd42eb2709"
+    },
+    {
+      "collection_key": "expanse-04",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "96c086b741dcb36ec425ee1438785c6744a9c6ee"
+    },
+    {
+      "collection_key": "ferhat-ile-sirin",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "game-of-thrones-801",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "game-of-thrones-803",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "game-of-thrones-806",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "glow-03",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "good-fight-301",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "good-fight-310",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "high-flying-bird",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass",
+      "results_revision": "1a9dfaa65ab2545edd850672f14522c853efa905"
+    },
+    {
+      "collection_key": "i-am-the-night-106",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "killing-eve-208",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "kurulus-osman-01",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "5feb73a5b791c66cfc5a6d4736dbbe534b79056d"
+    },
+    {
+      "collection_key": "love-death-robots-01",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "mandalorian-101",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "mandalorian-102",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "mandalorian-108",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "b4bc74842d54a2ebb7790d056daa67197aa62ccd"
+    },
+    {
+      "collection_key": "marvelous-mrs-maisel-03",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "1a04a67fafb9768b310f3466101e0b1dc1a2a1c6"
+    },
+    {
+      "collection_key": "oa-02",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "orange-is-the-new-black-07",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "orville-214",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "queen-of-the-south-413",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "queer-eye-2018-04",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "she-ra-04",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "star-trek-discovery-201",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "star-trek-discovery-214",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "stranger-things-03",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "tales-of-the-city-2019",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "true-detective-308",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "umbrella-academy-01",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "undone-01",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "walking-dead-1008",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "walking-dead-916",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "watchmen-104",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "eureka",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    },
+    {
+      "collection_key": "watchmen-109",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "ade20de4aec7bb95e41815f1dc4fa5416b75639a"
+    },
+    {
+      "collection_key": "wu-assassins-01",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "error",
+      "owner": "ord",
+      "repair_status": "pass-existing",
+      "results_revision": null
+    }
+  ],
+  "year": "2019"
+}
