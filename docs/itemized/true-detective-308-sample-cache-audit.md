@@ -1,0 +1,88 @@
+---
+layout: default
+title: "true-detective-308 Sample Cache Audit"
+author: "Benjamin De Kosnik <bkoz@gnu.org>"
+description: "Cache coverage and visualization audit for one media object."
+---
+
+# true-detective-308 sample cache audit
+
+## 1. Media object
+
+| Field | Value |
+| --- | --- |
+| Media object | True Detective |
+| Collection key | `true-detective-308` |
+| imdb_id | [tt2356777](https://www.imdb.com/title/tt2356777/) |
+| wikipedia_url | [True Detective](https://en.wikipedia.org/wiki/True_Detective) |
+| Sample dates | 2019-02-25-to-2019-04-14 |
+| Sample days | 49 |
+| BTIH count | 123 |
+| Unique BTIH count | 107 |
+| Downloaders total | 10,410,150 |
+| Uploaders total | 1,711,877 |
+| Data version | `2026-08-05` |
+| IP geolocation version | `6:1777968300` |
+
+## 2. Sample coverage report
+
+- Generated: 2026-09-05T07:27:37Z
+- Evidence: read-only Day-member stream of the selected cache archive; no raw sample contents were opened
+- Selected archive: cache.20190414.tar.xz
+- Required sample span: 2019-02-25 to 2019-04-14 (49 days)
+- Cache Day products: 49
+- Sparse Day indices: 0
+- Post-release Day products: 0
+
+### Sample archive discontinuities
+
+None detected.
+
+## 3. Media objects file size histogram
+
+![True Detective collection size histogram](figures/true-detective-308-cumulative-detail-btiha-itemized-by-bytes.svg)
+
+## 4. Visualization pass — graphs
+
+### Downloads by week cumulative (normalized start)
+
+<script type="text/javascript" crossorigin="anonymous" id="graph-hover"
+	src="../../resources/izzi-graph-hover-txt-polyline-red.js">
+</script>
+
+<div class="media-object-audit-week-graph" style="max-width: 100%;">
+{% include_relative figures/true-detective-308-downloads-by-week-true-detective-308-week.svg %}
+</div>
+<style>
+.media-object-audit-week-graph svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>
+
+### Downloads by day, Saturday and Sunday in gray
+
+![true-detective-308 downloads by day](figures/true-detective-308-downloads-by-day-day.svg)
+
+## 5. Visualization pass — maps
+
+### Cumulative geographic slices
+
+| Africa | Americas | Asia | Europe | Oceania | Unknown |
+| --- | --- | --- | --- | --- | --- |
+| 2.42 | 34.44 | 18.03 | 30.08 | 1.76 | 10.64 |
+
+### Cumulative network infrastructure
+
+[![True Detective cumulative map](figures/true-detective-308-carto.png)](figures/true-detective-308-carto-4k.webp){:target="_blank" rel="noopener"}
+
+### Cumulative data maps
+
+**Cumulative >= 1080p**
+
+[![Cumulative >= 1080p](figures/true-detective-308-data-ge-1080p.webp)](figures/true-detective-308-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
+
+**Cumulative < 1080p**
+
+[![Cumulative < 1080p](figures/true-detective-308-data-lt-1080p.webp)](figures/true-detective-308-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

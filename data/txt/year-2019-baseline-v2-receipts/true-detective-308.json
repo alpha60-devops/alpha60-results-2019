@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt2356777",
+    "imdb_id": "tt2356777",
+    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
+    "wikidata_id": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/True_Detective"
+  },
+  "coverage_sha256": "ea46f3b258e457eb8763d9b41b9d7875924f8f7b192908d7d848e5a8bf110239",
+  "generated_at": "2026-09-05T18:33:09.900195+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/true-detective-308.cache/cache.20190414.tar.xz",
+      "sha256": "f4bc8145fcc221977abfd740926f8a6c539e49bc1b0be2ed6297980bede20918",
+      "size": 1715051364
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/true-detective-308.md",
+      "sha256": "d782d6313dd9e2ab62b7072b4f251cc2cd549e906c687643622f56ebbbc6baf9",
+      "size": 596
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/true-detective-308.json",
+      "sha256": "a8b5917c8d6418323c3a5be20efd8ea7051c891db42cb3fa9526e116da6c30e7",
+      "size": 2286
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/true-detective-308.json",
+      "sha256": "d9a6234ab69a75032b90ce852d11d40db8a2472fc712aea6e333bf338c012d3b",
+      "size": 370
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "c1c212754c31864df8eff7df764ea81851725028d25a7b2bc6d3092033343c41",
+      "size": 49746
+    }
+  },
+  "media_object": "true-detective-308",
+  "published_files": {
+    "data/csv/bytes/true-detective-308-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "22636f9f3fc88d0ba71e352e2bedda722211b83231ee42bfd0c097fb6dbb7eea",
+    "docs/itemized/figures/true-detective-308-carto-4k.webp": "ed4d04f424aec1e0d460562c866b7328b759ebf794910b99fd5c7b1130c3a009",
+    "docs/itemized/figures/true-detective-308-carto.png": "330e664324b9f7c365cdc04768513e5eafd78432b6581d8c3f9f058d040ba4eb",
+    "docs/itemized/figures/true-detective-308-cumulative-detail-btiha-itemized-by-bytes.svg": "e34441c6cd325246f09b13630294049fe2635515e235200247801ddc8dea04d6",
+    "docs/itemized/figures/true-detective-308-data-ge-1080p-4k.webp": "6e0efb8e3dda19077c656d7e15e478b7306ca75a7a1a32d7959d63fac95676fb",
+    "docs/itemized/figures/true-detective-308-data-ge-1080p.webp": "e79dbaf0b89bcc6555485558d8712862200ee8c0aef322bdd4379a2bcc1b4d9d",
+    "docs/itemized/figures/true-detective-308-data-lt-1080p-4k.webp": "79eaa5e85986aeb9d85668bb0707c853af66f781e6e01293998d57e3fc61b767",
+    "docs/itemized/figures/true-detective-308-data-lt-1080p.webp": "79f6be12e7e7a89e69bc20eca273018b69837aa7edc2e17881b7e9651a8cbed6",
+    "docs/itemized/figures/true-detective-308-downloads-by-day-day.svg": "4776dc05113b367d78634b2a432ab170da1eda508094246a201cf42cd6ab9f0a",
+    "docs/itemized/figures/true-detective-308-downloads-by-week-true-detective-308-week.svg": "939310b6fe206092154748b3d68cac95d311af44a4676f024a7fa32ae083fe84",
+    "docs/itemized/true-detective-308-sample-cache-audit.md": "cbe6d5b36f6424faacbc7a65cef0d98afe3189288d2998604e123481e820ec0e",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "266d3ea17853fe1320391793ac55e9383a0ace90",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/true-detective-308/tmp/true-detective-308-cumulative-btiha.geojson",
+        "sha256": "9f00066b8ef03a528ea9c86629755a4c3f4b10354e0f128a3c9667010829f4ed",
+        "size": 115658250
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/true-detective-308/tmp/true-detective-308-cumulative-btiha-media-objects.json",
+        "sha256": "48d18e2e37bc6dcf241dd811eaf74845e70f35aae42241cf61924d094bf4cbbe",
+        "size": 317581
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "true-detective-308",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          66.0,
+          53.0,
+          52.0,
+          51.0,
+          43.0,
+          41.0,
+          40.0,
+          33.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "New York City",
+          "London",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          75.0,
+          65.0,
+          63.0,
+          60.0,
+          54.0,
+          45.0,
+          42.0,
+          40.0,
+          38.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "Moscow",
+          "London",
+          "New York City",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Saint Petersburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 25,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 38,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 7,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "5986b46764300ac2e71bdfb79ee35c915f446205",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}
