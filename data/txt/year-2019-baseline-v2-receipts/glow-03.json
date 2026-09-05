@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt5770786",
+    "imdb_id": "tt5770786",
+    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
+    "wikidata_id": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/GLOW_(TV_series)"
+  },
+  "coverage_sha256": "15b390df2245d7cc89e4829ba76d48b51546c05fdb7e13ad31dbcddc7cbab304",
+  "generated_at": "2026-09-05T18:23:40.107620+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/glow-03.cache/cache.20190912.tar.xz",
+      "sha256": "c2809721e6a61a24d7ce7cbefedaab4417a57e5fc254b6ccd5a5f8d3d85adbff",
+      "size": 707235496
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/glow-03.md",
+      "sha256": "2e7b1d1efd458dc2a2cfb8f7d46f13489b67299fddd14a10c85caba3d2761d27",
+      "size": 585
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/glow-03.json",
+      "sha256": "cf07e5244aa7be3d279db1ffcba9155e7b33f68f27c682d07c11c25d73be4b31",
+      "size": 2141
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/glow-03.json",
+      "sha256": "7fe45bd6fd279fc3f10cd86a24868635246332cbeb6cf2c8b116fa62b69375e8",
+      "size": 359
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "7911aae557caa5b9d78dffc736d9346c4a420fb9dc94cb24a9d7911e4d311b2f",
+      "size": 47076
+    }
+  },
+  "media_object": "glow-03",
+  "published_files": {
+    "data/csv/bytes/glow-03-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "ee6eeb3359b0d23ba399da54668464476c438f161d0ec5b28f28f828f22936f5",
+    "docs/itemized/figures/glow-03-carto-4k.webp": "f84389e2a5177eeb7067a087bd35bd393b0e1d4bfe403099e512a00dfb861c1b",
+    "docs/itemized/figures/glow-03-carto.png": "b27715ad9a79d4495bbccaa971e271d1f84a1c8d3742ebf73f6e48993271b01d",
+    "docs/itemized/figures/glow-03-cumulative-detail-btiha-itemized-by-bytes.svg": "f971570989bb066b07c2fdb6ee31b0ff4398025304aa51b801a22313d203d472",
+    "docs/itemized/figures/glow-03-data-ge-1080p-4k.webp": "a42a0f26274cdf52a8f5ba5f915b8ebd3949bae384e42a7e60002b365e70928c",
+    "docs/itemized/figures/glow-03-data-ge-1080p.webp": "8ee884b4b77cd0cc33dc56706b986688dc70a8245d21965a598552f3ddcfee90",
+    "docs/itemized/figures/glow-03-data-lt-1080p-4k.webp": "e92278f3d859e486ccf556fb798294936167652207b3bff11dd68a5de666fb9e",
+    "docs/itemized/figures/glow-03-data-lt-1080p.webp": "aa3c0d87f8bce59fa595666f6010c210624df2e2f5040d1e27ce50349297937c",
+    "docs/itemized/figures/glow-03-downloads-by-day-day.svg": "df9ad9eb877b8ec84ca4b209a0681353aba730ec2ea3ff576656c6bfc93fe7a7",
+    "docs/itemized/figures/glow-03-downloads-by-week-glow-03-week.svg": "73863672787d4871d0be4900c3b112b3dfb7944e7ad92d41b53d70f1b455aca1",
+    "docs/itemized/glow-03-sample-cache-audit.md": "595414a38fae4b2492048982b0a3ebc6629c3d8cbeebd7e4e6453817175ea221",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "266d3ea17853fe1320391793ac55e9383a0ace90",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/glow-03/tmp/glow-03-cumulative-btiha.geojson",
+        "sha256": "f9a9dfbbb293d40b94b54fd9a1cc1d647a6f13ee3f3dc574da340eceffd6bea4",
+        "size": 88182570
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/glow-03/tmp/glow-03-cumulative-btiha-media-objects.json",
+        "sha256": "74eb3691bce1edd22678b8410706d61177eef68a1b5b4c758e96ca32371598a4",
+        "size": 507629
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "glow-03",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          56.0,
+          51.0,
+          50.0,
+          45.0,
+          43.0,
+          41.0,
+          40.0,
+          33.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "New York City",
+          "Ashburn",
+          "Seattle",
+          "London",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          55.0,
+          53.0,
+          51.0,
+          49.0,
+          45.0,
+          42.0,
+          40.0,
+          34.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "New York City",
+          "Ashburn",
+          "Seattle",
+          "Tokyo",
+          "London",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 35,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 12,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 5,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "266d3ea17853fe1320391793ac55e9383a0ace90",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}
