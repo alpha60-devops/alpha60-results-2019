@@ -1,0 +1,204 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/archive-verification.json",
+    "sha256": "8dedf104327db1b0c058aea2fec89d71252079407f8ea7f59b67f746e532556f",
+    "size": 13280
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 19,
+    "records": 19
+  },
+  "executor": "ord",
+  "finished_at": "2026-09-05T20:06:08.028711+00:00",
+  "owner": "ord",
+  "records": [
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/big-bang-theory-1223.cache/cache.20190808.tar.xz",
+      "collection_key": "big-bang-theory-1223",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:05:22.341440+00:00",
+      "owner": "ord",
+      "results_revision": "74862498a88e3330336bba91707d3667b44de174",
+      "started_at": "2026-09-05T20:03:50.221985+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/cobra-kai-02.cache/cache.20190716.tar.xz",
+      "collection_key": "cobra-kai-02",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:05:23.493555+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-05T20:05:22.341867+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/ferhat-ile-sirin.cache/cache.20200208.tar.xz",
+      "collection_key": "ferhat-ile-sirin",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:05:24.555662+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-05T20:05:23.493926+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/game-of-thrones-801.cache/cache.20190630.tar.xz",
+      "collection_key": "game-of-thrones-801",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:05:25.864883+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-05T20:05:24.556121+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/good-fight-301.cache/cache.20190418.tar.xz",
+      "collection_key": "good-fight-301",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:05:27.003860+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-05T20:05:25.865262+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "aggregate": "pass",
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/high-flying-bird.cache/cache.20190314.tar.xz",
+      "collection_key": "high-flying-bird",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:05:53.267966+00:00",
+      "owner": "ord",
+      "results_revision": "1a9dfaa65ab2545edd850672f14522c853efa905",
+      "started_at": "2026-09-05T20:05:27.004317+00:00",
+      "status": "pass",
+      "visualizations": "pass"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/i-am-the-night-106.cache/cache.20190408.tar.xz",
+      "collection_key": "i-am-the-night-106",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:05:54.390819+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-05T20:05:53.268653+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/mandalorian-101.cache/cache.20191223.tar.xz",
+      "collection_key": "mandalorian-101",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:05:55.505609+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-05T20:05:54.391167+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/orange-is-the-new-black-07.cache/cache.20191003.tar.xz",
+      "collection_key": "orange-is-the-new-black-07",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:05:56.595387+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-05T20:05:55.506019+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/orville-214.cache/cache.20190613.tar.xz",
+      "collection_key": "orville-214",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:05:57.693811+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-05T20:05:56.596141+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/queen-of-the-south-413.cache/cache.20191107.tar.xz",
+      "collection_key": "queen-of-the-south-413",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:05:58.752015+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-05T20:05:57.694589+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/queer-eye-2018-04.cache/cache.20190926.tar.xz",
+      "collection_key": "queer-eye-2018-04",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:05:59.836376+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-05T20:05:58.752739+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/she-ra-04.cache/cache.20191216.tar.xz",
+      "collection_key": "she-ra-04",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:06:00.993750+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-05T20:05:59.837140+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/star-trek-discovery-201.cache/cache.20190214.tar.xz",
+      "collection_key": "star-trek-discovery-201",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:06:02.074478+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-05T20:06:00.994486+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/star-trek-discovery-214.cache/cache.20190606.tar.xz",
+      "collection_key": "star-trek-discovery-214",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:06:03.210186+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-05T20:06:02.075223+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/stranger-things-03.cache/cache.20190925.tar.xz",
+      "collection_key": "stranger-things-03",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:06:04.310683+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-05T20:06:03.210927+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/true-detective-308.cache/cache.20190414.tar.xz",
+      "collection_key": "true-detective-308",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:06:05.428848+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-05T20:06:04.311692+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/undone-01.cache/cache.20191121.tar.xz",
+      "collection_key": "undone-01",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:06:06.709441+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-05T20:06:05.429620+00:00",
+      "status": "pass-existing"
+    },
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/wu-assassins-01.cache/cache.20191016.tar.xz",
+      "collection_key": "wu-assassins-01",
+      "executor": "ord",
+      "finished_at": "2026-09-05T20:06:08.027857+00:00",
+      "owner": "ord",
+      "started_at": "2026-09-05T20:06:06.710218+00:00",
+      "status": "pass-existing"
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-05T20:03:50.221126+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+    "sha256": "c1c212754c31864df8eff7df764ea81851725028d25a7b2bc6d3092033343c41",
+    "size": 49746
+  },
+  "year": "2019"
+}
