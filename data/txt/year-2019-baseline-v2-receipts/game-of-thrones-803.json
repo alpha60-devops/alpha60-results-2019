@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt0944947",
+    "imdb_id": "tt0944947",
+    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
+    "wikidata_id": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Game_of_Thrones"
+  },
+  "coverage_sha256": "7f79de4c2fb084b9ae7ff6c2324d952be94b65c8e992b05e9684d0befcab4aa3",
+  "generated_at": "2026-09-05T17:42:49.636235+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/game-of-thrones-803.cache/cache.20190609.tar.xz",
+      "sha256": "13a291406e59e916ed66826653f8b5fd35530646e12d9cfd6bf308e46ea061a3",
+      "size": 5249766996
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/game-of-thrones-803.md",
+      "sha256": "754283f1a8f8d28d0df907ad03fc18d20f649f6894f73e10c2b03997e44bea30",
+      "size": 597
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/game-of-thrones-803.json",
+      "sha256": "ca9aa611ac4f4c6d7c2941681a27512684816626d3ed4b1e1b3e7e9702dea78a",
+      "size": 2234
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/game-of-thrones-803.json",
+      "sha256": "cb31f096a694fcacb70db6c663dc56391e76b2c9470695f0cfc75a9068acb93c",
+      "size": 371
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "7911aae557caa5b9d78dffc736d9346c4a420fb9dc94cb24a9d7911e4d311b2f",
+      "size": 47076
+    }
+  },
+  "media_object": "game-of-thrones-803",
+  "published_files": {
+    "data/csv/bytes/game-of-thrones-803-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "d2d362424a5b31a5118231b735bf17ac9a675986366d143e88bbc785d7b766db",
+    "docs/itemized/figures/game-of-thrones-803-carto-4k.webp": "df4b0da05aae3a098b3dbd87b300fe2c374d5d314de686c94b5d8d9e228a4df7",
+    "docs/itemized/figures/game-of-thrones-803-carto.png": "838e42d673a9eb8c7fced96872f51fb140d8737603f7e708b12d0489809a9120",
+    "docs/itemized/figures/game-of-thrones-803-cumulative-detail-btiha-itemized-by-bytes.svg": "2558e72729a6b8caec67a61dcc4ee64b48f7a2f9b60fcef67679f779741ebedf",
+    "docs/itemized/figures/game-of-thrones-803-data-ge-1080p-4k.webp": "a90021c79254922e0eb66d1888ae907c087dac34f9795d735823716e8a227ec9",
+    "docs/itemized/figures/game-of-thrones-803-data-ge-1080p.webp": "5707498b653194e72234b6b0a120b7d13c681b586a2458e474f55bdf351b63a4",
+    "docs/itemized/figures/game-of-thrones-803-data-lt-1080p-4k.webp": "564b68e7c0699d3ac5a3084cfeff3f2f966c9ec031df4d061608ae8527f0d01c",
+    "docs/itemized/figures/game-of-thrones-803-data-lt-1080p.webp": "3682783ecce9f9f13859640f730edf988f0282062646907907ead1fa6106bb75",
+    "docs/itemized/figures/game-of-thrones-803-downloads-by-day-day.svg": "a76bf221cfc3ddfb5d3efb51aa08c4758367d80c19bb896c8a34486f4493df38",
+    "docs/itemized/figures/game-of-thrones-803-downloads-by-week-game-of-thrones-803-week.svg": "4658e99aa5c048bf1450954f68b5448bc5d47cdca98aa415da25c54c565661ad",
+    "docs/itemized/game-of-thrones-803-sample-cache-audit.md": "8f8673150b01f9ff438fd6de2a9427ef5d19a7e2ab2c73914fd6f8c58683e7c8",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "266d3ea17853fe1320391793ac55e9383a0ace90",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/game-of-thrones-803/tmp/game-of-thrones-803-cumulative-btiha.geojson",
+        "sha256": "1f13c90ddc7840dde0da70de3789308da78bd7e22a8b14e3f82490669943ae68",
+        "size": 130981047
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/game-of-thrones-803/tmp/game-of-thrones-803-cumulative-btiha-media-objects.json",
+        "sha256": "1488e471efb4e21ba9d6a32e319b525d755a24a469e52f6a861627beb72166b0",
+        "size": 437066
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "game-of-thrones-803",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          78.0,
+          68.0,
+          65.0,
+          63.0,
+          51.0,
+          47.0,
+          40.0,
+          39.0,
+          37.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Mumbai",
+          "S\u00e3o Paulo",
+          "London",
+          "Seoul",
+          "Moscow",
+          "Quezon City",
+          "Shanghai",
+          "Paris",
+          "Delhi",
+          "Saint Petersburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          78.0,
+          51.0,
+          50.0,
+          45.0,
+          33.0,
+          28.0,
+          27.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Mumbai",
+          "London",
+          "Saint Petersburg",
+          "S\u00e3o Paulo",
+          "Delhi",
+          "Paris",
+          "Quezon City",
+          "Sydney",
+          "Istanbul"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 7,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 6,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "266d3ea17853fe1320391793ac55e9383a0ace90",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}
