@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt11174344",
+    "imdb_id": "tt11174344",
+    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
+    "wikidata_id": "",
+    "wikipedia_url": ""
+  },
+  "coverage_sha256": "81b145c7d6701c1f0a202311eda6b8c9e1889acc8bb4a18d38b61b57fa7aca1c",
+  "generated_at": "2026-09-05T19:57:03.407904+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/ferhat-ile-sirin.cache/cache.20200208.tar.xz",
+      "sha256": "2bed7d385b7f3c53a4eb0ef7eb8dc8e4c4df191f28b59af266acedc12bb509f5",
+      "size": 4213992
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/ferhat-ile-sirin.md",
+      "sha256": "f5e15b8c9dc5c8584afb09080fedd38c1a2e39f535cbed0a613eb1639b953d95",
+      "size": 594
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/ferhat-ile-sirin.json",
+      "sha256": "b37e9753dbd01cca52d3d6355277a9bc436455914ca0eb32f15258e522db164a",
+      "size": 2498
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/ferhat-ile-sirin.json",
+      "sha256": "98c6c6033f903ac5eaba044070b7e5bf78be000bf8cf7b4be318a452ce8a63c1",
+      "size": 368
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "c1c212754c31864df8eff7df764ea81851725028d25a7b2bc6d3092033343c41",
+      "size": 49746
+    }
+  },
+  "media_object": "ferhat-ile-sirin",
+  "published_files": {
+    "data/csv/bytes/ferhat-ile-sirin-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "832d4038a2e60cfd858f904a0a814556d9c86490dea33c9d7f6a16f695a1a898",
+    "docs/itemized/ferhat-ile-sirin-sample-cache-audit.md": "7fa783c8cd32140873ec57311771f1e6a13b27980c5b5e93a9c8152c7368b319",
+    "docs/itemized/figures/ferhat-ile-sirin-carto-4k.webp": "a72a4a0e7682536e7155d54484d2a7afa00179c6e2931d9e815a47fb6eb8fdb5",
+    "docs/itemized/figures/ferhat-ile-sirin-carto.png": "f3e3a79d83e52054bceb0b9b7de50fff0bfdabd1e4c5ba413c9adeb3f640e534",
+    "docs/itemized/figures/ferhat-ile-sirin-cumulative-detail-btiha-itemized-by-bytes.svg": "6a60fd0fbfd7dbe00810802bbd8719b88fcfdf9a4759cd43a6df2a03717c4de1",
+    "docs/itemized/figures/ferhat-ile-sirin-data-ge-1080p-4k.webp": "cb6ddb56630b718def6b5950ceeb497cb173433dee6d1ecc5c83d50e8b2d5df8",
+    "docs/itemized/figures/ferhat-ile-sirin-data-ge-1080p.webp": "56a64084799272a17bdac67e612e639b14b0daf5315996e9ad135007a2c1b45a",
+    "docs/itemized/figures/ferhat-ile-sirin-data-lt-1080p-4k.webp": "937ece1f270a71132497ee9db6772cfd33e109e5b685c41379a382df88353c25",
+    "docs/itemized/figures/ferhat-ile-sirin-data-lt-1080p.webp": "6b9d81b0cda9868aa9f1dc6dedbecda8b1d82977d5a27dbf955fe457df31f0c8",
+    "docs/itemized/figures/ferhat-ile-sirin-downloads-by-day-day.svg": "08199dc46d58d309d5d30d066ba92c44aa929934bac44d5b9a64f0578482b176",
+    "docs/itemized/figures/ferhat-ile-sirin-downloads-by-week-ferhat-ile-sirin-week.svg": "6d85ca4f495b80ec2b8ba5718443cef02bd5a0496779d3d9caa9b5328de8c36f",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "5986b46764300ac2e71bdfb79ee35c915f446205",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/ferhat-ile-sirin/tmp/ferhat-ile-sirin-cumulative-btiha.geojson",
+        "sha256": "019f5933052c0ad220f49404ba436da1bfe5dad774972f964d4e6dc92ec341d1",
+        "size": 926640
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/ferhat-ile-sirin/tmp/ferhat-ile-sirin-cumulative-btiha-media-objects.json",
+        "sha256": "afeb583891d461cb903d0d425f69dabc1885123e6684b0dac323d48f49f4e9bd",
+        "size": 7153
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "ferhat-ile-sirin",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          90.0,
+          90.0,
+          90.0,
+          90.0,
+          90.0,
+          90.0,
+          90.0,
+          90.0,
+          90.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Falkenstein",
+          "Prague",
+          "\u015ei\u015fli",
+          "Istanbul",
+          "Maltepe",
+          "Gebze",
+          "Bursa",
+          "Ankara",
+          "Erzurum",
+          "B\u00f6lme"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          30.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Saint Petersburg",
+          "London",
+          "Mumbai",
+          "Budapest",
+          "Krasnodar",
+          "Nizhniy Novgorod",
+          "Sofia",
+          "Yekaterinburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 5,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 11,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "5986b46764300ac2e71bdfb79ee35c915f446205",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}

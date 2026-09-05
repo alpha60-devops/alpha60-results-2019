@@ -1,0 +1,174 @@
+{
+    "collection_name": "Ferhat Ile Sirin",
+    "collection_id": "1",
+    "collection_key": "ferhat-ile-sirin",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "Ferhat-ile-Sirin-S01E01-1080p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+            "size_total": 3.619089359,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.619089359,
+                    "path": "Ferhat ile Sirin S01E01 1080p HDTV AC3 H.264 -TURG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Ferhat-ile-Sirin-S01E01-720p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+            "size_total": 1.658551787,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.658551787,
+                    "path": "Ferhat ile Sirin S01E01 720p HDTV AC3 H.264 -TURG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безменов [rutracker-5809901]",
+            "size_total": 1.575807566,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.575807566,
+                    "path": "Ferhat i Sirin/01 Ferhat ile Sirin.avi"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1-3 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безмен [rutracker-5809901]",
+            "size_total": 4.56452085,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.575807566,
+                    "path": "Ferhat i Sirin/01 Ferhat ile Sirin.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 1.52321628,
+                    "path": "Ferhat i Sirin/02 Ferhat ile Sirin.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 1.465497004,
+                    "path": "Ferhat i Sirin/03 Ferhat ile Sirin.avi"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Ферхат и Ширин Ferhat İle Şirin Серии 1-4 (6) (Мехмед Ада Озтекин Mehmet Ada Öztekin) [2019, Турция, Драма, WEBRip (720p)] [rutracker-5809554]",
+            "size_total": 7.415415573,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.935827993,
+                    "path": "FiS.s01.2019.russ.sub.WEBRip720p/FiS.s01.e01.2019.russ.sub.WEBRip720p.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 1.863810566,
+                    "path": "FiS.s01.2019.russ.sub.WEBRip720p/FiS.s01.e02.2019.russ.sub.WEBRip720p.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 1.797170545,
+                    "path": "FiS.s01.2019.russ.sub.WEBRip720p/FiS.s01.e03.2019.russ.sub.WEBRip720p.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 1.818606469,
+                    "path": "FiS.s01.2019.russ.sub.WEBRip720p/FiS.s01.e04.2019.russ.sub.WEBRip720p.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 3,
+            "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безменов [rutracker-5809901]",
+            "btih": "4943c7b42520a6872a9c4e37ae1e7ef54d1b8bca",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.575807566,
+            "creation": "2019-11-23T15:36:03.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20605,
+            "uuploaders": 819
+        },
+        {
+            "id": 5,
+            "name": "Ферхат и Ширин Ferhat İle Şirin Серии 1-4 (6) (Мехмед Ада Озтекин Mehmet Ada Öztekin) [2019, Турция, Драма, WEBRip (720p)] [rutracker-5809554]",
+            "btih": "edea6b4f4d42e15ddc720b4535b14413f69e0a98",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 7.415415573,
+            "creation": "2019-12-14T11:11:51.000000000Z,uTorrent/3.5,https://rutracker.org/forum/viewtopic.php?t=5809554",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10703,
+            "uuploaders": 439
+        },
+        {
+            "id": 4,
+            "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1-3 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безмен [rutracker-5809901]",
+            "btih": "2cd47abe4c4fbe1e8b6bce1d0b7519391403aef0",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 4.56452085,
+            "creation": "2019-12-07T18:42:21.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9386,
+            "uuploaders": 536
+        },
+        {
+            "id": 2,
+            "name": "Ferhat-ile-Sirin-S01E01-720p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+            "btih": "bfe9e38cc50ec4d5b33e74b12f46a625297438d8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.658551787,
+            "creation": "2019-11-22T23:17:48.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 568,
+            "uuploaders": 484
+        },
+        {
+            "id": 1,
+            "name": "Ferhat-ile-Sirin-S01E01-1080p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+            "btih": "f0d097bc84ad6c1b9be9ffed3a25ccfd33f53ec5",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.619089359,
+            "creation": "2019-11-23T08:23:25.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 330,
+            "uuploaders": 286
+        }
+    ]
+}

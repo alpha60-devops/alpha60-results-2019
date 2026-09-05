@@ -1,0 +1,1873 @@
+{
+    "collection_name": "Ferhat Ile Sirin",
+    "collection_id": "1",
+    "collection_key": "ferhat-ile-sirin",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "sample_duration": "2019-11-24-to-2020-02-08",
+    "sample_days": 77,
+    "sample_year_start": 2019,
+    "sample_year_end": 2020,
+    "sample_day_year_start": 328,
+    "sample_day_year_end": 39,
+    "collection_week": [
+        {
+    "number": "week-00001",
+    "btiha_size": 3,
+    "udownloaders_total": 2337,
+    "uuploaders_total": 459
+},
+        {
+    "number": "week-00002",
+    "btiha_size": 3,
+    "udownloaders_total": 3519,
+    "uuploaders_total": 650
+},
+        {
+    "number": "week-00003",
+    "btiha_size": 3,
+    "udownloaders_total": 4956,
+    "uuploaders_total": 779
+},
+        {
+    "number": "week-00004",
+    "btiha_size": 5,
+    "udownloaders_total": 8796,
+    "uuploaders_total": 1100
+},
+        {
+    "number": "week-00005",
+    "btiha_size": 5,
+    "udownloaders_total": 13081,
+    "uuploaders_total": 1434
+},
+        {
+    "number": "week-00006",
+    "btiha_size": 5,
+    "udownloaders_total": 19892,
+    "uuploaders_total": 1670
+},
+        {
+    "number": "week-00007",
+    "btiha_size": 5,
+    "udownloaders_total": 24456,
+    "uuploaders_total": 1883
+},
+        {
+    "number": "week-00008",
+    "btiha_size": 5,
+    "udownloaders_total": 30408,
+    "uuploaders_total": 2055
+},
+        {
+    "number": "week-00009",
+    "btiha_size": 5,
+    "udownloaders_total": 32970,
+    "uuploaders_total": 2278
+},
+        {
+    "number": "week-00010",
+    "btiha_size": 5,
+    "udownloaders_total": 36766,
+    "uuploaders_total": 2434
+},
+        {
+    "number": "week-00011",
+    "btiha_size": 5,
+    "udownloaders_total": 41592,
+    "uuploaders_total": 2564
+}
+    ],
+    "collection_week_by_btiha": [
+        [
+    {
+        "id": 3,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безменов [rutracker-5809901]",
+        "btih": "4943c7b42520a6872a9c4e37ae1e7ef54d1b8bca",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 1.575807566,
+        "creation": "2019-11-23T15:36:03.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2074,
+        "uuploaders": 237
+    },
+    {
+        "id": 2,
+        "name": "Ferhat-ile-Sirin-S01E01-720p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "bfe9e38cc50ec4d5b33e74b12f46a625297438d8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.658551787,
+        "creation": "2019-11-22T23:17:48.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 172,
+        "uuploaders": 146
+    },
+    {
+        "id": 1,
+        "name": "Ferhat-ile-Sirin-S01E01-1080p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "f0d097bc84ad6c1b9be9ffed3a25ccfd33f53ec5",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 3.619089359,
+        "creation": "2019-11-23T08:23:25.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 91,
+        "uuploaders": 76
+    }
+],
+        [
+    {
+        "id": 3,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безменов [rutracker-5809901]",
+        "btih": "4943c7b42520a6872a9c4e37ae1e7ef54d1b8bca",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 1.575807566,
+        "creation": "2019-11-23T15:36:03.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3131,
+        "uuploaders": 324
+    },
+    {
+        "id": 2,
+        "name": "Ferhat-ile-Sirin-S01E01-720p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "bfe9e38cc50ec4d5b33e74b12f46a625297438d8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.658551787,
+        "creation": "2019-11-22T23:17:48.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 261,
+        "uuploaders": 222
+    },
+    {
+        "id": 1,
+        "name": "Ferhat-ile-Sirin-S01E01-1080p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "f0d097bc84ad6c1b9be9ffed3a25ccfd33f53ec5",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 3.619089359,
+        "creation": "2019-11-23T08:23:25.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 127,
+        "uuploaders": 104
+    }
+],
+        [
+    {
+        "id": 3,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безменов [rutracker-5809901]",
+        "btih": "4943c7b42520a6872a9c4e37ae1e7ef54d1b8bca",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 1.575807566,
+        "creation": "2019-11-23T15:36:03.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4495,
+        "uuploaders": 388
+    },
+    {
+        "id": 2,
+        "name": "Ferhat-ile-Sirin-S01E01-720p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "bfe9e38cc50ec4d5b33e74b12f46a625297438d8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.658551787,
+        "creation": "2019-11-22T23:17:48.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 308,
+        "uuploaders": 262
+    },
+    {
+        "id": 1,
+        "name": "Ferhat-ile-Sirin-S01E01-1080p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "f0d097bc84ad6c1b9be9ffed3a25ccfd33f53ec5",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 3.619089359,
+        "creation": "2019-11-23T08:23:25.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 153,
+        "uuploaders": 129
+    }
+],
+        [
+    {
+        "id": 3,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безменов [rutracker-5809901]",
+        "btih": "4943c7b42520a6872a9c4e37ae1e7ef54d1b8bca",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 1.575807566,
+        "creation": "2019-11-23T15:36:03.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6436,
+        "uuploaders": 480
+    },
+    {
+        "id": 4,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1-3 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безмен [rutracker-5809901]",
+        "btih": "2cd47abe4c4fbe1e8b6bce1d0b7519391403aef0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 4.56452085,
+        "creation": "2019-12-07T18:42:21.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1036,
+        "uuploaders": 76
+    },
+    {
+        "id": 5,
+        "name": "Ферхат и Ширин Ferhat İle Şirin Серии 1-4 (6) (Мехмед Ада Озтекин Mehmet Ada Öztekin) [2019, Турция, Драма, WEBRip (720p)] [rutracker-5809554]",
+        "btih": "edea6b4f4d42e15ddc720b4535b14413f69e0a98",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 7.415415573,
+        "creation": "2019-12-14T11:11:51.000000000Z,uTorrent/3.5,https://rutracker.org/forum/viewtopic.php?t=5809554",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 742,
+        "uuploaders": 58
+    },
+    {
+        "id": 2,
+        "name": "Ferhat-ile-Sirin-S01E01-720p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "bfe9e38cc50ec4d5b33e74b12f46a625297438d8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.658551787,
+        "creation": "2019-11-22T23:17:48.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 373,
+        "uuploaders": 312
+    },
+    {
+        "id": 1,
+        "name": "Ferhat-ile-Sirin-S01E01-1080p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "f0d097bc84ad6c1b9be9ffed3a25ccfd33f53ec5",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 3.619089359,
+        "creation": "2019-11-23T08:23:25.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 209,
+        "uuploaders": 174
+    }
+],
+        [
+    {
+        "id": 3,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безменов [rutracker-5809901]",
+        "btih": "4943c7b42520a6872a9c4e37ae1e7ef54d1b8bca",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 1.575807566,
+        "creation": "2019-11-23T15:36:03.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8223,
+        "uuploaders": 524
+    },
+    {
+        "id": 4,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1-3 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безмен [rutracker-5809901]",
+        "btih": "2cd47abe4c4fbe1e8b6bce1d0b7519391403aef0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 4.56452085,
+        "creation": "2019-12-07T18:42:21.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2114,
+        "uuploaders": 182
+    },
+    {
+        "id": 5,
+        "name": "Ферхат и Ширин Ferhat İle Şirin Серии 1-4 (6) (Мехмед Ада Озтекин Mehmet Ada Öztekin) [2019, Турция, Драма, WEBRip (720p)] [rutracker-5809554]",
+        "btih": "edea6b4f4d42e15ddc720b4535b14413f69e0a98",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 7.415415573,
+        "creation": "2019-12-14T11:11:51.000000000Z,uTorrent/3.5,https://rutracker.org/forum/viewtopic.php?t=5809554",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2070,
+        "uuploaders": 158
+    },
+    {
+        "id": 2,
+        "name": "Ferhat-ile-Sirin-S01E01-720p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "bfe9e38cc50ec4d5b33e74b12f46a625297438d8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.658551787,
+        "creation": "2019-11-22T23:17:48.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 430,
+        "uuploaders": 364
+    },
+    {
+        "id": 1,
+        "name": "Ferhat-ile-Sirin-S01E01-1080p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "f0d097bc84ad6c1b9be9ffed3a25ccfd33f53ec5",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 3.619089359,
+        "creation": "2019-11-23T08:23:25.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 244,
+        "uuploaders": 206
+    }
+],
+        [
+    {
+        "id": 3,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безменов [rutracker-5809901]",
+        "btih": "4943c7b42520a6872a9c4e37ae1e7ef54d1b8bca",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 1.575807566,
+        "creation": "2019-11-23T15:36:03.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10980,
+        "uuploaders": 585
+    },
+    {
+        "id": 5,
+        "name": "Ферхат и Ширин Ferhat İle Şirin Серии 1-4 (6) (Мехмед Ада Озтекин Mehmet Ada Öztekin) [2019, Турция, Драма, WEBRip (720p)] [rutracker-5809554]",
+        "btih": "edea6b4f4d42e15ddc720b4535b14413f69e0a98",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 7.415415573,
+        "creation": "2019-12-14T11:11:51.000000000Z,uTorrent/3.5,https://rutracker.org/forum/viewtopic.php?t=5809554",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5123,
+        "uuploaders": 188
+    },
+    {
+        "id": 4,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1-3 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безмен [rutracker-5809901]",
+        "btih": "2cd47abe4c4fbe1e8b6bce1d0b7519391403aef0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 4.56452085,
+        "creation": "2019-12-07T18:42:21.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3048,
+        "uuploaders": 272
+    },
+    {
+        "id": 2,
+        "name": "Ferhat-ile-Sirin-S01E01-720p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "bfe9e38cc50ec4d5b33e74b12f46a625297438d8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.658551787,
+        "creation": "2019-11-22T23:17:48.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 472,
+        "uuploaders": 395
+    },
+    {
+        "id": 1,
+        "name": "Ferhat-ile-Sirin-S01E01-1080p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "f0d097bc84ad6c1b9be9ffed3a25ccfd33f53ec5",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 3.619089359,
+        "creation": "2019-11-23T08:23:25.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 269,
+        "uuploaders": 230
+    }
+],
+        [
+    {
+        "id": 3,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безменов [rutracker-5809901]",
+        "btih": "4943c7b42520a6872a9c4e37ae1e7ef54d1b8bca",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 1.575807566,
+        "creation": "2019-11-23T15:36:03.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13071,
+        "uuploaders": 638
+    },
+    {
+        "id": 5,
+        "name": "Ферхат и Ширин Ferhat İle Şirin Серии 1-4 (6) (Мехмед Ада Озтекин Mehmet Ada Öztekin) [2019, Турция, Драма, WEBRip (720p)] [rutracker-5809554]",
+        "btih": "edea6b4f4d42e15ddc720b4535b14413f69e0a98",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 7.415415573,
+        "creation": "2019-12-14T11:11:51.000000000Z,uTorrent/3.5,https://rutracker.org/forum/viewtopic.php?t=5809554",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6226,
+        "uuploaders": 249
+    },
+    {
+        "id": 4,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1-3 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безмен [rutracker-5809901]",
+        "btih": "2cd47abe4c4fbe1e8b6bce1d0b7519391403aef0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 4.56452085,
+        "creation": "2019-12-07T18:42:21.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4374,
+        "uuploaders": 335
+    },
+    {
+        "id": 2,
+        "name": "Ferhat-ile-Sirin-S01E01-720p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "bfe9e38cc50ec4d5b33e74b12f46a625297438d8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.658551787,
+        "creation": "2019-11-22T23:17:48.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 501,
+        "uuploaders": 418
+    },
+    {
+        "id": 1,
+        "name": "Ferhat-ile-Sirin-S01E01-1080p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "f0d097bc84ad6c1b9be9ffed3a25ccfd33f53ec5",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 3.619089359,
+        "creation": "2019-11-23T08:23:25.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 284,
+        "uuploaders": 243
+    }
+],
+        [
+    {
+        "id": 3,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безменов [rutracker-5809901]",
+        "btih": "4943c7b42520a6872a9c4e37ae1e7ef54d1b8bca",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 1.575807566,
+        "creation": "2019-11-23T15:36:03.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 16575,
+        "uuploaders": 685
+    },
+    {
+        "id": 5,
+        "name": "Ферхат и Ширин Ferhat İle Şirin Серии 1-4 (6) (Мехмед Ада Озтекин Mehmet Ada Öztekin) [2019, Турция, Драма, WEBRip (720p)] [rutracker-5809554]",
+        "btih": "edea6b4f4d42e15ddc720b4535b14413f69e0a98",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 7.415415573,
+        "creation": "2019-12-14T11:11:51.000000000Z,uTorrent/3.5,https://rutracker.org/forum/viewtopic.php?t=5809554",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7302,
+        "uuploaders": 287
+    },
+    {
+        "id": 4,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1-3 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безмен [rutracker-5809901]",
+        "btih": "2cd47abe4c4fbe1e8b6bce1d0b7519391403aef0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 4.56452085,
+        "creation": "2019-12-07T18:42:21.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5715,
+        "uuploaders": 392
+    },
+    {
+        "id": 2,
+        "name": "Ferhat-ile-Sirin-S01E01-720p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "bfe9e38cc50ec4d5b33e74b12f46a625297438d8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.658551787,
+        "creation": "2019-11-22T23:17:48.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 523,
+        "uuploaders": 440
+    },
+    {
+        "id": 1,
+        "name": "Ferhat-ile-Sirin-S01E01-1080p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "f0d097bc84ad6c1b9be9ffed3a25ccfd33f53ec5",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 3.619089359,
+        "creation": "2019-11-23T08:23:25.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 293,
+        "uuploaders": 251
+    }
+],
+        [
+    {
+        "id": 3,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безменов [rutracker-5809901]",
+        "btih": "4943c7b42520a6872a9c4e37ae1e7ef54d1b8bca",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 1.575807566,
+        "creation": "2019-11-23T15:36:03.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 17236,
+        "uuploaders": 731
+    },
+    {
+        "id": 5,
+        "name": "Ферхат и Ширин Ferhat İle Şirin Серии 1-4 (6) (Мехмед Ада Озтекин Mehmet Ada Öztekin) [2019, Турция, Драма, WEBRip (720p)] [rutracker-5809554]",
+        "btih": "edea6b4f4d42e15ddc720b4535b14413f69e0a98",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 7.415415573,
+        "creation": "2019-12-14T11:11:51.000000000Z,uTorrent/3.5,https://rutracker.org/forum/viewtopic.php?t=5809554",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8060,
+        "uuploaders": 366
+    },
+    {
+        "id": 4,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1-3 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безмен [rutracker-5809901]",
+        "btih": "2cd47abe4c4fbe1e8b6bce1d0b7519391403aef0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 4.56452085,
+        "creation": "2019-12-07T18:42:21.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6829,
+        "uuploaders": 461
+    },
+    {
+        "id": 2,
+        "name": "Ferhat-ile-Sirin-S01E01-720p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "bfe9e38cc50ec4d5b33e74b12f46a625297438d8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.658551787,
+        "creation": "2019-11-22T23:17:48.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 536,
+        "uuploaders": 453
+    },
+    {
+        "id": 1,
+        "name": "Ferhat-ile-Sirin-S01E01-1080p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "f0d097bc84ad6c1b9be9ffed3a25ccfd33f53ec5",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 3.619089359,
+        "creation": "2019-11-23T08:23:25.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 309,
+        "uuploaders": 267
+    }
+],
+        [
+    {
+        "id": 3,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безменов [rutracker-5809901]",
+        "btih": "4943c7b42520a6872a9c4e37ae1e7ef54d1b8bca",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 1.575807566,
+        "creation": "2019-11-23T15:36:03.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 18549,
+        "uuploaders": 777
+    },
+    {
+        "id": 5,
+        "name": "Ферхат и Ширин Ferhat İle Şirin Серии 1-4 (6) (Мехмед Ада Озтекин Mehmet Ada Öztekin) [2019, Турция, Драма, WEBRip (720p)] [rutracker-5809554]",
+        "btih": "edea6b4f4d42e15ddc720b4535b14413f69e0a98",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 7.415415573,
+        "creation": "2019-12-14T11:11:51.000000000Z,uTorrent/3.5,https://rutracker.org/forum/viewtopic.php?t=5809554",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8791,
+        "uuploaders": 406
+    },
+    {
+        "id": 4,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1-3 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безмен [rutracker-5809901]",
+        "btih": "2cd47abe4c4fbe1e8b6bce1d0b7519391403aef0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 4.56452085,
+        "creation": "2019-12-07T18:42:21.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8552,
+        "uuploaders": 503
+    },
+    {
+        "id": 2,
+        "name": "Ferhat-ile-Sirin-S01E01-720p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "bfe9e38cc50ec4d5b33e74b12f46a625297438d8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.658551787,
+        "creation": "2019-11-22T23:17:48.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 556,
+        "uuploaders": 473
+    },
+    {
+        "id": 1,
+        "name": "Ferhat-ile-Sirin-S01E01-1080p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "f0d097bc84ad6c1b9be9ffed3a25ccfd33f53ec5",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 3.619089359,
+        "creation": "2019-11-23T08:23:25.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 318,
+        "uuploaders": 275
+    }
+],
+        [
+    {
+        "id": 3,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безменов [rutracker-5809901]",
+        "btih": "4943c7b42520a6872a9c4e37ae1e7ef54d1b8bca",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 1.575807566,
+        "creation": "2019-11-23T15:36:03.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 20605,
+        "uuploaders": 819
+    },
+    {
+        "id": 5,
+        "name": "Ферхат и Ширин Ferhat İle Şirin Серии 1-4 (6) (Мехмед Ада Озтекин Mehmet Ada Öztekin) [2019, Турция, Драма, WEBRip (720p)] [rutracker-5809554]",
+        "btih": "edea6b4f4d42e15ddc720b4535b14413f69e0a98",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 7.415415573,
+        "creation": "2019-12-14T11:11:51.000000000Z,uTorrent/3.5,https://rutracker.org/forum/viewtopic.php?t=5809554",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10703,
+        "uuploaders": 439
+    },
+    {
+        "id": 4,
+        "name": "Ферхат и Ширин Ferhat İle Sirin Серии 1-3 из (Мехмед Ада Озтекин) [2019, Турция, Драма, WEBRip] DVO (А. Гайдаржи & Н.Безмен [rutracker-5809901]",
+        "btih": "2cd47abe4c4fbe1e8b6bce1d0b7519391403aef0",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 4.56452085,
+        "creation": "2019-12-07T18:42:21.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809901",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 9386,
+        "uuploaders": 536
+    },
+    {
+        "id": 2,
+        "name": "Ferhat-ile-Sirin-S01E01-720p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "bfe9e38cc50ec4d5b33e74b12f46a625297438d8",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.658551787,
+        "creation": "2019-11-22T23:17:48.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 568,
+        "uuploaders": 484
+    },
+    {
+        "id": 1,
+        "name": "Ferhat-ile-Sirin-S01E01-1080p-HDTV-AC3-H.264-TURG(turktorrent.us)",
+        "btih": "f0d097bc84ad6c1b9be9ffed3a25ccfd33f53ec5",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 3.619089359,
+        "creation": "2019-11-23T08:23:25.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 330,
+        "uuploaders": 286
+    }
+]
+    ],
+    "collection_week_by_country": [
+        [
+    {
+        "number": "BRA_week_1",
+        "btiha_size": 1,
+        "udownloaders_total": 8,
+        "uuploaders_total": 1
+    },
+    {
+        "number": "CAN_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 39,
+        "uuploaders_total": 1
+    },
+    {
+        "number": "CHN_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 61,
+        "uuploaders_total": 4
+    },
+    {
+        "number": "DEU_week_1",
+        "btiha_size": 3,
+        "udownloaders_total": 41,
+        "uuploaders_total": 13
+    },
+    {
+        "number": "ESP_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 17,
+        "uuploaders_total": 1
+    },
+    {
+        "number": "FRA_week_1",
+        "btiha_size": 3,
+        "udownloaders_total": 130,
+        "uuploaders_total": 12
+    },
+    {
+        "number": "HKG_week_1",
+        "btiha_size": 1,
+        "udownloaders_total": 14,
+        "uuploaders_total": 2
+    },
+    {
+        "number": "JPN_week_1",
+        "btiha_size": 1,
+        "udownloaders_total": 57,
+        "uuploaders_total": 7
+    },
+    {
+        "number": "KOR_week_1",
+        "btiha_size": 1,
+        "udownloaders_total": 162,
+        "uuploaders_total": 1
+    },
+    {
+        "number": "MEX_week_1",
+        "btiha_size": 1,
+        "udownloaders_total": 6,
+        "uuploaders_total": 0
+    },
+    {
+        "number": "NLD_week_1",
+        "btiha_size": 3,
+        "udownloaders_total": 61,
+        "uuploaders_total": 9
+    },
+    {
+        "number": "RUS_week_1",
+        "btiha_size": 1,
+        "udownloaders_total": 826,
+        "uuploaders_total": 139
+    },
+    {
+        "number": "SWE_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 31,
+        "uuploaders_total": 3
+    },
+    {
+        "number": "TUR_week_1",
+        "btiha_size": 3,
+        "udownloaders_total": 209,
+        "uuploaders_total": 170
+    },
+    {
+        "number": "UKR_week_1",
+        "btiha_size": 1,
+        "udownloaders_total": 70,
+        "uuploaders_total": 22
+    },
+    {
+        "number": "USA_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 175,
+        "uuploaders_total": 24
+    }
+],
+        [
+    {
+        "number": "BRA_week_2",
+        "btiha_size": 1,
+        "udownloaders_total": 21,
+        "uuploaders_total": 1
+    },
+    {
+        "number": "CAN_week_2",
+        "btiha_size": 2,
+        "udownloaders_total": 52,
+        "uuploaders_total": 1
+    },
+    {
+        "number": "CHN_week_2",
+        "btiha_size": 2,
+        "udownloaders_total": 108,
+        "uuploaders_total": 9
+    },
+    {
+        "number": "DEU_week_2",
+        "btiha_size": 3,
+        "udownloaders_total": 52,
+        "uuploaders_total": 14
+    },
+    {
+        "number": "ESP_week_2",
+        "btiha_size": 2,
+        "udownloaders_total": 33,
+        "uuploaders_total": 1
+    },
+    {
+        "number": "FRA_week_2",
+        "btiha_size": 3,
+        "udownloaders_total": 174,
+        "uuploaders_total": 13
+    },
+    {
+        "number": "HKG_week_2",
+        "btiha_size": 1,
+        "udownloaders_total": 31,
+        "uuploaders_total": 8
+    },
+    {
+        "number": "JPN_week_2",
+        "btiha_size": 1,
+        "udownloaders_total": 90,
+        "uuploaders_total": 14
+    },
+    {
+        "number": "KOR_week_2",
+        "btiha_size": 1,
+        "udownloaders_total": 228,
+        "uuploaders_total": 1
+    },
+    {
+        "number": "MEX_week_2",
+        "btiha_size": 1,
+        "udownloaders_total": 7,
+        "uuploaders_total": 0
+    },
+    {
+        "number": "NLD_week_2",
+        "btiha_size": 3,
+        "udownloaders_total": 84,
+        "uuploaders_total": 10
+    },
+    {
+        "number": "RUS_week_2",
+        "btiha_size": 1,
+        "udownloaders_total": 1322,
+        "uuploaders_total": 183
+    },
+    {
+        "number": "SWE_week_2",
+        "btiha_size": 2,
+        "udownloaders_total": 46,
+        "uuploaders_total": 5
+    },
+    {
+        "number": "TUR_week_2",
+        "btiha_size": 3,
+        "udownloaders_total": 328,
+        "uuploaders_total": 269
+    },
+    {
+        "number": "UKR_week_2",
+        "btiha_size": 1,
+        "udownloaders_total": 90,
+        "uuploaders_total": 25
+    },
+    {
+        "number": "USA_week_2",
+        "btiha_size": 2,
+        "udownloaders_total": 246,
+        "uuploaders_total": 26
+    }
+],
+        [
+    {
+        "number": "BRA_week_3",
+        "btiha_size": 1,
+        "udownloaders_total": 29,
+        "uuploaders_total": 1
+    },
+    {
+        "number": "CAN_week_3",
+        "btiha_size": 2,
+        "udownloaders_total": 80,
+        "uuploaders_total": 1
+    },
+    {
+        "number": "CHN_week_3",
+        "btiha_size": 2,
+        "udownloaders_total": 155,
+        "uuploaders_total": 11
+    },
+    {
+        "number": "DEU_week_3",
+        "btiha_size": 3,
+        "udownloaders_total": 67,
+        "uuploaders_total": 16
+    },
+    {
+        "number": "ESP_week_3",
+        "btiha_size": 2,
+        "udownloaders_total": 52,
+        "uuploaders_total": 2
+    },
+    {
+        "number": "FRA_week_3",
+        "btiha_size": 3,
+        "udownloaders_total": 218,
+        "uuploaders_total": 14
+    },
+    {
+        "number": "HKG_week_3",
+        "btiha_size": 1,
+        "udownloaders_total": 43,
+        "uuploaders_total": 12
+    },
+    {
+        "number": "JPN_week_3",
+        "btiha_size": 1,
+        "udownloaders_total": 134,
+        "uuploaders_total": 19
+    },
+    {
+        "number": "KOR_week_3",
+        "btiha_size": 1,
+        "udownloaders_total": 331,
+        "uuploaders_total": 2
+    },
+    {
+        "number": "MEX_week_3",
+        "btiha_size": 1,
+        "udownloaders_total": 11,
+        "uuploaders_total": 0
+    },
+    {
+        "number": "NLD_week_3",
+        "btiha_size": 3,
+        "udownloaders_total": 113,
+        "uuploaders_total": 15
+    },
+    {
+        "number": "RUS_week_3",
+        "btiha_size": 1,
+        "udownloaders_total": 1730,
+        "uuploaders_total": 203
+    },
+    {
+        "number": "SWE_week_3",
+        "btiha_size": 2,
+        "udownloaders_total": 62,
+        "uuploaders_total": 5
+    },
+    {
+        "number": "TUR_week_3",
+        "btiha_size": 3,
+        "udownloaders_total": 397,
+        "uuploaders_total": 330
+    },
+    {
+        "number": "UKR_week_3",
+        "btiha_size": 2,
+        "udownloaders_total": 118,
+        "uuploaders_total": 26
+    },
+    {
+        "number": "USA_week_3",
+        "btiha_size": 3,
+        "udownloaders_total": 381,
+        "uuploaders_total": 34
+    }
+],
+        [
+    {
+        "number": "BRA_week_4",
+        "btiha_size": 3,
+        "udownloaders_total": 56,
+        "uuploaders_total": 1
+    },
+    {
+        "number": "CAN_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 154,
+        "uuploaders_total": 4
+    },
+    {
+        "number": "CHN_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 265,
+        "uuploaders_total": 14
+    },
+    {
+        "number": "DEU_week_4",
+        "btiha_size": 5,
+        "udownloaders_total": 114,
+        "uuploaders_total": 25
+    },
+    {
+        "number": "ESP_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 78,
+        "uuploaders_total": 3
+    },
+    {
+        "number": "FRA_week_4",
+        "btiha_size": 5,
+        "udownloaders_total": 317,
+        "uuploaders_total": 21
+    },
+    {
+        "number": "HKG_week_4",
+        "btiha_size": 3,
+        "udownloaders_total": 71,
+        "uuploaders_total": 19
+    },
+    {
+        "number": "JPN_week_4",
+        "btiha_size": 3,
+        "udownloaders_total": 206,
+        "uuploaders_total": 31
+    },
+    {
+        "number": "KOR_week_4",
+        "btiha_size": 3,
+        "udownloaders_total": 486,
+        "uuploaders_total": 4
+    },
+    {
+        "number": "MEX_week_4",
+        "btiha_size": 2,
+        "udownloaders_total": 14,
+        "uuploaders_total": 0
+    },
+    {
+        "number": "NLD_week_4",
+        "btiha_size": 5,
+        "udownloaders_total": 180,
+        "uuploaders_total": 18
+    },
+    {
+        "number": "RUS_week_4",
+        "btiha_size": 3,
+        "udownloaders_total": 3381,
+        "uuploaders_total": 282
+    },
+    {
+        "number": "SWE_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 110,
+        "uuploaders_total": 8
+    },
+    {
+        "number": "TUR_week_4",
+        "btiha_size": 3,
+        "udownloaders_total": 519,
+        "uuploaders_total": 422
+    },
+    {
+        "number": "UKR_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 210,
+        "uuploaders_total": 45
+    },
+    {
+        "number": "USA_week_4",
+        "btiha_size": 5,
+        "udownloaders_total": 896,
+        "uuploaders_total": 46
+    }
+],
+        [
+    {
+        "number": "BRA_week_5",
+        "btiha_size": 3,
+        "udownloaders_total": 84,
+        "uuploaders_total": 1
+    },
+    {
+        "number": "CAN_week_5",
+        "btiha_size": 5,
+        "udownloaders_total": 255,
+        "uuploaders_total": 5
+    },
+    {
+        "number": "CHN_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 407,
+        "uuploaders_total": 24
+    },
+    {
+        "number": "DEU_week_5",
+        "btiha_size": 5,
+        "udownloaders_total": 180,
+        "uuploaders_total": 31
+    },
+    {
+        "number": "ESP_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 123,
+        "uuploaders_total": 3
+    },
+    {
+        "number": "FRA_week_5",
+        "btiha_size": 5,
+        "udownloaders_total": 491,
+        "uuploaders_total": 34
+    },
+    {
+        "number": "HKG_week_5",
+        "btiha_size": 3,
+        "udownloaders_total": 104,
+        "uuploaders_total": 28
+    },
+    {
+        "number": "JPN_week_5",
+        "btiha_size": 3,
+        "udownloaders_total": 332,
+        "uuploaders_total": 44
+    },
+    {
+        "number": "KOR_week_5",
+        "btiha_size": 3,
+        "udownloaders_total": 690,
+        "uuploaders_total": 4
+    },
+    {
+        "number": "MEX_week_5",
+        "btiha_size": 3,
+        "udownloaders_total": 21,
+        "uuploaders_total": 1
+    },
+    {
+        "number": "NLD_week_5",
+        "btiha_size": 5,
+        "udownloaders_total": 267,
+        "uuploaders_total": 21
+    },
+    {
+        "number": "RUS_week_5",
+        "btiha_size": 3,
+        "udownloaders_total": 4755,
+        "uuploaders_total": 364
+    },
+    {
+        "number": "SWE_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 171,
+        "uuploaders_total": 8
+    },
+    {
+        "number": "TUR_week_5",
+        "btiha_size": 5,
+        "udownloaders_total": 613,
+        "uuploaders_total": 503
+    },
+    {
+        "number": "UKR_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 317,
+        "uuploaders_total": 60
+    },
+    {
+        "number": "USA_week_5",
+        "btiha_size": 5,
+        "udownloaders_total": 1522,
+        "uuploaders_total": 65
+    }
+],
+        [
+    {
+        "number": "BRA_week_6",
+        "btiha_size": 3,
+        "udownloaders_total": 130,
+        "uuploaders_total": 2
+    },
+    {
+        "number": "CAN_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 446,
+        "uuploaders_total": 10
+    },
+    {
+        "number": "CHN_week_6",
+        "btiha_size": 4,
+        "udownloaders_total": 569,
+        "uuploaders_total": 27
+    },
+    {
+        "number": "DEU_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 248,
+        "uuploaders_total": 35
+    },
+    {
+        "number": "ESP_week_6",
+        "btiha_size": 4,
+        "udownloaders_total": 178,
+        "uuploaders_total": 6
+    },
+    {
+        "number": "FRA_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 687,
+        "uuploaders_total": 37
+    },
+    {
+        "number": "HKG_week_6",
+        "btiha_size": 3,
+        "udownloaders_total": 150,
+        "uuploaders_total": 34
+    },
+    {
+        "number": "JPN_week_6",
+        "btiha_size": 3,
+        "udownloaders_total": 496,
+        "uuploaders_total": 64
+    },
+    {
+        "number": "KOR_week_6",
+        "btiha_size": 3,
+        "udownloaders_total": 1119,
+        "uuploaders_total": 6
+    },
+    {
+        "number": "MEX_week_6",
+        "btiha_size": 3,
+        "udownloaders_total": 30,
+        "uuploaders_total": 1
+    },
+    {
+        "number": "NLD_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 405,
+        "uuploaders_total": 24
+    },
+    {
+        "number": "RUS_week_6",
+        "btiha_size": 3,
+        "udownloaders_total": 7629,
+        "uuploaders_total": 430
+    },
+    {
+        "number": "SWE_week_6",
+        "btiha_size": 4,
+        "udownloaders_total": 241,
+        "uuploaders_total": 8
+    },
+    {
+        "number": "TUR_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 689,
+        "uuploaders_total": 557
+    },
+    {
+        "number": "UKR_week_6",
+        "btiha_size": 4,
+        "udownloaders_total": 461,
+        "uuploaders_total": 68
+    },
+    {
+        "number": "USA_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 2440,
+        "uuploaders_total": 79
+    }
+],
+        [
+    {
+        "number": "BRA_week_7",
+        "btiha_size": 3,
+        "udownloaders_total": 158,
+        "uuploaders_total": 2
+    },
+    {
+        "number": "CAN_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 563,
+        "uuploaders_total": 14
+    },
+    {
+        "number": "CHN_week_7",
+        "btiha_size": 4,
+        "udownloaders_total": 747,
+        "uuploaders_total": 32
+    },
+    {
+        "number": "DEU_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 290,
+        "uuploaders_total": 42
+    },
+    {
+        "number": "ESP_week_7",
+        "btiha_size": 4,
+        "udownloaders_total": 228,
+        "uuploaders_total": 10
+    },
+    {
+        "number": "FRA_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 817,
+        "uuploaders_total": 40
+    },
+    {
+        "number": "HKG_week_7",
+        "btiha_size": 3,
+        "udownloaders_total": 197,
+        "uuploaders_total": 40
+    },
+    {
+        "number": "JPN_week_7",
+        "btiha_size": 3,
+        "udownloaders_total": 627,
+        "uuploaders_total": 78
+    },
+    {
+        "number": "KOR_week_7",
+        "btiha_size": 3,
+        "udownloaders_total": 1461,
+        "uuploaders_total": 8
+    },
+    {
+        "number": "MEX_week_7",
+        "btiha_size": 3,
+        "udownloaders_total": 48,
+        "uuploaders_total": 3
+    },
+    {
+        "number": "NLD_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 497,
+        "uuploaders_total": 25
+    },
+    {
+        "number": "RUS_week_7",
+        "btiha_size": 3,
+        "udownloaders_total": 9496,
+        "uuploaders_total": 482
+    },
+    {
+        "number": "SWE_week_7",
+        "btiha_size": 4,
+        "udownloaders_total": 265,
+        "uuploaders_total": 8
+    },
+    {
+        "number": "TUR_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 740,
+        "uuploaders_total": 594
+    },
+    {
+        "number": "UKR_week_7",
+        "btiha_size": 4,
+        "udownloaders_total": 576,
+        "uuploaders_total": 75
+    },
+    {
+        "number": "USA_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 2793,
+        "uuploaders_total": 92
+    }
+],
+        [
+    {
+        "number": "BRA_week_8",
+        "btiha_size": 3,
+        "udownloaders_total": 209,
+        "uuploaders_total": 2
+    },
+    {
+        "number": "CAN_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 706,
+        "uuploaders_total": 15
+    },
+    {
+        "number": "CHN_week_8",
+        "btiha_size": 4,
+        "udownloaders_total": 938,
+        "uuploaders_total": 36
+    },
+    {
+        "number": "DEU_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 348,
+        "uuploaders_total": 44
+    },
+    {
+        "number": "ESP_week_8",
+        "btiha_size": 4,
+        "udownloaders_total": 281,
+        "uuploaders_total": 11
+    },
+    {
+        "number": "FRA_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 993,
+        "uuploaders_total": 46
+    },
+    {
+        "number": "HKG_week_8",
+        "btiha_size": 3,
+        "udownloaders_total": 241,
+        "uuploaders_total": 47
+    },
+    {
+        "number": "JPN_week_8",
+        "btiha_size": 3,
+        "udownloaders_total": 775,
+        "uuploaders_total": 88
+    },
+    {
+        "number": "KOR_week_8",
+        "btiha_size": 3,
+        "udownloaders_total": 1881,
+        "uuploaders_total": 10
+    },
+    {
+        "number": "MEX_week_8",
+        "btiha_size": 3,
+        "udownloaders_total": 64,
+        "uuploaders_total": 4
+    },
+    {
+        "number": "NLD_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 618,
+        "uuploaders_total": 28
+    },
+    {
+        "number": "RUS_week_8",
+        "btiha_size": 3,
+        "udownloaders_total": 12157,
+        "uuploaders_total": 516
+    },
+    {
+        "number": "SWE_week_8",
+        "btiha_size": 4,
+        "udownloaders_total": 311,
+        "uuploaders_total": 8
+    },
+    {
+        "number": "TUR_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 779,
+        "uuploaders_total": 621
+    },
+    {
+        "number": "UKR_week_8",
+        "btiha_size": 4,
+        "udownloaders_total": 715,
+        "uuploaders_total": 81
+    },
+    {
+        "number": "USA_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 3358,
+        "uuploaders_total": 105
+    }
+],
+        [
+    {
+        "number": "BRA_week_9",
+        "btiha_size": 3,
+        "udownloaders_total": 224,
+        "uuploaders_total": 2
+    },
+    {
+        "number": "CAN_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 786,
+        "uuploaders_total": 16
+    },
+    {
+        "number": "CHN_week_9",
+        "btiha_size": 4,
+        "udownloaders_total": 1067,
+        "uuploaders_total": 41
+    },
+    {
+        "number": "DEU_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 376,
+        "uuploaders_total": 46
+    },
+    {
+        "number": "ESP_week_9",
+        "btiha_size": 4,
+        "udownloaders_total": 299,
+        "uuploaders_total": 12
+    },
+    {
+        "number": "FRA_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 1067,
+        "uuploaders_total": 49
+    },
+    {
+        "number": "HKG_week_9",
+        "btiha_size": 3,
+        "udownloaders_total": 267,
+        "uuploaders_total": 52
+    },
+    {
+        "number": "JPN_week_9",
+        "btiha_size": 3,
+        "udownloaders_total": 869,
+        "uuploaders_total": 101
+    },
+    {
+        "number": "KOR_week_9",
+        "btiha_size": 3,
+        "udownloaders_total": 2028,
+        "uuploaders_total": 11
+    },
+    {
+        "number": "MEX_week_9",
+        "btiha_size": 3,
+        "udownloaders_total": 69,
+        "uuploaders_total": 4
+    },
+    {
+        "number": "NLD_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 671,
+        "uuploaders_total": 29
+    },
+    {
+        "number": "RUS_week_9",
+        "btiha_size": 3,
+        "udownloaders_total": 13123,
+        "uuploaders_total": 598
+    },
+    {
+        "number": "SWE_week_9",
+        "btiha_size": 4,
+        "udownloaders_total": 332,
+        "uuploaders_total": 9
+    },
+    {
+        "number": "TUR_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 812,
+        "uuploaders_total": 650
+    },
+    {
+        "number": "UKR_week_9",
+        "btiha_size": 4,
+        "udownloaders_total": 784,
+        "uuploaders_total": 93
+    },
+    {
+        "number": "USA_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 3653,
+        "uuploaders_total": 128
+    }
+],
+        [
+    {
+        "number": "BRA_week_10",
+        "btiha_size": 3,
+        "udownloaders_total": 263,
+        "uuploaders_total": 2
+    },
+    {
+        "number": "CAN_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 954,
+        "uuploaders_total": 16
+    },
+    {
+        "number": "CHN_week_10",
+        "btiha_size": 4,
+        "udownloaders_total": 1195,
+        "uuploaders_total": 47
+    },
+    {
+        "number": "DEU_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 424,
+        "uuploaders_total": 50
+    },
+    {
+        "number": "ESP_week_10",
+        "btiha_size": 4,
+        "udownloaders_total": 344,
+        "uuploaders_total": 13
+    },
+    {
+        "number": "FRA_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 1185,
+        "uuploaders_total": 51
+    },
+    {
+        "number": "HKG_week_10",
+        "btiha_size": 3,
+        "udownloaders_total": 309,
+        "uuploaders_total": 63
+    },
+    {
+        "number": "JPN_week_10",
+        "btiha_size": 3,
+        "udownloaders_total": 989,
+        "uuploaders_total": 115
+    },
+    {
+        "number": "KOR_week_10",
+        "btiha_size": 3,
+        "udownloaders_total": 2339,
+        "uuploaders_total": 12
+    },
+    {
+        "number": "MEX_week_10",
+        "btiha_size": 3,
+        "udownloaders_total": 86,
+        "uuploaders_total": 4
+    },
+    {
+        "number": "NLD_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 733,
+        "uuploaders_total": 30
+    },
+    {
+        "number": "RUS_week_10",
+        "btiha_size": 3,
+        "udownloaders_total": 13967,
+        "uuploaders_total": 646
+    },
+    {
+        "number": "SWE_week_10",
+        "btiha_size": 4,
+        "udownloaders_total": 376,
+        "uuploaders_total": 9
+    },
+    {
+        "number": "TUR_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 848,
+        "uuploaders_total": 678
+    },
+    {
+        "number": "UKR_week_10",
+        "btiha_size": 4,
+        "udownloaders_total": 846,
+        "uuploaders_total": 94
+    },
+    {
+        "number": "USA_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 4520,
+        "uuploaders_total": 140
+    }
+],
+        [
+    {
+        "number": "BRA_week_11",
+        "btiha_size": 3,
+        "udownloaders_total": 322,
+        "uuploaders_total": 2
+    },
+    {
+        "number": "CAN_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 1176,
+        "uuploaders_total": 16
+    },
+    {
+        "number": "CHN_week_11",
+        "btiha_size": 4,
+        "udownloaders_total": 1386,
+        "uuploaders_total": 54
+    },
+    {
+        "number": "DEU_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 478,
+        "uuploaders_total": 54
+    },
+    {
+        "number": "ESP_week_11",
+        "btiha_size": 4,
+        "udownloaders_total": 395,
+        "uuploaders_total": 14
+    },
+    {
+        "number": "FRA_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 1368,
+        "uuploaders_total": 55
+    },
+    {
+        "number": "HKG_week_11",
+        "btiha_size": 3,
+        "udownloaders_total": 363,
+        "uuploaders_total": 66
+    },
+    {
+        "number": "JPN_week_11",
+        "btiha_size": 3,
+        "udownloaders_total": 1138,
+        "uuploaders_total": 122
+    },
+    {
+        "number": "KOR_week_11",
+        "btiha_size": 3,
+        "udownloaders_total": 2947,
+        "uuploaders_total": 12
+    },
+    {
+        "number": "MEX_week_11",
+        "btiha_size": 3,
+        "udownloaders_total": 107,
+        "uuploaders_total": 4
+    },
+    {
+        "number": "NLD_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 861,
+        "uuploaders_total": 33
+    },
+    {
+        "number": "RUS_week_11",
+        "btiha_size": 3,
+        "udownloaders_total": 15020,
+        "uuploaders_total": 688
+    },
+    {
+        "number": "SWE_week_11",
+        "btiha_size": 4,
+        "udownloaders_total": 424,
+        "uuploaders_total": 9
+    },
+    {
+        "number": "TUR_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 879,
+        "uuploaders_total": 698
+    },
+    {
+        "number": "UKR_week_11",
+        "btiha_size": 4,
+        "udownloaders_total": 941,
+        "uuploaders_total": 97
+    },
+    {
+        "number": "USA_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 5281,
+        "uuploaders_total": 152
+    }
+]
+    ]
+}
