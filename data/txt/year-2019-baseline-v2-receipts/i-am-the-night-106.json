@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt7186588",
+    "imdb_id": "tt7186588",
+    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
+    "wikidata_id": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/I_Am_the_Night_(TV_series)"
+  },
+  "coverage_sha256": "97d267d37125fb4429978e9658093eb33246f99090f6a82b620d8ab84052231d",
+  "generated_at": "2026-09-05T17:58:42.378681+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/i-am-the-night-106.cache/cache.20190408.tar.xz",
+      "sha256": "41c67b22ac241c783b93e3d5b67f7c8febef272297ba5696889821059894be76",
+      "size": 210178424
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/i-am-the-night-106.md",
+      "sha256": "7ce74c421c6923ecfc05147819e4f78366b234e67d34a11ec30169cd4b9475a5",
+      "size": 596
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/i-am-the-night-106.json",
+      "sha256": "35c01ef0ade01e104a53ee83214a1981f6762574d786bb816a03e6bd56783409",
+      "size": 2173
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/i-am-the-night-106.json",
+      "sha256": "f2f41a78b5d72c3fcd3e364a6592a88e8c12e5d8422b793f9b089a17cb774b3e",
+      "size": 370
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "c1c212754c31864df8eff7df764ea81851725028d25a7b2bc6d3092033343c41",
+      "size": 49746
+    }
+  },
+  "media_object": "i-am-the-night-106",
+  "published_files": {
+    "data/csv/bytes/i-am-the-night-106-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "4b3c5305e2199493e79efd49ed832ca8520aa4346ec598bfc68df243ce6cee6f",
+    "docs/itemized/figures/i-am-the-night-106-carto-4k.webp": "937beb88e993063228824dad126029338bb62117858183af8bba1a775f62564c",
+    "docs/itemized/figures/i-am-the-night-106-carto.png": "069b97d6d89b0c6d37034bfc2db30a6e22a0f3980f45b3e6e9e11a50e7911d3b",
+    "docs/itemized/figures/i-am-the-night-106-cumulative-detail-btiha-itemized-by-bytes.svg": "e1ef7ee11ff908532e1f55dee159c69df2d6f4169d2f1b1d19511885797cb3dd",
+    "docs/itemized/figures/i-am-the-night-106-data-ge-1080p-4k.webp": "4edc83ecd6aea79c55a19cc40e2df80b1da4628f82c274232d871d63e552da1a",
+    "docs/itemized/figures/i-am-the-night-106-data-ge-1080p.webp": "472d3727f82f3c2a5dde3a675c7d2bc3edf2541920c0f1ea1ec0a227d27b89a2",
+    "docs/itemized/figures/i-am-the-night-106-data-lt-1080p-4k.webp": "ee69090910e4e1927d195bf545616c628bb5bd16204c77cf1b014fb81d6416dd",
+    "docs/itemized/figures/i-am-the-night-106-data-lt-1080p.webp": "f48e6ee2b91ba02e9f3622889d88e6a25c3e4fcff9fab03b4224392eaf3c584c",
+    "docs/itemized/figures/i-am-the-night-106-downloads-by-day-day.svg": "cb4b6ffdb7a553a37a9d7cb757314788c5c0575295a1b3e30d13d7a8065bd4fc",
+    "docs/itemized/figures/i-am-the-night-106-downloads-by-week-i-am-the-night-106-week.svg": "eeffe1c3646fc33b1b8629af21a1446b349d85356c2ea2d3c7e8625868dc1ed3",
+    "docs/itemized/i-am-the-night-106-sample-cache-audit.md": "3003b3be7f0981d67ecf40dd4c8b35c9688888372c6deb1fdc1906d21ee874ff",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "266d3ea17853fe1320391793ac55e9383a0ace90",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/i-am-the-night-106/tmp/i-am-the-night-106-cumulative-btiha.geojson",
+        "sha256": "93c1929a5150a38b25fe68990ccba01fe23f3b680582f1e68eeec1f27888ad5c",
+        "size": 41447878
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/i-am-the-night-106/tmp/i-am-the-night-106-cumulative-btiha-media-objects.json",
+        "sha256": "d6d9656109c09012b8741ed263baa28c4d15c3315a206aacddb37e5622efb467",
+        "size": 206519
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "i-am-the-night-106",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          82.0,
+          53.0,
+          50.0,
+          49.0,
+          45.0,
+          40.0,
+          37.0,
+          32.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "Tokyo",
+          "New York City",
+          "London",
+          "Seattle",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          70.0,
+          42.0,
+          41.0,
+          39.0,
+          37.0,
+          36.0,
+          33.0,
+          29.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "Seattle",
+          "New York City",
+          "Seoul",
+          "Tokyo",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 35,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 32,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 5,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "266d3ea17853fe1320391793ac55e9383a0ace90",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}
