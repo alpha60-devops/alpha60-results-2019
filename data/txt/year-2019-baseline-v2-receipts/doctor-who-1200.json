@@ -2,12 +2,12 @@
   "canonical_metadata": {
     "external_imdb": "tt0436992",
     "imdb_id": "tt0436992",
-    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
-    "wikidata_id": "",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Doctor_Who, https://en.wikipedia.org/wiki/Doctor_Who_(series_12)"
+    "revision": "7f973ef903a4f8faf7271e7273fed4ff725fa525",
+    "wikidata_id": "Q58958980",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Doctor_Who_series_12"
   },
   "coverage_sha256": "f586ae0af4ea8cf29680d4447d5b354586d336b361cac5c21a58e79551220740",
-  "generated_at": "2026-09-05T17:20:05.057511+00:00",
+  "generated_at": "2026-09-05T20:04:20.269690+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
@@ -39,7 +39,7 @@
   "media_object": "doctor-who-1200",
   "published_files": {
     "data/csv/bytes/doctor-who-1200-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "a70201d563e429860887e62058aacf920a476b70e1a27b0f6cbf2999c8310555",
-    "docs/itemized/doctor-who-1200-sample-cache-audit.md": "85d4dac02fe30eb6b1a0f85b56a8ad646fb2f97625d9489b810a294f1ff4d5ec",
+    "docs/itemized/doctor-who-1200-sample-cache-audit.md": "e4af6616b0390c0426e2b620e8add9efd160c17b17c0f7c922b2066b02957d8b",
     "docs/itemized/figures/doctor-who-1200-carto-4k.webp": "d1655251f08524c22bc11065cc45c39b4fb3affe4fd8cb355e45abe4b4558bc1",
     "docs/itemized/figures/doctor-who-1200-carto.png": "d1e6d7adce37b9b224359c221d3ca21576484c92bf811d78f9094ed9e0f7183a",
     "docs/itemized/figures/doctor-who-1200-cumulative-detail-btiha-itemized-by-bytes.svg": "59e1aad501866688e5a76317ab72344cd8e62dbc77a580cf8a777754bd3e7c26",
@@ -55,7 +55,7 @@
     "alpha60": {
       "dirty": false,
       "path": "/home/bkoz/src/alpha60",
-      "revision": "df614eb9d6c26488b1698d98ca8d7a5ef9593922",
+      "revision": "5986b46764300ac2e71bdfb79ee35c915f446205",
       "untracked": false
     },
     "carto_renderer": {
@@ -196,11 +196,11 @@
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "df614eb9d6c26488b1698d98ca8d7a5ef9593922",
+    "alpha60": "5986b46764300ac2e71bdfb79ee35c915f446205",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
     "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
     "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
-    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+    "metadata": "7f973ef903a4f8faf7271e7273fed4ff725fa525"
   },
   "status": "passed",
   "validation_source": "render-receipt",

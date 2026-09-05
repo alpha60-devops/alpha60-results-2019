@@ -14,7 +14,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Doctor Who 2005 |
 | Collection key | `doctor-who-1200` |
 | imdb_id | [tt0436992](https://www.imdb.com/title/tt0436992/) |
-| wikipedia_url | [Doctor Who (series 12)](https://en.wikipedia.org/wiki/Doctor_Who, https://en.wikipedia.org/wiki/Doctor_Who_(series_12)) |
+| wikipedia_url | [Doctor Who series 12](https://en.wikipedia.org/wiki/Doctor_Who_series_12) |
 | Sample dates | 2019-01-01-to-2019-01-28 |
 | Sample days | 28 |
 | BTIH count | 51 |
