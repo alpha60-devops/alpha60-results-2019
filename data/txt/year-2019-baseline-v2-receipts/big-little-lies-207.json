@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt3920596",
+    "imdb_id": "tt3920596",
+    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
+    "wikidata_id": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Big_Little_Lies_(TV_series)"
+  },
+  "coverage_sha256": "a79a109b6bdfd4bf35acfb58011582313d5e3c8f89802339c8a6e977c21b97de",
+  "generated_at": "2026-09-05T17:15:59.867842+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/big-little-lies-207.cache/cache.20190825.tar.xz",
+      "sha256": "e6f83aedda0df99bc47a6ba16339fa1f6a160018c4f9f129ca877b4827ebf83c",
+      "size": 390110428
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/big-little-lies-207.md",
+      "sha256": "762b9e6dbabefe75f0063b15685bc6d91e43cbd111a3926a981402adb70ecc11",
+      "size": 597
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/big-little-lies-207.json",
+      "sha256": "44080d51e4567454fd23474b365c6e32443debcae982ba3828fca85edb1f1e32",
+      "size": 2176
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/big-little-lies-207.json",
+      "sha256": "8268604610033c93181c6e2d15c1ec0736c96e2c9458439726dc568d499cb094",
+      "size": 371
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "7911aae557caa5b9d78dffc736d9346c4a420fb9dc94cb24a9d7911e4d311b2f",
+      "size": 47076
+    }
+  },
+  "media_object": "big-little-lies-207",
+  "published_files": {
+    "data/csv/bytes/big-little-lies-207-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "7009c1013542d96438d51e7b73bd1b0be3ae8c602476526f44b7f818641929e2",
+    "docs/itemized/big-little-lies-207-sample-cache-audit.md": "bf896be8c94069759b83b7b991935fe540d8b99f925022b146295288c1813ddd",
+    "docs/itemized/figures/big-little-lies-207-carto-4k.webp": "269c376f478567ab0e74fb40ebbc19555df57fad733e850791a31d6295c5c9bf",
+    "docs/itemized/figures/big-little-lies-207-carto.png": "b7f23d6ed182b0248738eb2325ac5c83cde12d1e173701b01804ef738fc048a6",
+    "docs/itemized/figures/big-little-lies-207-cumulative-detail-btiha-itemized-by-bytes.svg": "6fdcb10acfece36105816c97a7301fa913f3e31b784b6af185abcaab98c12da8",
+    "docs/itemized/figures/big-little-lies-207-data-ge-1080p-4k.webp": "c5022e9bd6d36e4cffbb0fcd8a33b322a1436df03c9ed48c418bcfd30ae7dca5",
+    "docs/itemized/figures/big-little-lies-207-data-ge-1080p.webp": "2fa2f4e1ad43c71c470bda0f205f3b6814a5e8117b06075d31f242f569ffb88e",
+    "docs/itemized/figures/big-little-lies-207-data-lt-1080p-4k.webp": "6f00a80fdc82ee0574615ceda16d30003f9a13c6d4fa256d568dbee28e628759",
+    "docs/itemized/figures/big-little-lies-207-data-lt-1080p.webp": "809050ae0a43af1cbf51607000f9772e51a98b201d7d0353b3f8e25ee2db870d",
+    "docs/itemized/figures/big-little-lies-207-downloads-by-day-day.svg": "088ee3f1007d9ce9e41b9d1fb24061898775a211c383fcc7c419c73b255a03ba",
+    "docs/itemized/figures/big-little-lies-207-downloads-by-week-big-little-lies-207-week.svg": "6543eaaaaf10dc152449f2f49faf301152ef021305c93153bf51946e6e6d87a3",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "df614eb9d6c26488b1698d98ca8d7a5ef9593922",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/big-little-lies-207/tmp/big-little-lies-207-cumulative-btiha.geojson",
+        "sha256": "7db346348c04bc34f405e6284664d9ac317a2f2de0676a31e22d03fa04e65684",
+        "size": 28076736
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/big-little-lies-207/tmp/big-little-lies-207-cumulative-btiha-media-objects.json",
+        "sha256": "d1b0003466e30010b1a553b3da95d59753f23d186322fa93f60011d18a7bc884",
+        "size": 202447
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "big-little-lies-207",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          69.0,
+          57.0,
+          56.0,
+          42.0,
+          32.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Ashburn",
+          "Moscow",
+          "S\u00e3o Paulo",
+          "Sydney",
+          "Melbourne",
+          "Amsterdam",
+          "Toronto",
+          "New York City",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          72.0,
+          54.0,
+          43.0,
+          43.0,
+          33.0,
+          33.0,
+          31.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Ashburn",
+          "Sydney",
+          "Saint Petersburg",
+          "S\u00e3o Paulo",
+          "Cape Town",
+          "Melbourne",
+          "Amsterdam",
+          "Mumbai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 35,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 32,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 5,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "df614eb9d6c26488b1698d98ca8d7a5ef9593922",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}
