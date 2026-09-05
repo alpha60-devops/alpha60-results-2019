@@ -1,0 +1,1285 @@
+{
+  "cache_root": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold",
+  "owner": "eureka",
+  "records": [
+    {
+      "archive": {
+        "filename": "cache.20190825.tar.xz",
+        "filename_date": "20190825",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/big-little-lies-207.cache/cache.20190825.tar.xz",
+        "sha256": "e6f83aedda0df99bc47a6ba16339fa1f6a160018c4f9f129ca877b4827ebf83c",
+        "size": 390110428
+      },
+      "collection_key": "big-little-lies-207",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 35,
+          "cache_members": 2964,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-08-25",
+          "sample_span_days": 35,
+          "sample_start": "2019-07-22",
+          "torrent_indices": 90
+        },
+        "required_collection_key": "big-little-lies-207",
+        "required_day_products": 35,
+        "required_sample_days": 35,
+        "required_sample_end": "2019-08-25",
+        "required_sample_start": "2019-07-22",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "207",
+        "collection_name": "Big Little Lies",
+        "metadata_version": "2025-11-22",
+        "sample_days": 35,
+        "sample_end": "2019-08-25",
+        "sample_start": "2019-07-22",
+        "sha256": "793c47ba120a6f14176cab8548326b3b05eb5e032c36f69291cf8d16ae18b2f0",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/big-little-lies-207.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190825.tar.xz",
+            "size": 390110428
+          }
+        ],
+        "expected_filename_date": "20190825"
+      },
+      "worker_archive_relative_path": "big-little-lies-207.cache/cache.20190825.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20190512.tar.xz",
+        "filename_date": "20190512",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/black-monday-110.cache/cache.20190512.tar.xz",
+        "sha256": "f00ca40d35d8ec17702d36dbc4b798af6fdeda44487a9b478d9985b92837f6e3",
+        "size": 464524452
+      },
+      "collection_key": "black-monday-110",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 42,
+          "cache_members": 2443,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-05-12",
+          "sample_span_days": 42,
+          "sample_start": "2019-04-01",
+          "torrent_indices": 59
+        },
+        "required_collection_key": "black-monday-110",
+        "required_day_products": 42,
+        "required_sample_days": 42,
+        "required_sample_end": "2019-05-12",
+        "required_sample_start": "2019-04-01",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "110",
+        "collection_name": "Black Monday",
+        "metadata_version": "2025-11-22",
+        "sample_days": 42,
+        "sample_end": "2019-05-12",
+        "sample_start": "2019-04-01",
+        "sha256": "0750a6a466195217c288a828f12151a8c43a467fd90012fbb5aae2758601a142",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/black-monday-110.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190512.tar.xz",
+            "size": 464524452
+          }
+        ],
+        "expected_filename_date": "20190512"
+      },
+      "worker_archive_relative_path": "black-monday-110.cache/cache.20190512.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20190128.tar.xz",
+        "filename_date": "20190128",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/doctor-who-1200.cache/cache.20190128.tar.xz",
+        "sha256": "3b832eb744bce49cea34e33e73ebefe60fdec5428d8ea8954deb3c23db655c18",
+        "size": 139390412
+      },
+      "collection_key": "doctor-who-1200",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 28,
+          "cache_members": 1305,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-01-28",
+          "sample_span_days": 28,
+          "sample_start": "2019-01-01",
+          "torrent_indices": 51
+        },
+        "required_collection_key": "doctor-who-1200",
+        "required_day_products": 28,
+        "required_sample_days": 28,
+        "required_sample_end": "2019-01-28",
+        "required_sample_start": "2019-01-01",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1200",
+        "collection_name": "Doctor Who 2005",
+        "metadata_version": "2025-11-22",
+        "sample_days": 28,
+        "sample_end": "2019-01-28",
+        "sample_start": "2019-01-01",
+        "sha256": "a5d75918e3d09ab8b5737881ffa15256250e92a2f8367ac9269cddcc7c49f00e",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/doctor-who-1200.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190128.tar.xz",
+            "size": 139390412
+          }
+        ],
+        "expected_filename_date": "20190128"
+      },
+      "worker_archive_relative_path": "doctor-who-1200.cache/cache.20190128.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20191205.tar.xz",
+        "filename_date": "20191205",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/dolemite-is-my-name.cache/cache.20191205.tar.xz",
+        "sha256": "a0cd35be35beda50c7f47f6a7773e9776581cd85191b3050fdfcbb4d76574cc4",
+        "size": 471704800
+      },
+      "collection_key": "dolemite-is-my-name",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 40,
+          "cache_members": 2664,
+          "missing_indices": [
+            15,
+            16
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2019-12-05",
+          "sample_span_days": 42,
+          "sample_start": "2019-10-25",
+          "torrent_indices": 77
+        },
+        "required_collection_key": "dolemite-is-my-name",
+        "required_day_products": 40,
+        "required_sample_days": 42,
+        "required_sample_end": "2019-12-05",
+        "required_sample_start": "2019-10-25",
+        "required_sparse_intervals": [
+          {
+            "days": 2,
+            "first_index": 15,
+            "last_index": 16
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Dolemite Is My Name",
+        "metadata_version": "2025-11-22",
+        "sample_days": 42,
+        "sample_end": "2019-12-05",
+        "sample_start": "2019-10-25",
+        "sha256": "1e1c8e056b034d2428bf29ce189d388a20eb9bdb4463020ba2f481ed3235f9c0",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/dolemite-is-my-name.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20191205.tar.xz",
+            "size": 471704800
+          }
+        ],
+        "expected_filename_date": "20191205"
+      },
+      "worker_archive_relative_path": "dolemite-is-my-name.cache/cache.20191205.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20200220.tar.xz",
+        "filename_date": "20200220",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/expanse-04.cache/cache.20200220.tar.xz",
+        "sha256": "dc2e17f66f8477054b49d7559c111272736c60fecada402d7dc24ae12b74a77a",
+        "size": 2173945316
+      },
+      "collection_key": "expanse-04",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 17240,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2020-02-20",
+          "sample_span_days": 70,
+          "sample_start": "2019-12-13",
+          "torrent_indices": 255
+        },
+        "required_collection_key": "expanse-04",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2020-02-20",
+        "required_sample_start": "2019-12-13",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "4",
+        "collection_name": "The Expanse",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2020-02-20",
+        "sample_start": "2019-12-13",
+        "sha256": "2436b8863911fca74f3267803c51bd7d88cbc7995521a445273d26f561543773",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/expanse-04.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20200220.tar.xz",
+            "size": 2173945316
+          }
+        ],
+        "expected_filename_date": "20200220"
+      },
+      "worker_archive_relative_path": "expanse-04.cache/cache.20200220.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20190609.tar.xz",
+        "filename_date": "20190609",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/game-of-thrones-803.cache/cache.20190609.tar.xz",
+        "sha256": "13a291406e59e916ed66826653f8b5fd35530646e12d9cfd6bf308e46ea061a3",
+        "size": 5249766996
+      },
+      "collection_key": "game-of-thrones-803",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 42,
+          "cache_members": 7522,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-06-09",
+          "sample_span_days": 42,
+          "sample_start": "2019-04-29",
+          "torrent_indices": 182
+        },
+        "required_collection_key": "game-of-thrones-803",
+        "required_day_products": 42,
+        "required_sample_days": 42,
+        "required_sample_end": "2019-06-09",
+        "required_sample_start": "2019-04-29",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "803",
+        "collection_name": "Game of Thrones",
+        "metadata_version": "2025-11-22",
+        "sample_days": 42,
+        "sample_end": "2019-06-09",
+        "sample_start": "2019-04-29",
+        "sha256": "64f527a99bf88d0381ff5e67ad78a330728b644c44b11bf436e2630c17e53cd3",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/game-of-thrones-803.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190609.tar.xz",
+            "size": 5249766996
+          }
+        ],
+        "expected_filename_date": "20190609"
+      },
+      "worker_archive_relative_path": "game-of-thrones-803.cache/cache.20190609.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20190901.tar.xz",
+        "filename_date": "20190901",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/game-of-thrones-806.cache/cache.20190901.tar.xz",
+        "sha256": "39d869b6a0e5b73975ab29a5c1da42f09f814bbe328f411ae5718cb04da85ec6",
+        "size": 9593245904
+      },
+      "collection_key": "game-of-thrones-806",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 105,
+          "cache_members": 31895,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-09-01",
+          "sample_span_days": 105,
+          "sample_start": "2019-05-20",
+          "torrent_indices": 311
+        },
+        "required_collection_key": "game-of-thrones-806",
+        "required_day_products": 105,
+        "required_sample_days": 105,
+        "required_sample_end": "2019-09-01",
+        "required_sample_start": "2019-05-20",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "806",
+        "collection_name": "Game of Thrones",
+        "metadata_version": "2025-11-22",
+        "sample_days": 105,
+        "sample_end": "2019-09-01",
+        "sample_start": "2019-05-20",
+        "sha256": "37c025fef1586338fa560d8feb9094db36e2392077a63a27e4da257fd46ae059",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/game-of-thrones-806.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190901.tar.xz",
+            "size": 9593245904
+          }
+        ],
+        "expected_filename_date": "20190901"
+      },
+      "worker_archive_relative_path": "game-of-thrones-806.cache/cache.20190901.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20190912.tar.xz",
+        "filename_date": "20190912",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/glow-03.cache/cache.20190912.tar.xz",
+        "sha256": "c2809721e6a61a24d7ce7cbefedaab4417a57e5fc254b6ccd5a5f8d3d85adbff",
+        "size": 707235496
+      },
+      "collection_key": "glow-03",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 35,
+          "cache_members": 4950,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-09-12",
+          "sample_span_days": 35,
+          "sample_start": "2019-08-09",
+          "torrent_indices": 145
+        },
+        "required_collection_key": "glow-03",
+        "required_day_products": 35,
+        "required_sample_days": 35,
+        "required_sample_end": "2019-09-12",
+        "required_sample_start": "2019-08-09",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "3",
+        "collection_name": "GLOW",
+        "metadata_version": "2025-11-22",
+        "sample_days": 35,
+        "sample_end": "2019-09-12",
+        "sample_start": "2019-08-09",
+        "sha256": "d60c322c0499d226a4f6db19a9c623ec591432a6619e5adef3df662e13b7e52c",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/glow-03.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190912.tar.xz",
+            "size": 707235496
+          }
+        ],
+        "expected_filename_date": "20190912"
+      },
+      "worker_archive_relative_path": "glow-03.cache/cache.20190912.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20190711.tar.xz",
+        "filename_date": "20190711",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/good-fight-310.cache/cache.20190711.tar.xz",
+        "sha256": "d9da753445ed0025448f118ad6dfe2a15e1a911af77db23921cc64dd61ebd546",
+        "size": 165138812
+      },
+      "collection_key": "good-fight-310",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 57,
+          "cache_members": 3459,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-07-11",
+          "sample_span_days": 57,
+          "sample_start": "2019-05-16",
+          "torrent_indices": 64
+        },
+        "required_collection_key": "good-fight-310",
+        "required_day_products": 57,
+        "required_sample_days": 57,
+        "required_sample_end": "2019-07-11",
+        "required_sample_start": "2019-05-16",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "310",
+        "collection_name": "The Good Fight",
+        "metadata_version": "2025-11-22",
+        "sample_days": 57,
+        "sample_end": "2019-07-11",
+        "sample_start": "2019-05-16",
+        "sha256": "578972352c3d2e0cf204162974d7d6ece8af29cbf874115748dbc4347dd00873",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/good-fight-310.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190711.tar.xz",
+            "size": 165138812
+          }
+        ],
+        "expected_filename_date": "20190711"
+      },
+      "worker_archive_relative_path": "good-fight-310.cache/cache.20190711.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20190721.tar.xz",
+        "filename_date": "20190721",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/killing-eve-208.cache/cache.20190721.tar.xz",
+        "sha256": "c36895fc33479bdc5d09f2d26a2b10f964332cf1406e28c68b950b3a4f4f94e4",
+        "size": 309545304
+      },
+      "collection_key": "killing-eve-208",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 56,
+          "cache_members": 5652,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-07-21",
+          "sample_span_days": 56,
+          "sample_start": "2019-05-27",
+          "torrent_indices": 105
+        },
+        "required_collection_key": "killing-eve-208",
+        "required_day_products": 56,
+        "required_sample_days": 56,
+        "required_sample_end": "2019-07-21",
+        "required_sample_start": "2019-05-27",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "208",
+        "collection_name": "Killing Eve",
+        "metadata_version": "2025-11-22",
+        "sample_days": 56,
+        "sample_end": "2019-07-21",
+        "sample_start": "2019-05-27",
+        "sha256": "d6cd5dba72fad66d3b124b6f2f4a93e6d5912322b63756f267eaaa7c0ae186cc",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/killing-eve-208.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190721.tar.xz",
+            "size": 309545304
+          }
+        ],
+        "expected_filename_date": "20190721"
+      },
+      "worker_archive_relative_path": "killing-eve-208.cache/cache.20190721.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20200207.tar.xz",
+        "filename_date": "20200207",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/kurulus-osman-01.cache/cache.20200207.tar.xz",
+        "sha256": "f9c09254dfffb602300b5c0f779be11522a8f38a4e29ca408276ea4171e74490",
+        "size": 4582740
+      },
+      "collection_key": "kurulus-osman-01",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 66,
+          "cache_members": 340,
+          "missing_indices": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2020-02-07",
+          "sample_span_days": 77,
+          "sample_start": "2019-11-23",
+          "torrent_indices": 6
+        },
+        "required_collection_key": "kurulus-osman-01",
+        "required_day_products": 66,
+        "required_sample_days": 77,
+        "required_sample_end": "2020-02-07",
+        "required_sample_start": "2019-11-23",
+        "required_sparse_intervals": [
+          {
+            "days": 11,
+            "first_index": 29,
+            "last_index": 39
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Kurulus Osmon",
+        "metadata_version": "2025-11-22",
+        "sample_days": 77,
+        "sample_end": "2020-02-07",
+        "sample_start": "2019-11-23",
+        "sha256": "9ed891ef3a19ff701e8cdbb43f96766dff46e686abd5c0ff50128f3d4c26c184",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/kurulus-osman-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20200207.tar.xz",
+            "size": 4582740
+          }
+        ],
+        "expected_filename_date": "20200207"
+      },
+      "worker_archive_relative_path": "kurulus-osman-01.cache/cache.20200207.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20190516.tar.xz",
+        "filename_date": "20190516",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/love-death-robots-01.cache/cache.20190516.tar.xz",
+        "sha256": "e129248101db37d4974f964e1c4d861ebc48b205a5f32df180f7060d4d13b541",
+        "size": 1831675516
+      },
+      "collection_key": "love-death-robots-01",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 63,
+          "cache_members": 8873,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-05-16",
+          "sample_span_days": 63,
+          "sample_start": "2019-03-15",
+          "torrent_indices": 155
+        },
+        "required_collection_key": "love-death-robots-01",
+        "required_day_products": 63,
+        "required_sample_days": 63,
+        "required_sample_end": "2019-05-16",
+        "required_sample_start": "2019-03-15",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Love, Death & Robots",
+        "metadata_version": "2025-11-22",
+        "sample_days": 63,
+        "sample_end": "2019-05-16",
+        "sample_start": "2019-03-15",
+        "sha256": "a5254dca9492506e0b52ac6b6acc4b31d31921009b80f639f01d6d91b71c7309",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/love-death-robots-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190516.tar.xz",
+            "size": 1831675516
+          }
+        ],
+        "expected_filename_date": "20190516"
+      },
+      "worker_archive_relative_path": "love-death-robots-01.cache/cache.20190516.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20200102.tar.xz",
+        "filename_date": "20200102",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/mandalorian-102.cache/cache.20200102.tar.xz",
+        "sha256": "4e6b22b9b580d24b10b0c345a54d5a5bd5a395b48a675d12813420303105f061",
+        "size": 2677548472
+      },
+      "collection_key": "mandalorian-102",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 49,
+          "cache_members": 6906,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2020-01-02",
+          "sample_span_days": 49,
+          "sample_start": "2019-11-15",
+          "torrent_indices": 151
+        },
+        "required_collection_key": "mandalorian-102",
+        "required_day_products": 49,
+        "required_sample_days": 49,
+        "required_sample_end": "2020-01-02",
+        "required_sample_start": "2019-11-15",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "102",
+        "collection_name": "The Mandalorian",
+        "metadata_version": "2025-11-22",
+        "sample_days": 49,
+        "sample_end": "2020-01-02",
+        "sample_start": "2019-11-15",
+        "sha256": "5aaeaa66784ecd5464cde696360d4223d01ee063085b5b156e7ea2c73fac7813",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/mandalorian-102.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20200102.tar.xz",
+            "size": 2677548472
+          }
+        ],
+        "expected_filename_date": "20200102"
+      },
+      "worker_archive_relative_path": "mandalorian-102.cache/cache.20200102.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20190519.tar.xz",
+        "filename_date": "20190519",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/oa-02.cache/cache.20190519.tar.xz",
+        "sha256": "9054253b09b0708b3767a8e507d51b4b0b0bb83930be3ee10fa05db7e74e2863",
+        "size": 972995144
+      },
+      "collection_key": "oa-02",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 59,
+          "cache_members": 15865,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-05-19",
+          "sample_span_days": 59,
+          "sample_start": "2019-03-22",
+          "torrent_indices": 277
+        },
+        "required_collection_key": "oa-02",
+        "required_day_products": 59,
+        "required_sample_days": 59,
+        "required_sample_end": "2019-05-19",
+        "required_sample_start": "2019-03-22",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "The OA",
+        "metadata_version": "2025-11-22",
+        "sample_days": 59,
+        "sample_end": "2019-05-19",
+        "sample_start": "2019-03-22",
+        "sha256": "75f99ed3f18698fa7980aec02592afb6c9540ccbe27a4b880ea48fdfcff3a092",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/oa-02.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190519.tar.xz",
+            "size": 972995144
+          }
+        ],
+        "expected_filename_date": "20190519"
+      },
+      "worker_archive_relative_path": "oa-02.cache/cache.20190519.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20190815.tar.xz",
+        "filename_date": "20190815",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/tales-of-the-city-2019.cache/cache.20190815.tar.xz",
+        "sha256": "9155c0d5850841b7450e42e47b8c010cd277e2cc39ced44ab2f98453337dd5cc",
+        "size": 330768800
+      },
+      "collection_key": "tales-of-the-city-2019",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 9272,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-08-15",
+          "sample_span_days": 70,
+          "sample_start": "2019-06-07",
+          "torrent_indices": 141
+        },
+        "required_collection_key": "tales-of-the-city-2019",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2019-08-15",
+        "required_sample_start": "2019-06-07",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Tales of the City 2019",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2019-08-15",
+        "sample_start": "2019-06-07",
+        "sha256": "9ed11b2783d87a5481682658ec2dda5ea72fdafadd6849cb4a3a8db95f89bbe7",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/tales-of-the-city-2019.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190815.tar.xz",
+            "size": 330768800
+          }
+        ],
+        "expected_filename_date": "20190815"
+      },
+      "worker_archive_relative_path": "tales-of-the-city-2019.cache/cache.20190815.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20190411.tar.xz",
+        "filename_date": "20190411",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/umbrella-academy-01.cache/cache.20190411.tar.xz",
+        "sha256": "4eb0a69de93c3b5df78f64373f02732f19f417d56184d092b7281e94a294c295",
+        "size": 1031728280
+      },
+      "collection_key": "umbrella-academy-01",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 56,
+          "cache_members": 12669,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-04-11",
+          "sample_span_days": 56,
+          "sample_start": "2019-02-15",
+          "torrent_indices": 244
+        },
+        "required_collection_key": "umbrella-academy-01",
+        "required_day_products": 56,
+        "required_sample_days": 56,
+        "required_sample_end": "2019-04-11",
+        "required_sample_start": "2019-02-15",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "The Umbrella Academy",
+        "metadata_version": "2025-11-22",
+        "sample_days": 56,
+        "sample_end": "2019-04-11",
+        "sample_start": "2019-02-15",
+        "sha256": "ce7c416d0eb7dc1fa53b78e588c45da03d2e377bc77e74ec1a9953c1cddb2d72",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/umbrella-academy-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190411.tar.xz",
+            "size": 1031728280
+          }
+        ],
+        "expected_filename_date": "20190411"
+      },
+      "worker_archive_relative_path": "umbrella-academy-01.cache/cache.20190411.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20200112.tar.xz",
+        "filename_date": "20200112",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/walking-dead-1008.cache/cache.20200112.tar.xz",
+        "sha256": "a68ecbdb40ebb62a68c0799a4dd4d7af57ced524b9ac27b52f87457f260d62f5",
+        "size": 523201396
+      },
+      "collection_key": "walking-dead-1008",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 48,
+          "cache_members": 4020,
+          "missing_indices": [
+            4
+          ],
+          "post_release_day_products": 0,
+          "sample_end": "2020-01-12",
+          "sample_span_days": 49,
+          "sample_start": "2019-11-25",
+          "torrent_indices": 87
+        },
+        "required_collection_key": "walking-dead-1008",
+        "required_day_products": 48,
+        "required_sample_days": 49,
+        "required_sample_end": "2020-01-12",
+        "required_sample_start": "2019-11-25",
+        "required_sparse_intervals": [
+          {
+            "days": 1,
+            "first_index": 4,
+            "last_index": 4
+          }
+        ],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1008",
+        "collection_name": "The Walking Dead",
+        "metadata_version": "2025-11-22",
+        "sample_days": 49,
+        "sample_end": "2020-01-12",
+        "sample_start": "2019-11-25",
+        "sha256": "f74cfc784517b2d3b6daa8e037478b62a7ef2317c1a37c200c5b57f2adb14f35",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/walking-dead-1008.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20200112.tar.xz",
+            "size": 523201396
+          }
+        ],
+        "expected_filename_date": "20200112"
+      },
+      "worker_archive_relative_path": "walking-dead-1008.cache/cache.20200112.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20190519.tar.xz",
+        "filename_date": "20190519",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/walking-dead-916.cache/cache.20190519.tar.xz",
+        "sha256": "bf695ed76599822c98fca598333b2cd1c49c5b65bddf44bd75ea0fe8b0d5d430",
+        "size": 1564601700
+      },
+      "collection_key": "walking-dead-916",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 49,
+          "cache_members": 5821,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-05-19",
+          "sample_span_days": 49,
+          "sample_start": "2019-04-01",
+          "torrent_indices": 123
+        },
+        "required_collection_key": "walking-dead-916",
+        "required_day_products": 49,
+        "required_sample_days": 49,
+        "required_sample_end": "2019-05-19",
+        "required_sample_start": "2019-04-01",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "916",
+        "collection_name": "The Walking Dead",
+        "metadata_version": "2025-11-22",
+        "sample_days": 49,
+        "sample_end": "2019-05-19",
+        "sample_start": "2019-04-01",
+        "sha256": "aa6efc830d496b89e8966da0e35b143d88a7d0f67893dd236bed72a953eaa224",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/walking-dead-916.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190519.tar.xz",
+            "size": 1564601700
+          }
+        ],
+        "expected_filename_date": "20190519"
+      },
+      "worker_archive_relative_path": "walking-dead-916.cache/cache.20190519.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20191215.tar.xz",
+        "filename_date": "20191215",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/watchmen-104.cache/cache.20191215.tar.xz",
+        "sha256": "5974cab8fb5f13ff564006763645997549ae692e742ef3fa948cbdadff7635e6",
+        "size": 755715296
+      },
+      "collection_key": "watchmen-104",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 35,
+          "cache_members": 3240,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-12-15",
+          "sample_span_days": 35,
+          "sample_start": "2019-11-11",
+          "torrent_indices": 96
+        },
+        "required_collection_key": "watchmen-104",
+        "required_day_products": 35,
+        "required_sample_days": 35,
+        "required_sample_end": "2019-12-15",
+        "required_sample_start": "2019-11-11",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "104",
+        "collection_name": "The Watchmen",
+        "metadata_version": "2025-11-22",
+        "sample_days": 35,
+        "sample_end": "2019-12-15",
+        "sample_start": "2019-11-11",
+        "sha256": "85e984f93146b29a08e761e785adbb3e2e3e1bddbe8be4d6f61d226b8d2c635d",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/watchmen-104.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20191215.tar.xz",
+            "size": 755715296
+          }
+        ],
+        "expected_filename_date": "20191215"
+      },
+      "worker_archive_relative_path": "watchmen-104.cache/cache.20191215.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20200223.tar.xz",
+        "filename_date": "20200223",
+        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/watchmen-109.cache/cache.20200223.tar.xz",
+        "sha256": "f306eb426240d8284a2739811b7bc7dd413ceda0c5acdf0090f0d4ed522ca88d",
+        "size": 584950016
+      },
+      "collection_key": "watchmen-109",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 70,
+          "cache_members": 6652,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2020-02-23",
+          "sample_span_days": 70,
+          "sample_start": "2019-12-16",
+          "torrent_indices": 101
+        },
+        "required_collection_key": "watchmen-109",
+        "required_day_products": 70,
+        "required_sample_days": 70,
+        "required_sample_end": "2020-02-23",
+        "required_sample_start": "2019-12-16",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "109",
+        "collection_name": "Watchmen",
+        "metadata_version": "2025-11-22",
+        "sample_days": 70,
+        "sample_end": "2020-02-23",
+        "sample_start": "2019-12-16",
+        "sha256": "8114f47686f2b14347838f0a1aac294f5689c7c66edca0a533bfcfa33a14573e",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/watchmen-109.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20200223.tar.xz",
+            "size": 584950016
+          }
+        ],
+        "expected_filename_date": "20200223"
+      },
+      "worker_archive_relative_path": "watchmen-109.cache/cache.20200223.tar.xz"
+    }
+  ],
+  "schema": "alpha60-year-day-worker-map/1",
+  "source_map_sha256": "f021db0c94fa18448bd4c9f33394bada3539d7aeb4b68537c51409e2566fce53",
+  "status": "pass",
+  "year": "2019"
+}
