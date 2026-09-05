@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt7087260",
+    "imdb_id": "tt7087260",
+    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
+    "wikidata_id": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tales_of_the_City_(2019_miniseries)"
+  },
+  "coverage_sha256": "38e164bb4ee669c9deb432b1b4b5f3243fd29c71e472c033c98a229edac542b0",
+  "generated_at": "2026-09-05T18:56:52.150572+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/tales-of-the-city-2019.cache/cache.20190815.tar.xz",
+      "sha256": "9155c0d5850841b7450e42e47b8c010cd277e2cc39ced44ab2f98453337dd5cc",
+      "size": 330768800
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/tales-of-the-city-2019.md",
+      "sha256": "fa5560a898a8413f2cec098b530e91584bd510057e83927cc7f9de0bc3beb847",
+      "size": 600
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/tales-of-the-city-2019.json",
+      "sha256": "16633af5521b2be27df24e700943e86eb1ec7605aab0b4172242cc789d738761",
+      "size": 2467
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/tales-of-the-city-2019.json",
+      "sha256": "883becbf07d16efd22b4eb5b9be5951a41c1ceceb2d0d3c97977ab461fea9e84",
+      "size": 374
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "7911aae557caa5b9d78dffc736d9346c4a420fb9dc94cb24a9d7911e4d311b2f",
+      "size": 47076
+    }
+  },
+  "media_object": "tales-of-the-city-2019",
+  "published_files": {
+    "data/csv/bytes/tales-of-the-city-2019-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "48929a0829684347ff98701dde3342f13c3e3ac1a613954f6830cbac1f77c017",
+    "docs/itemized/figures/tales-of-the-city-2019-carto-4k.webp": "ab6eb9440af02b9c4c34a4e3e30e2fa1f41870c55e47570304a791b97ae98d5b",
+    "docs/itemized/figures/tales-of-the-city-2019-carto.png": "02bba25b876d0f453404de9e0d52fd60f1169e047b41f797b30572eef8a5f954",
+    "docs/itemized/figures/tales-of-the-city-2019-cumulative-detail-btiha-itemized-by-bytes.svg": "a552c61122b1a5433931375cb472577c3be1fabe13a0178b84a7f2e923630714",
+    "docs/itemized/figures/tales-of-the-city-2019-data-ge-1080p-4k.webp": "52e9e7f171ca569b83a940e3537d622a01c0584c243673e7733ee20067fd6a80",
+    "docs/itemized/figures/tales-of-the-city-2019-data-ge-1080p.webp": "44ceda0a96a8d62ed45acb2d4c4eb5c6c91888214f1445cb5239a8ee2b52b846",
+    "docs/itemized/figures/tales-of-the-city-2019-data-lt-1080p-4k.webp": "512537e3e706ebea2ff681a1c757cf64c0daf3665438326d509e4231637c2b5d",
+    "docs/itemized/figures/tales-of-the-city-2019-data-lt-1080p.webp": "26911c06d2eba898df78f8726534536d8f77891e0c5322dc625ae7ffa9db860a",
+    "docs/itemized/figures/tales-of-the-city-2019-downloads-by-day-day.svg": "f94d9b8b51e35294c4d8984c21f3f059df0772e273ffd54059a151c9150685be",
+    "docs/itemized/figures/tales-of-the-city-2019-downloads-by-week-tales-of-the-city-2019-week.svg": "b6e6e4b0f5ab3dfd31b419b4f9bd08d52fb661fdec4154f024d27ff6bca9d72c",
+    "docs/itemized/tales-of-the-city-2019-sample-cache-audit.md": "7862b3a4fc792b764a00c0c3e2abd916569e6f6c01757e5bd4f809e347305442",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "5986b46764300ac2e71bdfb79ee35c915f446205",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/tales-of-the-city-2019/tmp/tales-of-the-city-2019-cumulative-btiha.geojson",
+        "sha256": "ad454278d8fcfa850f7da78f24031233c83dcce64fd99ff3548b6bda646f6949",
+        "size": 53379458
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/tales-of-the-city-2019/tmp/tales-of-the-city-2019-cumulative-btiha-media-objects.json",
+        "sha256": "43fc6ad41ca4c61806c337dd4876a908f01f06abb9e163563545ef56ded23a7f",
+        "size": 462263
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "tales-of-the-city-2019",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          80.0,
+          57.0,
+          57.0,
+          52.0,
+          52.0,
+          51.0,
+          40.0,
+          37.0,
+          30.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "New York City",
+          "Tokyo",
+          "London",
+          "Seattle",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          82.0,
+          49.0,
+          49.0,
+          47.0,
+          47.0,
+          37.0,
+          37.0,
+          35.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "New York City",
+          "London",
+          "Seattle",
+          "Seoul",
+          "Tokyo",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 22,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "5986b46764300ac2e71bdfb79ee35c915f446205",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}
