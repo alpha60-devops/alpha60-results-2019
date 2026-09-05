@@ -2,12 +2,12 @@
   "canonical_metadata": {
     "external_imdb": "tt0898266",
     "imdb_id": "tt0898266",
-    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
-    "wikidata_id": "",
-    "wikipedia_url": ""
+    "revision": "7f973ef903a4f8faf7271e7273fed4ff725fa525",
+    "wikidata_id": "Q8539",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Big_Bang_Theory"
   },
   "coverage_sha256": "4bd20d955889a788b540d500d5778e865a6ac22e872777d902cf5bf52401619d",
-  "generated_at": "2026-09-05T17:22:14.116570+00:00",
+  "generated_at": "2026-09-05T20:05:20.622955+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
@@ -39,7 +39,7 @@
   "media_object": "big-bang-theory-1223",
   "published_files": {
     "data/csv/bytes/big-bang-theory-1223-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "97c240d5196f95ad8d86a99e7da08bc124e6867d167bb1d60650b33a1d2d9c10",
-    "docs/itemized/big-bang-theory-1223-sample-cache-audit.md": "2d24e9d934e20a88b5ca426ec6b98d8a67f422618cf130810cef7f9451e4fa7c",
+    "docs/itemized/big-bang-theory-1223-sample-cache-audit.md": "f416d7842458a8e29d457a06454aec64f6a1a62678cf48005a0e524001ac05d3",
     "docs/itemized/figures/big-bang-theory-1223-carto-4k.webp": "6952396bdfe35b589bfd51f6bd6268db765c3a79cf597fedc0d9812ff3d04cfd",
     "docs/itemized/figures/big-bang-theory-1223-carto.png": "55d5997f8c09b98965a875095b936b3f12347101c512a3cbbb0dee122b418736",
     "docs/itemized/figures/big-bang-theory-1223-cumulative-detail-btiha-itemized-by-bytes.svg": "446be17c190e2377f3b336bf3b448de2598cabc1e66b27c4bad0a4b75eb8e09c",
@@ -55,7 +55,7 @@
     "alpha60": {
       "dirty": false,
       "path": "/home/bkoz/src/alpha60",
-      "revision": "df614eb9d6c26488b1698d98ca8d7a5ef9593922",
+      "revision": "5986b46764300ac2e71bdfb79ee35c915f446205",
       "untracked": false
     },
     "carto_renderer": {
@@ -196,11 +196,11 @@
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "266d3ea17853fe1320391793ac55e9383a0ace90",
+    "alpha60": "5986b46764300ac2e71bdfb79ee35c915f446205",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
     "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
     "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
-    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+    "metadata": "7f973ef903a4f8faf7271e7273fed4ff725fa525"
   },
   "status": "passed",
   "validation_source": "render-receipt",

@@ -14,7 +14,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Big Bang Theory |
 | Collection key | `big-bang-theory-1223` |
 | imdb_id | [tt0898266](https://www.imdb.com/title/tt0898266/) |
-| wikipedia_url | UNAVAILABLE — no English Wikipedia page exists |
+| wikipedia_url | [The Big Bang Theory](https://en.wikipedia.org/wiki/The_Big_Bang_Theory) |
 | Sample dates | 2019-05-17-to-2019-08-08 |
 | Sample days | 84 |
 | BTIH count | 177 |
