@@ -1,0 +1,3608 @@
+{
+    "collection_name": "The Good Fight",
+    "collection_id": "310",
+    "collection_key": "good-fight-310",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "a11e2d616aa701785becf8b96ee33f47d76ab010",
+            "duplicate_0_0": "The-Good-Fight-S03-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rartv]",
+            "duplicate_0_1": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "c69f27ebdc8326dcacf2b98c2515b4e092cf999c",
+            "duplicate_1_0": "The-Good-Fight-S03-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rartv]",
+            "duplicate_1_1": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "e370771cffa058f9cc5b8dc1b50b369f139fcf7b",
+            "duplicate_2_0": "The-Good-Fight-S03-PROPER-WEBRip-x264-ION10",
+            "duplicate_2_1": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "c758ee2a4a96ee53298f1bae2e32d41616237386",
+            "duplicate_3_0": "The-Good-Fight-S03E10-720p-WEB-x265-MiNX[eztv]",
+            "duplicate_3_1": "The.Good.Fight.S03E10.720p.WEB.x265-MiNX[eztv].mkv(1)",
+            "duplicate_3_2": "The.Good.Fight.S03E10.720p.WEB.x265-MiNX[eztv].mkv"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "d0e82522a038c66ee0463e12bf0e2622b62e501c",
+            "duplicate_4_0": "The-Good-Fight-S03E10-720p-WEBRip-x264-TBS[eztv]",
+            "duplicate_4_1": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[eztv].mkv(1)",
+            "duplicate_4_2": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[eztv].mkv"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "62e51a33a39a00172b3f83c5f9c82a7e1d17287e",
+            "duplicate_5_0": "The-Good-Fight-S03E10-720p-WEBRip-x264-TBS[rarbg]",
+            "duplicate_5_1": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "5ac2ad6d5898d2fdc9f36590fd13d07341468888",
+            "duplicate_6_0": "The-Good-Fight-S03E10-The-One-About-the-End-of-the-World-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "duplicate_6_1": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "41f687ce02dc9a53e5429623ab1526bb5735b1c7",
+            "duplicate_7_0": "The-Good-Fight-S03E10-The-One-About-the-End-of-the-World-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "duplicate_7_1": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "081afc23065783b597ddfb0fb5c1130e11a036ca",
+            "duplicate_8_0": "The-Good-Fight-S03E10-WEBRip-x264-ION10",
+            "duplicate_8_1": "The.Good.Fight.S03E10.WEBRip.x264-ION10-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "bb28536fa48f8d1d6fa80497de1b53cf468be432",
+            "duplicate_9_0": "The-Good-Fight-S03E10-WEBRip-x264-TBS[eztv]",
+            "duplicate_9_1": "The.Good.Fight.S03E10.WEBRip.x264-TBS[eztv].mkv(1)",
+            "duplicate_9_2": "The.Good.Fight.S03E10.WEBRip.x264-TBS[eztv].mkv"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "08e731947d218d7efbd1b65f769f168e473b760e",
+            "duplicate_10_0": "The-Good-Fight-S03E10-WEBRip-x264-TBS[rarbg]",
+            "duplicate_10_1": "The.Good.Fight.S03E10.WEBRip.x264-TBS[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "919a955d6f7a4535eb8c26761aa506e5268748f2",
+            "duplicate_11_0": "The-Good-Fight-S03E10-iNTERNAL-1080p-WEB-H264-AMRAP[rarbg]",
+            "duplicate_11_1": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 12,
+            "duplicate_btih": "dabd9f96d8fda292e8caba54831de841ecad7447",
+            "duplicate_12_0": "The-Good-Fight-S03E10-iNTERNAL-1080p-WEB-h264-BAMBOOZLE[rarbg]",
+            "duplicate_12_1": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 13,
+            "duplicate_btih": "9daa727b0a493669b168d93431c587a944445eaf",
+            "duplicate_13_0": "[rutor.is]Good_fight",
+            "duplicate_13_1": "The-Good-Fight-S03-720p-TVShows"
+        },
+        {
+            "duplicate_id": 14,
+            "duplicate_btih": "58a794294b9692a608f6129de1594342e8cda3ab",
+            "duplicate_14_0": "[rutor.is]Good_fight_1080p",
+            "duplicate_14_1": "The-Good-Fight-S03-1080p-TVShows"
+        },
+        {
+            "duplicate_id": 15,
+            "duplicate_btih": "a0f80a7ad7bd94b5b56f65776ea4aae5aa25d7a9",
+            "duplicate_15_0": "[rutor.is]The.Good.Fight._Season_3_WEB-DL_l_400p_l_JASKiE",
+            "duplicate_15_1": "Хорошая борьба Правое дело The Good Fight Сезон 3 Серии 1-10 из 10 (Брук Кеннеди) [2019, США, драма, WEB-DLRip] MVO (Jas [rutracker-5707441]"
+        },
+        {
+            "duplicate_id": 16,
+            "duplicate_btih": "ee76a126d7d6c1c41101554cc819973f9e96780e",
+            "duplicate_16_0": "[rutor.is]The.Good.Fight._Season_3_WEB-DL_l_720p_l_JASKiE",
+            "duplicate_16_1": "Хорошая борьба Правое дело The Good Fight Сезон 3 Серии 1-10 из 10 (Брук Кеннеди) [2019, США, драма, WEB-DL 720p] MVO (J [rutracker-5707439]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[rutor.is]Good_fight",
+            "size_total": 12.492938518,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.193260186,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E01.720p.TVShows.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.150362916,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E02.720p.TVShows.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.296264417,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E03.720p.TVShows.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.199681429,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E04.720p.TVShows.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.166226091,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E05.720p.TVShows.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.772243724,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E06.720p.TVShows.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.164342638,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E07.720p.TVShows.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.145651401,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E08.720p.TVShows.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.206883833,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E09.720p.TVShows.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.198021883,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E10.720p.TVShows.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]Good_fight_1080p",
+            "size_total": 25.986709764,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.470586701,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E01.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.500909164,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E02.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.874339543,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E03.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.644917868,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E04.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.509975768,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E05.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.836723583,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E06.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.504633871,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E07.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 2.516168882,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E08.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 2.599474485,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E09.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 2.528979899,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E10.1080p.TVShows.mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]The.Good.Fight._Season_3_WEB-DL_l_400p_l_JASKiE",
+            "size_total": 6.9235712,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.718168064,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E01.400p.JASKiER.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.645187584,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E02.400p.JASKiER.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.749953024,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E03.400p.JASKiER.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.661663744,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E04.400p.JASKiER.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.676171776,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E05.400p.JASKiER.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.723656704,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E06.400p.JASKiER.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.674304,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E07.400p.JASKiER.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.669898752,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E08.400p.JASKiER.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.699803648,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E09.400p.JASKiER.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.704763904,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E10.400p.JASKiER.avi"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]The.Good.Fight._Season_3_WEB-DL_l_720p_l_JASKiE",
+            "size_total": 10.919875799,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.083041675,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E01.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.051336832,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E02.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.181164049,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E03.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.098122473,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E04.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.062439906,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E05.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.151042399,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E06.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.060849959,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E07.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.042836778,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E08.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.099182742,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E09.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.089858986,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E10.720p.JASKiER.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]The.Good.Fight.S03.WEBRip.1080p",
+            "size_total": 32.215951401,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.331392459,
+                    "path": "The.Good.Fight.S03.WEBRip.1080p/The.Good.Fight.S03E01.WEBRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.004758926,
+                    "path": "The.Good.Fight.S03.WEBRip.1080p/The.Good.Fight.S03E02.WEBRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.484220647,
+                    "path": "The.Good.Fight.S03.WEBRip.1080p/The.Good.Fight.S03E03.WEBRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.080385487,
+                    "path": "The.Good.Fight.S03.WEBRip.1080p/The.Good.Fight.S03E04.WEBRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.141847487,
+                    "path": "The.Good.Fight.S03.WEBRip.1080p/The.Good.Fight.S03E05.WEBRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.379939972,
+                    "path": "The.Good.Fight.S03.WEBRip.1080p/The.Good.Fight.S03E06.WEBRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 3.136732883,
+                    "path": "The.Good.Fight.S03.WEBRip.1080p/The.Good.Fight.S03E07.WEBRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 3.109528818,
+                    "path": "The.Good.Fight.S03.WEBRip.1080p/The.Good.Fight.S03E08.WEBRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 3.257112607,
+                    "path": "The.Good.Fight.S03.WEBRip.1080p/The.Good.Fight.S03E09.WEBRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 3.290032115,
+                    "path": "The.Good.Fight.S03.WEBRip.1080p/The.Good.Fight.S03E10.WEBRip.1080p.IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]The.Good.Fight.S03.WEBRip.720p",
+            "size_total": 22.111704058,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.289178184,
+                    "path": "The.Good.Fight.S03.WEBRip.720p/The.Good.Fight.S03E01.WEBRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.055991358,
+                    "path": "The.Good.Fight.S03.WEBRip.720p/The.Good.Fight.S03E02.WEBRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.398983481,
+                    "path": "The.Good.Fight.S03.WEBRip.720p/The.Good.Fight.S03E03.WEBRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.124245913,
+                    "path": "The.Good.Fight.S03.WEBRip.720p/The.Good.Fight.S03E04.WEBRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.155047588,
+                    "path": "The.Good.Fight.S03.WEBRip.720p/The.Good.Fight.S03E05.WEBRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.305809932,
+                    "path": "The.Good.Fight.S03.WEBRip.720p/The.Good.Fight.S03E06.WEBRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.173630453,
+                    "path": "The.Good.Fight.S03.WEBRip.720p/The.Good.Fight.S03E07.WEBRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 2.150000311,
+                    "path": "The.Good.Fight.S03.WEBRip.720p/The.Good.Fight.S03E08.WEBRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 2.213017616,
+                    "path": "The.Good.Fight.S03.WEBRip.720p/The.Good.Fight.S03E09.WEBRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 2.245799222,
+                    "path": "The.Good.Fight.S03.WEBRip.720p/The.Good.Fight.S03E10.WEBRip.720p.IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]The.Good.Fight.S03.WEBRip",
+            "size_total": 7.93406464,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.819867648,
+                    "path": "The.Good.Fight.S03.WEBRip/The.Good.Fight.S03E01.WEBRip-IdeaFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.740800512,
+                    "path": "The.Good.Fight.S03.WEBRip/The.Good.Fight.S03E02.WEBRip-IdeaFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.852801536,
+                    "path": "The.Good.Fight.S03.WEBRip/The.Good.Fight.S03E03.WEBRip-IdeaFilm.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.759584768,
+                    "path": "The.Good.Fight.S03.WEBRip/The.Good.Fight.S03E04.WEBRip-IdeaFilm.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.777222144,
+                    "path": "The.Good.Fight.S03.WEBRip/The.Good.Fight.S03E05.WEBRip-IdeaFilm.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.829896704,
+                    "path": "The.Good.Fight.S03.WEBRip/The.Good.Fight.S03E06.WEBRip-IdeaFilm.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.77202432,
+                    "path": "The.Good.Fight.S03.WEBRip/The.Good.Fight.S03E07.WEBRip-IdeaFilm.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.769384448,
+                    "path": "The.Good.Fight.S03.WEBRip/The.Good.Fight.S03E08.WEBRip-IdeaFilm.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.803667968,
+                    "path": "The.Good.Fight.S03.WEBRip/The.Good.Fight.S03E09.WEBRip-IdeaFilm.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.808814592,
+                    "path": "The.Good.Fight.S03.WEBRip/The.Good.Fight.S03E10.WEBRip-IdeaFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]The_Good_Fight_S03_2019_720p_WEBRip_Gears_Media",
+            "size_total": 9.967051815,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.07936364,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip [Gears Media]/The Good Fight S03E03 (2019) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.042344598,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip [Gears Media]/The Good Fight S03E06 (2019) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.029583187,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip [Gears Media]/The Good Fight S03E01 (2019) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.015152453,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip [Gears Media]/The Good Fight S03E10 (2019) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.004843233,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip [Gears Media]/The Good Fight S03E09 (2019) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.974466755,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip [Gears Media]/The Good Fight S03E05 (2019) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.972161607,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip [Gears Media]/The Good Fight S03E07 (2019) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.965599402,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip [Gears Media]/The Good Fight S03E08 (2019) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.953556976,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip [Gears Media]/The Good Fight S03E04 (2019) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.929979964,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip [Gears Media]/The Good Fight S03E02 (2019) 720p WEBRip [Gears Media].mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[rutor.is]The_Good_Fight_S03_2019_WEBRip_Gears_Media",
+            "size_total": 6.83395136,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.742216748,
+                    "path": "The Good Fight S03 (2019) WEBRip [Gears Media]/The Good Fight S03E03 (2019) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.70875477,
+                    "path": "The Good Fight S03 (2019) WEBRip [Gears Media]/The Good Fight S03E06 (2019) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.708416098,
+                    "path": "The Good Fight S03 (2019) WEBRip [Gears Media]/The Good Fight S03E01 (2019) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.689921098,
+                    "path": "The Good Fight S03 (2019) WEBRip [Gears Media]/The Good Fight S03E09 (2019) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.68961652,
+                    "path": "The Good Fight S03 (2019) WEBRip [Gears Media]/The Good Fight S03E10 (2019) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.66837714,
+                    "path": "The Good Fight S03 (2019) WEBRip [Gears Media]/The Good Fight S03E07 (2019) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.667669812,
+                    "path": "The Good Fight S03 (2019) WEBRip [Gears Media]/The Good Fight S03E05 (2019) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.664065742,
+                    "path": "The Good Fight S03 (2019) WEBRip [Gears Media]/The Good Fight S03E08 (2019) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.65582167,
+                    "path": "The Good Fight S03 (2019) WEBRip [Gears Media]/The Good Fight S03E04 (2019) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.639091762,
+                    "path": "The Good Fight S03 (2019) WEBRip [Gears Media]/The Good Fight S03E02 (2019) WEBRip [Gears Media].avi"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "The Good Fight - Temporada 3 [HDTV 720p][Cap.310][AC3 5.1 Castellano][www.pctnew.com].27822d660baa8e7b",
+            "size_total": 2.086270954,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.24e-7,
+                    "path": "The Good Fight - Temporada 3 [HDTV 720p][Cap.310][AC3 5.1 Castellano][www.pctnew.com]/DESCARGAS2020.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.07e-7,
+                    "path": "The Good Fight - Temporada 3 [HDTV 720p][Cap.310][AC3 5.1 Castellano][www.pctnew.com]/PCTNEW.url"
+                },
+                {
+                    "number": 3,
+                    "size": 2.086270481,
+                    "path": "The Good Fight - Temporada 3 [HDTV 720p][Cap.310][AC3 5.1 Castellano][www.pctnew.com]/The Good Fight - Temporada 3 [HDTV 720p][Cap.310][AC3 5.1 Castellano][www.pctnew.com].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.13e-7,
+                    "path": "The Good Fight - Temporada 3 [HDTV 720p][Cap.310][AC3 5.1 Castellano][www.pctnew.com]/TorrentRapid.url"
+                },
+                {
+                    "number": 5,
+                    "size": 1.29e-7,
+                    "path": "The Good Fight - Temporada 3 [HDTV 720p][Cap.310][AC3 5.1 Castellano][www.pctnew.com]/TuMejorTorrent.url"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "The Good Fight - Temporada 3 [HDTV][Cap.310][Castellano].avi.f42a491a5d8a2b27",
+            "size_total": 0.648503196,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.648503196,
+                    "path": "The Good Fight - Temporada 3 [HDTV][Cap.310][Castellano].avi"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "The-Good-Fight-S03-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rartv]",
+            "size_total": 24.392662944,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.305287228,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E01.The.One.About.the.Recent.Troubles.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.352403992,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E02.The.One.Inspired.by.Roy.Cohn.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.701723809,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E03.The.One.where.Diane.Joins.the.Resistance.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.49261897,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E04.The.One.with.Lucca.Becoming.a.Meme.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.354341435,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E05.The.One.where.a.Nazi.Gets.Punched.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.670160652,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E06.The.One.with.the.Celebrity.Divorce.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 2.349430455,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E07.The.One.Where.Diane.and.Liz.Topple.Democracy.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 2.361975875,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E08.The.One.Where.Kurt.Saves.Diane.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 2.43795449,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E09.The.One.Where.the.Sun.Comes.Out.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 2.366766007,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "The-Good-Fight-S03-1080p-TVShows",
+            "size_total": 25.986709764,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.470586701,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E01.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.500909164,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E02.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.874339543,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E03.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.644917868,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E04.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.509975768,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E05.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.836723583,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E06.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.504633871,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E07.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 2.516168882,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E08.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 2.599474485,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E09.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 2.528979899,
+                    "path": "The.Good.Fight.S03.1080p.TVShows/The.Good.Fight.S03E10.1080p.TVShows.mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "The-Good-Fight-S03-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rartv]",
+            "size_total": 10.388827991,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.027967928,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E01.The.One.About.the.Recent.Troubles.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.001865715,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E02.The.One.Inspired.by.Roy.Cohn.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.12365749,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E03.The.One.where.Diane.Joins.the.Resistance.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.047390775,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E04.The.One.with.Lucca.Becoming.a.Meme.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.010600299,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E05.The.One.where.a.Nazi.Gets.Punched.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.095544089,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E06.The.One.with.the.Celebrity.Divorce.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.009147127,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E07.The.One.Where.Diane.and.Liz.Topple.Democracy.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.9914672919999999,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E08.The.One.Where.Kurt.Saves.Diane.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.045372658,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E09.The.One.Where.the.Sun.Comes.Out.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.035814587,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "The-Good-Fight-S03-720p-TVShows",
+            "size_total": 12.492938518,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.193260186,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E01.720p.TVShows.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.150362916,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E02.720p.TVShows.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.296264417,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E03.720p.TVShows.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.199681429,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E04.720p.TVShows.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.166226091,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E05.720p.TVShows.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.772243724,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E06.720p.TVShows.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.164342638,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E07.720p.TVShows.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.145651401,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E08.720p.TVShows.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.206883833,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E09.720p.TVShows.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.198021883,
+                    "path": "The.Good.Fight.S03.720p.TVShows/The.Good.Fight.S03E10.720p.TVShows.mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "The-Good-Fight-S03-PROPER-WEBRip-x264-ION10",
+            "size_total": 5.663698551,
+            "files_total": 21,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000075892,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E01.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000073564,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E02.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000082551,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E03.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000078165,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E04.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000084553,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E05.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000072483,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E06.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000077787,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E07.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000072826,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E08.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000078449,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E09.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000080957,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E10.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.587102456,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 13,
+                    "size": 0.525103443,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E02.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 14,
+                    "size": 0.615348269,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E03.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 15,
+                    "size": 0.544916001,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E04.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 16,
+                    "size": 0.550415639,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E05.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 17,
+                    "size": 0.589752953,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E06.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 18,
+                    "size": 0.557668472,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E07.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 19,
+                    "size": 0.55107525,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E08.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 20,
+                    "size": 0.56758879,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E09.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 21,
+                    "size": 0.57395002,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E10.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "The-Good-Fight-S03-SweSub-720p-x264-Justiso",
+            "size_total": 9.070919418,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.981039938,
+                    "path": "The.Good.Fight.S03.SweSub.720p.x264-Justiso/The.Good.Fight.S03E03.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.965470139,
+                    "path": "The.Good.Fight.S03.SweSub.720p.x264-Justiso/The.Good.Fight.S03E10.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.961381726,
+                    "path": "The.Good.Fight.S03.SweSub.720p.x264-Justiso/The.Good.Fight.S03E09.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.926604054,
+                    "path": "The.Good.Fight.S03.SweSub.720p.x264-Justiso/The.Good.Fight.S03E06.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.916574705,
+                    "path": "The.Good.Fight.S03.SweSub.720p.x264-Justiso/The.Good.Fight.S03E01.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.883422273,
+                    "path": "The.Good.Fight.S03.SweSub.720p.x264-Justiso/The.Good.Fight.S03E05.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.873215084,
+                    "path": "The.Good.Fight.S03.SweSub.720p.x264-Justiso/The.Good.Fight.S03E07.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.864871075,
+                    "path": "The.Good.Fight.S03.SweSub.720p.x264-Justiso/The.Good.Fight.S03E08.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.855187015,
+                    "path": "The.Good.Fight.S03.SweSub.720p.x264-Justiso/The.Good.Fight.S03E04.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.843152862,
+                    "path": "The.Good.Fight.S03.SweSub.720p.x264-Justiso/The.Good.Fight.S03E02.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 5.47e-7,
+                    "path": "The.Good.Fight.S03.SweSub.720p.x264-Justiso/Info.txt"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "The-Good-Fight-s03e10-1080p-WEB-x264-worldmkv",
+            "size_total": 0.715794648,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.715794648,
+                    "path": "The.Good.Fight.s03e10.1080p.WEB.x264-worldmkv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "The-Good-Fight-s03e10-720p-WEB-x264-worldmkv",
+            "size_total": 0.427244885,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.427244885,
+                    "path": "The.Good.Fight.s03e10.720p.WEB.x264-worldmkv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "The-Good-Fight-S03E10-720p-WEB-x265-MiNX[eztv]",
+            "size_total": 0.170969718,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.170969718,
+                    "path": "The.Good.Fight.S03E10.720p.WEB.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "The-Good-Fight-S03E10-720p-WEB-x265-MiNX[TGx]",
+            "size_total": 0.170970409,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.170969718,
+                    "path": "The.Good.Fight.S03E10.720p.WEB.x265-MiNX[TGx]/The.Good.Fight.S03E10.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.91e-7,
+                    "path": "The.Good.Fight.S03E10.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "The-Good-Fight-S03E10-720p-WEBRip-x264-TBS[ettv]",
+            "size_total": 0.757512104,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.85e-7,
+                    "path": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[ettv]/Downloaded from www.ettv.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.757511919,
+                    "path": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[ettv]/the.good.fight.s03e10.720p.webrip.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "The-Good-Fight-S03E10-720p-WEBRip-x264-TBS[eztv]",
+            "size_total": 0.757511919,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.757511919,
+                    "path": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "The-Good-Fight-S03E10-720p-WEBRip-x264-TBS[rarbg]",
+            "size_total": 0.757512118,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.757511919,
+                    "path": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[rarbg]/the.good.fight.s03e10.720p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 7e-8,
+                    "path": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[rarbg]/the.good.fight.s03e10.720p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "The-Good-Fight-S03E10-iNTERNAL-1080p-WEB-H264-AMRAP[rarbg]",
+            "size_total": 2.873362362,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.873361853,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP[rarbg]/The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.8e-7,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP[rarbg]/the.good.fight.s03e10.internal.1080p.web.h264-amrap.nfo"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "The-Good-Fight-S03E10-iNTERNAL-1080p-WEB-h264-BAMBOOZLE[rarbg]",
+            "size_total": 1.922125867,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.922125671,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE[rarbg]/the.good.fight.s03e10.internal.1080p.web.h264-bamboozle.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.7e-8,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE[rarbg]/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.nfo"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "The-Good-Fight-S03E10-The-One-About-the-End-of-the-World-1080p-AMZN-WEB-DL-DDP5-1-H-264-NTb[TGx]",
+            "size_total": 2.374868925,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.002522588,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001496474,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002097918,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001983628,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.366766007,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001619,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "The-Good-Fight-S03E10-The-One-About-the-End-of-the-World-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "size_total": 2.366766136,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.366766007,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "The-Good-Fight-S03E10-The-One-About-the-End-of-the-World-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "size_total": 1.035814716,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.035814587,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "The-Good-Fight-S03E10-WEBRip-x264-ION10",
+            "size_total": 0.574029924,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000076402,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.573953393,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-ION10/The.Good.Fight.S03E10.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "The-Good-Fight-S03E10-WEBRip-x264-TBS[ettv]",
+            "size_total": 0.242137734,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.99e-7,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[ettv]/Downloaded from www.ettv.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.242137535,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[ettv]/the.good.fight.s03e10.webrip.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "The-Good-Fight-S03E10-WEBRip-x264-TBS[eztv]",
+            "size_total": 0.242137535,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.242137535,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "The-Good-Fight-S03E10-WEBRip-x264-TBS[rarbg]",
+            "size_total": 0.242137729,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.242137535,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[rarbg]/the.good.fight.s03e10.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.5e-8,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[rarbg]/the.good.fight.s03e10.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "The-Good-Fight-S03E10-WEBRip-x264-TBS[TGx]",
+            "size_total": 0.243413067,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000432891,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000331111,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000259375,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000251399,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.242137535,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[TGx]/the.good.fight.s03e10.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 6.5e-8,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[TGx]/the.good.fight.s03e10.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "The-Good-Fight-Season-3",
+            "size_total": 2.429256186,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.259972344,
+                    "path": "The Good Fight Season 3/S03E06 The One with the Celebrity Divorce.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.32e-7,
+                    "path": "The Good Fight Season 3/Original File names.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.220606115,
+                    "path": "The Good Fight Season 3/S03E01 The One About the Recent Troubles.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.241150854,
+                    "path": "The Good Fight Season 3/S03E02 The One Inspired by Roy Cohn.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.259322332,
+                    "path": "The Good Fight Season 3/S03E03 The One Where Diane Joins the Resistance.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.250483997,
+                    "path": "The Good Fight Season 3/S03E04 The One with Lucca Becoming a Meme.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.243034744,
+                    "path": "The Good Fight Season 3/S03E05 The One Where A Nazi Gets Punched.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000001423,
+                    "path": "The Good Fight Season 3/Media info.txt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.240581273,
+                    "path": "The Good Fight Season 3/S03E07 The One Where Diane and Liz Topple Democracy.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.22838647,
+                    "path": "The Good Fight Season 3/S03E08 The One Where Kurt Saves Diane.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.243578467,
+                    "path": "The Good Fight Season 3/S03E09 The One Where the Sun Comes Out.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.242137535,
+                    "path": "The Good Fight Season 3/S03E10 The One About the End of the World.mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER).b19f0f7c064a4113",
+            "size_total": 9.830016813,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.083041675,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E01.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.051336832,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E02.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.181164049,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E03.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.098122473,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E04.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.062439906,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E05.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.151042399,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E06.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.060849959,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E07.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.042836778,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E08.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.099182742,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E09.720p.JASKiER.mkv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 24.392662944,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.305287228,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E01.The.One.About.the.Recent.Troubles.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.352403992,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E02.The.One.Inspired.by.Roy.Cohn.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.701723809,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E03.The.One.where.Diane.Joins.the.Resistance.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.49261897,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E04.The.One.with.Lucca.Becoming.a.Meme.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.354341435,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E05.The.One.where.a.Nazi.Gets.Punched.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.670160652,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E06.The.One.with.the.Celebrity.Divorce.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 2.349430455,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E07.The.One.Where.Diane.and.Liz.Topple.Democracy.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 2.361975875,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E08.The.One.Where.Kurt.Saves.Diane.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 2.43795449,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E09.The.One.Where.the.Sun.Comes.Out.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 2.366766007,
+                    "path": "The.Good.Fight.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 10.388827991,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.027967928,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E01.The.One.About.the.Recent.Troubles.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.001865715,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E02.The.One.Inspired.by.Roy.Cohn.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.12365749,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E03.The.One.where.Diane.Joins.the.Resistance.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.047390775,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E04.The.One.with.Lucca.Becoming.a.Meme.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.010600299,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E05.The.One.where.a.Nazi.Gets.Punched.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.095544089,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E06.The.One.with.the.Celebrity.Divorce.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.009147127,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E07.The.One.Where.Diane.and.Liz.Topple.Democracy.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.9914672919999999,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E08.The.One.Where.Kurt.Saves.Diane.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.045372658,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E09.The.One.Where.the.Sun.Comes.Out.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.035814587,
+                    "path": "The.Good.Fight.S03.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]/The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 5.663698551,
+            "files_total": 21,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000075892,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E01.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000073564,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E02.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000082551,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E03.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000078165,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E04.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000084553,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E05.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000072483,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E06.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000077787,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E07.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000072826,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E08.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000078449,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E09.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000080957,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/Subs/The.Good.Fight.S03E10.WEBRip.x264-ION10.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.587102456,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 13,
+                    "size": 0.525103443,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E02.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 14,
+                    "size": 0.615348269,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E03.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 15,
+                    "size": 0.544916001,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E04.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 16,
+                    "size": 0.550415639,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E05.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 17,
+                    "size": 0.589752953,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E06.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 18,
+                    "size": 0.557668472,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E07.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 19,
+                    "size": 0.55107525,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E08.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 20,
+                    "size": 0.56758879,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E09.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 21,
+                    "size": 0.57395002,
+                    "path": "The.Good.Fight.S03.PROPER.WEBRip.x264-ION10/The.Good.Fight.S03E10.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "The.Good.Fight.S03E10.720p.WEB.x265-MiNX[eztv].mkv(1)",
+            "size_total": 0.170969718,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.170969718,
+                    "path": "The.Good.Fight.S03E10.720p.WEB.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "The.Good.Fight.S03E10.720p.WEB.x265-MiNX[eztv].mkv",
+            "size_total": 0.170969718,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.170969718,
+                    "path": "The.Good.Fight.S03E10.720p.WEB.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[eztv].mkv(1)",
+            "size_total": 0.757511919,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.757511919,
+                    "path": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[eztv].mkv",
+            "size_total": 0.757511919,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.757511919,
+                    "path": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.757512118,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.757511919,
+                    "path": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[rarbg]/the.good.fight.s03e10.720p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 7e-8,
+                    "path": "The.Good.Fight.S03E10.720p.WEBRip.x264-TBS[rarbg]/the.good.fight.s03e10.720p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS [IPT]",
+            "size_total": 1.777625995,
+            "files_total": 20,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00000126,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.077623475,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.rar"
+                },
+                {
+                    "number": 20,
+                    "size": 0.00000126,
+                    "path": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS/the.good.fight.s03e10.final.multi.1080p.web.h264-cielos.sfv"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP [IPT]",
+            "size_total": 2.873366343,
+            "files_total": 22,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.7e-7,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.023364653,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.15,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.rar"
+                },
+                {
+                    "number": 22,
+                    "size": 0.00000132,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP/the.good.fight.s03e10.internal.1080p.web.h264-amrap.sfv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP[rartv]-[rarbg.to]",
+            "size_total": 2.873362362,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.873361853,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP[rarbg]/The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.8e-7,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP[rarbg]/the.good.fight.s03e10.internal.1080p.web.h264-amrap.nfo"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE [IPT]",
+            "size_total": 1.922133577,
+            "files_total": 41,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.7e-8,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.02213078,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.rar"
+                },
+                {
+                    "number": 41,
+                    "size": 0.00000273,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.sfv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "the.good.fight.s03e10.internal.1080p.web.h264-bamboozle.chs.eng.mp4.2f68d2981e114a38",
+            "size_total": 1.096292639,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.096292639,
+                    "path": "the.good.fight.s03e10.internal.1080p.web.h264-bamboozle.chs.eng.mp4"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE[rartv]-[rarbg.to]",
+            "size_total": 1.922125867,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.922125671,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE[rarbg]/the.good.fight.s03e10.internal.1080p.web.h264-bamboozle.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.7e-8,
+                    "path": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE[rarbg]/the.good.fight.s03e10.internal.1080p.web.x264-bamboozle.nfo"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 2.374868234,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.002522588,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001496474,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002097918,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001983628,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.366766007,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001619,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 2.366766136,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.366766007,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.035814716,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.035814587,
+                    "path": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "The.Good.Fight.S03E10.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.574029924,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000076402,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.573953393,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-ION10/The.Good.Fight.S03E10.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "The.Good.Fight.S03E10.WEBRip.x264-TBS [IPT]",
+            "size_total": 0.242139745,
+            "files_total": 15,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.5e-8,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS/the.good.fight.s03e10.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS/the.good.fight.s03e10.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS/the.good.fight.s03e10.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS/the.good.fight.s03e10.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS/the.good.fight.s03e10.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS/the.good.fight.s03e10.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS/the.good.fight.s03e10.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS/the.good.fight.s03e10.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS/the.good.fight.s03e10.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS/the.good.fight.s03e10.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS/the.good.fight.s03e10.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS/the.good.fight.s03e10.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.002139004,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS/the.good.fight.s03e10.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.02,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS/the.good.fight.s03e10.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 15,
+                    "size": 6.76e-7,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS/the.good.fight.s03e10.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "The.Good.Fight.S03E10.WEBRip.x264-TBS[eztv].mkv(1)",
+            "size_total": 0.242137535,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.242137535,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "The.Good.Fight.S03E10.WEBRip.x264-TBS[eztv].mkv",
+            "size_total": 0.242137535,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.242137535,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "The.Good.Fight.S03E10.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.242137729,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.242137535,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[rarbg]/the.good.fight.s03e10.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.5e-8,
+                    "path": "The.Good.Fight.S03E10.WEBRip.x264-TBS[rarbg]/the.good.fight.s03e10.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "www.SceneTime.com - The Good Fight S03E10 WEBRip x264-TBS.09a1c96b760607c2",
+            "size_total": 0.242337556,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000064516,
+                    "path": "www.SceneTime.com - The Good Fight S03E10 WEBRip x264-TBS/Screens/screen0001.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000040045,
+                    "path": "www.SceneTime.com - The Good Fight S03E10 WEBRip x264-TBS/Screens/screen0002.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000029711,
+                    "path": "www.SceneTime.com - The Good Fight S03E10 WEBRip x264-TBS/Screens/screen0003.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000022857,
+                    "path": "www.SceneTime.com - The Good Fight S03E10 WEBRip x264-TBS/Screens/screen0004.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000027101,
+                    "path": "www.SceneTime.com - The Good Fight S03E10 WEBRip x264-TBS/Screens/screen0005.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000014873,
+                    "path": "www.SceneTime.com - The Good Fight S03E10 WEBRip x264-TBS/Screens/screen0006.jpg"
+                },
+                {
+                    "number": 7,
+                    "size": 0.242137535,
+                    "path": "www.SceneTime.com - The Good Fight S03E10 WEBRip x264-TBS/the.good.fight.s03e10.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 8.33e-7,
+                    "path": "www.SceneTime.com - The Good Fight S03E10 WEBRip x264-TBS/the.good.fight.s03e10.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 9,
+                    "size": 8.5e-8,
+                    "path": "www.SceneTime.com - The Good Fight S03E10 WEBRip x264-TBS/Torrent Downloaded From www.SceneTime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Хорошая борьба The Good Fight Сезон 3 Серии 1-10 из 10 (Брук Кеннеди) [2019, США, Драма, WEBRip 720p] DVO (Gears Media) + [rutracker-5714732]",
+            "size_total": 11.558691553,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.296179401,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip (Gears Media)/The Good Fight S03E03 (2019) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.262026587,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip (Gears Media)/The Good Fight S03E06 (2019) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.2068077210000001,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip (Gears Media)/The Good Fight S03E09 (2019) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.19959941,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip (Gears Media)/The Good Fight S03E04 (2019) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.197947791,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip (Gears Media)/The Good Fight S03E10 (2019) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.166142232,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip (Gears Media)/The Good Fight S03E05 (2019) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.164265634,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip (Gears Media)/The Good Fight S03E07 (2019) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.150287124,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip (Gears Media)/The Good Fight S03E02 (2019) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.145576465,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip (Gears Media)/The Good Fight S03E08 (2019) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.769859188,
+                    "path": "The Good Fight S03 (2019) 720p WEBRip (Gears Media)/The Good Fight S03E01 (2019) 720p WEBRip (Gears Media).mkv"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Хорошая борьба The Good Fight Сезон 3 Серии 1-10 из 10 (Брук Кеннеди) [2019, США, Драма, WEBRip] DVO (Gears Media) + Origi [rutracker-5714791]",
+            "size_total": 7.343173044,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.797345648,
+                    "path": "The Good Fight S03 (2019) WEBRip (Gears Media)/The Good Fight S03E03 (2019) WEBRip (Gears Media).avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.763025576,
+                    "path": "The Good Fight S03 (2019) WEBRip (Gears Media)/The Good Fight S03E06 (2019) WEBRip (Gears Media).avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.760477498,
+                    "path": "The Good Fight S03 (2019) WEBRip (Gears Media)/The Good Fight S03E01 (2019) WEBRip (Gears Media).avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.745074616,
+                    "path": "The Good Fight S03 (2019) WEBRip (Gears Media)/The Good Fight S03E10 (2019) WEBRip (Gears Media).avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.740700256,
+                    "path": "The Good Fight S03 (2019) WEBRip (Gears Media)/The Good Fight S03E09 (2019) WEBRip (Gears Media).avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.717915504,
+                    "path": "The Good Fight S03 (2019) WEBRip (Gears Media)/The Good Fight S03E05 (2019) WEBRip (Gears Media).avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.716967518,
+                    "path": "The Good Fight S03 (2019) WEBRip (Gears Media)/The Good Fight S03E07 (2019) WEBRip (Gears Media).avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.712298824,
+                    "path": "The Good Fight S03 (2019) WEBRip (Gears Media)/The Good Fight S03E08 (2019) WEBRip (Gears Media).avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.70354817,
+                    "path": "The Good Fight S03 (2019) WEBRip (Gears Media)/The Good Fight S03E04 (2019) WEBRip (Gears Media).avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.685819434,
+                    "path": "The Good Fight S03 (2019) WEBRip (Gears Media)/The Good Fight S03E02 (2019) WEBRip (Gears Media).avi"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Хорошая борьба Правое дело The Good Fight Сезон 3 Серии 1-10 из 10 (Брук Кеннеди) [2019, США, драма, WEB-DL 720p] MVO (J [rutracker-5707439]",
+            "size_total": 10.919875799,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.083041675,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E01.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.051336832,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E02.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.181164049,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E03.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.098122473,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E04.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.062439906,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E05.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.151042399,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E06.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.060849959,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E07.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.042836778,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E08.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.099182742,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E09.720p.JASKiER.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.089858986,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER)/The.Good.Fight.S03E10.720p.JASKiER.mkv"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Хорошая борьба Правое дело The Good Fight Сезон 3 Серии 1-10 из 10 (Брук Кеннеди) [2019, США, драма, WEB-DLRip] MVO (Jas [rutracker-5707441]",
+            "size_total": 6.9235712,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.718168064,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E01.400p.JASKiER.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.645187584,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E02.400p.JASKiER.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.749953024,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E03.400p.JASKiER.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.661663744,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E04.400p.JASKiER.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.676171776,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E05.400p.JASKiER.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.723656704,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E06.400p.JASKiER.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.674304,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E07.400p.JASKiER.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.669898752,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E08.400p.JASKiER.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.699803648,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E09.400p.JASKiER.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.704763904,
+                    "path": "The.Good.Fight. Season 3 (WEB-DL l 400p l JASKiER)/The.Good.Fight.S03E10.400p.JASKiER.avi"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "傲骨之战.The.Good.Fight.S03E10.720p-天天美剧字幕组.mp4.4655103a9d962843",
+            "size_total": 0.470919594,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.470919594,
+                    "path": "傲骨之战.The.Good.Fight.S03E10.720p-天天美剧字幕组.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 68,
+            "name": "multi-btih-3-3-x-The-Good-Fight-S03E10-720p-WEB-x265-MiNX[eztv]",
+            "btih": "c758ee2a4a96ee53298f1bae2e32d41616237386",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.170969718,
+            "creation": "2019-05-16T11:06:22.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 70847,
+            "uuploaders": 33399
+        },
+        {
+            "id": 69,
+            "name": "multi-btih-4-3-x-The-Good-Fight-S03E10-720p-WEBRip-x264-TBS[eztv]",
+            "btih": "d0e82522a038c66ee0463e12bf0e2622b62e501c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.757511919,
+            "creation": "2019-05-16T07:06:19.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 59896,
+            "uuploaders": 27413
+        },
+        {
+            "id": 70,
+            "name": "multi-btih-5-2-x-The-Good-Fight-S03E10-720p-WEBRip-x264-TBS[rarbg]",
+            "btih": "62e51a33a39a00172b3f83c5f9c82a7e1d17287e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.757512118,
+            "creation": "2019-05-16T08:39:58.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 46273,
+            "uuploaders": 14353
+        },
+        {
+            "id": 18,
+            "name": "The-Good-Fight-s03e10-1080p-WEB-x264-worldmkv",
+            "btih": "49c7a468a2b0ddd07a21578b8f1f1b84363d8eb5",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.715794648,
+            "creation": "2019-05-16T22:45:45.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 45359,
+            "uuploaders": 22963
+        },
+        {
+            "id": 74,
+            "name": "multi-btih-9-3-x-The-Good-Fight-S03E10-WEBRip-x264-TBS[eztv]",
+            "btih": "bb28536fa48f8d1d6fa80497de1b53cf468be432",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.242137535,
+            "creation": "2019-05-16T07:06:30.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 39724,
+            "uuploaders": 14356
+        },
+        {
+            "id": 73,
+            "name": "multi-btih-8-2-x-The-Good-Fight-S03E10-WEBRip-x264-ION10",
+            "btih": "081afc23065783b597ddfb0fb5c1130e11a036ca",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.574029924,
+            "creation": "2019-05-16T08:45:53.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 30250,
+            "uuploaders": 10379
+        },
+        {
+            "id": 21,
+            "name": "The-Good-Fight-S03E10-720p-WEB-x265-MiNX[TGx]",
+            "btih": "c5e7740154295dcac8a4b160c56774821b245409",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.170970409,
+            "creation": "2019-05-16T11:06:37.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 30065,
+            "uuploaders": 9412
+        },
+        {
+            "id": 10,
+            "name": "The Good Fight - Temporada 3 [HDTV 720p][Cap.310][AC3 5.1 Castellano][www.pctnew.com].27822d660baa8e7b",
+            "btih": "27822d660baa8e7b386772d16301b0b50ca6fd02",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.086270954,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 29487,
+            "uuploaders": 12900
+        },
+        {
+            "id": 75,
+            "name": "multi-btih-10-2-x-The-Good-Fight-S03E10-WEBRip-x264-TBS[rarbg]",
+            "btih": "08e731947d218d7efbd1b65f769f168e473b760e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.242137729,
+            "creation": "2019-05-16T07:06:34.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 28577,
+            "uuploaders": 9003
+        },
+        {
+            "id": 80,
+            "name": "multi-btih-15-2-x-[rutor.is]The.Good.Fight._Season_3_WEB-DL_l_400p_l_JASKiE",
+            "btih": "a0f80a7ad7bd94b5b56f65776ea4aae5aa25d7a9",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 6.9235712,
+            "creation": "2019-05-20T14:30:57.000000000Z,uTorrent/2210,http://rutor.is/torrent/689226",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27866,
+            "uuploaders": 8956
+        },
+        {
+            "id": 65,
+            "name": "multi-btih-0-2-x-The-Good-Fight-S03-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rartv]",
+            "btih": "a11e2d616aa701785becf8b96ee33f47d76ab010",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 24.392662944,
+            "creation": "2019-05-16T11:24:02.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27691,
+            "uuploaders": 12596
+        },
+        {
+            "id": 66,
+            "name": "multi-btih-1-2-x-The-Good-Fight-S03-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rartv]",
+            "btih": "c69f27ebdc8326dcacf2b98c2515b4e092cf999c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 10.388827991,
+            "creation": "2019-05-16T11:24:03.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27053,
+            "uuploaders": 9657
+        },
+        {
+            "id": 79,
+            "name": "multi-btih-14-2-x-[rutor.is]Good_fight_1080p",
+            "btih": "58a794294b9692a608f6129de1594342e8cda3ab",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 25.986709764,
+            "creation": "2019-05-20T06:36:27.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),http://rutor.is/torrent/700276",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26689,
+            "uuploaders": 10802
+        },
+        {
+            "id": 34,
+            "name": "The-Good-Fight-S03E10-WEBRip-x264-TBS[TGx]",
+            "btih": "7fdee441a57dcf5f14fa5cd2148d144ff7b28a11",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.243413067,
+            "creation": "2019-05-16T06:45:08.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26665,
+            "uuploaders": 11431
+        },
+        {
+            "id": 78,
+            "name": "multi-btih-13-2-x-[rutor.is]Good_fight",
+            "btih": "9daa727b0a493669b168d93431c587a944445eaf",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 12.492938518,
+            "creation": "2019-05-20T06:34:32.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),http://rutor.is/torrent/700277",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26349,
+            "uuploaders": 8764
+        },
+        {
+            "id": 17,
+            "name": "The-Good-Fight-S03-SweSub-720p-x264-Justiso",
+            "btih": "c496240aae7520e794b4e28622e3c251f8b6229f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 9.070919418,
+            "creation": "2019-05-17T17:15:33.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23380,
+            "uuploaders": 9389
+        },
+        {
+            "id": 31,
+            "name": "The-Good-Fight-S03E10-WEBRip-x264-TBS[ettv]",
+            "btih": "cfc5e00aa244e2af37abab5641be5422d6cf9638",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.242137734,
+            "creation": "2019-05-16T07:06:32.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21330,
+            "uuploaders": 7902
+        },
+        {
+            "id": 67,
+            "name": "multi-btih-2-2-x-The-Good-Fight-S03-PROPER-WEBRip-x264-ION10",
+            "btih": "e370771cffa058f9cc5b8dc1b50b369f139fcf7b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 5.663698551,
+            "creation": "2019-05-16T11:24:04.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20042,
+            "uuploaders": 6091
+        },
+        {
+            "id": 81,
+            "name": "multi-btih-16-2-x-[rutor.is]The.Good.Fight._Season_3_WEB-DL_l_720p_l_JASKiE",
+            "btih": "ee76a126d7d6c1c41101554cc819973f9e96780e",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 10.919875799,
+            "creation": "2019-05-20T14:30:05.000000000Z,uTorrent/2210,http://rutor.is/torrent/689225",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 18239,
+            "uuploaders": 5910
+        },
+        {
+            "id": 72,
+            "name": "multi-btih-7-2-x-The-Good-Fight-S03E10-The-One-About-the-End-of-the-World-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "btih": "41f687ce02dc9a53e5429623ab1526bb5735b1c7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.035814716,
+            "creation": "2019-05-16T10:24:32.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17361,
+            "uuploaders": 5209
+        },
+        {
+            "id": 71,
+            "name": "multi-btih-6-2-x-The-Good-Fight-S03E10-The-One-About-the-End-of-the-World-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "btih": "5ac2ad6d5898d2fdc9f36590fd13d07341468888",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.366766136,
+            "creation": "2019-05-16T10:06:03.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16960,
+            "uuploaders": 5392
+        },
+        {
+            "id": 11,
+            "name": "The Good Fight - Temporada 3 [HDTV][Cap.310][Castellano].avi.f42a491a5d8a2b27",
+            "btih": "f42a491a5d8a2b27a6a928a49783cc7f23ede90a",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.648503196,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15842,
+            "uuploaders": 7333
+        },
+        {
+            "id": 35,
+            "name": "The-Good-Fight-Season-3",
+            "btih": "f3f07ca8eb5f868b2083a995b42e976985e048e4",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.429256186,
+            "creation": "2019-05-20T10:47:47.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14434,
+            "uuploaders": 5142
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]The.Good.Fight.S03.WEBRip",
+            "btih": "c9e2f103e0b4cfe0a0b1eeb5a2331319e12c183a",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 7.93406464,
+            "creation": "2019-05-22T07:49:48.000000000Z,uTorrent/1850,http://rutor.is/torrent/689797",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13100,
+            "uuploaders": 4981
+        },
+        {
+            "id": 77,
+            "name": "multi-btih-12-2-x-The-Good-Fight-S03E10-iNTERNAL-1080p-WEB-h264-BAMBOOZLE[rarbg]",
+            "btih": "dabd9f96d8fda292e8caba54831de841ecad7447",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.922125867,
+            "creation": "2019-05-16T07:06:36.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12559,
+            "uuploaders": 3291
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]The_Good_Fight_S03_2019_720p_WEBRip_Gears_Media",
+            "btih": "709547aa5ccf149d8af010e4d3ce6105329eb60e",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 9.967051815,
+            "creation": "2019-05-25T00:29:51.000000000Z,uTorrent/2210,http://rutor.is/torrent/692059",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12258,
+            "uuploaders": 1891
+        },
+        {
+            "id": 55,
+            "name": "The.Good.Fight.S03E10.WEBRip.x264-TBS [IPT]",
+            "btih": "8381ec6fb3ca24765e8c78504aa15b1137e64da1",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.242139745,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 11402,
+            "uuploaders": 4005
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]The.Good.Fight.S03.WEBRip.1080p",
+            "btih": "ddea02029fe61c6325cf6257f0c55f9f5a2453fe",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 32.215951401,
+            "creation": "2019-05-22T07:37:53.000000000Z,uTorrent/1850,http://rutor.is/torrent/689799",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11192,
+            "uuploaders": 2941
+        },
+        {
+            "id": 48,
+            "name": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.h264-BAMBOOZLE [IPT]",
+            "btih": "e86b73ee524500ffb9d5b49ca796b3aff63e9bbc",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.922133577,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 9686,
+            "uuploaders": 3188
+        },
+        {
+            "id": 49,
+            "name": "the.good.fight.s03e10.internal.1080p.web.h264-bamboozle.chs.eng.mp4.2f68d2981e114a38",
+            "btih": "2f68d2981e114a38733e9171aa2c54f79bcbaa6e",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.096292639,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8869,
+            "uuploaders": 2946
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]The.Good.Fight.S03.WEBRip.720p",
+            "btih": "c6ec8c16cdba84474433fffa9a15107f0f2be4f2",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 22.111704058,
+            "creation": "2019-05-22T07:48:13.000000000Z,uTorrent/1850,http://rutor.is/torrent/689798",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8608,
+            "uuploaders": 2971
+        },
+        {
+            "id": 22,
+            "name": "The-Good-Fight-S03E10-720p-WEBRip-x264-TBS[ettv]",
+            "btih": "353daab22e6add71f4f321332bfc23fc741fb6c2",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.757512104,
+            "creation": "2019-05-16T07:06:33.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8397,
+            "uuploaders": 1753
+        },
+        {
+            "id": 46,
+            "name": "The.Good.Fight.S03E10.iNTERNAL.1080p.WEB.H264-AMRAP [IPT]",
+            "btih": "69b94ca959189d0606567a7937c09dc8e9e07140",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.873366343,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 8145,
+            "uuploaders": 1677
+        },
+        {
+            "id": 61,
+            "name": "Хорошая борьба The Good Fight Сезон 3 Серии 1-10 из 10 (Брук Кеннеди) [2019, США, Драма, WEBRip] DVO (Gears Media) + Origi [rutracker-5714791]",
+            "btih": "b8159d22727db30b1c349a22d665bd92009e86fe",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 7.343173044,
+            "creation": "2019-05-25T08:08:59.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5714791",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7815,
+            "uuploaders": 1100
+        },
+        {
+            "id": 76,
+            "name": "multi-btih-11-2-x-The-Good-Fight-S03E10-iNTERNAL-1080p-WEB-H264-AMRAP[rarbg]",
+            "btih": "919a955d6f7a4535eb8c26761aa506e5268748f2",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.873362362,
+            "creation": "2019-05-16T07:45:21.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7800,
+            "uuploaders": 1775
+        },
+        {
+            "id": 9,
+            "name": "[rutor.is]The_Good_Fight_S03_2019_WEBRip_Gears_Media",
+            "btih": "6ed0de64ae0f8e67f612da363197c7ebb7485f0b",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 6.83395136,
+            "creation": "2019-05-25T08:09:03.000000000Z,uTorrent/2210,http://rutor.is/torrent/692082",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7664,
+            "uuploaders": 2028
+        },
+        {
+            "id": 64,
+            "name": "傲骨之战.The.Good.Fight.S03E10.720p-天天美剧字幕组.mp4.4655103a9d962843",
+            "btih": "4655103a9d962843670f85398f5a8ea7dcd1ec1f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.470919594,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7064,
+            "uuploaders": 865
+        },
+        {
+            "id": 59,
+            "name": "www.SceneTime.com - The Good Fight S03E10 WEBRip x264-TBS.09a1c96b760607c2",
+            "btih": "09a1c96b760607c22151d1f2cfb2aa890c716125",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.242337556,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6688,
+            "uuploaders": 1936
+        },
+        {
+            "id": 19,
+            "name": "The-Good-Fight-s03e10-720p-WEB-x264-worldmkv",
+            "btih": "103e56e001b4315464f72ce139f6c509c29660f6",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.427244885,
+            "creation": "2019-05-19T04:24:08.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6101,
+            "uuploaders": 1452
+        },
+        {
+            "id": 27,
+            "name": "The-Good-Fight-S03E10-The-One-About-the-End-of-the-World-1080p-AMZN-WEB-DL-DDP5-1-H-264-NTb[TGx]",
+            "btih": "d73d8d363fa74aa35edab92fde030b43457947ad",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.374868925,
+            "creation": "2019-05-16T10:24:15.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5643,
+            "uuploaders": 1669
+        },
+        {
+            "id": 51,
+            "name": "The.Good.Fight.S03E10.The.One.About.the.End.of.the.World.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "btih": "6c360c6652e74a4867cab5a3a47c244b78c15b91",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.374868234,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5508,
+            "uuploaders": 2063
+        },
+        {
+            "id": 60,
+            "name": "Хорошая борьба The Good Fight Сезон 3 Серии 1-10 из 10 (Брук Кеннеди) [2019, США, Драма, WEBRip 720p] DVO (Gears Media) + [rutracker-5714732]",
+            "btih": "1f96ba5b06294b2fb860914685063aa2c13b21c6",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 11.558691553,
+            "creation": "2019-05-25T00:29:52.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5714732",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4788,
+            "uuploaders": 743
+        },
+        {
+            "id": 45,
+            "name": "The.Good.Fight.S03E10.FiNAL.MULTi.1080p.WEB.H264-CiELOS [IPT]",
+            "btih": "f991b7582f56da0db05deb02d9d446cef6fe351d",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.777625995,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 345,
+            "uuploaders": 253
+        },
+        {
+            "id": 36,
+            "name": "The.Good.Fight. Season 3 (WEB-DL l 720p l JASKiER).b19f0f7c064a4113",
+            "btih": "b19f0f7c064a41136d679a1d8b09aca33ae04f1a",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 9.830016813,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 93,
+            "uuploaders": 66
+        }
+    ]
+}
