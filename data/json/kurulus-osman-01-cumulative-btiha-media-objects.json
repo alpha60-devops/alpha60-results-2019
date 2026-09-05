@@ -1,0 +1,176 @@
+{
+    "collection_name": "Kurulus Osman",
+    "collection_id": "1",
+    "collection_key": "kurulus-osman-01",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "Kurulus-Osman-4-BLM-(11-12-2019)-1080p-WEB-DL--Madhu",
+            "size_total": 2.479005081,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.479005081,
+                    "path": "Kurulus Osman 4.BLM (11.12.2019) 1080p WEB-DL - Madhu.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Kurulus-Osman-5-BLM-(18-12-2019)-1080p-WEB-DL--Madhu",
+            "size_total": 2.211821996,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.211821996,
+                    "path": "Kurulus Osman 5.BLM (18.12.2019) 1080p WEB-DL - Madhu.mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Kurulus-Osman-S01E01-20.11.2019-1080p-HDTV-AC3-x264-TURG(turktorrent.us)",
+            "size_total": 3.141361939,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.141361939,
+                    "path": "Kurulus Osman S01E01 (20.11.2019) 1080p HDTV AC3 x264-TURG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Kurulus-Osman-S01E01-720p-HDTV-AC3-x264-TURG(turktorrent.us)",
+            "size_total": 1.80647101,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.80647101,
+                    "path": "Kurulus Osman (20.11.2019) 720p HDTV AC3 x264-TURG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Основание Осман Kurulus Osman Сезон 1 Серии 1 из (Метин Гюнай) [2019, Турция, Драма, история, военный, WEBRip] VO (turok [rutracker-5808670]",
+            "size_total": 1.72287145,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.72287145,
+                    "path": "Osnovanie Osman/01 Kurulus Osman.avi"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Основание Осман Kurulus Osman Серии 1 из (Метин Гюнай) [2019, Турция, Драма, история, военный, WEBRip (1080p)] VO (turok199 [rutracker-5809399]",
+            "size_total": 2.071689744,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.071689744,
+                    "path": "Osnovanie Osman 1080p/01 Kurulus Osman.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 6,
+            "name": "Основание Осман Kurulus Osman Серии 1 из (Метин Гюнай) [2019, Турция, Драма, история, военный, WEBRip (1080p)] VO (turok199 [rutracker-5809399]",
+            "btih": "f0c13c83b430b3defb0160fecb733864d2d6fd87",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.071689744,
+            "creation": "2019-11-22T16:03:34.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5809399",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11694,
+            "uuploaders": 598
+        },
+        {
+            "id": 5,
+            "name": "Основание Осман Kurulus Osman Сезон 1 Серии 1 из (Метин Гюнай) [2019, Турция, Драма, история, военный, WEBRip] VO (turok [rutracker-5808670]",
+            "btih": "4c57dff220849ff41006711f4a72a20be88df7f5",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.72287145,
+            "creation": "2019-11-22T04:28:46.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5808670",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9747,
+            "uuploaders": 991
+        },
+        {
+            "id": 2,
+            "name": "Kurulus-Osman-5-BLM-(18-12-2019)-1080p-WEB-DL--Madhu",
+            "btih": "8c73ca264fc146155c289394ab294712ca6a473d",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.211821996,
+            "creation": "2019-12-19T00:15:32.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7006,
+            "uuploaders": 377
+        },
+        {
+            "id": 4,
+            "name": "Kurulus-Osman-S01E01-720p-HDTV-AC3-x264-TURG(turktorrent.us)",
+            "btih": "f0e201ac7d863743ca08e92e2071a521fbf45bd8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.80647101,
+            "creation": "2019-11-20T19:58:29.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2873,
+            "uuploaders": 2277
+        },
+        {
+            "id": 3,
+            "name": "Kurulus-Osman-S01E01-20.11.2019-1080p-HDTV-AC3-x264-TURG(turktorrent.us)",
+            "btih": "7600b6df736a2f39de58850f1069bcc1ba44ac73",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.141361939,
+            "creation": "2019-11-20T23:01:14.000000000Z,TurkTorrent,Please seed this torrent as long as possible!",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1602,
+            "uuploaders": 1201
+        },
+        {
+            "id": 1,
+            "name": "Kurulus-Osman-4-BLM-(11-12-2019)-1080p-WEB-DL--Madhu",
+            "btih": "477d12a914a4a08cb6fd729fdb16713788b56d11",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.479005081,
+            "creation": "2019-12-12T02:56:10.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 307,
+            "uuploaders": 252
+        }
+    ]
+}
