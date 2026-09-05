@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt8652642",
+    "imdb_id": "tt8652642",
+    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
+    "wikidata_id": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wu_Assassins"
+  },
+  "coverage_sha256": "da34eaf13baeb67692fee12033515c2f62e27c65786b4783d8057ce13a7f0a2e",
+  "generated_at": "2026-09-05T18:42:56.144388+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/wu-assassins-01.cache/cache.20191016.tar.xz",
+      "sha256": "b617c5b60bee2135cb32852be2e828312995270dbafce499b73269c0023bc105",
+      "size": 892919276
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/wu-assassins-01.md",
+      "sha256": "0b6d4e658497c04271d35605304c7982d3139da33925b671c2cae44ce23e9df3",
+      "size": 593
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/wu-assassins-01.json",
+      "sha256": "b754e9f51af72f6664c348b0922ffacdfe9e6b907b3f5b06b200550da19808eb",
+      "size": 2449
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/wu-assassins-01.json",
+      "sha256": "83ee500d306a66e4ca5af46ff36ab395afcbe197ce728c06d75be12ee31842fe",
+      "size": 367
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "c1c212754c31864df8eff7df764ea81851725028d25a7b2bc6d3092033343c41",
+      "size": 49746
+    }
+  },
+  "media_object": "wu-assassins-01",
+  "published_files": {
+    "data/csv/bytes/wu-assassins-01-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "3b60466add5506d8d860c678ef167661eac4bf39e769590dca69836d06d7db95",
+    "docs/itemized/figures/wu-assassins-01-carto-4k.webp": "df2aca4ac35de31a186c5bd388f965bef12a9ebb283db2eb2a1c3b4a7d856bce",
+    "docs/itemized/figures/wu-assassins-01-carto.png": "3a42c93f76fd6b1274e6d86bc0885d87c636d63ba1f8b381ea7efb8dcf9f889c",
+    "docs/itemized/figures/wu-assassins-01-cumulative-detail-btiha-itemized-by-bytes.svg": "331dc9f874690a31ab7aafa3c41b3fcfee974e2c8887cae64a998cb260df2cce",
+    "docs/itemized/figures/wu-assassins-01-data-ge-1080p-4k.webp": "029f3ef5850bb6a1176a0c1d059fbf43d7b71eda2d1c0d245d0bdc03ee89da60",
+    "docs/itemized/figures/wu-assassins-01-data-ge-1080p.webp": "29c448013af7bc51a0c01ab48f839cdc7c39bbaf87f6422f82598c28437b7a88",
+    "docs/itemized/figures/wu-assassins-01-data-lt-1080p-4k.webp": "7df4490c46c65337d9f766c038e8611517fcd5bf60bacf1abc51a21bec30c54a",
+    "docs/itemized/figures/wu-assassins-01-data-lt-1080p.webp": "f0e5256ad561cd0919062fb019a88ae0a9844589c27fe802267e629445c9bfaf",
+    "docs/itemized/figures/wu-assassins-01-downloads-by-day-day.svg": "770f64421f659e3d65cdb03ba2a76d2e1259c7692aa2e1914ccde00cf87286fc",
+    "docs/itemized/figures/wu-assassins-01-downloads-by-week-wu-assassins-01-week.svg": "0b62291091bcb0691e0109cb4a0d1e80696a1a5a2358b90c185397f0d7c7fe57",
+    "docs/itemized/wu-assassins-01-sample-cache-audit.md": "a51155165d9bb3e65d9a3b176186a61ca0608b8e3f4ed3d359543c65edef9aee",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "5986b46764300ac2e71bdfb79ee35c915f446205",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/wu-assassins-01/tmp/wu-assassins-01-cumulative-btiha.geojson",
+        "sha256": "0d3d7031f2756957902ac4677f4a29c7ead919e39be59b53987479f3d78536cb",
+        "size": 103766214
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/wu-assassins-01/tmp/wu-assassins-01-cumulative-btiha-media-objects.json",
+        "sha256": "944b491b507768374252ef90c8e48d2b9e3ca200d14d74ed1aaded2e793fb425",
+        "size": 644945
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "wu-assassins-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          79.0,
+          64.0,
+          63.0,
+          60.0,
+          59.0,
+          53.0,
+          41.0,
+          40.0,
+          37.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "Seoul",
+          "London",
+          "Mumbai",
+          "New York City",
+          "Seattle",
+          "Moscow",
+          "Independence",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          77.0,
+          60.0,
+          56.0,
+          56.0,
+          53.0,
+          48.0,
+          46.0,
+          41.0,
+          33.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "Seoul",
+          "London",
+          "New York City",
+          "Seattle",
+          "Shanghai",
+          "Tokyo",
+          "Independence",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 18,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "5986b46764300ac2e71bdfb79ee35c915f446205",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}
