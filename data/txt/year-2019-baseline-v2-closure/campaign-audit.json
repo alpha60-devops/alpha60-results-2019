@@ -2,8 +2,8 @@
   "counts": {
     "archive_records": 41,
     "baseline_v2_pages": 41,
-    "day_complete": 6,
-    "day_product_pairs": 533,
+    "day_complete": 41,
+    "day_product_pairs": 2434,
     "excluded_records": 0,
     "index_links": 41,
     "inventory": 41,
@@ -12,34 +12,58 @@
   },
   "day_records": [
     {
+      "baseline_sha256": "68a1399c86ff53c91621cf9b102dece19016569a7e93a1ad2776da15cfbeb3af",
       "collection_key": "big-bang-theory-1223",
-      "issue": "no native day JSON products for big-bang-theory-1223 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "8e0acaa97e0009ce9bccdcf3520663dbed778a678475ea50fcbad2b1e9c2c8fe",
+      "day_products": 84,
+      "product_sha256": "68548db4f974d969b79754f6b360590e373cf7744dd35303a08258e604160d17",
+      "status": "pass",
+      "stream_sha256": "af2ce32b73638e91bffad06716c8868fbdc936c0bb5844da2af64ba5faa1915d"
     },
     {
+      "baseline_sha256": "b8d39e5f2df351a5be5b7c6cb71566278a5e97c8ef86d62fcc4c5f944fdcee1a",
       "collection_key": "big-little-lies-207",
-      "issue": "no native day JSON products for big-little-lies-207 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "762b9e6dbabefe75f0063b15685bc6d91e43cbd111a3926a981402adb70ecc11",
+      "day_products": 35,
+      "product_sha256": "8268604610033c93181c6e2d15c1ec0736c96e2c9458439726dc568d499cb094",
+      "status": "pass",
+      "stream_sha256": "44080d51e4567454fd23474b365c6e32443debcae982ba3828fca85edb1f1e32"
     },
     {
+      "baseline_sha256": "d68a12ad389795b6d892790ce64c858d1427596aca5d3b65bcc67c04599b7fd3",
       "collection_key": "black-monday-110",
-      "issue": "no native day JSON products for black-monday-110 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "c10ec6ed1c3b91ee903ba7a96dc06359b7e18079bb38397859ca0a9c2580259b",
+      "day_products": 42,
+      "product_sha256": "ae5191bac9203396ea606b3dae0bd7eeb15eb0d3e2655252de4a12f5a250b065",
+      "status": "pass",
+      "stream_sha256": "310fa6e660e607ea3102bc5377b774e2953b6d227c5b8a5ac8975ea4407b862f"
     },
     {
+      "baseline_sha256": "e14a655781461e88f0dc7d17936a94985f9b585b0d9d8c886347e85a9e9ad21a",
       "collection_key": "cobra-kai-02",
-      "issue": "no native day JSON products for cobra-kai-02 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "d191b8513bc460e780ac4dc22e3e727f7ab21c524ff21f6c8624547f0209dd66",
+      "day_products": 84,
+      "product_sha256": "124113737a908900929ff1003b9277af006b0b524577499b7ddf5bf1c144ff94",
+      "status": "pass",
+      "stream_sha256": "e00a85c5147a4227180e4fdf4bf87b4650f11364235b3c6b25f960213bc5657a"
     },
     {
+      "baseline_sha256": "9fe0fde3f4cb829eb0d17f775dfc95c1ff30252fa961a4a2e5cee37861190241",
       "collection_key": "doctor-who-1200",
-      "issue": "no native day JSON products for doctor-who-1200 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "15f6fe5ceefc8a9f1d1cf8bef572e20c52a21dbc5e74c1afcffd817af055d16c",
+      "day_products": 28,
+      "product_sha256": "750a8083a8e9c04bcd34cc2e96befa3476435e637eacb311b1628ce77a5cb71b",
+      "status": "pass",
+      "stream_sha256": "bdb625495ef31ad3fac936a43903d2a63cc3364cad407f462534e0f2be37752c"
     },
     {
+      "baseline_sha256": "a9555a8f19de214181790edb1248bf40d140400efa42c94dc5859dbb009e67db",
       "collection_key": "dolemite-is-my-name",
-      "issue": "no native day JSON products for dolemite-is-my-name in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "cea83a40b6a9acc561cac13a5d65a295afef62df77406955fddadd7ae7f36e48",
+      "day_products": 40,
+      "product_sha256": "15b072965c8e1b8d673aac03370dba4878e6cba660f672054d2319aa38e8f3ce",
+      "status": "pass",
+      "stream_sha256": "0be3e3029b900efa72fde4835ef24d7f8698d8a4e35b0322e9330f8ae006dbc3"
     },
     {
       "baseline_sha256": "61df604cddae78854013d4840959f05d54ce9d7b225c0c180d47e57d4ce80c92",
@@ -60,49 +84,85 @@
       "stream_sha256": "b37e9753dbd01cca52d3d6355277a9bc436455914ca0eb32f15258e522db164a"
     },
     {
+      "baseline_sha256": "7d068600c6c450c3d004e092b5aff13bf1f5651d77fbd9104cef64d6875b0355",
       "collection_key": "game-of-thrones-801",
-      "issue": "no native day JSON products for game-of-thrones-801 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "573701079ca933162dbf8a070a3b68b4c5dc8867070b4aada16a51623170d7ec",
+      "day_products": 77,
+      "product_sha256": "4b9710d838c79b62ac9f699e17a58e01cae8a0b02811eb8be23f645dcb8994d3",
+      "status": "pass",
+      "stream_sha256": "c7caabbd0dbcf1a74977903963403a918166b352b0d88a32be87d36ba51a7cc0"
     },
     {
+      "baseline_sha256": "ff4a03d95016bb073166cbd7af84c9d1fce1ed9f554fee975db20b0b133e78b4",
       "collection_key": "game-of-thrones-803",
-      "issue": "no native day JSON products for game-of-thrones-803 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "754283f1a8f8d28d0df907ad03fc18d20f649f6894f73e10c2b03997e44bea30",
+      "day_products": 42,
+      "product_sha256": "cb31f096a694fcacb70db6c663dc56391e76b2c9470695f0cfc75a9068acb93c",
+      "status": "pass",
+      "stream_sha256": "ca9aa611ac4f4c6d7c2941681a27512684816626d3ed4b1e1b3e7e9702dea78a"
     },
     {
+      "baseline_sha256": "a6da2fc729f3d66b1c8da10b059d7f74b2ad50f56ad65362084ca5ec6c645a12",
       "collection_key": "game-of-thrones-806",
-      "issue": "no native day JSON products for game-of-thrones-806 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "084437ec18bd8ebb3f51585c68d2264440354860245ac2c530318a354be25d6d",
+      "day_products": 105,
+      "product_sha256": "ac90220040e287851af6186c782e2962dc7a0bcb588d4ba1986f71752fe49462",
+      "status": "pass",
+      "stream_sha256": "22c7971cd8aeec0d51165ce24b65dbc49161672b47611cb12cb5f22553dbb03b"
     },
     {
+      "baseline_sha256": "c2a02e91f87c41daedf63b6afe6abeb923a0f0dd89d19832f5f464953efef3c2",
       "collection_key": "glow-03",
-      "issue": "no native day JSON products for glow-03 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "2e7b1d1efd458dc2a2cfb8f7d46f13489b67299fddd14a10c85caba3d2761d27",
+      "day_products": 35,
+      "product_sha256": "7fe45bd6fd279fc3f10cd86a24868635246332cbeb6cf2c8b116fa62b69375e8",
+      "status": "pass",
+      "stream_sha256": "cf07e5244aa7be3d279db1ffcba9155e7b33f68f27c682d07c11c25d73be4b31"
     },
     {
+      "baseline_sha256": "00e8375177963bd3952d4090e26c01ec0a835529087d6367c006c0753a42ef5f",
       "collection_key": "good-fight-301",
-      "issue": "no native day JSON products for good-fight-301 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "5ac6fb5b95f9bf3aa955994c2c20423b4f8eb692e8396558488c4dbba43df52a",
+      "day_products": 35,
+      "product_sha256": "f0973a6f7515e7d059c1eabc11dfd6a5d36e5b5ccaf955a5e89dd87bfca78d9c",
+      "status": "pass",
+      "stream_sha256": "beb1b0d5b8d50010035550c2bedfe38c6b1d0391efbf478b027745e99890baad"
     },
     {
+      "baseline_sha256": "20d232e8071fe25916a028d7cc7b3423186d026d99fbf5c159ee502c86b81d5d",
       "collection_key": "good-fight-310",
-      "issue": "no native day JSON products for good-fight-310 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "d2950ee06e9fc794bbdfa7143ce365d4217fce42cbbfb7158e15abb43de543c4",
+      "day_products": 57,
+      "product_sha256": "a99745d088eebe12a1a10c0e87219b71e07ac4bbb617ba255cdbd8b1f8fa4709",
+      "status": "pass",
+      "stream_sha256": "eeda863cdcea3fe98910acd790f656742b7116dea98bdeef5d0556a6eb03d5d1"
     },
     {
+      "baseline_sha256": "957b69b9817a4aee7053103a6fe8323176d9169a92990ea8b9019bdd258839f9",
       "collection_key": "high-flying-bird",
-      "issue": "no native day JSON products for high-flying-bird in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "5f755917b610dd4d4b1d67dd3d5ae99c69418b3f3126baff8a9a529a5761a596",
+      "day_products": 35,
+      "product_sha256": "e096b9fd673ef5cb4561de79657076ec13e634882f12e3cb40c0ee2fee60da1a",
+      "status": "pass",
+      "stream_sha256": "6e1987964f8574a29bd67d095e76113e337d1996b6fbbf8369948e7365eff884"
     },
     {
+      "baseline_sha256": "b1311ef33641febbf44816c4dbc88e3bd592f79e36be477be72031eca6536a08",
       "collection_key": "i-am-the-night-106",
-      "issue": "no native day JSON products for i-am-the-night-106 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "7ce74c421c6923ecfc05147819e4f78366b234e67d34a11ec30169cd4b9475a5",
+      "day_products": 35,
+      "product_sha256": "f2f41a78b5d72c3fcd3e364a6592a88e8c12e5d8422b793f9b089a17cb774b3e",
+      "status": "pass",
+      "stream_sha256": "35c01ef0ade01e104a53ee83214a1981f6762574d786bb816a03e6bd56783409"
     },
     {
+      "baseline_sha256": "de0f6ba54586b6c2686b40dcfe275da03b102601e8d696867ee6510d8590bc90",
       "collection_key": "killing-eve-208",
-      "issue": "no native day JSON products for killing-eve-208 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "8201dca1c2992a6aad2650d83fb5d826559e2073f8c6ce0fdc4cf8a16f599cb0",
+      "day_products": 56,
+      "product_sha256": "eb1df03494d04512b4c88f00887422fefedd619e090cef55d7c4dead5f748a7b",
+      "status": "pass",
+      "stream_sha256": "fbb56bf4d6dfec1b7e49842b8ee2591a991cafbcaa9977913c6f457873202161"
     },
     {
       "baseline_sha256": "1ae4f18ea6b42fbe3a9765bca55471201d127513e5fd96186814a078cdbef339",
@@ -114,19 +174,31 @@
       "stream_sha256": "1a43cb56196d5e84189e8cc65eea84f1e8a3233f90a2c7f74084816d3d26730c"
     },
     {
+      "baseline_sha256": "b745ac2a66810e62bd74182dd166c2aee1a725138887f3a1c63ee0c576069f41",
       "collection_key": "love-death-robots-01",
-      "issue": "no native day JSON products for love-death-robots-01 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "96643237c5530287c5cb8eaf8673d1db42b51f983c9113062cb4eefb5874387d",
+      "day_products": 63,
+      "product_sha256": "2af435c27c4d58f943505dd50380c0575ed7c023a2ea8cf836220e6eebd84c47",
+      "status": "pass",
+      "stream_sha256": "5cfe9b0de21ba5b97f0d5246f56188b8d2b282763a4dce4445db4ee274867e68"
     },
     {
+      "baseline_sha256": "91bd8c65e5434c4a3b8cd1b846b3966d7ddbb994b3b2368d6a21b482fb0b60fe",
       "collection_key": "mandalorian-101",
-      "issue": "no native day JSON products for mandalorian-101 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "2d851e44c41d24432b5e9ce50aebd548bc226852f8696933b18a8aebfeea9bf9",
+      "day_products": 42,
+      "product_sha256": "8bd615429234564f82da1faec7cf7673142a8b8a320bf4f87856d8a552b186cf",
+      "status": "pass",
+      "stream_sha256": "55dda0108e99fe126570422c87bf080507212ddee36fc38ae5e0b3a32a773688"
     },
     {
+      "baseline_sha256": "7b855d4a0bd2ada8d8521b85c293fefb62ab0e39dcdb1c19a3ef8bec86748818",
       "collection_key": "mandalorian-102",
-      "issue": "no native day JSON products for mandalorian-102 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "f74d2946c2df639220bcf59d75c748460e34768afcfb4364d8856897de4995f0",
+      "day_products": 49,
+      "product_sha256": "8e9c8e3a44f21648e87cd06d7b5705a87b0afa34cb83a2c9c0d943f8830509b0",
+      "status": "pass",
+      "stream_sha256": "f5c095a15c931f734ae1a8905fa7d38db8bd17a5e932f0cad03d657769c5e45b"
     },
     {
       "baseline_sha256": "c973ea3f994d7c1b22cd67f41943bfafc9c55d6b99ad35e874d9ec2e7994d6ce",
@@ -147,84 +219,148 @@
       "stream_sha256": "383ed3dc8dc8731479c1e916e360520735099fac1018710406a51601eb940835"
     },
     {
+      "baseline_sha256": "07332b73d05c4d2884eb5b5f6df8de1c41b01fcf70a9e89d4b7d92cdc2836208",
       "collection_key": "oa-02",
-      "issue": "no native day JSON products for oa-02 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "f961603a7909b83dded26d9cd8b0dec40b4c76bf46453f61be31355b899006b3",
+      "day_products": 59,
+      "product_sha256": "3782e5376c36995d3c78112ef8251ef6739f42e7c6486d513b60ff7ae8386627",
+      "status": "pass",
+      "stream_sha256": "28b2521e74fb894893a221202b3fe0666e431852a841418e48a4e3f6bde68080"
     },
     {
+      "baseline_sha256": "1a2d1d9da73842bdf45609f61f2524c7ca1ff72bc98469a8399647fa69299486",
       "collection_key": "orange-is-the-new-black-07",
-      "issue": "no native day JSON products for orange-is-the-new-black-07 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "bc1f81c6c2a4d4c89b35e7163a883827d1af86f095e90867bdf0839720974321",
+      "day_products": 62,
+      "product_sha256": "34ec47df350505ef57c2256a618c8531cb0b9854e482d6f26ebcb529505b9803",
+      "status": "pass",
+      "stream_sha256": "c6aae75c30ece91b4628ad8d29d794174a6326ad477711fc4fadcbb434e4cb6d"
     },
     {
+      "baseline_sha256": "cdea6a5224b474444e9f164c6c012a44166aeb68426140ae9669b823387b7c10",
       "collection_key": "orville-214",
-      "issue": "no native day JSON products for orville-214 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "3f80972f308823ecac5ba8114a57f0a8a23ba27b68ac567dcaa2ab91d43a51f8",
+      "day_products": 49,
+      "product_sha256": "6584153fa61550a5b8a9aaa260323acd8b270014b7546b751da59222d96ce36a",
+      "status": "pass",
+      "stream_sha256": "a079b65165ea218a7d96b451c584e762c690338091a73eba97e665223d8722d7"
     },
     {
+      "baseline_sha256": "2be4e39a5fa66ec85e8088a082993de794c6865528cbf06319206833702f4aa7",
       "collection_key": "queen-of-the-south-413",
-      "issue": "no native day JSON products for queen-of-the-south-413 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "da041539f4b5537b0af6c6e1fcc089f893b3418380762a8f71efd09df8ef0509",
+      "day_products": 70,
+      "product_sha256": "db155e8e3ead40cecfdee29c7875add46dec7a597d6d2773cf11e2846276eac5",
+      "status": "pass",
+      "stream_sha256": "bf206abb21b54ba698b7f13ca352ca416eb90c322cdb052db5b23df62302f769"
     },
     {
+      "baseline_sha256": "6ae574aa6feced5a8d0137c4bc26951a467cd39e7f45d1c158fb9dcd663046ea",
       "collection_key": "queer-eye-2018-04",
-      "issue": "no native day JSON products for queer-eye-2018-04 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "62ecba19861651ce4e6202c6834edbf6f01cc5d644e1b083f711f75f52e06f66",
+      "day_products": 70,
+      "product_sha256": "e864fb86baa74f4d152fc3cf71795fb211844f15fa8d10708bf1ce9f9b6e9ec7",
+      "status": "pass",
+      "stream_sha256": "8db70f1541991faba0e6a3da7fc3c0f1998c3883eed99135ef3ef48b131e93c5"
     },
     {
+      "baseline_sha256": "e9343de38bae41161e3d54ced50bbdfefa1ac6d6a7d57da335eb1c7e6130cb9a",
       "collection_key": "she-ra-04",
-      "issue": "no native day JSON products for she-ra-04 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "e96dbc3d90af9a5ea1910a70918c39d4e61696223fc97309275619cfabbcc22b",
+      "day_products": 42,
+      "product_sha256": "4adc5b4937ec23610a78a43c52fda20c3d85ee77d28345bf9bd5c027661302db",
+      "status": "pass",
+      "stream_sha256": "2d752d17af8600ce5bec34b27eeaec3779d05eb50a272d26fa5bc1ff9d0eb601"
     },
     {
+      "baseline_sha256": "485af552c3d3b48af435c9d3dcafcc62d7aacfb62f28e95f70a050ea52fe406f",
       "collection_key": "star-trek-discovery-201",
-      "issue": "no native day JSON products for star-trek-discovery-201 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "f40d8038fd5b0264d840e7e9eb57bd19845f6a81d439c0d53f5b69567fad2c0f",
+      "day_products": 28,
+      "product_sha256": "0faba51cd74ee138037cd6262afe1bcfc4cdb297a0c8ee7ecf4c04a6586e020f",
+      "status": "pass",
+      "stream_sha256": "c419b451f0eb28ec493dea671adb7bbc9c1c4607d70c1c88aa597fff3aa1a3ad"
     },
     {
+      "baseline_sha256": "dcd1286f0151395310b4ae6fec73b2e2716bafd3eb383008748b93eb614d8b44",
       "collection_key": "star-trek-discovery-214",
-      "issue": "no native day JSON products for star-trek-discovery-214 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "51074fe4f1ad5dd6f6c5f15b67c74ad1ef891f769ab46ef345770053c1bbaae9",
+      "day_products": 49,
+      "product_sha256": "e98b4024221e49801a44e48d6cc94583973466d85969eff2205a790cf8985b46",
+      "status": "pass",
+      "stream_sha256": "da007f2372e045c5a98116e954795cb4efa741f74210b4ff64d6b8258dda033b"
     },
     {
+      "baseline_sha256": "3df7c3635e0c90426427a371e922f6122a250de2a6c27cdbabfbd30f5d7571bc",
       "collection_key": "stranger-things-03",
-      "issue": "no native day JSON products for stranger-things-03 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "492ec0cd221600d3ea3f58315e88d766eeae569863f99f46e4d5cf8de5bc3d0d",
+      "day_products": 81,
+      "product_sha256": "8ab0a96893bcb3ddb9175534fc80833caea055d68b45644bd21d43da8f6d1311",
+      "status": "pass",
+      "stream_sha256": "f4a74a07596328acb8421e76be08eb31b0bc6dcef5d85cb8c724d0b92c90d3ec"
     },
     {
+      "baseline_sha256": "224e4723efd16ea515713f0a6659dc7c17f9e8bd18d440f331d38a76b1c66664",
       "collection_key": "tales-of-the-city-2019",
-      "issue": "no native day JSON products for tales-of-the-city-2019 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "fa5560a898a8413f2cec098b530e91584bd510057e83927cc7f9de0bc3beb847",
+      "day_products": 70,
+      "product_sha256": "883becbf07d16efd22b4eb5b9be5951a41c1ceceb2d0d3c97977ab461fea9e84",
+      "status": "pass",
+      "stream_sha256": "16633af5521b2be27df24e700943e86eb1ec7605aab0b4172242cc789d738761"
     },
     {
+      "baseline_sha256": "9eb8cd5ab6fd4564ca65eea3f4b740fb5d7531d3948dd3e68e76a4633fe35c0c",
       "collection_key": "true-detective-308",
-      "issue": "no native day JSON products for true-detective-308 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "d782d6313dd9e2ab62b7072b4f251cc2cd549e906c687643622f56ebbbc6baf9",
+      "day_products": 49,
+      "product_sha256": "d9a6234ab69a75032b90ce852d11d40db8a2472fc712aea6e333bf338c012d3b",
+      "status": "pass",
+      "stream_sha256": "a8b5917c8d6418323c3a5be20efd8ea7051c891db42cb3fa9526e116da6c30e7"
     },
     {
+      "baseline_sha256": "ee846b49fcf3a5968c6021ddf1c0d643461b31091faff3a9375e6c6b21a2edb7",
       "collection_key": "umbrella-academy-01",
-      "issue": "no native day JSON products for umbrella-academy-01 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "1785b9a51014a8b596c943ccfb0832f73e64ef7b26f0d1adcd9002a23a3af0ea",
+      "day_products": 56,
+      "product_sha256": "b6bb81edb22853c706487a17b949f3642bce29cad17e23125178196f4b047f6d",
+      "status": "pass",
+      "stream_sha256": "1acd7b9609200fedc7a950b4852922f95ba938d6bb4c5b2f05e9e87da9d3dc07"
     },
     {
+      "baseline_sha256": "a6e05da991c9dc94932068af453f44d18cf93926604e02ddf71a96aecf64df61",
       "collection_key": "undone-01",
-      "issue": "no native day JSON products for undone-01 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "5d1389a53fc04451357f0ddfe52f42018656319162a8160bd78ee62fea9f58a9",
+      "day_products": 70,
+      "product_sha256": "6af52331a0ec392d2ca7a7f52e5897a35ab7931e8dce25aac0af4c2d787526e4",
+      "status": "pass",
+      "stream_sha256": "13458e48f2d099edfa75532d46968db87d8fdff7daa1c60bdcec23048c8a1af1"
     },
     {
+      "baseline_sha256": "e07f674333e82269be74ae5be20c1c0ec01dccd34c5b9bfaf946aff8c562c4ad",
       "collection_key": "walking-dead-1008",
-      "issue": "no native day JSON products for walking-dead-1008 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "494987292eae690c99cea0fa1f598a763c9284aab00507342c1cf2ad1de05f4c",
+      "day_products": 48,
+      "product_sha256": "ad09630c39deed9d0ed089f8003c704a183941dc42312e22195a625281bb612c",
+      "status": "pass",
+      "stream_sha256": "0d3e3c0d05e10e11f173db12a5ee83da96c19de26ead3b18e20f07c72b4d4867"
     },
     {
+      "baseline_sha256": "341f3087a122ab4a82849b19a9ae9c976272fa301a8821db0c33422ff2d9d350",
       "collection_key": "walking-dead-916",
-      "issue": "no native day JSON products for walking-dead-916 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "7691762b02fccb79c36dd40e47d57943aab327ce7ba6d164d764598c435532e3",
+      "day_products": 49,
+      "product_sha256": "924b608f87d25471838045ad4055d84b99f013c92afe44406cbb8aa3891cb8b0",
+      "status": "pass",
+      "stream_sha256": "67ffd160a090cd70500eba3f1f587bab1bc7ac6f229af6408781d23e946352fd"
     },
     {
+      "baseline_sha256": "174c5e1701a7072dc7ab53e9274e89d34035bcc7c0800c6e6b3184b6f4a5375f",
       "collection_key": "watchmen-104",
-      "issue": "no native day JSON products for watchmen-104 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "b511f4f11c85ea310c480ac508d15032493ecb51c9f31e20dac1d2e7dcfcfecb",
+      "day_products": 35,
+      "product_sha256": "3c0fe20f0c8473b8ef7625f2910eaff60c717d03a19bf4ac63a029a502f4df87",
+      "status": "pass",
+      "stream_sha256": "0fd7c9d8e01f720ab032c4f939f3560e4b61ef041ce4a342deef001f5fa57d8e"
     },
     {
       "baseline_sha256": "4cb01e56a9cb28cef1b954812c9b4c7f41e8d52a90e6cd1af754115f9ecf7f46",
@@ -236,9 +372,13 @@
       "stream_sha256": "28b2b76f8992747572251454334ac7a556aa7788f1bc6bbd8e0063a229c20ea3"
     },
     {
+      "baseline_sha256": "4d275fafda9386b577e18d4e74c2e39601fd46176df37461e7e46e76ab44f701",
       "collection_key": "wu-assassins-01",
-      "issue": "no native day JSON products for wu-assassins-01 in /home/bkoz/src/alpha60-results-2019/data/json",
-      "status": "fail"
+      "coverage_sha256": "0b6d4e658497c04271d35605304c7982d3139da33925b671c2cae44ce23e9df3",
+      "day_products": 70,
+      "product_sha256": "83ee500d306a66e4ca5af46ff36ab395afcbe197ce728c06d75be12ee31842fe",
+      "status": "pass",
+      "stream_sha256": "b754e9f51af72f6664c348b0922ffacdfe9e6b907b3f5b06b200550da19808eb"
     }
   ],
   "excluded_outputs": {},
@@ -247,12 +387,12 @@
     "index": true,
     "inventory_map": true,
     "metadata": true,
-    "products": false,
+    "products": true,
     "repositories": true,
     "site": true,
     "workers": true
   },
-  "generated_at": "2026-09-05T20:06:55.912766+00:00",
+  "generated_at": "2026-09-05T20:21:11.324843+00:00",
   "index": {
     "links": 41,
     "missing_targets": [],
@@ -352,43 +492,7 @@
       }
     ]
   },
-  "issues": [
-    "product audit failed for big-bang-theory-1223: no native day JSON products for big-bang-theory-1223 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for big-little-lies-207: no native day JSON products for big-little-lies-207 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for black-monday-110: no native day JSON products for black-monday-110 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for cobra-kai-02: no native day JSON products for cobra-kai-02 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for doctor-who-1200: no native day JSON products for doctor-who-1200 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for dolemite-is-my-name: no native day JSON products for dolemite-is-my-name in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for game-of-thrones-801: no native day JSON products for game-of-thrones-801 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for game-of-thrones-803: no native day JSON products for game-of-thrones-803 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for game-of-thrones-806: no native day JSON products for game-of-thrones-806 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for glow-03: no native day JSON products for glow-03 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for good-fight-301: no native day JSON products for good-fight-301 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for good-fight-310: no native day JSON products for good-fight-310 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for high-flying-bird: no native day JSON products for high-flying-bird in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for i-am-the-night-106: no native day JSON products for i-am-the-night-106 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for killing-eve-208: no native day JSON products for killing-eve-208 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for love-death-robots-01: no native day JSON products for love-death-robots-01 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for mandalorian-101: no native day JSON products for mandalorian-101 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for mandalorian-102: no native day JSON products for mandalorian-102 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for oa-02: no native day JSON products for oa-02 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for orange-is-the-new-black-07: no native day JSON products for orange-is-the-new-black-07 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for orville-214: no native day JSON products for orville-214 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for queen-of-the-south-413: no native day JSON products for queen-of-the-south-413 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for queer-eye-2018-04: no native day JSON products for queer-eye-2018-04 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for she-ra-04: no native day JSON products for she-ra-04 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for star-trek-discovery-201: no native day JSON products for star-trek-discovery-201 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for star-trek-discovery-214: no native day JSON products for star-trek-discovery-214 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for stranger-things-03: no native day JSON products for stranger-things-03 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for tales-of-the-city-2019: no native day JSON products for tales-of-the-city-2019 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for true-detective-308: no native day JSON products for true-detective-308 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for umbrella-academy-01: no native day JSON products for umbrella-academy-01 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for undone-01: no native day JSON products for undone-01 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for walking-dead-1008: no native day JSON products for walking-dead-1008 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for walking-dead-916: no native day JSON products for walking-dead-916 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for watchmen-104: no native day JSON products for watchmen-104 in /home/bkoz/src/alpha60-results-2019/data/json",
-    "product audit failed for wu-assassins-01: no native day JSON products for wu-assassins-01 in /home/bkoz/src/alpha60-results-2019/data/json"
-  ],
+  "issues": [],
   "metadata_repository": {
     "path": "/home/bkoz/src/alpha60-swarm-metadata",
     "revision": "7f973ef903a4f8faf7271e7273fed4ff725fa525",
@@ -413,13 +517,13 @@
   },
   "results_repository": {
     "path": "/home/bkoz/src/alpha60-results-2019",
-    "revision": "11d259ec57d4ed0548d7855f2621ecdf479ff291",
+    "revision": "3e624148a70d8ea42e221b733cd50d162ffaeeb5",
     "tracked_clean": true,
     "untracked_files": [],
     "worktree_clean": true
   },
   "schema": "alpha60-year-baseline-v2-campaign-audit/1",
-  "status": "fail",
+  "status": "pass",
   "terminal_records": [
     {
       "collection_key": "big-bang-theory-1223",
