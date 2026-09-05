@@ -14,7 +14,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | Dolemite Is My Name |
 | Collection key | `dolemite-is-my-name` |
 | imdb_id | [tt8526872](https://www.imdb.com/title/tt8526872/) |
-| wikipedia_url | UNAVAILABLE — no English Wikipedia page exists |
+| wikipedia_url | [Dolemite Is My Name](https://en.wikipedia.org/wiki/Dolemite_Is_My_Name) |
 | Sample dates | 2019-10-25-to-2019-12-05 |
 | Sample days | 42 |
 | BTIH count | 77 |
