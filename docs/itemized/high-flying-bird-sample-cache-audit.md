@@ -14,7 +14,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Media object | High Flying Bird |
 | Collection key | `high-flying-bird` |
 | imdb_id | [tt8128188](https://www.imdb.com/title/tt8128188/) |
-| wikipedia_url | UNAVAILABLE — no English Wikipedia page exists |
+| wikipedia_url | [High Flying Bird](https://en.wikipedia.org/wiki/High_Flying_Bird) |
 | Sample dates | 2019-02-08-to-2019-03-14 |
 | Sample days | 35 |
 | BTIH count | 41 |

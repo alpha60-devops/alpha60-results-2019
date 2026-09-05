@@ -2,12 +2,12 @@
   "canonical_metadata": {
     "external_imdb": "tt8128188",
     "imdb_id": "tt8128188",
-    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
-    "wikidata_id": "",
-    "wikipedia_url": ""
+    "revision": "7f973ef903a4f8faf7271e7273fed4ff725fa525",
+    "wikidata_id": "Q50649485",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/High_Flying_Bird"
   },
   "coverage_sha256": "bd6e57349aa44dbc4d8a7d67a781f8b1acb1e18090eca21229bf680b9088cc67",
-  "generated_at": "2026-09-05T17:56:51.938657+00:00",
+  "generated_at": "2026-09-05T20:05:51.562178+00:00",
   "human_review": null,
   "immutable_inputs": {
     "cache-archive": {
@@ -48,14 +48,14 @@
     "docs/itemized/figures/high-flying-bird-data-lt-1080p.webp": "c478818f3ac98d731b7a27aa3f63543f5c3453a280eedcf8142fb75602ab0016",
     "docs/itemized/figures/high-flying-bird-downloads-by-day-day.svg": "d7fbb2b7901de8f955867ad9863414830d5537b9dbb45350722c14fbbc7b689c",
     "docs/itemized/figures/high-flying-bird-downloads-by-week-high-flying-bird-week.svg": "a315cb6f533be095bff55fca86419561a78627ee2da849a15b8dc0b7d9bec3cc",
-    "docs/itemized/high-flying-bird-sample-cache-audit.md": "8e831cdb71c978f5cb5f485c040f9825150efc4f3320737d2e16ca744b866263",
+    "docs/itemized/high-flying-bird-sample-cache-audit.md": "227c052abdcf8766262fb372015feed8bcedd1e189e430def041660a874334cf",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
     "alpha60": {
       "dirty": false,
       "path": "/home/bkoz/src/alpha60",
-      "revision": "266d3ea17853fe1320391793ac55e9383a0ace90",
+      "revision": "5986b46764300ac2e71bdfb79ee35c915f446205",
       "untracked": false
     },
     "carto_renderer": {
@@ -196,11 +196,11 @@
   },
   "schema": "alpha60-baseline-v2-publication-receipt/1",
   "source_revisions": {
-    "alpha60": "266d3ea17853fe1320391793ac55e9383a0ace90",
+    "alpha60": "5986b46764300ac2e71bdfb79ee35c915f446205",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
     "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
     "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
-    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+    "metadata": "7f973ef903a4f8faf7271e7273fed4ff725fa525"
   },
   "status": "passed",
   "validation_source": "render-receipt",
