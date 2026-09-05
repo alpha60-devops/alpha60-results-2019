@@ -1,0 +1,2491 @@
+{
+    "collection_name": "She-Ra Princess of Power",
+    "collection_id": "4",
+    "collection_key": "she-ra-04",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "sample_duration": "2019-11-05-to-2019-12-16",
+    "sample_days": 42,
+    "sample_year_start": 2019,
+    "sample_year_end": 2019,
+    "sample_day_year_start": 309,
+    "sample_day_year_end": 350,
+    "collection_week": [
+        {
+    "number": "week-0001",
+    "btiha_size": 19,
+    "udownloaders_total": 10220,
+    "uuploaders_total": 5260
+},
+        {
+    "number": "week-0002",
+    "btiha_size": 22,
+    "udownloaders_total": 28514,
+    "uuploaders_total": 9156
+},
+        {
+    "number": "week-0003",
+    "btiha_size": 22,
+    "udownloaders_total": 46873,
+    "uuploaders_total": 12608
+},
+        {
+    "number": "week-0004",
+    "btiha_size": 22,
+    "udownloaders_total": 75980,
+    "uuploaders_total": 15277
+},
+        {
+    "number": "week-0005",
+    "btiha_size": 23,
+    "udownloaders_total": 103120,
+    "uuploaders_total": 17976
+},
+        {
+    "number": "week-0006",
+    "btiha_size": 23,
+    "udownloaders_total": 129084,
+    "uuploaders_total": 20007
+}
+    ],
+    "collection_week_by_btiha": [
+        [
+    {
+        "id": 33,
+        "name": "multi-btih-3-3-x-She-Ra-and-the-Princesses-of-Power-S04-720p-NF-WEBRip-DDP5-1-x264-LAZY[rartv]",
+        "btih": "1e53c429df566c533c314d6fd19b6c6e74f90c4b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 4.864579266,
+        "creation": "2019-11-06T07:58:44.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2833,
+        "uuploaders": 1274
+    },
+    {
+        "id": 34,
+        "name": "multi-btih-4-2-x-She-Ra-and-the-Princesses-of-Power-S04-WEBRip-x264-ION10",
+        "btih": "ec1c48999ec74fddba76e14a5d259d51d62e4d56",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 3.068991301,
+        "creation": "2019-11-05T22:04:07.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2418,
+        "uuploaders": 1343
+    },
+    {
+        "id": 32,
+        "name": "multi-btih-2-2-x-She-Ra-and-the-Princesses-of-Power-S04-1080p-NF-WEBRip-DDP5-1-x264-iJP[rartv]",
+        "btih": "d735ec7f34bf84a4b1040a1e25d5320763373b5a",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 9.991325138,
+        "creation": "2019-11-05T22:33:19.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2325,
+        "uuploaders": 1218
+    },
+    {
+        "id": 31,
+        "name": "multi-btih-1-2-x-She-Ra-and-the-Princesses-of-Power-(2018)-S04-(1080p-NF-Webrip-x265-10bit-EAC3-5-1--Goki)(1)",
+        "btih": "0beedf66a78b929e9b8c84757edb5bbbde450a4b",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 5.56860656,
+        "creation": "2019-11-08T00:30:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1330,
+        "uuploaders": 611
+    },
+    {
+        "id": 30,
+        "name": "multi-btih-0-2-x-She-Ra and the Princesses of Power Season 4 Complete 720p NF WEBRip x264 [i_c].20ba50d26605af8d",
+        "btih": "20ba50d26605af8d5322887c733dc12dad9bc872",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 3.099046361,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 376,
+        "uuploaders": 220
+    },
+    {
+        "id": 4,
+        "name": "She-Ra-and-the-Princesses-of-Power-(2018)-S04-(1080p-NF-Webrip-x265-10bit-EAC3-5-1--Goki-duo)",
+        "btih": "5ed0bcce065652e4c9b35e0a7ebce8a34eebec50",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.000056937,
+        "creation": "2019-11-08T00:04:19.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 224,
+        "uuploaders": 62
+    },
+    {
+        "id": 16,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E01.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "b9e1958b6592e9e9e4052443ecaca5300beb3da4",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.815682291,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 57,
+        "uuploaders": 46
+    },
+    {
+        "id": 27,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E12.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "6b827517ec8fdb636b4b1ae14d920a8952e86d8f",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.872806874,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 57,
+        "uuploaders": 41
+    },
+    {
+        "id": 26,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E11.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "dba75dab38ee321521ed08fa3c883d3501d8eeae",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.905139457,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 57,
+        "uuploaders": 42
+    },
+    {
+        "id": 17,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E02.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "e5ca98a80f073c7cb7be296a3e3df3570cd2e45b",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.843679742,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 56,
+        "uuploaders": 43
+    },
+    {
+        "id": 28,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E13.FiNAL.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "c5feb3caf02dfb6258438c386825ddf869d700cb",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.970303458,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 56,
+        "uuploaders": 39
+    },
+    {
+        "id": 23,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E08.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "502fae0f02d642f9d98f94705538a9c66a9720c8",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.8437558,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 55,
+        "uuploaders": 42
+    },
+    {
+        "id": 20,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E05.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "cca386b0842ad1bc4b2d2bbdfcd6a229aa2c2cd0",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.004374352,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 55,
+        "uuploaders": 44
+    },
+    {
+        "id": 24,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E09.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "30274397101e14714e88aae221422926bb6cbf52",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.971195217,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 54,
+        "uuploaders": 39
+    },
+    {
+        "id": 21,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E06.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "63a98eddc58a5aac17c87396da3e927069374995",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.873451819,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 54,
+        "uuploaders": 39
+    },
+    {
+        "id": 19,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E04.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "45ed6921836231917362741f3486ad47943d2851",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.842508045,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 54,
+        "uuploaders": 42
+    },
+    {
+        "id": 18,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E03.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "f3c68a04bedc9f838faddbcd8f22c6a081383cd3",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.937625253,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 54,
+        "uuploaders": 39
+    },
+    {
+        "id": 25,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E10.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "b3ca30108d65ad3295de03429fb5c38ef3666356",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.874449328,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 53,
+        "uuploaders": 39
+    },
+    {
+        "id": 22,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E07.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "1a980ebc1420ff396612b1c673bc79cd10ac97e0",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.736284412,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 52,
+        "uuploaders": 37
+    }
+],
+        [
+    {
+        "id": 32,
+        "name": "multi-btih-2-2-x-She-Ra-and-the-Princesses-of-Power-S04-1080p-NF-WEBRip-DDP5-1-x264-iJP[rartv]",
+        "btih": "d735ec7f34bf84a4b1040a1e25d5320763373b5a",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 9.991325138,
+        "creation": "2019-11-05T22:33:19.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5605,
+        "uuploaders": 1798
+    },
+    {
+        "id": 33,
+        "name": "multi-btih-3-3-x-She-Ra-and-the-Princesses-of-Power-S04-720p-NF-WEBRip-DDP5-1-x264-LAZY[rartv]",
+        "btih": "1e53c429df566c533c314d6fd19b6c6e74f90c4b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 4.864579266,
+        "creation": "2019-11-06T07:58:44.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5508,
+        "uuploaders": 1915
+    },
+    {
+        "id": 34,
+        "name": "multi-btih-4-2-x-She-Ra-and-the-Princesses-of-Power-S04-WEBRip-x264-ION10",
+        "btih": "ec1c48999ec74fddba76e14a5d259d51d62e4d56",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 3.068991301,
+        "creation": "2019-11-05T22:04:07.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4983,
+        "uuploaders": 1998
+    },
+    {
+        "id": 31,
+        "name": "multi-btih-1-2-x-She-Ra-and-the-Princesses-of-Power-(2018)-S04-(1080p-NF-Webrip-x265-10bit-EAC3-5-1--Goki)(1)",
+        "btih": "0beedf66a78b929e9b8c84757edb5bbbde450a4b",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 5.56860656,
+        "creation": "2019-11-08T00:30:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4347,
+        "uuploaders": 1140
+    },
+    {
+        "id": 30,
+        "name": "multi-btih-0-2-x-She-Ra and the Princesses of Power Season 4 Complete 720p NF WEBRip x264 [i_c].20ba50d26605af8d",
+        "btih": "20ba50d26605af8d5322887c733dc12dad9bc872",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 3.099046361,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3908,
+        "uuploaders": 1172
+    },
+    {
+        "id": 4,
+        "name": "She-Ra-and-the-Princesses-of-Power-(2018)-S04-(1080p-NF-Webrip-x265-10bit-EAC3-5-1--Goki-duo)",
+        "btih": "5ed0bcce065652e4c9b35e0a7ebce8a34eebec50",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.000056937,
+        "creation": "2019-11-08T00:04:19.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2033,
+        "uuploaders": 320
+    },
+    {
+        "id": 29,
+        "name": "Ши-Ра и непобедимые принцессы She-Ra and the Princesses of Power Сезон 4 Серии 13 из 13 (Джен Беннетт, Лианн Хьюз, Стефани [rutracker-5807043]",
+        "btih": "fa21c7baf6e93dd654dea55b2685a7ddadd07d3e",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 10.882785731,
+        "creation": "2019-11-17T13:31:10.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),https://rutracker.org/forum/viewtopic.php?t=5807043",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 685,
+        "uuploaders": 60
+    },
+    {
+        "id": 6,
+        "name": "She-Ra-and-the-Princesses-of-Power-S04-400p-ColdFilm",
+        "btih": "cbd8ce9a6b145ffd22378aa7e1e7fff50005e5ab",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.608676512,
+        "creation": "2019-11-05T16:37:18.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 481,
+        "uuploaders": 46
+    },
+    {
+        "id": 9,
+        "name": "She-Ra-and-the-Princesses-of-Power-S04E01-mp4",
+        "btih": "35ce5ad6295555aa3e8faef6fe6a7a01c7685969",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.500637792,
+        "creation": "2019-11-12T03:41:14.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 152,
+        "uuploaders": 85
+    },
+    {
+        "id": 26,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E11.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "dba75dab38ee321521ed08fa3c883d3501d8eeae",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.905139457,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 65,
+        "uuploaders": 48
+    },
+    {
+        "id": 27,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E12.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "6b827517ec8fdb636b4b1ae14d920a8952e86d8f",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.872806874,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 65,
+        "uuploaders": 49
+    },
+    {
+        "id": 16,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E01.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "b9e1958b6592e9e9e4052443ecaca5300beb3da4",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.815682291,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 65,
+        "uuploaders": 53
+    },
+    {
+        "id": 28,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E13.FiNAL.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "c5feb3caf02dfb6258438c386825ddf869d700cb",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.970303458,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 64,
+        "uuploaders": 47
+    },
+    {
+        "id": 17,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E02.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "e5ca98a80f073c7cb7be296a3e3df3570cd2e45b",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.843679742,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 64,
+        "uuploaders": 50
+    },
+    {
+        "id": 20,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E05.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "cca386b0842ad1bc4b2d2bbdfcd6a229aa2c2cd0",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.004374352,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 63,
+        "uuploaders": 51
+    },
+    {
+        "id": 23,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E08.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "502fae0f02d642f9d98f94705538a9c66a9720c8",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.8437558,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 62,
+        "uuploaders": 47
+    },
+    {
+        "id": 21,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E06.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "63a98eddc58a5aac17c87396da3e927069374995",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.873451819,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 61,
+        "uuploaders": 46
+    },
+    {
+        "id": 24,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E09.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "30274397101e14714e88aae221422926bb6cbf52",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.971195217,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 61,
+        "uuploaders": 46
+    },
+    {
+        "id": 25,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E10.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "b3ca30108d65ad3295de03429fb5c38ef3666356",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.874449328,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 61,
+        "uuploaders": 46
+    },
+    {
+        "id": 19,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E04.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "45ed6921836231917362741f3486ad47943d2851",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.842508045,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 61,
+        "uuploaders": 49
+    },
+    {
+        "id": 18,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E03.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "f3c68a04bedc9f838faddbcd8f22c6a081383cd3",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.937625253,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 61,
+        "uuploaders": 46
+    },
+    {
+        "id": 22,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E07.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "1a980ebc1420ff396612b1c673bc79cd10ac97e0",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.736284412,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 59,
+        "uuploaders": 44
+    }
+],
+        [
+    {
+        "id": 32,
+        "name": "multi-btih-2-2-x-She-Ra-and-the-Princesses-of-Power-S04-1080p-NF-WEBRip-DDP5-1-x264-iJP[rartv]",
+        "btih": "d735ec7f34bf84a4b1040a1e25d5320763373b5a",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 9.991325138,
+        "creation": "2019-11-05T22:33:19.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7662,
+        "uuploaders": 2289
+    },
+    {
+        "id": 33,
+        "name": "multi-btih-3-3-x-She-Ra-and-the-Princesses-of-Power-S04-720p-NF-WEBRip-DDP5-1-x264-LAZY[rartv]",
+        "btih": "1e53c429df566c533c314d6fd19b6c6e74f90c4b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 4.864579266,
+        "creation": "2019-11-06T07:58:44.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7278,
+        "uuploaders": 2320
+    },
+    {
+        "id": 31,
+        "name": "multi-btih-1-2-x-She-Ra-and-the-Princesses-of-Power-(2018)-S04-(1080p-NF-Webrip-x265-10bit-EAC3-5-1--Goki)(1)",
+        "btih": "0beedf66a78b929e9b8c84757edb5bbbde450a4b",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 5.56860656,
+        "creation": "2019-11-08T00:30:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7256,
+        "uuploaders": 1603
+    },
+    {
+        "id": 34,
+        "name": "multi-btih-4-2-x-She-Ra-and-the-Princesses-of-Power-S04-WEBRip-x264-ION10",
+        "btih": "ec1c48999ec74fddba76e14a5d259d51d62e4d56",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 3.068991301,
+        "creation": "2019-11-05T22:04:07.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7090,
+        "uuploaders": 2490
+    },
+    {
+        "id": 30,
+        "name": "multi-btih-0-2-x-She-Ra and the Princesses of Power Season 4 Complete 720p NF WEBRip x264 [i_c].20ba50d26605af8d",
+        "btih": "20ba50d26605af8d5322887c733dc12dad9bc872",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 3.099046361,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6138,
+        "uuploaders": 1781
+    },
+    {
+        "id": 6,
+        "name": "She-Ra-and-the-Princesses-of-Power-S04-400p-ColdFilm",
+        "btih": "cbd8ce9a6b145ffd22378aa7e1e7fff50005e5ab",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.608676512,
+        "creation": "2019-11-05T16:37:18.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3813,
+        "uuploaders": 179
+    },
+    {
+        "id": 4,
+        "name": "She-Ra-and-the-Princesses-of-Power-(2018)-S04-(1080p-NF-Webrip-x265-10bit-EAC3-5-1--Goki-duo)",
+        "btih": "5ed0bcce065652e4c9b35e0a7ebce8a34eebec50",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.000056937,
+        "creation": "2019-11-08T00:04:19.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2948,
+        "uuploaders": 345
+    },
+    {
+        "id": 29,
+        "name": "Ши-Ра и непобедимые принцессы She-Ra and the Princesses of Power Сезон 4 Серии 13 из 13 (Джен Беннетт, Лианн Хьюз, Стефани [rutracker-5807043]",
+        "btih": "fa21c7baf6e93dd654dea55b2685a7ddadd07d3e",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 10.882785731,
+        "creation": "2019-11-17T13:31:10.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),https://rutracker.org/forum/viewtopic.php?t=5807043",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2425,
+        "uuploaders": 332
+    },
+    {
+        "id": 9,
+        "name": "She-Ra-and-the-Princesses-of-Power-S04E01-mp4",
+        "btih": "35ce5ad6295555aa3e8faef6fe6a7a01c7685969",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.500637792,
+        "creation": "2019-11-12T03:41:14.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1222,
+        "uuploaders": 501
+    },
+    {
+        "id": 16,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E01.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "b9e1958b6592e9e9e4052443ecaca5300beb3da4",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.815682291,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 85,
+        "uuploaders": 65
+    },
+    {
+        "id": 27,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E12.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "6b827517ec8fdb636b4b1ae14d920a8952e86d8f",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.872806874,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 85,
+        "uuploaders": 62
+    },
+    {
+        "id": 26,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E11.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "dba75dab38ee321521ed08fa3c883d3501d8eeae",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.905139457,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 84,
+        "uuploaders": 64
+    },
+    {
+        "id": 17,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E02.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "e5ca98a80f073c7cb7be296a3e3df3570cd2e45b",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.843679742,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 84,
+        "uuploaders": 62
+    },
+    {
+        "id": 28,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E13.FiNAL.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "c5feb3caf02dfb6258438c386825ddf869d700cb",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.970303458,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 83,
+        "uuploaders": 61
+    },
+    {
+        "id": 20,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E05.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "cca386b0842ad1bc4b2d2bbdfcd6a229aa2c2cd0",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.004374352,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 82,
+        "uuploaders": 63
+    },
+    {
+        "id": 23,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E08.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "502fae0f02d642f9d98f94705538a9c66a9720c8",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.8437558,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 78,
+        "uuploaders": 56
+    },
+    {
+        "id": 25,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E10.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "b3ca30108d65ad3295de03429fb5c38ef3666356",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.874449328,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 77,
+        "uuploaders": 58
+    },
+    {
+        "id": 18,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E03.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "f3c68a04bedc9f838faddbcd8f22c6a081383cd3",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.937625253,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 77,
+        "uuploaders": 55
+    },
+    {
+        "id": 24,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E09.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "30274397101e14714e88aae221422926bb6cbf52",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.971195217,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 77,
+        "uuploaders": 56
+    },
+    {
+        "id": 21,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E06.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "63a98eddc58a5aac17c87396da3e927069374995",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.873451819,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 77,
+        "uuploaders": 54
+    },
+    {
+        "id": 19,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E04.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "45ed6921836231917362741f3486ad47943d2851",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.842508045,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 77,
+        "uuploaders": 57
+    },
+    {
+        "id": 22,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E07.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "1a980ebc1420ff396612b1c673bc79cd10ac97e0",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.736284412,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 75,
+        "uuploaders": 55
+    }
+],
+        [
+    {
+        "id": 30,
+        "name": "multi-btih-0-2-x-She-Ra and the Princesses of Power Season 4 Complete 720p NF WEBRip x264 [i_c].20ba50d26605af8d",
+        "btih": "20ba50d26605af8d5322887c733dc12dad9bc872",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 3.099046361,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13198,
+        "uuploaders": 2206
+    },
+    {
+        "id": 31,
+        "name": "multi-btih-1-2-x-She-Ra-and-the-Princesses-of-Power-(2018)-S04-(1080p-NF-Webrip-x265-10bit-EAC3-5-1--Goki)(1)",
+        "btih": "0beedf66a78b929e9b8c84757edb5bbbde450a4b",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 5.56860656,
+        "creation": "2019-11-08T00:30:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13098,
+        "uuploaders": 2018
+    },
+    {
+        "id": 32,
+        "name": "multi-btih-2-2-x-She-Ra-and-the-Princesses-of-Power-S04-1080p-NF-WEBRip-DDP5-1-x264-iJP[rartv]",
+        "btih": "d735ec7f34bf84a4b1040a1e25d5320763373b5a",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 9.991325138,
+        "creation": "2019-11-05T22:33:19.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10606,
+        "uuploaders": 2672
+    },
+    {
+        "id": 34,
+        "name": "multi-btih-4-2-x-She-Ra-and-the-Princesses-of-Power-S04-WEBRip-x264-ION10",
+        "btih": "ec1c48999ec74fddba76e14a5d259d51d62e4d56",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 3.068991301,
+        "creation": "2019-11-05T22:04:07.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 10324,
+        "uuploaders": 2893
+    },
+    {
+        "id": 33,
+        "name": "multi-btih-3-3-x-She-Ra-and-the-Princesses-of-Power-S04-720p-NF-WEBRip-DDP5-1-x264-LAZY[rartv]",
+        "btih": "1e53c429df566c533c314d6fd19b6c6e74f90c4b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 4.864579266,
+        "creation": "2019-11-06T07:58:44.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8742,
+        "uuploaders": 2697
+    },
+    {
+        "id": 6,
+        "name": "She-Ra-and-the-Princesses-of-Power-S04-400p-ColdFilm",
+        "btih": "cbd8ce9a6b145ffd22378aa7e1e7fff50005e5ab",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.608676512,
+        "creation": "2019-11-05T16:37:18.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7877,
+        "uuploaders": 220
+    },
+    {
+        "id": 4,
+        "name": "She-Ra-and-the-Princesses-of-Power-(2018)-S04-(1080p-NF-Webrip-x265-10bit-EAC3-5-1--Goki-duo)",
+        "btih": "5ed0bcce065652e4c9b35e0a7ebce8a34eebec50",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.000056937,
+        "creation": "2019-11-08T00:04:19.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4455,
+        "uuploaders": 369
+    },
+    {
+        "id": 29,
+        "name": "Ши-Ра и непобедимые принцессы She-Ra and the Princesses of Power Сезон 4 Серии 13 из 13 (Джен Беннетт, Лианн Хьюз, Стефани [rutracker-5807043]",
+        "btih": "fa21c7baf6e93dd654dea55b2685a7ddadd07d3e",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 10.882785731,
+        "creation": "2019-11-17T13:31:10.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),https://rutracker.org/forum/viewtopic.php?t=5807043",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 3470,
+        "uuploaders": 462
+    },
+    {
+        "id": 9,
+        "name": "She-Ra-and-the-Princesses-of-Power-S04E01-mp4",
+        "btih": "35ce5ad6295555aa3e8faef6fe6a7a01c7685969",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.500637792,
+        "creation": "2019-11-12T03:41:14.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2900,
+        "uuploaders": 831
+    },
+    {
+        "id": 16,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E01.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "b9e1958b6592e9e9e4052443ecaca5300beb3da4",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.815682291,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 108,
+        "uuploaders": 79
+    },
+    {
+        "id": 27,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E12.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "6b827517ec8fdb636b4b1ae14d920a8952e86d8f",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.872806874,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 107,
+        "uuploaders": 70
+    },
+    {
+        "id": 17,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E02.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "e5ca98a80f073c7cb7be296a3e3df3570cd2e45b",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.843679742,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 106,
+        "uuploaders": 75
+    },
+    {
+        "id": 28,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E13.FiNAL.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "c5feb3caf02dfb6258438c386825ddf869d700cb",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.970303458,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 105,
+        "uuploaders": 73
+    },
+    {
+        "id": 26,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E11.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "dba75dab38ee321521ed08fa3c883d3501d8eeae",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.905139457,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 104,
+        "uuploaders": 74
+    },
+    {
+        "id": 20,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E05.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "cca386b0842ad1bc4b2d2bbdfcd6a229aa2c2cd0",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.004374352,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 103,
+        "uuploaders": 74
+    },
+    {
+        "id": 24,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E09.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "30274397101e14714e88aae221422926bb6cbf52",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.971195217,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 98,
+        "uuploaders": 61
+    },
+    {
+        "id": 19,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E04.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "45ed6921836231917362741f3486ad47943d2851",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.842508045,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 98,
+        "uuploaders": 72
+    },
+    {
+        "id": 18,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E03.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "f3c68a04bedc9f838faddbcd8f22c6a081383cd3",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.937625253,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 97,
+        "uuploaders": 65
+    },
+    {
+        "id": 25,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E10.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "b3ca30108d65ad3295de03429fb5c38ef3666356",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.874449328,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 97,
+        "uuploaders": 69
+    },
+    {
+        "id": 23,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E08.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "502fae0f02d642f9d98f94705538a9c66a9720c8",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.8437558,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 97,
+        "uuploaders": 69
+    },
+    {
+        "id": 21,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E06.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "63a98eddc58a5aac17c87396da3e927069374995",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.873451819,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 96,
+        "uuploaders": 66
+    },
+    {
+        "id": 22,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E07.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "1a980ebc1420ff396612b1c673bc79cd10ac97e0",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.736284412,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 94,
+        "uuploaders": 62
+    }
+],
+        [
+    {
+        "id": 30,
+        "name": "multi-btih-0-2-x-She-Ra and the Princesses of Power Season 4 Complete 720p NF WEBRip x264 [i_c].20ba50d26605af8d",
+        "btih": "20ba50d26605af8d5322887c733dc12dad9bc872",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 3.099046361,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15797,
+        "uuploaders": 2639
+    },
+    {
+        "id": 31,
+        "name": "multi-btih-1-2-x-She-Ra-and-the-Princesses-of-Power-(2018)-S04-(1080p-NF-Webrip-x265-10bit-EAC3-5-1--Goki)(1)",
+        "btih": "0beedf66a78b929e9b8c84757edb5bbbde450a4b",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 5.56860656,
+        "creation": "2019-11-08T00:30:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15506,
+        "uuploaders": 2389
+    },
+    {
+        "id": 6,
+        "name": "She-Ra-and-the-Princesses-of-Power-S04-400p-ColdFilm",
+        "btih": "cbd8ce9a6b145ffd22378aa7e1e7fff50005e5ab",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.608676512,
+        "creation": "2019-11-05T16:37:18.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13390,
+        "uuploaders": 243
+    },
+    {
+        "id": 32,
+        "name": "multi-btih-2-2-x-She-Ra-and-the-Princesses-of-Power-S04-1080p-NF-WEBRip-DDP5-1-x264-iJP[rartv]",
+        "btih": "d735ec7f34bf84a4b1040a1e25d5320763373b5a",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 9.991325138,
+        "creation": "2019-11-05T22:33:19.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13264,
+        "uuploaders": 3028
+    },
+    {
+        "id": 34,
+        "name": "multi-btih-4-2-x-She-Ra-and-the-Princesses-of-Power-S04-WEBRip-x264-ION10",
+        "btih": "ec1c48999ec74fddba76e14a5d259d51d62e4d56",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 3.068991301,
+        "creation": "2019-11-05T22:04:07.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12508,
+        "uuploaders": 3266
+    },
+    {
+        "id": 33,
+        "name": "multi-btih-3-3-x-She-Ra-and-the-Princesses-of-Power-S04-720p-NF-WEBRip-DDP5-1-x264-LAZY[rartv]",
+        "btih": "1e53c429df566c533c314d6fd19b6c6e74f90c4b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 4.864579266,
+        "creation": "2019-11-06T07:58:44.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 11097,
+        "uuploaders": 3082
+    },
+    {
+        "id": 9,
+        "name": "She-Ra-and-the-Princesses-of-Power-S04E01-mp4",
+        "btih": "35ce5ad6295555aa3e8faef6fe6a7a01c7685969",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.500637792,
+        "creation": "2019-11-12T03:41:14.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7988,
+        "uuploaders": 1119
+    },
+    {
+        "id": 4,
+        "name": "She-Ra-and-the-Princesses-of-Power-(2018)-S04-(1080p-NF-Webrip-x265-10bit-EAC3-5-1--Goki-duo)",
+        "btih": "5ed0bcce065652e4c9b35e0a7ebce8a34eebec50",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.000056937,
+        "creation": "2019-11-08T00:04:19.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 6237,
+        "uuploaders": 390
+    },
+    {
+        "id": 29,
+        "name": "Ши-Ра и непобедимые принцессы She-Ra and the Princesses of Power Сезон 4 Серии 13 из 13 (Джен Беннетт, Лианн Хьюз, Стефани [rutracker-5807043]",
+        "btih": "fa21c7baf6e93dd654dea55b2685a7ddadd07d3e",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 10.882785731,
+        "creation": "2019-11-17T13:31:10.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),https://rutracker.org/forum/viewtopic.php?t=5807043",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4853,
+        "uuploaders": 564
+    },
+    {
+        "id": 11,
+        "name": "She-Ra-y-Las-Princesas-Del-Poder--Temporada-4-[HDTV][Cap-401-413][Castellano][",
+        "btih": "fa6350b6ad6f0d3f668ff5f61943a9a58841cd46",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 3.851802003,
+        "creation": "2019-11-06T16:00:50.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 987,
+        "uuploaders": 166
+    },
+    {
+        "id": 27,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E12.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "6b827517ec8fdb636b4b1ae14d920a8952e86d8f",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.872806874,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 124,
+        "uuploaders": 85
+    },
+    {
+        "id": 16,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E01.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "b9e1958b6592e9e9e4052443ecaca5300beb3da4",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.815682291,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 121,
+        "uuploaders": 92
+    },
+    {
+        "id": 17,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E02.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "e5ca98a80f073c7cb7be296a3e3df3570cd2e45b",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.843679742,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 120,
+        "uuploaders": 89
+    },
+    {
+        "id": 26,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E11.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "dba75dab38ee321521ed08fa3c883d3501d8eeae",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.905139457,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 119,
+        "uuploaders": 89
+    },
+    {
+        "id": 28,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E13.FiNAL.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "c5feb3caf02dfb6258438c386825ddf869d700cb",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.970303458,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 119,
+        "uuploaders": 89
+    },
+    {
+        "id": 20,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E05.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "cca386b0842ad1bc4b2d2bbdfcd6a229aa2c2cd0",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.004374352,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 117,
+        "uuploaders": 88
+    },
+    {
+        "id": 24,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E09.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "30274397101e14714e88aae221422926bb6cbf52",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.971195217,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 111,
+        "uuploaders": 77
+    },
+    {
+        "id": 23,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E08.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "502fae0f02d642f9d98f94705538a9c66a9720c8",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.8437558,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 111,
+        "uuploaders": 85
+    },
+    {
+        "id": 21,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E06.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "63a98eddc58a5aac17c87396da3e927069374995",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.873451819,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 111,
+        "uuploaders": 79
+    },
+    {
+        "id": 19,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E04.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "45ed6921836231917362741f3486ad47943d2851",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.842508045,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 111,
+        "uuploaders": 83
+    },
+    {
+        "id": 25,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E10.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "b3ca30108d65ad3295de03429fb5c38ef3666356",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.874449328,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 110,
+        "uuploaders": 81
+    },
+    {
+        "id": 18,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E03.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "f3c68a04bedc9f838faddbcd8f22c6a081383cd3",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.937625253,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 110,
+        "uuploaders": 78
+    },
+    {
+        "id": 22,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E07.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "1a980ebc1420ff396612b1c673bc79cd10ac97e0",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.736284412,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 109,
+        "uuploaders": 75
+    }
+],
+        [
+    {
+        "id": 30,
+        "name": "multi-btih-0-2-x-She-Ra and the Princesses of Power Season 4 Complete 720p NF WEBRip x264 [i_c].20ba50d26605af8d",
+        "btih": "20ba50d26605af8d5322887c733dc12dad9bc872",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 3.099046361,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 19693,
+        "uuploaders": 2969
+    },
+    {
+        "id": 34,
+        "name": "multi-btih-4-2-x-She-Ra-and-the-Princesses-of-Power-S04-WEBRip-x264-ION10",
+        "btih": "ec1c48999ec74fddba76e14a5d259d51d62e4d56",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 3.068991301,
+        "creation": "2019-11-05T22:04:07.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 18654,
+        "uuploaders": 3542
+    },
+    {
+        "id": 31,
+        "name": "multi-btih-1-2-x-She-Ra-and-the-Princesses-of-Power-(2018)-S04-(1080p-NF-Webrip-x265-10bit-EAC3-5-1--Goki)(1)",
+        "btih": "0beedf66a78b929e9b8c84757edb5bbbde450a4b",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 5.56860656,
+        "creation": "2019-11-08T00:30:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 17258,
+        "uuploaders": 2674
+    },
+    {
+        "id": 32,
+        "name": "multi-btih-2-2-x-She-Ra-and-the-Princesses-of-Power-S04-1080p-NF-WEBRip-DDP5-1-x264-iJP[rartv]",
+        "btih": "d735ec7f34bf84a4b1040a1e25d5320763373b5a",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 9.991325138,
+        "creation": "2019-11-05T22:33:19.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 16503,
+        "uuploaders": 3348
+    },
+    {
+        "id": 6,
+        "name": "She-Ra-and-the-Princesses-of-Power-S04-400p-ColdFilm",
+        "btih": "cbd8ce9a6b145ffd22378aa7e1e7fff50005e5ab",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.608676512,
+        "creation": "2019-11-05T16:37:18.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15553,
+        "uuploaders": 273
+    },
+    {
+        "id": 33,
+        "name": "multi-btih-3-3-x-She-Ra-and-the-Princesses-of-Power-S04-720p-NF-WEBRip-DDP5-1-x264-LAZY[rartv]",
+        "btih": "1e53c429df566c533c314d6fd19b6c6e74f90c4b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 4.864579266,
+        "creation": "2019-11-06T07:58:44.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13255,
+        "uuploaders": 3336
+    },
+    {
+        "id": 9,
+        "name": "She-Ra-and-the-Princesses-of-Power-S04E01-mp4",
+        "btih": "35ce5ad6295555aa3e8faef6fe6a7a01c7685969",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.500637792,
+        "creation": "2019-11-12T03:41:14.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 9695,
+        "uuploaders": 1304
+    },
+    {
+        "id": 4,
+        "name": "She-Ra-and-the-Princesses-of-Power-(2018)-S04-(1080p-NF-Webrip-x265-10bit-EAC3-5-1--Goki-duo)",
+        "btih": "5ed0bcce065652e4c9b35e0a7ebce8a34eebec50",
+        "resolution": "1080",
+        "encoding": "265",
+        "gigabytes": 0.000056937,
+        "creation": "2019-11-08T00:04:19.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8532,
+        "uuploaders": 404
+    },
+    {
+        "id": 29,
+        "name": "Ши-Ра и непобедимые принцессы She-Ra and the Princesses of Power Сезон 4 Серии 13 из 13 (Джен Беннетт, Лианн Хьюз, Стефани [rutracker-5807043]",
+        "btih": "fa21c7baf6e93dd654dea55b2685a7ddadd07d3e",
+        "resolution": "1080",
+        "encoding": "none",
+        "gigabytes": 10.882785731,
+        "creation": "2019-11-17T13:31:10.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),https://rutracker.org/forum/viewtopic.php?t=5807043",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5873,
+        "uuploaders": 664
+    },
+    {
+        "id": 11,
+        "name": "She-Ra-y-Las-Princesas-Del-Poder--Temporada-4-[HDTV][Cap-401-413][Castellano][",
+        "btih": "fa6350b6ad6f0d3f668ff5f61943a9a58841cd46",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 3.851802003,
+        "creation": "2019-11-06T16:00:50.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2492,
+        "uuploaders": 333
+    },
+    {
+        "id": 27,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E12.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "6b827517ec8fdb636b4b1ae14d920a8952e86d8f",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.872806874,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 130,
+        "uuploaders": 90
+    },
+    {
+        "id": 16,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E01.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "b9e1958b6592e9e9e4052443ecaca5300beb3da4",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.815682291,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 128,
+        "uuploaders": 97
+    },
+    {
+        "id": 17,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E02.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "e5ca98a80f073c7cb7be296a3e3df3570cd2e45b",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.843679742,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 127,
+        "uuploaders": 95
+    },
+    {
+        "id": 26,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E11.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "dba75dab38ee321521ed08fa3c883d3501d8eeae",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.905139457,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 125,
+        "uuploaders": 94
+    },
+    {
+        "id": 28,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E13.FiNAL.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "c5feb3caf02dfb6258438c386825ddf869d700cb",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.970303458,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 125,
+        "uuploaders": 95
+    },
+    {
+        "id": 20,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E05.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "cca386b0842ad1bc4b2d2bbdfcd6a229aa2c2cd0",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 1.004374352,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 123,
+        "uuploaders": 94
+    },
+    {
+        "id": 23,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E08.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "502fae0f02d642f9d98f94705538a9c66a9720c8",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.8437558,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 118,
+        "uuploaders": 89
+    },
+    {
+        "id": 21,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E06.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "63a98eddc58a5aac17c87396da3e927069374995",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.873451819,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 118,
+        "uuploaders": 85
+    },
+    {
+        "id": 25,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E10.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "b3ca30108d65ad3295de03429fb5c38ef3666356",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.874449328,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 117,
+        "uuploaders": 86
+    },
+    {
+        "id": 24,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E09.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "30274397101e14714e88aae221422926bb6cbf52",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.971195217,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 117,
+        "uuploaders": 83
+    },
+    {
+        "id": 19,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E04.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "45ed6921836231917362741f3486ad47943d2851",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.842508045,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 117,
+        "uuploaders": 88
+    },
+    {
+        "id": 18,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E03.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "f3c68a04bedc9f838faddbcd8f22c6a081383cd3",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.937625253,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 116,
+        "uuploaders": 83
+    },
+    {
+        "id": 22,
+        "name": "She.Ra.and.the.Princess.of.Power.S04E07.MULTi.1080p.WEB.x264-CiELOS [IPT]",
+        "btih": "1a980ebc1420ff396612b1c673bc79cd10ac97e0",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 0.736284412,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 115,
+        "uuploaders": 81
+    }
+]
+    ],
+    "collection_week_by_country": [
+        [
+    {
+        "number": "BRA_week_1",
+        "btiha_size": 19,
+        "udownloaders_total": 153,
+        "uuploaders_total": 103
+    },
+    {
+        "number": "CAN_week_1",
+        "btiha_size": 19,
+        "udownloaders_total": 353,
+        "uuploaders_total": 221
+    },
+    {
+        "number": "CHN_week_1",
+        "btiha_size": 6,
+        "udownloaders_total": 229,
+        "uuploaders_total": 48
+    },
+    {
+        "number": "DEU_week_1",
+        "btiha_size": 19,
+        "udownloaders_total": 177,
+        "uuploaders_total": 98
+    },
+    {
+        "number": "ESP_week_1",
+        "btiha_size": 6,
+        "udownloaders_total": 109,
+        "uuploaders_total": 63
+    },
+    {
+        "number": "FRA_week_1",
+        "btiha_size": 19,
+        "udownloaders_total": 359,
+        "uuploaders_total": 131
+    },
+    {
+        "number": "HKG_week_1",
+        "btiha_size": 6,
+        "udownloaders_total": 56,
+        "uuploaders_total": 25
+    },
+    {
+        "number": "JPN_week_1",
+        "btiha_size": 6,
+        "udownloaders_total": 109,
+        "uuploaders_total": 35
+    },
+    {
+        "number": "KOR_week_1",
+        "btiha_size": 6,
+        "udownloaders_total": 117,
+        "uuploaders_total": 37
+    },
+    {
+        "number": "MEX_week_1",
+        "btiha_size": 5,
+        "udownloaders_total": 41,
+        "uuploaders_total": 22
+    },
+    {
+        "number": "NLD_week_1",
+        "btiha_size": 19,
+        "udownloaders_total": 729,
+        "uuploaders_total": 335
+    },
+    {
+        "number": "RUS_week_1",
+        "btiha_size": 6,
+        "udownloaders_total": 1071,
+        "uuploaders_total": 175
+    },
+    {
+        "number": "SWE_week_1",
+        "btiha_size": 19,
+        "udownloaders_total": 144,
+        "uuploaders_total": 79
+    },
+    {
+        "number": "TUR_week_1",
+        "btiha_size": 6,
+        "udownloaders_total": 40,
+        "uuploaders_total": 18
+    },
+    {
+        "number": "UKR_week_1",
+        "btiha_size": 6,
+        "udownloaders_total": 85,
+        "uuploaders_total": 18
+    },
+    {
+        "number": "USA_week_1",
+        "btiha_size": 19,
+        "udownloaders_total": 2276,
+        "uuploaders_total": 1606
+    }
+],
+        [
+    {
+        "number": "BRA_week_2",
+        "btiha_size": 21,
+        "udownloaders_total": 331,
+        "uuploaders_total": 149
+    },
+    {
+        "number": "CAN_week_2",
+        "btiha_size": 21,
+        "udownloaders_total": 764,
+        "uuploaders_total": 314
+    },
+    {
+        "number": "CHN_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 1016,
+        "uuploaders_total": 138
+    },
+    {
+        "number": "DEU_week_2",
+        "btiha_size": 22,
+        "udownloaders_total": 368,
+        "uuploaders_total": 139
+    },
+    {
+        "number": "ESP_week_2",
+        "btiha_size": 8,
+        "udownloaders_total": 265,
+        "uuploaders_total": 96
+    },
+    {
+        "number": "FRA_week_2",
+        "btiha_size": 22,
+        "udownloaders_total": 1031,
+        "uuploaders_total": 175
+    },
+    {
+        "number": "HKG_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 272,
+        "uuploaders_total": 103
+    },
+    {
+        "number": "JPN_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 882,
+        "uuploaders_total": 148
+    },
+    {
+        "number": "KOR_week_2",
+        "btiha_size": 8,
+        "udownloaders_total": 1001,
+        "uuploaders_total": 49
+    },
+    {
+        "number": "MEX_week_2",
+        "btiha_size": 8,
+        "udownloaders_total": 83,
+        "uuploaders_total": 39
+    },
+    {
+        "number": "NLD_week_2",
+        "btiha_size": 22,
+        "udownloaders_total": 1458,
+        "uuploaders_total": 522
+    },
+    {
+        "number": "RUS_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 6377,
+        "uuploaders_total": 334
+    },
+    {
+        "number": "SWE_week_2",
+        "btiha_size": 21,
+        "udownloaders_total": 313,
+        "uuploaders_total": 111
+    },
+    {
+        "number": "TUR_week_2",
+        "btiha_size": 8,
+        "udownloaders_total": 104,
+        "uuploaders_total": 33
+    },
+    {
+        "number": "UKR_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 404,
+        "uuploaders_total": 40
+    },
+    {
+        "number": "USA_week_2",
+        "btiha_size": 22,
+        "udownloaders_total": 5454,
+        "uuploaders_total": 3245
+    }
+],
+        [
+    {
+        "number": "BRA_week_3",
+        "btiha_size": 22,
+        "udownloaders_total": 537,
+        "uuploaders_total": 198
+    },
+    {
+        "number": "CAN_week_3",
+        "btiha_size": 22,
+        "udownloaders_total": 1117,
+        "uuploaders_total": 370
+    },
+    {
+        "number": "CHN_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 1652,
+        "uuploaders_total": 183
+    },
+    {
+        "number": "DEU_week_3",
+        "btiha_size": 22,
+        "udownloaders_total": 667,
+        "uuploaders_total": 248
+    },
+    {
+        "number": "ESP_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 454,
+        "uuploaders_total": 116
+    },
+    {
+        "number": "FRA_week_3",
+        "btiha_size": 22,
+        "udownloaders_total": 1600,
+        "uuploaders_total": 205
+    },
+    {
+        "number": "HKG_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 431,
+        "uuploaders_total": 148
+    },
+    {
+        "number": "JPN_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 1628,
+        "uuploaders_total": 225
+    },
+    {
+        "number": "KOR_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 1943,
+        "uuploaders_total": 77
+    },
+    {
+        "number": "MEX_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 127,
+        "uuploaders_total": 49
+    },
+    {
+        "number": "NLD_week_3",
+        "btiha_size": 22,
+        "udownloaders_total": 1986,
+        "uuploaders_total": 633
+    },
+    {
+        "number": "RUS_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 12125,
+        "uuploaders_total": 533
+    },
+    {
+        "number": "SWE_week_3",
+        "btiha_size": 22,
+        "udownloaders_total": 463,
+        "uuploaders_total": 123
+    },
+    {
+        "number": "TUR_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 158,
+        "uuploaders_total": 41
+    },
+    {
+        "number": "UKR_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 705,
+        "uuploaders_total": 66
+    },
+    {
+        "number": "USA_week_3",
+        "btiha_size": 22,
+        "udownloaders_total": 8672,
+        "uuploaders_total": 4871
+    }
+],
+        [
+    {
+        "number": "BRA_week_4",
+        "btiha_size": 22,
+        "udownloaders_total": 780,
+        "uuploaders_total": 222
+    },
+    {
+        "number": "CAN_week_4",
+        "btiha_size": 22,
+        "udownloaders_total": 1729,
+        "uuploaders_total": 415
+    },
+    {
+        "number": "CHN_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 2455,
+        "uuploaders_total": 227
+    },
+    {
+        "number": "DEU_week_4",
+        "btiha_size": 22,
+        "udownloaders_total": 981,
+        "uuploaders_total": 322
+    },
+    {
+        "number": "ESP_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 721,
+        "uuploaders_total": 130
+    },
+    {
+        "number": "FRA_week_4",
+        "btiha_size": 22,
+        "udownloaders_total": 2486,
+        "uuploaders_total": 233
+    },
+    {
+        "number": "HKG_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 655,
+        "uuploaders_total": 201
+    },
+    {
+        "number": "JPN_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 2440,
+        "uuploaders_total": 296
+    },
+    {
+        "number": "KOR_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 3688,
+        "uuploaders_total": 98
+    },
+    {
+        "number": "MEX_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 202,
+        "uuploaders_total": 55
+    },
+    {
+        "number": "NLD_week_4",
+        "btiha_size": 22,
+        "udownloaders_total": 2774,
+        "uuploaders_total": 699
+    },
+    {
+        "number": "RUS_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 24712,
+        "uuploaders_total": 702
+    },
+    {
+        "number": "SWE_week_4",
+        "btiha_size": 22,
+        "udownloaders_total": 714,
+        "uuploaders_total": 132
+    },
+    {
+        "number": "TUR_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 230,
+        "uuploaders_total": 58
+    },
+    {
+        "number": "UKR_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 1290,
+        "uuploaders_total": 91
+    },
+    {
+        "number": "USA_week_4",
+        "btiha_size": 22,
+        "udownloaders_total": 12019,
+        "uuploaders_total": 6254
+    }
+],
+        [
+    {
+        "number": "BRA_week_5",
+        "btiha_size": 23,
+        "udownloaders_total": 1036,
+        "uuploaders_total": 249
+    },
+    {
+        "number": "CAN_week_5",
+        "btiha_size": 23,
+        "udownloaders_total": 2431,
+        "uuploaders_total": 445
+    },
+    {
+        "number": "CHN_week_5",
+        "btiha_size": 10,
+        "udownloaders_total": 3239,
+        "uuploaders_total": 264
+    },
+    {
+        "number": "DEU_week_5",
+        "btiha_size": 23,
+        "udownloaders_total": 1325,
+        "uuploaders_total": 372
+    },
+    {
+        "number": "ESP_week_5",
+        "btiha_size": 10,
+        "udownloaders_total": 979,
+        "uuploaders_total": 158
+    },
+    {
+        "number": "FRA_week_5",
+        "btiha_size": 23,
+        "udownloaders_total": 3302,
+        "uuploaders_total": 245
+    },
+    {
+        "number": "HKG_week_5",
+        "btiha_size": 10,
+        "udownloaders_total": 844,
+        "uuploaders_total": 238
+    },
+    {
+        "number": "JPN_week_5",
+        "btiha_size": 10,
+        "udownloaders_total": 3194,
+        "uuploaders_total": 368
+    },
+    {
+        "number": "KOR_week_5",
+        "btiha_size": 10,
+        "udownloaders_total": 5196,
+        "uuploaders_total": 111
+    },
+    {
+        "number": "MEX_week_5",
+        "btiha_size": 10,
+        "udownloaders_total": 282,
+        "uuploaders_total": 63
+    },
+    {
+        "number": "NLD_week_5",
+        "btiha_size": 23,
+        "udownloaders_total": 3362,
+        "uuploaders_total": 746
+    },
+    {
+        "number": "RUS_week_5",
+        "btiha_size": 10,
+        "udownloaders_total": 34702,
+        "uuploaders_total": 863
+    },
+    {
+        "number": "SWE_week_5",
+        "btiha_size": 23,
+        "udownloaders_total": 963,
+        "uuploaders_total": 141
+    },
+    {
+        "number": "TUR_week_5",
+        "btiha_size": 10,
+        "udownloaders_total": 292,
+        "uuploaders_total": 66
+    },
+    {
+        "number": "UKR_week_5",
+        "btiha_size": 10,
+        "udownloaders_total": 1775,
+        "uuploaders_total": 102
+    },
+    {
+        "number": "USA_week_5",
+        "btiha_size": 23,
+        "udownloaders_total": 16702,
+        "uuploaders_total": 7879
+    }
+],
+        [
+    {
+        "number": "BRA_week_6",
+        "btiha_size": 23,
+        "udownloaders_total": 1228,
+        "uuploaders_total": 268
+    },
+    {
+        "number": "CAN_week_6",
+        "btiha_size": 23,
+        "udownloaders_total": 3083,
+        "uuploaders_total": 486
+    },
+    {
+        "number": "CHN_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 3967,
+        "uuploaders_total": 290
+    },
+    {
+        "number": "DEU_week_6",
+        "btiha_size": 23,
+        "udownloaders_total": 1607,
+        "uuploaders_total": 409
+    },
+    {
+        "number": "ESP_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 1238,
+        "uuploaders_total": 191
+    },
+    {
+        "number": "FRA_week_6",
+        "btiha_size": 23,
+        "udownloaders_total": 3972,
+        "uuploaders_total": 262
+    },
+    {
+        "number": "HKG_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 1028,
+        "uuploaders_total": 272
+    },
+    {
+        "number": "JPN_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 3814,
+        "uuploaders_total": 442
+    },
+    {
+        "number": "KOR_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 6344,
+        "uuploaders_total": 120
+    },
+    {
+        "number": "MEX_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 343,
+        "uuploaders_total": 69
+    },
+    {
+        "number": "NLD_week_6",
+        "btiha_size": 23,
+        "udownloaders_total": 3797,
+        "uuploaders_total": 778
+    },
+    {
+        "number": "RUS_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 45813,
+        "uuploaders_total": 997
+    },
+    {
+        "number": "SWE_week_6",
+        "btiha_size": 23,
+        "udownloaders_total": 1243,
+        "uuploaders_total": 163
+    },
+    {
+        "number": "TUR_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 356,
+        "uuploaders_total": 82
+    },
+    {
+        "number": "UKR_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 2327,
+        "uuploaders_total": 116
+    },
+    {
+        "number": "USA_week_6",
+        "btiha_size": 23,
+        "udownloaders_total": 20572,
+        "uuploaders_total": 8975
+    }
+]
+    ]
+}

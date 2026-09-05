@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt7745956",
+    "imdb_id": "tt7745956",
+    "revision": "838082d86c7b125a8b31d8229f36975f746a01b4",
+    "wikidata_id": "",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/She-Ra_and_the_Princesses_of_Power"
+  },
+  "coverage_sha256": "05e5c2bbce8ac33c89108fcac66673586058f68a41150d5b6dbd8f6d8728b8fe",
+  "generated_at": "2026-09-05T18:20:28.396591+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/she-ra-04.cache/cache.20191216.tar.xz",
+      "sha256": "abcff7b1ab2d985f28523d8fefb670e6cf2d4886fc5cc8ac8f589d1aa1c54652",
+      "size": 19864948
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/she-ra-04.md",
+      "sha256": "e96dbc3d90af9a5ea1910a70918c39d4e61696223fc97309275619cfabbcc22b",
+      "size": 587
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/she-ra-04.json",
+      "sha256": "2d752d17af8600ce5bec34b27eeaec3779d05eb50a272d26fa5bc1ff9d0eb601",
+      "size": 2202
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/she-ra-04.json",
+      "sha256": "4adc5b4937ec23610a78a43c52fda20c3d85ee77d28345bf9bd5c027661302db",
+      "size": 361
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "c1c212754c31864df8eff7df764ea81851725028d25a7b2bc6d3092033343c41",
+      "size": 49746
+    }
+  },
+  "media_object": "she-ra-04",
+  "published_files": {
+    "data/csv/bytes/she-ra-04-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "f844fadf4b18c0d2f08545162e14edc6e495ebf9503f521917ef8d9658fc9a51",
+    "docs/itemized/figures/she-ra-04-carto-4k.webp": "dfcd8d6c101848b18e9d012e71e03156c8a1aee56d1793f874d7cc48cc96005e",
+    "docs/itemized/figures/she-ra-04-carto.png": "4e1b2097678bd4a8dc513796f87dba7202595af65f1644d0574f919b0579494b",
+    "docs/itemized/figures/she-ra-04-cumulative-detail-btiha-itemized-by-bytes.svg": "4426b563f57e640ff35a34ddb84d9205e27ad5a24a29ab045b2072971a06b30e",
+    "docs/itemized/figures/she-ra-04-data-ge-1080p-4k.webp": "85bd606587d07addab296d762daac8beae60c99f95ed28be0895afe4f496d49c",
+    "docs/itemized/figures/she-ra-04-data-ge-1080p.webp": "0a7301f8646143d74342d5033d36b7fb8f2ec3406c90838c4fafcd1080bf9312",
+    "docs/itemized/figures/she-ra-04-data-lt-1080p-4k.webp": "4c04291501613fdfcb57f25630f87dc8f133355c5981e629a928e0e25e4255c3",
+    "docs/itemized/figures/she-ra-04-data-lt-1080p.webp": "c10ebffd09809cc1382e6889ade09b27dcc5643dc0f08d3299615aba89bc5256",
+    "docs/itemized/figures/she-ra-04-downloads-by-day-day.svg": "20def881f617e803e211c64d9cc95f0a06828c43132df77655e98a656d167da9",
+    "docs/itemized/figures/she-ra-04-downloads-by-week-she-ra-04-week.svg": "24c9eb457e80f13c3cb71c272493f6f84f85525ca56966d4e19ad76573d8322c",
+    "docs/itemized/she-ra-04-sample-cache-audit.md": "67b0d6b4e14a3f772ff0c5f0c4fa5f2bc4e79e49b11d3e41943f8f3f91793e7d",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "266d3ea17853fe1320391793ac55e9383a0ace90",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/she-ra-04/tmp/she-ra-04-cumulative-btiha.geojson",
+        "sha256": "b32153e8978c95bda918e8b71e3c237dcab0b500fc5b557e244853ff240e527e",
+        "size": 2647233
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/she-ra-04/tmp/she-ra-04-cumulative-btiha-media-objects.json",
+        "sha256": "3094377021f01133416b3bb1d777c38f85fda96c9da6bebf0c580c9ef4e75bbe",
+        "size": 308171
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "she-ra-04",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "3e6a87ec7490ec3b39db0dba09ab6311a015621eb704ac975c05f399296c8393",
+      "size": 8759376
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          42.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Saint Petersburg",
+          "Seoul",
+          "London",
+          "Lelystad",
+          "Nizhniy Novgorod",
+          "Frankfurt am Main",
+          "Mumbai",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          38.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Saint Petersburg",
+          "Seoul",
+          "London",
+          "Paris",
+          "Nizhniy Novgorod",
+          "Mumbai",
+          "Krasnodar",
+          "Budapest"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 13,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 6,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "266d3ea17853fe1320391793ac55e9383a0ace90",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "57da5e32f5d5c5637cf1c103eb022dcb8a47a722",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "838082d86c7b125a8b31d8229f36975f746a01b4"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}
