@@ -1,5 +1,8 @@
+bachelors-23-and-01
 big-bang-theory-1223
+big-little-lies-201
 big-little-lies-207
+black-monday-106
 black-monday-110
 cobra-kai-02
 doctor-who-1200
@@ -13,7 +16,9 @@ glow-03
 good-fight-301
 good-fight-310
 high-flying-bird
+i-am-the-night-103
 i-am-the-night-106
+killing-eve-201
 killing-eve-208
 kurulus-osman-01
 love-death-robots-01
@@ -23,14 +28,20 @@ mandalorian-108
 marvelous-mrs-maisel-03
 oa-02
 orange-is-the-new-black-07
+orville-206
 orville-214
+permanent-record
+queen-of-the-south-407
 queen-of-the-south-413
 queer-eye-2018-04
 she-ra-04
 star-trek-discovery-201
+star-trek-discovery-206
 star-trek-discovery-214
 stranger-things-03
+succession-210
 tales-of-the-city-2019
+true-detective-301
 true-detective-308
 umbrella-academy-01
 undone-01
@@ -39,3 +50,4 @@ walking-dead-916
 watchmen-104
 watchmen-109
 wu-assassins-01
+yellowstone-210
