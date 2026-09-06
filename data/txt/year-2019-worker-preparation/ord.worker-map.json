@@ -1,12 +1,74 @@
 {
-  "cache_root": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold",
+  "cache_root": "/mnt/gold/src/alpha60-samples-cache.gold",
   "owner": "ord",
   "records": [
     {
       "archive": {
+        "filename": "cache.20190408.tar.xz",
+        "filename_date": "20190408",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/bachelors-23-and-01.cache/cache.20190408.tar.xz",
+        "sha256": "22dcc6dfdd3e7c3263627fe338b4fb2191e739cbe9c70f4c9820e5af361cb29a",
+        "size": 52602760
+      },
+      "collection_key": "bachelors-23-and-01",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 28,
+          "cache_members": 1530,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-04-08",
+          "sample_span_days": 28,
+          "sample_start": "2019-03-12",
+          "torrent_indices": 58
+        },
+        "required_collection_key": "bachelors-23-and-01",
+        "required_day_products": 28,
+        "required_sample_days": 28,
+        "required_sample_end": "2019-04-08",
+        "required_sample_start": "2019-03-12",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "23",
+        "collection_name": "The Bachelor",
+        "metadata_version": "2025-11-22",
+        "sample_days": 28,
+        "sample_end": "2019-04-08",
+        "sample_start": "2019-03-12",
+        "sha256": "b47b6842a09f12c176c0524e6bb6cdcc19801a43473c1f60cd6cf378fbb241e4",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/bachelors-23-and-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190408.tar.xz",
+            "size": 52602760
+          }
+        ],
+        "expected_filename_date": "20190408"
+      },
+      "worker_archive_relative_path": "bachelors-23-and-01.cache/cache.20190408.tar.xz"
+    },
+    {
+      "archive": {
         "filename": "cache.20190808.tar.xz",
         "filename_date": "20190808",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/big-bang-theory-1223.cache/cache.20190808.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/big-bang-theory-1223.cache/cache.20190808.tar.xz",
         "sha256": "8fe11c635db01af72d2f44763c36d02b3e5295fca64d43eb7bed051bf1b6f727",
         "size": 1850901896
       },
@@ -66,9 +128,71 @@
     },
     {
       "archive": {
+        "filename": "cache.20190331.tar.xz",
+        "filename_date": "20190331",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/black-monday-106.cache/cache.20190331.tar.xz",
+        "sha256": "3d03278345bd0bb05382ff18f3dc9093c7d14897fc7a7c8311616dfba952a5c8",
+        "size": 151820824
+      },
+      "collection_key": "black-monday-106",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 29,
+          "cache_members": 1399,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-03-31",
+          "sample_span_days": 29,
+          "sample_start": "2019-03-03",
+          "torrent_indices": 52
+        },
+        "required_collection_key": "black-monday-106",
+        "required_day_products": 29,
+        "required_sample_days": 29,
+        "required_sample_end": "2019-03-31",
+        "required_sample_start": "2019-03-03",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Black Monday",
+        "metadata_version": "2025-11-22",
+        "sample_days": 29,
+        "sample_end": "2019-03-31",
+        "sample_start": "2019-03-03",
+        "sha256": "5a88f0ddb638eee5ef8debd2965b1fb41c4f09d40fd715b365d903c80636eb05",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/black-monday-106.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190331.tar.xz",
+            "size": 151820824
+          }
+        ],
+        "expected_filename_date": "20190331"
+      },
+      "worker_archive_relative_path": "black-monday-106.cache/cache.20190331.tar.xz"
+    },
+    {
+      "archive": {
         "filename": "cache.20190716.tar.xz",
         "filename_date": "20190716",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/cobra-kai-02.cache/cache.20190716.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/cobra-kai-02.cache/cache.20190716.tar.xz",
         "sha256": "b349a9ee06fb6d0403dbebb285fdbd1d6c604963c31b93be06640335a8b8bb20",
         "size": 1480346124
       },
@@ -130,7 +254,7 @@
       "archive": {
         "filename": "cache.20200208.tar.xz",
         "filename_date": "20200208",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/ferhat-ile-sirin.cache/cache.20200208.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/ferhat-ile-sirin.cache/cache.20200208.tar.xz",
         "sha256": "2bed7d385b7f3c53a4eb0ef7eb8dc8e4c4df191f28b59af266acedc12bb509f5",
         "size": 4213992
       },
@@ -192,7 +316,7 @@
       "archive": {
         "filename": "cache.20190630.tar.xz",
         "filename_date": "20190630",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/game-of-thrones-801.cache/cache.20190630.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-801.cache/cache.20190630.tar.xz",
         "sha256": "7e5a6476c611483a410be6596aef08d6cddaa285844c3275864d708e93db5df8",
         "size": 6895466504
       },
@@ -254,7 +378,7 @@
       "archive": {
         "filename": "cache.20190418.tar.xz",
         "filename_date": "20190418",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/good-fight-301.cache/cache.20190418.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-301.cache/cache.20190418.tar.xz",
         "sha256": "61737b8b449b3a33de01273b1bce32cbe1d5d8c55b49ae846cfd021f6c574d78",
         "size": 232559628
       },
@@ -316,7 +440,7 @@
       "archive": {
         "filename": "cache.20190314.tar.xz",
         "filename_date": "20190314",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/high-flying-bird.cache/cache.20190314.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/high-flying-bird.cache/cache.20190314.tar.xz",
         "sha256": "5894b710298c868e95513a68deee6e327166dc21a27ad7225b9a55546ab9cfae",
         "size": 89930048
       },
@@ -378,7 +502,7 @@
       "archive": {
         "filename": "cache.20190408.tar.xz",
         "filename_date": "20190408",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/i-am-the-night-106.cache/cache.20190408.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/i-am-the-night-106.cache/cache.20190408.tar.xz",
         "sha256": "41c67b22ac241c783b93e3d5b67f7c8febef272297ba5696889821059894be76",
         "size": 210178424
       },
@@ -438,9 +562,75 @@
     },
     {
       "archive": {
+        "filename": "cache.20190512.tar.xz",
+        "filename_date": "20190512",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/killing-eve-201.cache/cache.20190512.tar.xz",
+        "sha256": "d558fb4b18d4880c81ecc08edcfb1133acde51bc110bd67be1449559199dd855",
+        "size": 119735204
+      },
+      "collection_key": "killing-eve-201",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 35,
+          "cache_members": 2367,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-05-12",
+          "sample_span_days": 35,
+          "sample_start": "2019-04-08",
+          "torrent_indices": 70
+        },
+        "required_collection_key": "killing-eve-201",
+        "required_day_products": 35,
+        "required_sample_days": 35,
+        "required_sample_end": "2019-05-12",
+        "required_sample_start": "2019-04-08",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Killing Eve",
+        "metadata_version": "2025-11-22",
+        "sample_days": 35,
+        "sample_end": "2019-05-12",
+        "sample_start": "2019-04-08",
+        "sha256": "beb0f4026a64ca5aed253974a835a31d93829866e59f893999cd363e18ab07eb",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/killing-eve-201.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190505.tar.xz",
+            "size": 197628112
+          },
+          {
+            "filename": "cache.20190512.tar.xz",
+            "size": 119735204
+          }
+        ],
+        "expected_filename_date": "20190512"
+      },
+      "worker_archive_relative_path": "killing-eve-201.cache/cache.20190512.tar.xz"
+    },
+    {
+      "archive": {
         "filename": "cache.20191223.tar.xz",
         "filename_date": "20191223",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/mandalorian-101.cache/cache.20191223.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/mandalorian-101.cache/cache.20191223.tar.xz",
         "sha256": "380cb2fa6997c17dec9eca44a1f3feca98c7ccd225d7842ac787801300cfb1f2",
         "size": 1936565484
       },
@@ -502,7 +692,7 @@
       "archive": {
         "filename": "cache.20200625.tar.xz",
         "filename_date": "20200625",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/mandalorian-108.cache/cache.20200625.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/mandalorian-108.cache/cache.20200625.tar.xz",
         "sha256": "1aa39ac3fb8b214200e28eb9776b5593a26053a0bbf6874c9c87b9b374ccdd66",
         "size": 7012934200
       },
@@ -572,7 +762,7 @@
       "archive": {
         "filename": "cache.20200213.tar.xz",
         "filename_date": "20200213",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/marvelous-mrs-maisel-03.cache/cache.20200213.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/marvelous-mrs-maisel-03.cache/cache.20200213.tar.xz",
         "sha256": "371dec1eb32044e67d46351c652fef679f6c0c95736320ed9f13ed0b2242f7c2",
         "size": 417325484
       },
@@ -642,7 +832,7 @@
       "archive": {
         "filename": "cache.20191003.tar.xz",
         "filename_date": "20191003",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/orange-is-the-new-black-07.cache/cache.20191003.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/orange-is-the-new-black-07.cache/cache.20191003.tar.xz",
         "sha256": "720e8e127d48c290b120fe5c9bbad62c1c9d1688ea12ab7a6813f00b9ec0f4d4",
         "size": 486728468
       },
@@ -724,7 +914,7 @@
       "archive": {
         "filename": "cache.20190613.tar.xz",
         "filename_date": "20190613",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/orville-214.cache/cache.20190613.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/orville-214.cache/cache.20190613.tar.xz",
         "sha256": "5ad23c3b2cdb61cfb0c51369cceefcdaa84212e670cfc8ad3cf60ab88e135d17",
         "size": 753869192
       },
@@ -784,9 +974,71 @@
     },
     {
       "archive": {
+        "filename": "cache.20190829.tar.xz",
+        "filename_date": "20190829",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/queen-of-the-south-407.cache/cache.20190829.tar.xz",
+        "sha256": "206225cb8fc56f3418bfbb30704eb3bab7bd377e5caec80862f75b10809d0a31",
+        "size": 325207612
+      },
+      "collection_key": "queen-of-the-south-407",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 42,
+          "cache_members": 2556,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-08-29",
+          "sample_span_days": 42,
+          "sample_start": "2019-07-19",
+          "torrent_indices": 62
+        },
+        "required_collection_key": "queen-of-the-south-407",
+        "required_day_products": 42,
+        "required_sample_days": 42,
+        "required_sample_end": "2019-08-29",
+        "required_sample_start": "2019-07-19",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "4",
+        "collection_name": "Queen of the South",
+        "metadata_version": "2025-11-22",
+        "sample_days": 42,
+        "sample_end": "2019-08-29",
+        "sample_start": "2019-07-19",
+        "sha256": "ea280ef11709ee2e2e3157388ef60ef5b090fe75f5f64d7e18d21a1ae1d8e62a",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/queen-of-the-south-407.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190829.tar.xz",
+            "size": 325207612
+          }
+        ],
+        "expected_filename_date": "20190829"
+      },
+      "worker_archive_relative_path": "queen-of-the-south-407.cache/cache.20190829.tar.xz"
+    },
+    {
+      "archive": {
         "filename": "cache.20191107.tar.xz",
         "filename_date": "20191107",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/queen-of-the-south-413.cache/cache.20191107.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/queen-of-the-south-413.cache/cache.20191107.tar.xz",
         "sha256": "e0598a68a1c66a752ef4698d8c650cbe65c67d71e25cf90e008c76456a0642ea",
         "size": 470048416
       },
@@ -848,7 +1100,7 @@
       "archive": {
         "filename": "cache.20190926.tar.xz",
         "filename_date": "20190926",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/queer-eye-2018-04.cache/cache.20190926.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/queer-eye-2018-04.cache/cache.20190926.tar.xz",
         "sha256": "da2c452dec6fb7c24ab4ba91cffa73aa6ce87deb5431d799fb9c1741fe7e7f68",
         "size": 337195132
       },
@@ -910,7 +1162,7 @@
       "archive": {
         "filename": "cache.20191216.tar.xz",
         "filename_date": "20191216",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/she-ra-04.cache/cache.20191216.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/she-ra-04.cache/cache.20191216.tar.xz",
         "sha256": "abcff7b1ab2d985f28523d8fefb670e6cf2d4886fc5cc8ac8f589d1aa1c54652",
         "size": 19864948
       },
@@ -972,7 +1224,7 @@
       "archive": {
         "filename": "cache.20190214.tar.xz",
         "filename_date": "20190214",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/star-trek-discovery-201.cache/cache.20190214.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-201.cache/cache.20190214.tar.xz",
         "sha256": "66acd1187b1177ffe62b106dc1541d4f973a14406e8996c27ff716644cfb18be",
         "size": 313292520
       },
@@ -1032,9 +1284,71 @@
     },
     {
       "archive": {
+        "filename": "cache.20190321.tar.xz",
+        "filename_date": "20190321",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-206.cache/cache.20190321.tar.xz",
+        "sha256": "ac2a12e0309fd08ea410a0eb508d0591705d2e2e4642a3f1d922011c43beb8c9",
+        "size": 107485656
+      },
+      "collection_key": "star-trek-discovery-206",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 28,
+          "cache_members": 1375,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-03-21",
+          "sample_span_days": 28,
+          "sample_start": "2019-02-22",
+          "torrent_indices": 51
+        },
+        "required_collection_key": "star-trek-discovery-206",
+        "required_day_products": 28,
+        "required_sample_days": 28,
+        "required_sample_end": "2019-03-21",
+        "required_sample_start": "2019-02-22",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Star Trek: Discovery",
+        "metadata_version": "2025-11-22",
+        "sample_days": 28,
+        "sample_end": "2019-03-21",
+        "sample_start": "2019-02-22",
+        "sha256": "3f38d8de878ebfdf8fdaf261c5652df2d5bac47201e3efded7a11d501ad63f0d",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/star-trek-discovery-206.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190321.tar.xz",
+            "size": 107485656
+          }
+        ],
+        "expected_filename_date": "20190321"
+      },
+      "worker_archive_relative_path": "star-trek-discovery-206.cache/cache.20190321.tar.xz"
+    },
+    {
+      "archive": {
         "filename": "cache.20190606.tar.xz",
         "filename_date": "20190606",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/star-trek-discovery-214.cache/cache.20190606.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-214.cache/cache.20190606.tar.xz",
         "sha256": "23b2c977f5a180066fee84f44f02a8ba2da9bb935b225bd82736ac1082c18c49",
         "size": 626065544
       },
@@ -1096,7 +1410,7 @@
       "archive": {
         "filename": "cache.20190925.tar.xz",
         "filename_date": "20190925",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/stranger-things-03.cache/cache.20190925.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/stranger-things-03.cache/cache.20190925.tar.xz",
         "sha256": "877e84e8f521422f38dd434fa6b7b6a93a0fa06344d322fd0025755d4a64be2e",
         "size": 3639834208
       },
@@ -1168,7 +1482,7 @@
       "archive": {
         "filename": "cache.20190414.tar.xz",
         "filename_date": "20190414",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/true-detective-308.cache/cache.20190414.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/true-detective-308.cache/cache.20190414.tar.xz",
         "sha256": "f4bc8145fcc221977abfd740926f8a6c539e49bc1b0be2ed6297980bede20918",
         "size": 1715051364
       },
@@ -1230,7 +1544,7 @@
       "archive": {
         "filename": "cache.20191121.tar.xz",
         "filename_date": "20191121",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/undone-01.cache/cache.20191121.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/undone-01.cache/cache.20191121.tar.xz",
         "sha256": "0545d691b201a65f3f4f8577402123918a5195edcde780549382c0cb68f72b70",
         "size": 557426632
       },
@@ -1292,7 +1606,7 @@
       "archive": {
         "filename": "cache.20191016.tar.xz",
         "filename_date": "20191016",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/wu-assassins-01.cache/cache.20191016.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/wu-assassins-01.cache/cache.20191016.tar.xz",
         "sha256": "b617c5b60bee2135cb32852be2e828312995270dbafce499b73269c0023bc105",
         "size": 892919276
       },
@@ -1349,10 +1663,72 @@
         "expected_filename_date": "20191016"
       },
       "worker_archive_relative_path": "wu-assassins-01.cache/cache.20191016.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20190831.tar.xz",
+        "filename_date": "20190831",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/yellowstone-210.cache/cache.20190831.tar.xz",
+        "sha256": "6b2fa864b4af07b6ea8d813d094d2327eff17b7aab73d0667521499d1cc0ec3b",
+        "size": 16313672
+      },
+      "collection_key": "yellowstone-210",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 3,
+          "cache_members": 134,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-08-31",
+          "sample_span_days": 3,
+          "sample_start": "2019-08-29",
+          "torrent_indices": 45
+        },
+        "required_collection_key": "yellowstone-210",
+        "required_day_products": 3,
+        "required_sample_days": 3,
+        "required_sample_end": "2019-08-31",
+        "required_sample_start": "2019-08-29",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Yellowstone",
+        "metadata_version": "2025-11-22",
+        "sample_days": 3,
+        "sample_end": "2019-08-31",
+        "sample_start": "2019-08-29",
+        "sha256": "4d1cd0780766296d5890cda06360a96bf2d6f9af909f29d27b3dbefb1fe6e928",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/yellowstone-210.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190831.tar.xz",
+            "size": 16313672
+          }
+        ],
+        "expected_filename_date": "20190831"
+      },
+      "worker_archive_relative_path": "yellowstone-210.cache/cache.20190831.tar.xz"
     }
   ],
   "schema": "alpha60-year-day-worker-map/1",
-  "source_map_sha256": "f021db0c94fa18448bd4c9f33394bada3539d7aeb4b68537c51409e2566fce53",
+  "source_map_sha256": "c566c5f06128b08a70eb539f3228fe4d0812b13c4b5a8ee41669ab476b4f0afb",
   "status": "pass",
   "year": "2019"
 }
