@@ -1,19 +1,19 @@
 {
   "assignment_policy": "largest-archive-first-minimum-assigned-bytes",
-  "cache_root": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold",
+  "cache_root": "/mnt/gold/src/alpha60-samples-cache.gold",
   "counts": {
     "approved_filename_date_mismatches": 0,
     "approved_observed_endpoint_mismatches": 0,
-    "checkpoint_records_reused": 1,
-    "day_member_streams_validated": 41,
-    "eligible_archives": 41,
+    "checkpoint_records_reused": 0,
+    "day_member_streams_validated": 53,
+    "eligible_archives": 54,
     "post_release_archive_records": 0,
-    "records": 41,
-    "sample_end_matches": 41,
-    "selected_archive_bytes": 59885092764,
-    "selected_archive_hashes": 41,
+    "records": 53,
+    "sample_end_matches": 53,
+    "selected_archive_bytes": 61427569916,
+    "selected_archive_hashes": 53,
     "sparse_sample_records": 7,
-    "unique_records": 41
+    "unique_records": 53
   },
   "identity_source": {
     "kind": "canonical-swarm-metadata",
@@ -21,27 +21,88 @@
   },
   "inventory": {
     "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-0-media-objects.txt",
-    "sha256": "54809ca736ba85a62d0e43b0ce59ad74c254ae70cd86ee8d8b8c656d46e91232"
+    "sha256": "47ea3a01b0a20287fa2f79faa8b20868dc636e1c396f807b6f2fb08304f294c7"
   },
   "overrides": {
     "count": 0
   },
   "owners": {
     "eureka": {
-      "archive_bytes": 29942375280,
-      "records": 20
+      "archive_bytes": 30711686704,
+      "records": 26
     },
     "ord": {
-      "archive_bytes": 29942717484,
-      "records": 21
+      "archive_bytes": 30715883212,
+      "records": 27
     }
   },
   "records": [
     {
       "archive": {
+        "filename": "cache.20190408.tar.xz",
+        "filename_date": "20190408",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/bachelors-23-and-01.cache/cache.20190408.tar.xz",
+        "sha256": "22dcc6dfdd3e7c3263627fe338b4fb2191e739cbe9c70f4c9820e5af361cb29a",
+        "size": 52602760
+      },
+      "collection_key": "bachelors-23-and-01",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 28,
+          "cache_members": 1530,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-04-08",
+          "sample_span_days": 28,
+          "sample_start": "2019-03-12",
+          "torrent_indices": 58
+        },
+        "required_collection_key": "bachelors-23-and-01",
+        "required_day_products": 28,
+        "required_sample_days": 28,
+        "required_sample_end": "2019-04-08",
+        "required_sample_start": "2019-03-12",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "23",
+        "collection_name": "The Bachelor",
+        "metadata_version": "2025-11-22",
+        "sample_days": 28,
+        "sample_end": "2019-04-08",
+        "sample_start": "2019-03-12",
+        "sha256": "b47b6842a09f12c176c0524e6bb6cdcc19801a43473c1f60cd6cf378fbb241e4",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/bachelors-23-and-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190408.tar.xz",
+            "size": 52602760
+          }
+        ],
+        "expected_filename_date": "20190408"
+      }
+    },
+    {
+      "archive": {
         "filename": "cache.20190808.tar.xz",
         "filename_date": "20190808",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/big-bang-theory-1223.cache/cache.20190808.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/big-bang-theory-1223.cache/cache.20190808.tar.xz",
         "sha256": "8fe11c635db01af72d2f44763c36d02b3e5295fca64d43eb7bed051bf1b6f727",
         "size": 1850901896
       },
@@ -100,9 +161,70 @@
     },
     {
       "archive": {
+        "filename": "cache.20190721.tar.xz",
+        "filename_date": "20190721",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/big-little-lies-201.cache/cache.20190721.tar.xz",
+        "sha256": "27c62c4b7aa56d19fbcbbca4da11153885542bdd3e5cee4c7811df7fe558bb28",
+        "size": 161470608
+      },
+      "collection_key": "big-little-lies-201",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 42,
+          "cache_members": 2559,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-07-21",
+          "sample_span_days": 42,
+          "sample_start": "2019-06-10",
+          "torrent_indices": 62
+        },
+        "required_collection_key": "big-little-lies-201",
+        "required_day_products": 42,
+        "required_sample_days": 42,
+        "required_sample_end": "2019-07-21",
+        "required_sample_start": "2019-06-10",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Big Little Lies",
+        "metadata_version": "2025-11-22",
+        "sample_days": 42,
+        "sample_end": "2019-07-21",
+        "sample_start": "2019-06-10",
+        "sha256": "59aa8bf89ae8557481b3fd865d4add8cb892628707829439988e771b4fb65d1a",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/big-little-lies-201.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190721.tar.xz",
+            "size": 161470608
+          }
+        ],
+        "expected_filename_date": "20190721"
+      }
+    },
+    {
+      "archive": {
         "filename": "cache.20190825.tar.xz",
         "filename_date": "20190825",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/big-little-lies-207.cache/cache.20190825.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/big-little-lies-207.cache/cache.20190825.tar.xz",
         "sha256": "e6f83aedda0df99bc47a6ba16339fa1f6a160018c4f9f129ca877b4827ebf83c",
         "size": 390110428
       },
@@ -161,9 +283,70 @@
     },
     {
       "archive": {
+        "filename": "cache.20190331.tar.xz",
+        "filename_date": "20190331",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/black-monday-106.cache/cache.20190331.tar.xz",
+        "sha256": "3d03278345bd0bb05382ff18f3dc9093c7d14897fc7a7c8311616dfba952a5c8",
+        "size": 151820824
+      },
+      "collection_key": "black-monday-106",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 29,
+          "cache_members": 1399,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-03-31",
+          "sample_span_days": 29,
+          "sample_start": "2019-03-03",
+          "torrent_indices": 52
+        },
+        "required_collection_key": "black-monday-106",
+        "required_day_products": 29,
+        "required_sample_days": 29,
+        "required_sample_end": "2019-03-31",
+        "required_sample_start": "2019-03-03",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "Black Monday",
+        "metadata_version": "2025-11-22",
+        "sample_days": 29,
+        "sample_end": "2019-03-31",
+        "sample_start": "2019-03-03",
+        "sha256": "5a88f0ddb638eee5ef8debd2965b1fb41c4f09d40fd715b365d903c80636eb05",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/black-monday-106.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190331.tar.xz",
+            "size": 151820824
+          }
+        ],
+        "expected_filename_date": "20190331"
+      }
+    },
+    {
+      "archive": {
         "filename": "cache.20190512.tar.xz",
         "filename_date": "20190512",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/black-monday-110.cache/cache.20190512.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/black-monday-110.cache/cache.20190512.tar.xz",
         "sha256": "f00ca40d35d8ec17702d36dbc4b798af6fdeda44487a9b478d9985b92837f6e3",
         "size": 464524452
       },
@@ -224,7 +407,7 @@
       "archive": {
         "filename": "cache.20190716.tar.xz",
         "filename_date": "20190716",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/cobra-kai-02.cache/cache.20190716.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/cobra-kai-02.cache/cache.20190716.tar.xz",
         "sha256": "b349a9ee06fb6d0403dbebb285fdbd1d6c604963c31b93be06640335a8b8bb20",
         "size": 1480346124
       },
@@ -285,7 +468,7 @@
       "archive": {
         "filename": "cache.20190128.tar.xz",
         "filename_date": "20190128",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/doctor-who-1200.cache/cache.20190128.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/doctor-who-1200.cache/cache.20190128.tar.xz",
         "sha256": "3b832eb744bce49cea34e33e73ebefe60fdec5428d8ea8954deb3c23db655c18",
         "size": 139390412
       },
@@ -346,7 +529,7 @@
       "archive": {
         "filename": "cache.20191205.tar.xz",
         "filename_date": "20191205",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/dolemite-is-my-name.cache/cache.20191205.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/dolemite-is-my-name.cache/cache.20191205.tar.xz",
         "sha256": "a0cd35be35beda50c7f47f6a7773e9776581cd85191b3050fdfcbb4d76574cc4",
         "size": 471704800
       },
@@ -416,7 +599,7 @@
       "archive": {
         "filename": "cache.20200220.tar.xz",
         "filename_date": "20200220",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/expanse-04.cache/cache.20200220.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/expanse-04.cache/cache.20200220.tar.xz",
         "sha256": "dc2e17f66f8477054b49d7559c111272736c60fecada402d7dc24ae12b74a77a",
         "size": 2173945316
       },
@@ -477,7 +660,7 @@
       "archive": {
         "filename": "cache.20200208.tar.xz",
         "filename_date": "20200208",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/ferhat-ile-sirin.cache/cache.20200208.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/ferhat-ile-sirin.cache/cache.20200208.tar.xz",
         "sha256": "2bed7d385b7f3c53a4eb0ef7eb8dc8e4c4df191f28b59af266acedc12bb509f5",
         "size": 4213992
       },
@@ -538,7 +721,7 @@
       "archive": {
         "filename": "cache.20190630.tar.xz",
         "filename_date": "20190630",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/game-of-thrones-801.cache/cache.20190630.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-801.cache/cache.20190630.tar.xz",
         "sha256": "7e5a6476c611483a410be6596aef08d6cddaa285844c3275864d708e93db5df8",
         "size": 6895466504
       },
@@ -599,7 +782,7 @@
       "archive": {
         "filename": "cache.20190609.tar.xz",
         "filename_date": "20190609",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/game-of-thrones-803.cache/cache.20190609.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-803.cache/cache.20190609.tar.xz",
         "sha256": "13a291406e59e916ed66826653f8b5fd35530646e12d9cfd6bf308e46ea061a3",
         "size": 5249766996
       },
@@ -660,7 +843,7 @@
       "archive": {
         "filename": "cache.20190901.tar.xz",
         "filename_date": "20190901",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/game-of-thrones-806.cache/cache.20190901.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/game-of-thrones-806.cache/cache.20190901.tar.xz",
         "sha256": "39d869b6a0e5b73975ab29a5c1da42f09f814bbe328f411ae5718cb04da85ec6",
         "size": 9593245904
       },
@@ -721,7 +904,7 @@
       "archive": {
         "filename": "cache.20190912.tar.xz",
         "filename_date": "20190912",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/glow-03.cache/cache.20190912.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/glow-03.cache/cache.20190912.tar.xz",
         "sha256": "c2809721e6a61a24d7ce7cbefedaab4417a57e5fc254b6ccd5a5f8d3d85adbff",
         "size": 707235496
       },
@@ -782,7 +965,7 @@
       "archive": {
         "filename": "cache.20190418.tar.xz",
         "filename_date": "20190418",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/good-fight-301.cache/cache.20190418.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-301.cache/cache.20190418.tar.xz",
         "sha256": "61737b8b449b3a33de01273b1bce32cbe1d5d8c55b49ae846cfd021f6c574d78",
         "size": 232559628
       },
@@ -843,7 +1026,7 @@
       "archive": {
         "filename": "cache.20190711.tar.xz",
         "filename_date": "20190711",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/good-fight-310.cache/cache.20190711.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/good-fight-310.cache/cache.20190711.tar.xz",
         "sha256": "d9da753445ed0025448f118ad6dfe2a15e1a911af77db23921cc64dd61ebd546",
         "size": 165138812
       },
@@ -904,7 +1087,7 @@
       "archive": {
         "filename": "cache.20190314.tar.xz",
         "filename_date": "20190314",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/high-flying-bird.cache/cache.20190314.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/high-flying-bird.cache/cache.20190314.tar.xz",
         "sha256": "5894b710298c868e95513a68deee6e327166dc21a27ad7225b9a55546ab9cfae",
         "size": 89930048
       },
@@ -963,9 +1146,70 @@
     },
     {
       "archive": {
+        "filename": "cache.20190304.tar.xz",
+        "filename_date": "20190304",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/i-am-the-night-103.cache/cache.20190304.tar.xz",
+        "sha256": "4bac5650b188c86dee8629943e0f4ce7204ebd894a6a72c4897be424d95f74fe",
+        "size": 44753140
+      },
+      "collection_key": "i-am-the-night-103",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 21,
+          "cache_members": 1415,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-03-04",
+          "sample_span_days": 21,
+          "sample_start": "2019-02-12",
+          "torrent_indices": 76
+        },
+        "required_collection_key": "i-am-the-night-103",
+        "required_day_products": 21,
+        "required_sample_days": 21,
+        "required_sample_end": "2019-03-04",
+        "required_sample_start": "2019-02-12",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "1",
+        "collection_name": "I Am the Night",
+        "metadata_version": "2025-11-22",
+        "sample_days": 21,
+        "sample_end": "2019-03-04",
+        "sample_start": "2019-02-12",
+        "sha256": "efca58e5b047c903f406db0d0ce737b1df1b9f86be8031b40050001cbe32bfe9",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/i-am-the-night-103.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190304.tar.xz",
+            "size": 44753140
+          }
+        ],
+        "expected_filename_date": "20190304"
+      }
+    },
+    {
+      "archive": {
         "filename": "cache.20190408.tar.xz",
         "filename_date": "20190408",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/i-am-the-night-106.cache/cache.20190408.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/i-am-the-night-106.cache/cache.20190408.tar.xz",
         "sha256": "41c67b22ac241c783b93e3d5b67f7c8febef272297ba5696889821059894be76",
         "size": 210178424
       },
@@ -1024,9 +1268,74 @@
     },
     {
       "archive": {
+        "filename": "cache.20190512.tar.xz",
+        "filename_date": "20190512",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/killing-eve-201.cache/cache.20190512.tar.xz",
+        "sha256": "d558fb4b18d4880c81ecc08edcfb1133acde51bc110bd67be1449559199dd855",
+        "size": 119735204
+      },
+      "collection_key": "killing-eve-201",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 35,
+          "cache_members": 2367,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-05-12",
+          "sample_span_days": 35,
+          "sample_start": "2019-04-08",
+          "torrent_indices": 70
+        },
+        "required_collection_key": "killing-eve-201",
+        "required_day_products": 35,
+        "required_sample_days": 35,
+        "required_sample_end": "2019-05-12",
+        "required_sample_start": "2019-04-08",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Killing Eve",
+        "metadata_version": "2025-11-22",
+        "sample_days": 35,
+        "sample_end": "2019-05-12",
+        "sample_start": "2019-04-08",
+        "sha256": "beb0f4026a64ca5aed253974a835a31d93829866e59f893999cd363e18ab07eb",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/killing-eve-201.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190505.tar.xz",
+            "size": 197628112
+          },
+          {
+            "filename": "cache.20190512.tar.xz",
+            "size": 119735204
+          }
+        ],
+        "expected_filename_date": "20190512"
+      }
+    },
+    {
+      "archive": {
         "filename": "cache.20190721.tar.xz",
         "filename_date": "20190721",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/killing-eve-208.cache/cache.20190721.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/killing-eve-208.cache/cache.20190721.tar.xz",
         "sha256": "c36895fc33479bdc5d09f2d26a2b10f964332cf1406e28c68b950b3a4f4f94e4",
         "size": 309545304
       },
@@ -1087,7 +1396,7 @@
       "archive": {
         "filename": "cache.20200207.tar.xz",
         "filename_date": "20200207",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/kurulus-osman-01.cache/cache.20200207.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/kurulus-osman-01.cache/cache.20200207.tar.xz",
         "sha256": "f9c09254dfffb602300b5c0f779be11522a8f38a4e29ca408276ea4171e74490",
         "size": 4582740
       },
@@ -1166,7 +1475,7 @@
       "archive": {
         "filename": "cache.20190516.tar.xz",
         "filename_date": "20190516",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/love-death-robots-01.cache/cache.20190516.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/love-death-robots-01.cache/cache.20190516.tar.xz",
         "sha256": "e129248101db37d4974f964e1c4d861ebc48b205a5f32df180f7060d4d13b541",
         "size": 1831675516
       },
@@ -1227,7 +1536,7 @@
       "archive": {
         "filename": "cache.20191223.tar.xz",
         "filename_date": "20191223",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/mandalorian-101.cache/cache.20191223.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/mandalorian-101.cache/cache.20191223.tar.xz",
         "sha256": "380cb2fa6997c17dec9eca44a1f3feca98c7ccd225d7842ac787801300cfb1f2",
         "size": 1936565484
       },
@@ -1288,7 +1597,7 @@
       "archive": {
         "filename": "cache.20200102.tar.xz",
         "filename_date": "20200102",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/mandalorian-102.cache/cache.20200102.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/mandalorian-102.cache/cache.20200102.tar.xz",
         "sha256": "4e6b22b9b580d24b10b0c345a54d5a5bd5a395b48a675d12813420303105f061",
         "size": 2677548472
       },
@@ -1349,7 +1658,7 @@
       "archive": {
         "filename": "cache.20200625.tar.xz",
         "filename_date": "20200625",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/mandalorian-108.cache/cache.20200625.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/mandalorian-108.cache/cache.20200625.tar.xz",
         "sha256": "1aa39ac3fb8b214200e28eb9776b5593a26053a0bbf6874c9c87b9b374ccdd66",
         "size": 7012934200
       },
@@ -1418,7 +1727,7 @@
       "archive": {
         "filename": "cache.20200213.tar.xz",
         "filename_date": "20200213",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/marvelous-mrs-maisel-03.cache/cache.20200213.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/marvelous-mrs-maisel-03.cache/cache.20200213.tar.xz",
         "sha256": "371dec1eb32044e67d46351c652fef679f6c0c95736320ed9f13ed0b2242f7c2",
         "size": 417325484
       },
@@ -1487,7 +1796,7 @@
       "archive": {
         "filename": "cache.20190519.tar.xz",
         "filename_date": "20190519",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/oa-02.cache/cache.20190519.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/oa-02.cache/cache.20190519.tar.xz",
         "sha256": "9054253b09b0708b3767a8e507d51b4b0b0bb83930be3ee10fa05db7e74e2863",
         "size": 972995144
       },
@@ -1548,7 +1857,7 @@
       "archive": {
         "filename": "cache.20191003.tar.xz",
         "filename_date": "20191003",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/orange-is-the-new-black-07.cache/cache.20191003.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/orange-is-the-new-black-07.cache/cache.20191003.tar.xz",
         "sha256": "720e8e127d48c290b120fe5c9bbad62c1c9d1688ea12ab7a6813f00b9ec0f4d4",
         "size": 486728468
       },
@@ -1627,9 +1936,70 @@
     },
     {
       "archive": {
+        "filename": "cache.20190228.tar.xz",
+        "filename_date": "20190228",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/orville-206.cache/cache.20190228.tar.xz",
+        "sha256": "5d4d320bfbda678459bbab058e4f6c7a0618737dd30d1bf2f5c6266ad62a8e48",
+        "size": 111245084
+      },
+      "collection_key": "orville-206",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 28,
+          "cache_members": 1567,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-02-28",
+          "sample_span_days": 28,
+          "sample_start": "2019-02-01",
+          "torrent_indices": 62
+        },
+        "required_collection_key": "orville-206",
+        "required_day_products": 28,
+        "required_sample_days": 28,
+        "required_sample_end": "2019-02-28",
+        "required_sample_start": "2019-02-01",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "The Orville",
+        "metadata_version": "2025-11-22",
+        "sample_days": 28,
+        "sample_end": "2019-02-28",
+        "sample_start": "2019-02-01",
+        "sha256": "960892aa972c88ca82cc72e19aca8a54305e99a0b7566b63171c614293b969e4",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/orville-206.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190228.tar.xz",
+            "size": 111245084
+          }
+        ],
+        "expected_filename_date": "20190228"
+      }
+    },
+    {
+      "archive": {
         "filename": "cache.20190613.tar.xz",
         "filename_date": "20190613",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/orville-214.cache/cache.20190613.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/orville-214.cache/cache.20190613.tar.xz",
         "sha256": "5ad23c3b2cdb61cfb0c51369cceefcdaa84212e670cfc8ad3cf60ab88e135d17",
         "size": 753869192
       },
@@ -1688,9 +2058,131 @@
     },
     {
       "archive": {
+        "filename": "cache.20191210.tar.xz",
+        "filename_date": "20191210",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/permanent-record.cache/cache.20191210.tar.xz",
+        "sha256": "d3d0f46a425f6f2486cf21fedd8d5b6ce9dca81bfbed6573b0af2b85c87cdb59",
+        "size": 32549252
+      },
+      "collection_key": "permanent-record",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 84,
+          "cache_members": 366,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-12-10",
+          "sample_span_days": 84,
+          "sample_start": "2019-09-18",
+          "torrent_indices": 5
+        },
+        "required_collection_key": "permanent-record",
+        "required_day_products": 84,
+        "required_sample_days": 84,
+        "required_sample_end": "2019-12-10",
+        "required_sample_start": "2019-09-18",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "Permanent Record",
+        "metadata_version": "2025-11-22",
+        "sample_days": 84,
+        "sample_end": "2019-12-10",
+        "sample_start": "2019-09-18",
+        "sha256": "6cbc58795a175769a28ed1ae84809952c1fa23463735d676f43690a5b74c1455",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/permanent-record.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20191210.tar.xz",
+            "size": 32549252
+          }
+        ],
+        "expected_filename_date": "20191210"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20190829.tar.xz",
+        "filename_date": "20190829",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/queen-of-the-south-407.cache/cache.20190829.tar.xz",
+        "sha256": "206225cb8fc56f3418bfbb30704eb3bab7bd377e5caec80862f75b10809d0a31",
+        "size": 325207612
+      },
+      "collection_key": "queen-of-the-south-407",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 42,
+          "cache_members": 2556,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-08-29",
+          "sample_span_days": 42,
+          "sample_start": "2019-07-19",
+          "torrent_indices": 62
+        },
+        "required_collection_key": "queen-of-the-south-407",
+        "required_day_products": 42,
+        "required_sample_days": 42,
+        "required_sample_end": "2019-08-29",
+        "required_sample_start": "2019-07-19",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "4",
+        "collection_name": "Queen of the South",
+        "metadata_version": "2025-11-22",
+        "sample_days": 42,
+        "sample_end": "2019-08-29",
+        "sample_start": "2019-07-19",
+        "sha256": "ea280ef11709ee2e2e3157388ef60ef5b090fe75f5f64d7e18d21a1ae1d8e62a",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/queen-of-the-south-407.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190829.tar.xz",
+            "size": 325207612
+          }
+        ],
+        "expected_filename_date": "20190829"
+      }
+    },
+    {
+      "archive": {
         "filename": "cache.20191107.tar.xz",
         "filename_date": "20191107",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/queen-of-the-south-413.cache/cache.20191107.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/queen-of-the-south-413.cache/cache.20191107.tar.xz",
         "sha256": "e0598a68a1c66a752ef4698d8c650cbe65c67d71e25cf90e008c76456a0642ea",
         "size": 470048416
       },
@@ -1751,7 +2243,7 @@
       "archive": {
         "filename": "cache.20190926.tar.xz",
         "filename_date": "20190926",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/queer-eye-2018-04.cache/cache.20190926.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/queer-eye-2018-04.cache/cache.20190926.tar.xz",
         "sha256": "da2c452dec6fb7c24ab4ba91cffa73aa6ce87deb5431d799fb9c1741fe7e7f68",
         "size": 337195132
       },
@@ -1812,7 +2304,7 @@
       "archive": {
         "filename": "cache.20191216.tar.xz",
         "filename_date": "20191216",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/she-ra-04.cache/cache.20191216.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/she-ra-04.cache/cache.20191216.tar.xz",
         "sha256": "abcff7b1ab2d985f28523d8fefb670e6cf2d4886fc5cc8ac8f589d1aa1c54652",
         "size": 19864948
       },
@@ -1873,7 +2365,7 @@
       "archive": {
         "filename": "cache.20190214.tar.xz",
         "filename_date": "20190214",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/star-trek-discovery-201.cache/cache.20190214.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-201.cache/cache.20190214.tar.xz",
         "sha256": "66acd1187b1177ffe62b106dc1541d4f973a14406e8996c27ff716644cfb18be",
         "size": 313292520
       },
@@ -1932,9 +2424,70 @@
     },
     {
       "archive": {
+        "filename": "cache.20190321.tar.xz",
+        "filename_date": "20190321",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-206.cache/cache.20190321.tar.xz",
+        "sha256": "ac2a12e0309fd08ea410a0eb508d0591705d2e2e4642a3f1d922011c43beb8c9",
+        "size": 107485656
+      },
+      "collection_key": "star-trek-discovery-206",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 28,
+          "cache_members": 1375,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-03-21",
+          "sample_span_days": 28,
+          "sample_start": "2019-02-22",
+          "torrent_indices": 51
+        },
+        "required_collection_key": "star-trek-discovery-206",
+        "required_day_products": 28,
+        "required_sample_days": 28,
+        "required_sample_end": "2019-03-21",
+        "required_sample_start": "2019-02-22",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Star Trek: Discovery",
+        "metadata_version": "2025-11-22",
+        "sample_days": 28,
+        "sample_end": "2019-03-21",
+        "sample_start": "2019-02-22",
+        "sha256": "3f38d8de878ebfdf8fdaf261c5652df2d5bac47201e3efded7a11d501ad63f0d",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/star-trek-discovery-206.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190321.tar.xz",
+            "size": 107485656
+          }
+        ],
+        "expected_filename_date": "20190321"
+      }
+    },
+    {
+      "archive": {
         "filename": "cache.20190606.tar.xz",
         "filename_date": "20190606",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/star-trek-discovery-214.cache/cache.20190606.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-214.cache/cache.20190606.tar.xz",
         "sha256": "23b2c977f5a180066fee84f44f02a8ba2da9bb935b225bd82736ac1082c18c49",
         "size": 626065544
       },
@@ -1995,7 +2548,7 @@
       "archive": {
         "filename": "cache.20190925.tar.xz",
         "filename_date": "20190925",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/stranger-things-03.cache/cache.20190925.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/stranger-things-03.cache/cache.20190925.tar.xz",
         "sha256": "877e84e8f521422f38dd434fa6b7b6a93a0fa06344d322fd0025755d4a64be2e",
         "size": 3639834208
       },
@@ -2064,9 +2617,70 @@
     },
     {
       "archive": {
+        "filename": "cache.20191117.tar.xz",
+        "filename_date": "20191117",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/succession-210.cache/cache.20191117.tar.xz",
+        "sha256": "e2346de34ec0fb66e352d3831d1e71281e09e5d2a5394ccc2c13db56167452f3",
+        "size": 105771896
+      },
+      "collection_key": "succession-210",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 35,
+          "cache_members": 2223,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-11-17",
+          "sample_span_days": 35,
+          "sample_start": "2019-10-14",
+          "torrent_indices": 67
+        },
+        "required_collection_key": "succession-210",
+        "required_day_products": 35,
+        "required_sample_days": 35,
+        "required_sample_end": "2019-11-17",
+        "required_sample_start": "2019-10-14",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Succession",
+        "metadata_version": "2025-11-22",
+        "sample_days": 35,
+        "sample_end": "2019-11-17",
+        "sample_start": "2019-10-14",
+        "sha256": "189cdfa3f444ed1e8dc556518d5231fdc5e2650c413bf71ac220be4111a5b24c",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/succession-210.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20191117.tar.xz",
+            "size": 105771896
+          }
+        ],
+        "expected_filename_date": "20191117"
+      }
+    },
+    {
+      "archive": {
         "filename": "cache.20190815.tar.xz",
         "filename_date": "20190815",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/tales-of-the-city-2019.cache/cache.20190815.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/tales-of-the-city-2019.cache/cache.20190815.tar.xz",
         "sha256": "9155c0d5850841b7450e42e47b8c010cd277e2cc39ced44ab2f98453337dd5cc",
         "size": 330768800
       },
@@ -2125,9 +2739,70 @@
     },
     {
       "archive": {
+        "filename": "cache.20190210.tar.xz",
+        "filename_date": "20190210",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/true-detective-301.cache/cache.20190210.tar.xz",
+        "sha256": "d85732ac93b5ab6ba91ab6924206aecb9f60a649543aa3d32007b7f2fc3d1fca",
+        "size": 313521444
+      },
+      "collection_key": "true-detective-301",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 28,
+          "cache_members": 3090,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-02-10",
+          "sample_span_days": 28,
+          "sample_start": "2019-01-14",
+          "torrent_indices": 132
+        },
+        "required_collection_key": "true-detective-301",
+        "required_day_products": 28,
+        "required_sample_days": 28,
+        "required_sample_end": "2019-02-10",
+        "required_sample_start": "2019-01-14",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "3",
+        "collection_name": "True Detective",
+        "metadata_version": "2025-11-22",
+        "sample_days": 28,
+        "sample_end": "2019-02-10",
+        "sample_start": "2019-01-14",
+        "sha256": "df6f3ccf4ce121f4c9a7a4475a5d44700b7c257031ec21af8a088498e269f76b",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/true-detective-301.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190210.tar.xz",
+            "size": 313521444
+          }
+        ],
+        "expected_filename_date": "20190210"
+      }
+    },
+    {
+      "archive": {
         "filename": "cache.20190414.tar.xz",
         "filename_date": "20190414",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/true-detective-308.cache/cache.20190414.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/true-detective-308.cache/cache.20190414.tar.xz",
         "sha256": "f4bc8145fcc221977abfd740926f8a6c539e49bc1b0be2ed6297980bede20918",
         "size": 1715051364
       },
@@ -2188,7 +2863,7 @@
       "archive": {
         "filename": "cache.20190411.tar.xz",
         "filename_date": "20190411",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/umbrella-academy-01.cache/cache.20190411.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/umbrella-academy-01.cache/cache.20190411.tar.xz",
         "sha256": "4eb0a69de93c3b5df78f64373f02732f19f417d56184d092b7281e94a294c295",
         "size": 1031728280
       },
@@ -2249,7 +2924,7 @@
       "archive": {
         "filename": "cache.20191121.tar.xz",
         "filename_date": "20191121",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/undone-01.cache/cache.20191121.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/undone-01.cache/cache.20191121.tar.xz",
         "sha256": "0545d691b201a65f3f4f8577402123918a5195edcde780549382c0cb68f72b70",
         "size": 557426632
       },
@@ -2310,7 +2985,7 @@
       "archive": {
         "filename": "cache.20200112.tar.xz",
         "filename_date": "20200112",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/walking-dead-1008.cache/cache.20200112.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-1008.cache/cache.20200112.tar.xz",
         "sha256": "a68ecbdb40ebb62a68c0799a4dd4d7af57ced524b9ac27b52f87457f260d62f5",
         "size": 523201396
       },
@@ -2379,7 +3054,7 @@
       "archive": {
         "filename": "cache.20190519.tar.xz",
         "filename_date": "20190519",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/walking-dead-916.cache/cache.20190519.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/walking-dead-916.cache/cache.20190519.tar.xz",
         "sha256": "bf695ed76599822c98fca598333b2cd1c49c5b65bddf44bd75ea0fe8b0d5d430",
         "size": 1564601700
       },
@@ -2440,7 +3115,7 @@
       "archive": {
         "filename": "cache.20191215.tar.xz",
         "filename_date": "20191215",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/watchmen-104.cache/cache.20191215.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/watchmen-104.cache/cache.20191215.tar.xz",
         "sha256": "5974cab8fb5f13ff564006763645997549ae692e742ef3fa948cbdadff7635e6",
         "size": 755715296
       },
@@ -2501,7 +3176,7 @@
       "archive": {
         "filename": "cache.20200223.tar.xz",
         "filename_date": "20200223",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/watchmen-109.cache/cache.20200223.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/watchmen-109.cache/cache.20200223.tar.xz",
         "sha256": "f306eb426240d8284a2739811b7bc7dd413ceda0c5acdf0090f0d4ed522ca88d",
         "size": 584950016
       },
@@ -2562,7 +3237,7 @@
       "archive": {
         "filename": "cache.20191016.tar.xz",
         "filename_date": "20191016",
-        "path": "/run/media/bkoz/gold/src/alpha60-samples-cache.gold/wu-assassins-01.cache/cache.20191016.tar.xz",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/wu-assassins-01.cache/cache.20191016.tar.xz",
         "sha256": "b617c5b60bee2135cb32852be2e828312995270dbafce499b73269c0023bc105",
         "size": 892919276
       },
@@ -2617,6 +3292,67 @@
           }
         ],
         "expected_filename_date": "20191016"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20190831.tar.xz",
+        "filename_date": "20190831",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/yellowstone-210.cache/cache.20190831.tar.xz",
+        "sha256": "6b2fa864b4af07b6ea8d813d094d2327eff17b7aab73d0667521499d1cc0ec3b",
+        "size": 16313672
+      },
+      "collection_key": "yellowstone-210",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 3,
+          "cache_members": 134,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-08-31",
+          "sample_span_days": 3,
+          "sample_start": "2019-08-29",
+          "torrent_indices": 45
+        },
+        "required_collection_key": "yellowstone-210",
+        "required_day_products": 3,
+        "required_sample_days": 3,
+        "required_sample_end": "2019-08-31",
+        "required_sample_start": "2019-08-29",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "Yellowstone",
+        "metadata_version": "2025-11-22",
+        "sample_days": 3,
+        "sample_end": "2019-08-31",
+        "sample_start": "2019-08-29",
+        "sha256": "4d1cd0780766296d5890cda06360a96bf2d6f9af909f29d27b3dbefb1fe6e928",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/yellowstone-210.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190831.tar.xz",
+            "size": 16313672
+          }
+        ],
+        "expected_filename_date": "20190831"
       }
     }
   ],
