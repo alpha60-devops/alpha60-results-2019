@@ -1,0 +1,291 @@
+{
+  "schema": "alpha60-year-media-object-metadata-readiness/1",
+  "year": "2019",
+  "inventory": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-0-media-objects.txt",
+  "metadata_directory": "/home/bkoz/src/alpha60-swarm-metadata/metadata",
+  "approved_empty_collection_ids": [
+    "dolemite-is-my-name",
+    "high-flying-bird",
+    "permanent-record"
+  ],
+  "approved_not_applicable_identity_ids": [
+    "ferhat-ile-sirin"
+  ],
+  "status": "pass",
+  "counts": {
+    "inventory_entries": 53,
+    "unique_keys": 53,
+    "ready_records": 53,
+    "error_records": 0,
+    "errors": 0
+  },
+  "inventory_issues": [],
+  "duplicate_keys": [],
+  "records": [
+    {
+      "collection_key": "bachelors-23-and-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "big-bang-theory-1223",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "big-little-lies-201",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "big-little-lies-207",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "black-monday-106",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "black-monday-110",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "cobra-kai-02",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "doctor-who-1200",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "dolemite-is-my-name",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-04",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "ferhat-ile-sirin",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "game-of-thrones-801",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "game-of-thrones-803",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "game-of-thrones-806",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "glow-03",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-301",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-310",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "high-flying-bird",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "i-am-the-night-103",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "i-am-the-night-106",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "killing-eve-201",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "killing-eve-208",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "kurulus-osman-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "love-death-robots-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "mandalorian-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "mandalorian-102",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "mandalorian-108",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "marvelous-mrs-maisel-03",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "oa-02",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "orange-is-the-new-black-07",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "orville-206",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "orville-214",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "permanent-record",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "queen-of-the-south-407",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "queen-of-the-south-413",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "queer-eye-2018-04",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "she-ra-04",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "star-trek-discovery-201",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "star-trek-discovery-206",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "star-trek-discovery-214",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "stranger-things-03",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "succession-210",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "tales-of-the-city-2019",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "true-detective-301",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "true-detective-308",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "umbrella-academy-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "undone-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-1008",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "walking-dead-916",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "watchmen-104",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "watchmen-109",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "wu-assassins-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "yellowstone-210",
+      "status": "ready",
+      "issues": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "archive_verification": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/archive-verification.json",
+    "sha256": "4037ff50ed948229670b973b2ef728040f363eace6c88555aabfcdbdac056579",
+    "size": 16200
+  },
+  "counts": {
+    "errors": 0,
+    "passed": 1,
+    "records": 1
+  },
+  "executor": "eureka",
+  "finished_at": "2026-09-07T04:33:12.409067+00:00",
+  "owner": "eureka",
+  "records": [
+    {
+      "archive": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/permanent-record.cache/cache.20191210.tar.xz",
+      "collection_key": "permanent-record",
+      "executor": "eureka",
+      "finished_at": "2026-09-07T04:33:12.408699+00:00",
+      "owner": "eureka",
+      "started_at": "2026-09-07T04:33:11.126598+00:00",
+      "status": "pass-existing"
+    }
+  ],
+  "schema": "alpha60-year-baseline-v2-worker-run/1",
+  "started_at": "2026-09-07T04:33:11.125789+00:00",
+  "status": "pass",
+  "stolen": false,
+  "worker_map": {
+    "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+    "sha256": "bc67aacc16174fce1c4e8c8539840f57e89809881470468557acbeb44fc2f1c8",
+    "size": 60646
+  },
+  "year": "2019"
+}
