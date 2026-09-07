@@ -1,0 +1,2872 @@
+{
+    "collection_name": "Queen Of The South",
+    "collection_id": "407",
+    "collection_key": "queen-of-the-south-407",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "4559b3e9548576a2cb792888ec5ddd944dfeb470",
+            "duplicate_0_0": "Queen-Of-The-South-S04E07-1080p-WEB-x264-TBS",
+            "duplicate_0_1": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[rarbg].4559b3e9548576a2",
+            "duplicate_0_2": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "2aff4a8014de26069bf54fdf9eab5dac2533be2a",
+            "duplicate_1_0": "Queen-Of-The-South-S04E07-1080p-WEB-x264-TBS(1)",
+            "duplicate_1_1": "Queen-Of-The-South-S04E07-1080p-WEB-x264-TBS-e1"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "79ba6078b1cbd4462f19f9805acef9bcbfa8a878",
+            "duplicate_2_0": "Queen-Of-The-South-S04E07-1080p-WEB-x264-TBS(2)",
+            "duplicate_2_1": "Queen-Of-The-South-S04E07-1080p-WEB-x264-TBS-e2"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "4565b13ba33f4f57f4148b5016deebd968c6512c",
+            "duplicate_3_0": "Queen-Of-The-South-S04E07-iNTERNAL-480p-x264-mSD",
+            "duplicate_3_1": "Queen.Of.The.South.S04E07.iNTERNAL.480p.x264-mSD[eztv].mkv"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "2bd0463fac2bcf9f12d70f59e5b64b6a5caacd90",
+            "duplicate_4_0": "Queen-of-the-South-S04E07-480p-x264-mSD",
+            "duplicate_4_1": "Queen.of.the.South.S04E07.480p.x264-mSD[eztv].mkv"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "12ad38e06352afdf8e69d36bd51ba6170001fa7e",
+            "duplicate_5_0": "Queen-of-the-South-S04E07-720p-HDTV-x264-SVA",
+            "duplicate_5_1": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[eztv].mkv"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "85825cd340a81516bb5e51b9ba47b503bbd5ca89",
+            "duplicate_6_0": "Queen-of-the-South-S04E07-720p-HDTV-x264-SVA(1)",
+            "duplicate_6_1": "Queen-of-the-South-S04E07-720p-HDTV-x264-SVA-e1",
+            "duplicate_6_2": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg].85825cd340a81516",
+            "duplicate_6_3": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "a156f435b754c7e92af241f88262487954e32d6e",
+            "duplicate_7_0": "Queen-of-the-South-S04E07-720p-HDTV-x264-SVA(2)",
+            "duplicate_7_1": "Queen-of-the-South-S04E07-720p-HDTV-x264-SVA-e2"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "5c3fe2a41281a1b420cfbe9fac03f43a3b04572e",
+            "duplicate_8_0": "Queen-of-the-South-S04E07-720p-HDTV-x265-MiNX",
+            "duplicate_8_1": "Queen.of.the.South.S04E07.720p.HDTV.x265-MiNX[eztv].mkv"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "db213b69132c8b75a704d492e44e28452289ba9c",
+            "duplicate_9_0": "Queen-of-the-South-S04E07-Amores-Perros-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "duplicate_9_1": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "c20aa742f6e4489a41ca96da6a89863b36c325e9",
+            "duplicate_10_0": "Queen-of-the-South-S04E07-Amores-Perros-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "duplicate_10_1": "Queen.of.the.South.S04E07.Amores.Perros.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "47e88320bbb3f8d1b26aa76be8af1662f7855084",
+            "duplicate_11_0": "Queen-of-the-South-S04E07-WEB-x264-PHOENiX",
+            "duplicate_11_1": "Queen.of.the.South.S04E07.WEB.x264-PHOENiX[eztv].mkv"
+        },
+        {
+            "duplicate_id": 12,
+            "duplicate_btih": "6de44005c168ec3ad98f11c36073709c08cffc03",
+            "duplicate_12_0": "Queen-of-the-South-S04E07-WEBRip-x264-ION10",
+            "duplicate_12_1": "Queen.of.the.South.S04E07.WEBRip.x264-ION10-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 13,
+            "duplicate_btih": "287dd1e8a58b042a4bce1b41396384de8bdc0d4f",
+            "duplicate_13_0": "[rutor.is]Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Stu",
+            "duplicate_13_1": "Queen-Of-The-South-S04-1080p-WEBRip-TUMBLER-Studio"
+        },
+        {
+            "duplicate_id": 14,
+            "duplicate_btih": "5ad3c50851b318f3f10beb7224c2533fca587e9e",
+            "duplicate_14_0": "[rutor.is]Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Stud",
+            "duplicate_14_1": "Queen-Of-The-South-S04-400p-WEBRip-TUMBLER-Studio"
+        },
+        {
+            "duplicate_id": 15,
+            "duplicate_btih": "1491ccc8e78e751803d1af11be6adea741f418e9",
+            "duplicate_15_0": "[rutor.is]Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Stud",
+            "duplicate_15_1": "Queen-Of-The-South-S04-720p-WEBRip-TUMBLER-Studio"
+        },
+        {
+            "duplicate_id": 16,
+            "duplicate_btih": "ac3ea0c4c3775797e318256264e17636f3ce6706",
+            "duplicate_16_0": "queen-of-the-south-s04e07-internal-720p-web-x264-bamboozle",
+            "duplicate_16_1": "queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle[eztv].mkv"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[rutor.is]Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Stu",
+            "size_total": 14.682759579,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.355034563,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E07.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.875987784,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E02.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.846953323,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E03.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.856727867,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E04.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.87095935,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E05.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.895649897,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E06.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.981446795,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E01.1080p.WEBRip.TUMBLER.Studio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Stud",
+            "size_total": 4.206993408,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.627785728,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E01.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.599590912,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E02.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.598638592,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E03.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.588695552,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E04.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.5935104,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E05.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.599580672,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E06.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.599191552,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E07.400p.WEBRip.TUMBLER.Studio.avi"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Stud",
+            "size_total": 6.746755687,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.205960542,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E07.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.01614529,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E02.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.81959674,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E03.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.919466027,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E04.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.917053442,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E05.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.867670854,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E06.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.000862792,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E01.720p.WEBRip.TUMBLER.Studio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Queen-Of-The-South-S04-1080p-WEBRip-TUMBLER-Studio",
+            "size_total": 14.682759579,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.355034563,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E07.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.875987784,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E02.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.846953323,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E03.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.856727867,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E04.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.87095935,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E05.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.895649897,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E06.1080p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.981446795,
+                    "path": "Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E01.1080p.WEBRip.TUMBLER.Studio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Queen-Of-The-South-S04-400p-WEBRip-TUMBLER-Studio",
+            "size_total": 4.206993408,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.627785728,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E01.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.599590912,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E02.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.598638592,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E03.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.588695552,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E04.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.5935104,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E05.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.599580672,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E06.400p.WEBRip.TUMBLER.Studio.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.599191552,
+                    "path": "Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E07.400p.WEBRip.TUMBLER.Studio.avi"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Queen-Of-The-South-S04-720p-WEBRip-TUMBLER-Studio",
+            "size_total": 6.746755687,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.205960542,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E07.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.01614529,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E02.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.81959674,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E03.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.919466027,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E04.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.917053442,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E05.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.867670854,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E06.720p.WEBRip.TUMBLER.Studio.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.000862792,
+                    "path": "Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Studio/Queen.Of.The.South.S04E01.720p.WEBRip.TUMBLER.Studio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Queen-Of-The-South-S04E07-1080p-HEVC-x265-MeGusta",
+            "size_total": 0.347700706,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.322302785,
+                    "path": "www.SceneTime.com - Queen Of The South S04E07 1080p HEVC x265-MeGusta/Queen.Of.The.South.S04E07.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001146,
+                    "path": "www.SceneTime.com - Queen Of The South S04E07 1080p HEVC x265-MeGusta/Queen.Of.The.South.S04E07.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.009586149,
+                    "path": "www.SceneTime.com - Queen Of The South S04E07 1080p HEVC x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.008986302,
+                    "path": "www.SceneTime.com - Queen Of The South S04E07 1080p HEVC x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.006824223,
+                    "path": "www.SceneTime.com - Queen Of The South S04E07 1080p HEVC x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 1.01e-7,
+                    "path": "www.SceneTime.com - Queen Of The South S04E07 1080p HEVC x265-MeGusta/www.SceneTime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Queen-Of-The-South-S04E07-1080p-WEB-x264-TBS(1)",
+            "size_total": 1.304771229,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.3042093830000001,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 1080p WEB x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001124,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 1080p WEB x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000081903,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 1080p WEB x264-TBS/Screens/screen0001.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00010167,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 1080p WEB x264-TBS/Screens/screen0002.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000105749,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 1080p WEB x264-TBS/Screens/screen0003.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000139692,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 1080p WEB x264-TBS/Screens/screen0004.jpg"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000131622,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 1080p WEB x264-TBS/Screens/screen0005.jpg"
+                },
+                {
+                    "number": 8,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 1080p WEB x264-TBS/Torrent Downloaded From www.torrenting.org.txt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Queen-Of-The-South-S04E07-1080p-WEB-x264-TBS(2)",
+            "size_total": 1.311492725,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001470973,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001416283,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001971283,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002424058,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.89e-7,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 1.3042093830000001,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[TGx]/queen.of.the.south.s04e07.1080p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 5.6e-8,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[TGx]/queen.of.the.south.s04e07.1080p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Queen-Of-The-South-S04E07-1080p-WEB-x264-TBS-e1",
+            "size_total": 1.304771229,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.3042093830000001,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 1080p WEB x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001124,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 1080p WEB x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000081903,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 1080p WEB x264-TBS/Screens/screen0001.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00010167,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 1080p WEB x264-TBS/Screens/screen0002.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000105749,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 1080p WEB x264-TBS/Screens/screen0003.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000139692,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 1080p WEB x264-TBS/Screens/screen0004.jpg"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000131622,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 1080p WEB x264-TBS/Screens/screen0005.jpg"
+                },
+                {
+                    "number": 8,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 1080p WEB x264-TBS/Torrent Downloaded From www.torrenting.org.txt"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Queen-Of-The-South-S04E07-1080p-WEB-x264-TBS-e2",
+            "size_total": 1.311492725,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001470973,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001416283,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001971283,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002424058,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.89e-7,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 1.3042093830000001,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[TGx]/queen.of.the.south.s04e07.1080p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 5.6e-8,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[TGx]/queen.of.the.south.s04e07.1080p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Queen-Of-The-South-S04E07-1080p-WEB-x264-TBS",
+            "size_total": 1.304209568,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.3042093830000001,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[rarbg]/queen.of.the.south.s04e07.1080p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 5.6e-8,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[rarbg]/queen.of.the.south.s04e07.1080p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Queen-of-the-South-S04E07-480p-x264-mSD",
+            "size_total": 0.159091089,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.159091089,
+                    "path": "Queen.of.the.South.S04E07.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Queen-of-the-South-S04E07-720p-HDTV-x264-SVA(1)",
+            "size_total": 1.006778327,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.006773752,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg]/Queen.of.the.South.S04E07.720p.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000004446,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg]/queen.of.the.south.s04e07.720p.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Queen-of-the-South-S04E07-720p-HDTV-x264-SVA(2)",
+            "size_total": 1.007091691,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.006773752,
+                    "path": "www.Torrenting.org - Queen of the South S04E07 720p HDTV x264-SVA/Queen.of.the.South.S04E07.720p.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001134,
+                    "path": "www.Torrenting.org - Queen of the South S04E07 720p HDTV x264-SVA/Queen.of.the.South.S04E07.720p.HDTV.x264-SVA.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000030415,
+                    "path": "www.Torrenting.org - Queen of the South S04E07 720p HDTV x264-SVA/Screens/screen0001.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000046206,
+                    "path": "www.Torrenting.org - Queen of the South S04E07 720p HDTV x264-SVA/Screens/screen0002.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000046535,
+                    "path": "www.Torrenting.org - Queen of the South S04E07 720p HDTV x264-SVA/Screens/screen0003.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000131041,
+                    "path": "www.Torrenting.org - Queen of the South S04E07 720p HDTV x264-SVA/Screens/screen0004.jpg"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000062522,
+                    "path": "www.Torrenting.org - Queen of the South S04E07 720p HDTV x264-SVA/Screens/screen0005.jpg"
+                },
+                {
+                    "number": 8,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.org - Queen of the South S04E07 720p HDTV x264-SVA/Torrent Downloaded From www.torrenting.org.txt"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Queen-of-the-South-S04E07-720p-HDTV-x264-SVA-e1",
+            "size_total": 1.006778327,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.006773752,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg]/Queen.of.the.South.S04E07.720p.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000004446,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg]/queen.of.the.south.s04e07.720p.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Queen-of-the-South-S04E07-720p-HDTV-x264-SVA-e2",
+            "size_total": 1.007091691,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.006773752,
+                    "path": "www.Torrenting.org - Queen of the South S04E07 720p HDTV x264-SVA/Queen.of.the.South.S04E07.720p.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001134,
+                    "path": "www.Torrenting.org - Queen of the South S04E07 720p HDTV x264-SVA/Queen.of.the.South.S04E07.720p.HDTV.x264-SVA.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000030415,
+                    "path": "www.Torrenting.org - Queen of the South S04E07 720p HDTV x264-SVA/Screens/screen0001.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000046206,
+                    "path": "www.Torrenting.org - Queen of the South S04E07 720p HDTV x264-SVA/Screens/screen0002.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000046535,
+                    "path": "www.Torrenting.org - Queen of the South S04E07 720p HDTV x264-SVA/Screens/screen0003.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000131041,
+                    "path": "www.Torrenting.org - Queen of the South S04E07 720p HDTV x264-SVA/Screens/screen0004.jpg"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000062522,
+                    "path": "www.Torrenting.org - Queen of the South S04E07 720p HDTV x264-SVA/Screens/screen0005.jpg"
+                },
+                {
+                    "number": 8,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.org - Queen of the South S04E07 720p HDTV x264-SVA/Torrent Downloaded From www.torrenting.org.txt"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Queen-of-the-South-S04E07-720p-HDTV-x264-SVA",
+            "size_total": 1.006773752,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.006773752,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Queen-of-the-South-S04E07-720p-HDTV-x264-SVA[ettv]",
+            "size_total": 1.006773937,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.85e-7,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[ettv]/Downloaded from www.ettv.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.006773752,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[ettv]/Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Queen-of-the-South-S04E07-720p-HDTV-x264-SVA[TGx]",
+            "size_total": 1.010142775,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.006773752,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[TGx]/Queen.of.the.South.S04E07.720p.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000370291,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000739451,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000740732,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001513414,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 6,
+                    "size": 6.89e-7,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000004446,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[TGx]/queen.of.the.south.s04e07.720p.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Queen-of-the-South-S04E07-720p-HDTV-x265-MiNX",
+            "size_total": 0.201524466,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.201524466,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Queen-of-the-South-S04E07-720p-HDTV-x265-MiNX[TGx]",
+            "size_total": 0.201525155,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.201524466,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x265-MiNX[TGx]/Queen.of.the.South.S04E07.720p.HDTV.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.89e-7,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Queen-of-the-South-S04E07-720p-HEVC-x265-MeGusta",
+            "size_total": 0.307993979,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.297742408,
+                    "path": "www.SceneTime.com - Queen of the South S04E07 720p HEVC x265-MeGusta/Queen.of.the.South.S04E07.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001146,
+                    "path": "www.SceneTime.com - Queen of the South S04E07 720p HEVC x265-MeGusta/Queen.of.the.South.S04E07.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.004537417,
+                    "path": "www.SceneTime.com - Queen of the South S04E07 720p HEVC x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.004181565,
+                    "path": "www.SceneTime.com - Queen of the South S04E07 720p HEVC x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001531342,
+                    "path": "www.SceneTime.com - Queen of the South S04E07 720p HEVC x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 1.01e-7,
+                    "path": "www.SceneTime.com - Queen of the South S04E07 720p HEVC x265-MeGusta/www.SceneTime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Queen-of-the-South-S04E07-Amores-Perros-1080p-AMZN-WEB-DL-DDP5-1-H-264-NTb",
+            "size_total": 3.241528845,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.233420975,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001602,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000865796,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002491691,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001617366,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.003130726,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 6.89e-7,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Queen-of-the-South-S04E07-Amores-Perros-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "size_total": 3.233421104,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.233420975,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Queen-of-the-South-S04E07-Amores-Perros-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "size_total": 1.754560343,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.754560214,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Queen.of.the.South.S04E07.Amores.Perros.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Queen-Of-The-South-S04E07-iNTERNAL-480p-x264-mSD",
+            "size_total": 0.167829662,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.167829662,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Queen-Of-The-South-S04E07-iNTERNAL-720p-HEVC-x265-MeGusta",
+            "size_total": 0.229589068,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.217684562,
+                    "path": "www.SceneTime.com - Queen Of The South S04E07 iNTERNAL 720p HEVC x265-MeGusta/Queen.Of.The.South.S04E07.iNTERNAL.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001159,
+                    "path": "www.SceneTime.com - Queen Of The South S04E07 iNTERNAL 720p HEVC x265-MeGusta/Queen.Of.The.South.S04E07.iNTERNAL.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.004413756,
+                    "path": "www.SceneTime.com - Queen Of The South S04E07 iNTERNAL 720p HEVC x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.004124947,
+                    "path": "www.SceneTime.com - Queen Of The South S04E07 iNTERNAL 720p HEVC x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.003364543,
+                    "path": "www.SceneTime.com - Queen Of The South S04E07 iNTERNAL 720p HEVC x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 1.01e-7,
+                    "path": "www.SceneTime.com - Queen Of The South S04E07 iNTERNAL 720p HEVC x265-MeGusta/www.SceneTime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Queen-Of-The-South-S04E07-iNTERNAL-720p-WEB-x264-BAMBOOZLE(1)",
+            "size_total": 0.830125703,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.829827446,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 iNTERNAL 720p WEB x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001137,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 iNTERNAL 720p WEB x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000042296,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 iNTERNAL 720p WEB x264-BAMBOOZLE/Screens/screen0001.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000052653,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 iNTERNAL 720p WEB x264-BAMBOOZLE/Screens/screen0002.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000055974,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 iNTERNAL 720p WEB x264-BAMBOOZLE/Screens/screen0003.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000075057,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 iNTERNAL 720p WEB x264-BAMBOOZLE/Screens/screen0004.jpg"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000071054,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 iNTERNAL 720p WEB x264-BAMBOOZLE/Screens/screen0005.jpg"
+                },
+                {
+                    "number": 8,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.org - Queen Of The South S04E07 iNTERNAL 720p WEB x264-BAMBOOZLE/Torrent Downloaded From www.torrenting.org.txt"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Queen-Of-The-South-S04E07-iNTERNAL-720p-WEB-x264-BAMBOOZLE",
+            "size_total": 0.829827645,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.829827446,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rarbg]/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 7e-8,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE[rarbg]/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.nfo"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "queen-of-the-south-s04e07-internal-720p-web-x264-bamboozle",
+            "size_total": 0.829827446,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.829827446,
+                    "path": "queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Queen-of-the-South-S04E07-WEB-x264-PHOENiX",
+            "size_total": 0.315738495,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.315738495,
+                    "path": "Queen.of.the.South.S04E07.WEB.x264-PHOENiX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Queen-of-the-South-S04E07-WEB-x264-PHOENiX[TGx]",
+            "size_total": 0.315739184,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.315738495,
+                    "path": "Queen.of.the.South.S04E07.WEB.x264-PHOENiX[TGx]/Queen.of.the.South.S04E07.WEB.x264-PHOENiX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.89e-7,
+                    "path": "Queen.of.the.South.S04E07.WEB.x264-PHOENiX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Queen-of-the-South-S04E07-WEBRip-x264-ION10",
+            "size_total": 0.431467407,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.43143336,
+                    "path": "Queen.of.the.South.S04E07.WEBRip.x264-ION10/Queen.of.the.South.S04E07.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E07.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E07.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000033918,
+                    "path": "Queen.of.the.South.S04E07.WEBRip.x264-ION10/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Queen-of-the-South-S04E07-XviD-AFG",
+            "size_total": 0.362182414,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.36135707,
+                    "path": "Queen.of.the.South.S04E07.XviD-AFG[TGx]/Queen.of.the.South.S04E07.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001171,
+                    "path": "Queen.of.the.South.S04E07.XviD-AFG[TGx]/Queen.of.the.South.S04E07.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00032423,
+                    "path": "Queen.of.the.South.S04E07.XviD-AFG[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000281859,
+                    "path": "Queen.of.the.South.S04E07.XviD-AFG[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.0000509,
+                    "path": "Queen.of.the.South.S04E07.XviD-AFG[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000166495,
+                    "path": "Queen.of.the.South.S04E07.XviD-AFG[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 6.89e-7,
+                    "path": "Queen.of.the.South.S04E07.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Queen.of.the.South.S04E06.WEBRip.x264-ION10.1924f96bd17fab64"
+        },
+        {
+            "id": 37,
+            "name": "Queen.Of.The.South.S04E07.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.347700605,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.322302785,
+                    "path": "Queen.Of.The.South.S04E07.1080p.HEVC.x265-MeGusta/Queen.Of.The.South.S04E07.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001146,
+                    "path": "Queen.Of.The.South.S04E07.1080p.HEVC.x265-MeGusta/Queen.Of.The.South.S04E07.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.009586149,
+                    "path": "Queen.Of.The.South.S04E07.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.008986302,
+                    "path": "Queen.Of.The.South.S04E07.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.006824223,
+                    "path": "Queen.Of.The.South.S04E07.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS [IPT]",
+            "size_total": 1.304211945,
+            "files_total": 16,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.6e-8,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.004211063,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.rar"
+                },
+                {
+                    "number": 16,
+                    "size": 8.26e-7,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS/queen.of.the.south.s04e07.1080p.web.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[rarbg].4559b3e9548576a2",
+            "size_total": 1.304209568,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.3042093830000001,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[rarbg]/queen.of.the.south.s04e07.1080p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 5.6e-8,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[rarbg]/queen.of.the.south.s04e07.1080p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.304209568,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.3042093830000001,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[rarbg]/queen.of.the.south.s04e07.1080p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 5.6e-8,
+                    "path": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS[rarbg]/queen.of.the.south.s04e07.1080p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Queen.of.the.South.S04E07.480p.x264-mSD [IPT]",
+            "size_total": 0.159883975,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.159091089,
+                    "path": "Queen.of.the.South.S04E07.480p.x264-mSD/Queen.of.the.South.S04E07.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001188,
+                    "path": "Queen.of.the.South.S04E07.480p.x264-mSD/Queen.of.the.South.S04E07.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000288523,
+                    "path": "Queen.of.the.South.S04E07.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000267807,
+                    "path": "Queen.of.the.South.S04E07.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000073127,
+                    "path": "Queen.of.the.South.S04E07.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000162241,
+                    "path": "Queen.of.the.South.S04E07.480p.x264-mSD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Queen.of.the.South.S04E07.480p.x264-mSD[eztv].mkv",
+            "size_total": 0.159091089,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.159091089,
+                    "path": "Queen.of.the.South.S04E07.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA [IPT]",
+            "size_total": 1.006781537,
+            "files_total": 23,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000004446,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.006775852,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.rar"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000001239,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA/queen.of.the.south.s04e07.720p.hdtv.x264-sva.sfv"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[eztv].mkv",
+            "size_total": 1.006773752,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.006773752,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg].85825cd340a81516",
+            "size_total": 1.006778327,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.006773752,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg]/Queen.of.the.South.S04E07.720p.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000004446,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg]/queen.of.the.south.s04e07.720p.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rartv]-[rarbg.to]",
+            "size_total": 1.006778327,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.006773752,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg]/Queen.of.the.South.S04E07.720p.HDTV.x264-SVA.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000004446,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rarbg]/queen.of.the.south.s04e07.720p.hdtv.x264-sva.nfo"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA[rartv].85825cd340a81516"
+        },
+        {
+            "id": 48,
+            "name": "Queen.of.the.South.S04E07.720p.HDTV.x265-MiNX[eztv].mkv",
+            "size_total": 0.201524466,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.201524466,
+                    "path": "Queen.of.the.South.S04E07.720p.HDTV.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Queen.of.the.South.S04E07.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.307993878,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.297742408,
+                    "path": "Queen.of.the.South.S04E07.720p.HEVC.x265-MeGusta/Queen.of.the.South.S04E07.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001146,
+                    "path": "Queen.of.the.South.S04E07.720p.HEVC.x265-MeGusta/Queen.of.the.South.S04E07.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.004537417,
+                    "path": "Queen.of.the.South.S04E07.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.004181565,
+                    "path": "Queen.of.the.South.S04E07.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001531342,
+                    "path": "Queen.of.the.South.S04E07.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Queen.of.the.South.S04E07.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.171972034,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.171243791,
+                    "path": "Queen.of.the.South.S04E07.AAC.MP4-Mobile/Queen.of.the.South.S04E07.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001237,
+                    "path": "Queen.of.the.South.S04E07.AAC.MP4-Mobile/Queen.of.the.South.S04E07.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000336149,
+                    "path": "Queen.of.the.South.S04E07.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000305383,
+                    "path": "Queen.of.the.South.S04E07.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000085474,
+                    "path": "Queen.of.the.South.S04E07.AAC.MP4-Mobile/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 3.241528156,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.233420975,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001602,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000865796,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002491691,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001617366,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.003130726,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 3.233421104,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.233420975,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Queen.of.the.South.S04E07.Amores.Perros.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.754560343,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.754560214,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Queen.of.the.South.S04E07.Amores.Perros.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E07.Amores.Perros.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Queen.Of.The.South.S04E07.iNTERNAL.480p.x264-mSD [IPT]",
+            "size_total": 0.168751244,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.167829662,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.480p.x264-mSD/Queen.Of.The.South.S04E07.iNTERNAL.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001207,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.480p.x264-mSD/Queen.Of.The.South.S04E07.iNTERNAL.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000296103,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000270962,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000179081,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000174229,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.480p.x264-mSD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Queen.Of.The.South.S04E07.iNTERNAL.480p.x264-mSD[eztv].mkv",
+            "size_total": 0.167829662,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.167829662,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Queen.Of.The.South.S04E07.iNTERNAL.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.229588967,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.217684562,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.HEVC.x265-MeGusta/Queen.Of.The.South.S04E07.iNTERNAL.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001159,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.HEVC.x265-MeGusta/Queen.Of.The.South.S04E07.iNTERNAL.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.004413756,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.004124947,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.003364543,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE [IPT]",
+            "size_total": 0.829831069,
+            "files_total": 19,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7e-8,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.029829758,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.rar"
+                },
+                {
+                    "number": 19,
+                    "size": 0.000001241,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE/queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle.sfv"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle[eztv].mkv",
+            "size_total": 0.829827446,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.829827446,
+                    "path": "queen.of.the.south.s04e07.internal.720p.web.x264-bamboozle[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Queen.Of.The.South.S04E07.iNTERNAL.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.183169807,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.182311728,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.AAC.MP4-Mobile/Queen.Of.The.South.S04E07.iNTERNAL.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001256,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.AAC.MP4-Mobile/Queen.Of.The.South.S04E07.iNTERNAL.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000339841,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000312057,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000204925,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.AAC.MP4-Mobile/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Queen.Of.The.South.S04E07.iNTERNAL.XviD-AFG [IPT]",
+            "size_total": 0.415467701,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.414469968,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.XviD-AFG/Queen.Of.The.South.S04E07.iNTERNAL.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00000119,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.XviD-AFG/Queen.Of.The.South.S04E07.iNTERNAL.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000332291,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000295255,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000198109,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000170888,
+                    "path": "Queen.Of.The.South.S04E07.iNTERNAL.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Queen.of.the.South.S04E07.WEB.x264-PHOENiX[eztv].mkv",
+            "size_total": 0.315738495,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.315738495,
+                    "path": "Queen.of.the.South.S04E07.WEB.x264-PHOENiX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Queen.of.the.South.S04E07.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.431467407,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.43143336,
+                    "path": "Queen.of.the.South.S04E07.WEBRip.x264-ION10/Queen.of.the.South.S04E07.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Queen.of.the.South.S04E07.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Queen.of.the.South.S04E07.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000033918,
+                    "path": "Queen.of.the.South.S04E07.WEBRip.x264-ION10/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Queen.of.the.South.S04E07.XviD-AFG [IPT]",
+            "size_total": 0.362181725,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.36135707,
+                    "path": "Queen.of.the.South.S04E07.XviD-AFG/Queen.of.the.South.S04E07.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001171,
+                    "path": "Queen.of.the.South.S04E07.XviD-AFG/Queen.of.the.South.S04E07.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00032423,
+                    "path": "Queen.of.the.South.S04E07.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000281859,
+                    "path": "Queen.of.the.South.S04E07.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.0000509,
+                    "path": "Queen.of.the.South.S04E07.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000166495,
+                    "path": "Queen.of.the.South.S04E07.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Королева юга Queen of the South Сезон 4 Серии 1-7 из 13 (Эдуардо Санчес, Дэвид Бойд, Дэйв Родригез) [2019, США, Испания, М [rutracker-5751258]",
+            "size_total": 4.442184653,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000056583,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000049967,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000055344,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000046827,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000049809,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00004007,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000036197,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Eng/Queen.of.the.South.S04E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.6626816,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.632909824,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.632915968,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 11,
+                    "size": 0.621420544,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 12,
+                    "size": 0.62650368,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 13,
+                    "size": 0.63290368,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 14,
+                    "size": 0.63251456,
+                    "path": "Queen of the South (Season 4) WEB-DLRip LostFilm/Queen.of.the.South.S04E07.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 33,
+            "name": "Queen-of-the-South-S04E07-WEB-x264-PHOENiX[TGx]",
+            "btih": "484cfae5269ab250d1bc176146d0ef012a320742",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.315739184,
+            "creation": "2019-07-19T03:48:14.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 145661,
+            "uuploaders": 56522
+        },
+        {
+            "id": 71,
+            "name": "multi-btih-6-4-x-Queen-of-the-South-S04E07-720p-HDTV-x264-SVA(1)",
+            "btih": "85825cd340a81516bb5e51b9ba47b503bbd5ca89",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.006778327,
+            "creation": "2019-07-19T03:14:17.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 139772,
+            "uuploaders": 18449
+        },
+        {
+            "id": 77,
+            "name": "multi-btih-12-2-x-Queen-of-the-South-S04E07-WEBRip-x264-ION10",
+            "btih": "6de44005c168ec3ad98f11c36073709c08cffc03",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.431467407,
+            "creation": "2019-07-19T13:43:36.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 134930,
+            "uuploaders": 16346
+        },
+        {
+            "id": 69,
+            "name": "multi-btih-4-2-x-Queen-of-the-South-S04E07-480p-x264-mSD",
+            "btih": "2bd0463fac2bcf9f12d70f59e5b64b6a5caacd90",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.159091089,
+            "creation": "2019-07-19T03:18:37.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 123488,
+            "uuploaders": 18238
+        },
+        {
+            "id": 70,
+            "name": "multi-btih-5-2-x-Queen-of-the-South-S04E07-720p-HDTV-x264-SVA",
+            "btih": "12ad38e06352afdf8e69d36bd51ba6170001fa7e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.006773752,
+            "creation": "2019-07-19T03:10:20.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 118089,
+            "uuploaders": 7514
+        },
+        {
+            "id": 81,
+            "name": "multi-btih-16-2-x-queen-of-the-south-s04e07-internal-720p-web-x264-bamboozle",
+            "btih": "ac3ea0c4c3775797e318256264e17636f3ce6706",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.829827446,
+            "creation": "2019-07-19T07:25:07.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 113322,
+            "uuploaders": 5712
+        },
+        {
+            "id": 65,
+            "name": "multi-btih-0-3-x-Queen-Of-The-South-S04E07-1080p-WEB-x264-TBS",
+            "btih": "4559b3e9548576a2cb792888ec5ddd944dfeb470",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.304209568,
+            "creation": "2019-07-19T03:20:39.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 111930,
+            "uuploaders": 6967
+        },
+        {
+            "id": 76,
+            "name": "multi-btih-11-2-x-Queen-of-the-South-S04E07-WEB-x264-PHOENiX",
+            "btih": "47e88320bbb3f8d1b26aa76be8af1662f7855084",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.315738495,
+            "creation": "2019-07-19T03:55:18.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 110395,
+            "uuploaders": 11132
+        },
+        {
+            "id": 67,
+            "name": "multi-btih-2-2-x-Queen-Of-The-South-S04E07-1080p-WEB-x264-TBS(2)",
+            "btih": "79ba6078b1cbd4462f19f9805acef9bcbfa8a878",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.311492725,
+            "creation": "2019-07-19T03:30:44.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 105977,
+            "uuploaders": 3370
+        },
+        {
+            "id": 68,
+            "name": "multi-btih-3-2-x-Queen-Of-The-South-S04E07-iNTERNAL-480p-x264-mSD",
+            "btih": "4565b13ba33f4f57f4148b5016deebd968c6512c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.167829662,
+            "creation": "2019-07-19T07:35:09.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 100382,
+            "uuploaders": 8071
+        },
+        {
+            "id": 75,
+            "name": "multi-btih-10-2-x-Queen-of-the-South-S04E07-Amores-Perros-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "btih": "c20aa742f6e4489a41ca96da6a89863b36c325e9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.754560343,
+            "creation": "2019-07-19T13:52:38.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 98809,
+            "uuploaders": 2938
+        },
+        {
+            "id": 72,
+            "name": "multi-btih-7-2-x-Queen-of-the-South-S04E07-720p-HDTV-x264-SVA(2)",
+            "btih": "a156f435b754c7e92af241f88262487954e32d6e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.007091691,
+            "creation": "2019-07-19T03:25:22.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 98658,
+            "uuploaders": 1089
+        },
+        {
+            "id": 78,
+            "name": "multi-btih-13-2-x-[rutor.is]Queen.Of.The.South.S04.1080p.WEBRip.TUMBLER.Stu",
+            "btih": "287dd1e8a58b042a4bce1b41396384de8bdc0d4f",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 14.682759579,
+            "creation": "2019-07-20T16:06:53.000000000Z,qBittorrent v4.1.6,http://rutor.is/torrent/709609",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 96335,
+            "uuploaders": 2063
+        },
+        {
+            "id": 73,
+            "name": "multi-btih-8-2-x-Queen-of-the-South-S04E07-720p-HDTV-x265-MiNX",
+            "btih": "5c3fe2a41281a1b420cfbe9fac03f43a3b04572e",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.201524466,
+            "creation": "2019-07-19T04:05:58.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 94913,
+            "uuploaders": 8621
+        },
+        {
+            "id": 79,
+            "name": "multi-btih-14-2-x-[rutor.is]Queen.Of.The.South.S04.400p.WEBRip.TUMBLER.Stud",
+            "btih": "5ad3c50851b318f3f10beb7224c2533fca587e9e",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 4.206993408,
+            "creation": "2019-07-20T16:05:51.000000000Z,qBittorrent v4.1.6,http://rutor.is/torrent/709611",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 94405,
+            "uuploaders": 2516
+        },
+        {
+            "id": 74,
+            "name": "multi-btih-9-2-x-Queen-of-the-South-S04E07-Amores-Perros-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "btih": "db213b69132c8b75a704d492e44e28452289ba9c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.233421104,
+            "creation": "2019-07-19T13:52:20.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 93137,
+            "uuploaders": 2958
+        },
+        {
+            "id": 66,
+            "name": "multi-btih-1-2-x-Queen-Of-The-South-S04E07-1080p-WEB-x264-TBS(1)",
+            "btih": "2aff4a8014de26069bf54fdf9eab5dac2533be2a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.304771229,
+            "creation": "2019-07-19T03:50:08.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 90494,
+            "uuploaders": 1419
+        },
+        {
+            "id": 19,
+            "name": "Queen-of-the-South-S04E07-720p-HDTV-x264-SVA[ettv]",
+            "btih": "7ba99ef6b5a962b549aa51b6b12574e1cd3db287",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.006773937,
+            "creation": "2019-07-19T03:10:13.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 87082,
+            "uuploaders": 5423
+        },
+        {
+            "id": 35,
+            "name": "Queen-of-the-South-S04E07-XviD-AFG",
+            "btih": "b8e0bf1dafca41c1105909c734eb079604dfff16",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.362182414,
+            "creation": "2019-07-19T03:24:12.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 85286,
+            "uuploaders": 4277
+        },
+        {
+            "id": 23,
+            "name": "Queen-of-the-South-S04E07-720p-HEVC-x265-MeGusta",
+            "btih": "29a5c71c385b1f3e20872863c6fce9bafb51d54d",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.307993979,
+            "creation": "2019-07-19T03:35:16.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 82435,
+            "uuploaders": 1638
+        },
+        {
+            "id": 28,
+            "name": "Queen-Of-The-South-S04E07-iNTERNAL-720p-HEVC-x265-MeGusta",
+            "btih": "6d641109494839042348641134b18f333490a155",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.229589068,
+            "creation": "2019-07-19T08:10:10.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 80521,
+            "uuploaders": 1902
+        },
+        {
+            "id": 22,
+            "name": "Queen-of-the-South-S04E07-720p-HDTV-x265-MiNX[TGx]",
+            "btih": "121bdad0183ad2a8350bd7c75b86149b7336e78c",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.201525155,
+            "creation": "2019-07-19T03:55:16.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 80277,
+            "uuploaders": 4761
+        },
+        {
+            "id": 30,
+            "name": "Queen-Of-The-South-S04E07-iNTERNAL-720p-WEB-x264-BAMBOOZLE",
+            "btih": "d6e842210a6bea1c54ef43b42d13762dbe1185e4",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.829827645,
+            "creation": "2019-07-19T07:48:20.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 80252,
+            "uuploaders": 2058
+        },
+        {
+            "id": 20,
+            "name": "Queen-of-the-South-S04E07-720p-HDTV-x264-SVA[TGx]",
+            "btih": "a57531847dfff6b6601732ae6976b98ae81f2129",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.010142775,
+            "creation": "2019-07-19T03:10:15.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 80011,
+            "uuploaders": 1215
+        },
+        {
+            "id": 29,
+            "name": "Queen-Of-The-South-S04E07-iNTERNAL-720p-WEB-x264-BAMBOOZLE(1)",
+            "btih": "a6b856064feaa7380803a4076308bc0bba020fde",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.830125703,
+            "creation": "2019-07-19T07:35:18.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 78245,
+            "uuploaders": 781
+        },
+        {
+            "id": 64,
+            "name": "Королева юга Queen of the South Сезон 4 Серии 1-7 из 13 (Эдуардо Санчес, Дэвид Бойд, Дэйв Родригез) [2019, США, Испания, М [rutracker-5751258]",
+            "btih": "20b09956689cd6ee8ba00b1eb378d659e6c928ef",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 4.442184653,
+            "creation": "2019-07-23T19:51:37.000000000Z,uTorrent/2040,https://rutracker.org/forum/viewtopic.php?t=5751258",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 77126,
+            "uuploaders": 1902
+        },
+        {
+            "id": 7,
+            "name": "Queen-Of-The-South-S04E07-1080p-HEVC-x265-MeGusta",
+            "btih": "4afe732efb3ea765aff25d04820f37d274046c1c",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.347700706,
+            "creation": "2019-07-19T04:06:10.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 76137,
+            "uuploaders": 2067
+        },
+        {
+            "id": 80,
+            "name": "multi-btih-15-2-x-[rutor.is]Queen.Of.The.South.S04.720p.WEBRip.TUMBLER.Stud",
+            "btih": "1491ccc8e78e751803d1af11be6adea741f418e9",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 6.746755687,
+            "creation": "2019-07-20T16:06:16.000000000Z,qBittorrent v4.1.6,http://rutor.is/torrent/709610",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 72441,
+            "uuploaders": 2115
+        },
+        {
+            "id": 24,
+            "name": "Queen-of-the-South-S04E07-Amores-Perros-1080p-AMZN-WEB-DL-DDP5-1-H-264-NTb",
+            "btih": "ba3c224409d27bbae279d9d682d90c729d6ca673",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.241528845,
+            "creation": "2019-07-19T13:40:44.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 69509,
+            "uuploaders": 1081
+        },
+        {
+            "id": 63,
+            "name": "Queen.of.the.South.S04E07.XviD-AFG [IPT]",
+            "btih": "b3f7c22c30ac937fdfd7a08297ee36a87687a0ac",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.362181725,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 648,
+            "uuploaders": 456
+        },
+        {
+            "id": 37,
+            "name": "Queen.Of.The.South.S04E07.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "e5e31b09984df671b76c3b3eb6570a242b4c30cb",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.347700605,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 605,
+            "uuploaders": 434
+        },
+        {
+            "id": 43,
+            "name": "Queen.of.the.South.S04E07.720p.HDTV.x264-SVA [IPT]",
+            "btih": "799de3d5a1893855ecc06fcf27dd2e41ca737595",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.006781537,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 581,
+            "uuploaders": 395
+        },
+        {
+            "id": 38,
+            "name": "Queen.Of.The.South.S04E07.1080p.WEB.x264-TBS [IPT]",
+            "btih": "bcc833b9487c04a83ff8403a53e25651660d98bd",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.304211945,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 424,
+            "uuploaders": 302
+        },
+        {
+            "id": 41,
+            "name": "Queen.of.the.South.S04E07.480p.x264-mSD [IPT]",
+            "btih": "e8ab7e1d7f44e734105cccacd0fb67b46974719b",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.159883975,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 400,
+            "uuploaders": 264
+        },
+        {
+            "id": 60,
+            "name": "Queen.Of.The.South.S04E07.iNTERNAL.XviD-AFG [IPT]",
+            "btih": "8938ca4c179512278593759df4af41c038b4da47",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.415467701,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 343,
+            "uuploaders": 225
+        },
+        {
+            "id": 50,
+            "name": "Queen.of.the.South.S04E07.AAC.MP4-Mobile [IPT]",
+            "btih": "d90cf76e03104c46fc7b3e038b2c7e5e1188dd94",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.171972034,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 271,
+            "uuploaders": 154
+        },
+        {
+            "id": 49,
+            "name": "Queen.of.the.South.S04E07.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "1d1e805cf07ccdd3548d4dbe379dea05f05eb81c",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.307993878,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 256,
+            "uuploaders": 167
+        },
+        {
+            "id": 51,
+            "name": "Queen.of.the.South.S04E07.Amores.Perros.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "btih": "9e29aeb9407724e3d36b18727849892fe77287b8",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.241528156,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 193,
+            "uuploaders": 139
+        },
+        {
+            "id": 54,
+            "name": "Queen.Of.The.South.S04E07.iNTERNAL.480p.x264-mSD [IPT]",
+            "btih": "4bd00855df7f51693695423613444a38966b8614",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.168751244,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 164,
+            "uuploaders": 137
+        },
+        {
+            "id": 56,
+            "name": "Queen.Of.The.South.S04E07.iNTERNAL.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "0552c1cc1a97da7141b121598afd234b51c0922c",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.229588967,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 156,
+            "uuploaders": 117
+        },
+        {
+            "id": 57,
+            "name": "Queen.Of.The.South.S04E07.iNTERNAL.720p.WEB.x264-BAMBOOZLE [IPT]",
+            "btih": "eb16fe8a8c9f12aa037c170a8258f0abff5f1a3a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.829831069,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 128,
+            "uuploaders": 106
+        },
+        {
+            "id": 59,
+            "name": "Queen.Of.The.South.S04E07.iNTERNAL.AAC.MP4-Mobile [IPT]",
+            "btih": "67a480d9a85be7af577bb79fe07710c04e32764b",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.183169807,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 76,
+            "uuploaders": 65
+        }
+    ]
+}
