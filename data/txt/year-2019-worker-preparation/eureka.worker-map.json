@@ -4,6 +4,68 @@
   "records": [
     {
       "archive": {
+        "filename": "cache.20190408.tar.xz",
+        "filename_date": "20190408",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/bachelors-23-and-01.cache/cache.20190408.tar.xz",
+        "sha256": "cb0c7bd7469f683dc7650f1e639acc74dd9f789fdaded8c51558d96ede04e031",
+        "size": 28633556
+      },
+      "collection_key": "bachelors-23-and-01",
+      "day_cache_validation": {
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 28,
+          "cache_members": 1530,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2019-04-08",
+          "sample_span_days": 28,
+          "sample_start": "2019-03-12",
+          "torrent_indices": 58
+        },
+        "required_collection_key": "bachelors-23-and-01",
+        "required_day_products": 28,
+        "required_sample_days": 28,
+        "required_sample_end": "2019-04-08",
+        "required_sample_start": "2019-03-12",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "23",
+        "collection_name": "The Bachelor",
+        "metadata_version": "2025-11-22",
+        "sample_days": 28,
+        "sample_end": "2019-04-08",
+        "sample_start": "2019-03-12",
+        "sha256": "b47b6842a09f12c176c0524e6bb6cdcc19801a43473c1f60cd6cf378fbb241e4",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/bachelors-23-and-01.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20190408.tar.xz",
+            "size": 28633556
+          }
+        ],
+        "expected_filename_date": "20190408"
+      },
+      "worker_archive_relative_path": "bachelors-23-and-01.cache/cache.20190408.tar.xz"
+    },
+    {
+      "archive": {
         "filename": "cache.20190721.tar.xz",
         "filename_date": "20190721",
         "path": "/mnt/gold/src/alpha60-samples-cache.gold/big-little-lies-201.cache/cache.20190721.tar.xz",
@@ -633,13 +695,13 @@
     },
     {
       "archive": {
-        "filename": "cache.20190304.tar.xz",
-        "filename_date": "20190304",
-        "path": "/mnt/gold/src/alpha60-samples-cache.gold/i-am-the-night-103.cache/cache.20190304.tar.xz",
-        "sha256": "4bac5650b188c86dee8629943e0f4ce7204ebd894a6a72c4897be424d95f74fe",
-        "size": 44753140
+        "filename": "cache.20190314.tar.xz",
+        "filename_date": "20190314",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/high-flying-bird.cache/cache.20190314.tar.xz",
+        "sha256": "5894b710298c868e95513a68deee6e327166dc21a27ad7225b9a55546ab9cfae",
+        "size": 89930048
       },
-      "collection_key": "i-am-the-night-103",
+      "collection_key": "high-flying-bird",
       "day_cache_validation": {
         "authorization": {
           "archive_mutated": false,
@@ -650,33 +712,33 @@
         "observed": {
           "approved_observed_day_end": null,
           "archive_filename_matches_observed_end": true,
-          "available_day_products": 21,
-          "cache_members": 1415,
+          "available_day_products": 35,
+          "cache_members": 1083,
           "missing_indices": [],
           "post_release_day_products": 0,
-          "sample_end": "2019-03-04",
-          "sample_span_days": 21,
-          "sample_start": "2019-02-12",
-          "torrent_indices": 76
+          "sample_end": "2019-03-14",
+          "sample_span_days": 35,
+          "sample_start": "2019-02-08",
+          "torrent_indices": 41
         },
-        "required_collection_key": "i-am-the-night-103",
-        "required_day_products": 21,
-        "required_sample_days": 21,
-        "required_sample_end": "2019-03-04",
-        "required_sample_start": "2019-02-12",
+        "required_collection_key": "high-flying-bird",
+        "required_day_products": 35,
+        "required_sample_days": 35,
+        "required_sample_end": "2019-03-14",
+        "required_sample_start": "2019-02-08",
         "required_sparse_intervals": [],
         "status": "pass-read-only-member-stream"
       },
       "owner": "eureka",
       "release": {
-        "collection_id": "1",
-        "collection_name": "I Am the Night",
+        "collection_id": "",
+        "collection_name": "High Flying Bird",
         "metadata_version": "2025-11-22",
-        "sample_days": 21,
-        "sample_end": "2019-03-04",
-        "sample_start": "2019-02-12",
-        "sha256": "efca58e5b047c903f406db0d0ce737b1df1b9f86be8031b40050001cbe32bfe9",
-        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/i-am-the-night-103.json",
+        "sample_days": 35,
+        "sample_end": "2019-03-14",
+        "sample_start": "2019-02-08",
+        "sha256": "a03468c9d44c956c3cae994761b64ba58a6bb93efeeb802e2505e1a729a964ff",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/high-flying-bird.json",
         "source_kind": "canonical-swarm-metadata"
       },
       "selection": {
@@ -685,13 +747,13 @@
         "date_matches_sample_end": true,
         "eligible_candidates": [
           {
-            "filename": "cache.20190304.tar.xz",
-            "size": 44753140
+            "filename": "cache.20190314.tar.xz",
+            "size": 89930048
           }
         ],
-        "expected_filename_date": "20190304"
+        "expected_filename_date": "20190314"
       },
-      "worker_archive_relative_path": "i-am-the-night-103.cache/cache.20190304.tar.xz"
+      "worker_archive_relative_path": "high-flying-bird.cache/cache.20190314.tar.xz"
     },
     {
       "archive": {
@@ -1088,8 +1150,8 @@
         "filename": "cache.20191210.tar.xz",
         "filename_date": "20191210",
         "path": "/mnt/gold/src/alpha60-samples-cache.gold/permanent-record.cache/cache.20191210.tar.xz",
-        "sha256": "d3d0f46a425f6f2486cf21fedd8d5b6ce9dca81bfbed6573b0af2b85c87cdb59",
-        "size": 32549252
+        "sha256": "0b0cc35319ca92c9c063faabc0ff68122e4f288678bc3049f3c6cc61766ebd11",
+        "size": 18073668
       },
       "collection_key": "permanent-record",
       "day_cache_validation": {
@@ -1138,74 +1200,12 @@
         "eligible_candidates": [
           {
             "filename": "cache.20191210.tar.xz",
-            "size": 32549252
+            "size": 18073668
           }
         ],
         "expected_filename_date": "20191210"
       },
       "worker_archive_relative_path": "permanent-record.cache/cache.20191210.tar.xz"
-    },
-    {
-      "archive": {
-        "filename": "cache.20191117.tar.xz",
-        "filename_date": "20191117",
-        "path": "/mnt/gold/src/alpha60-samples-cache.gold/succession-210.cache/cache.20191117.tar.xz",
-        "sha256": "e2346de34ec0fb66e352d3831d1e71281e09e5d2a5394ccc2c13db56167452f3",
-        "size": 105771896
-      },
-      "collection_key": "succession-210",
-      "day_cache_validation": {
-        "authorization": {
-          "archive_mutated": false,
-          "member_contents_opened": false,
-          "raw_samples_opened": false,
-          "scope": "read-only archive member-name stream"
-        },
-        "observed": {
-          "approved_observed_day_end": null,
-          "archive_filename_matches_observed_end": true,
-          "available_day_products": 35,
-          "cache_members": 2223,
-          "missing_indices": [],
-          "post_release_day_products": 0,
-          "sample_end": "2019-11-17",
-          "sample_span_days": 35,
-          "sample_start": "2019-10-14",
-          "torrent_indices": 67
-        },
-        "required_collection_key": "succession-210",
-        "required_day_products": 35,
-        "required_sample_days": 35,
-        "required_sample_end": "2019-11-17",
-        "required_sample_start": "2019-10-14",
-        "required_sparse_intervals": [],
-        "status": "pass-read-only-member-stream"
-      },
-      "owner": "eureka",
-      "release": {
-        "collection_id": "2",
-        "collection_name": "Succession",
-        "metadata_version": "2025-11-22",
-        "sample_days": 35,
-        "sample_end": "2019-11-17",
-        "sample_start": "2019-10-14",
-        "sha256": "189cdfa3f444ed1e8dc556518d5231fdc5e2650c413bf71ac220be4111a5b24c",
-        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/succession-210.json",
-        "source_kind": "canonical-swarm-metadata"
-      },
-      "selection": {
-        "approved_observed_day_end": null,
-        "approved_override": null,
-        "date_matches_sample_end": true,
-        "eligible_candidates": [
-          {
-            "filename": "cache.20191117.tar.xz",
-            "size": 105771896
-          }
-        ],
-        "expected_filename_date": "20191117"
-      },
-      "worker_archive_relative_path": "succession-210.cache/cache.20191117.tar.xz"
     },
     {
       "archive": {
@@ -1651,7 +1651,7 @@
     }
   ],
   "schema": "alpha60-year-day-worker-map/1",
-  "source_map_sha256": "c566c5f06128b08a70eb539f3228fe4d0812b13c4b5a8ee41669ab476b4f0afb",
+  "source_map_sha256": "47e7b9077d15155721c8f16d2628b81bbe7c8ff1e09b6562276066c8e41482a4",
   "status": "pass",
   "year": "2019"
 }
