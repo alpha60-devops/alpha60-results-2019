@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt7016936",
+    "imdb_id": "tt7016936",
+    "revision": "9514ccfbd3fb410c55a67538b309160f758fb29c",
+    "wikidata_id": "Q39049904",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Killing_Eve"
+  },
+  "coverage_sha256": "9e717ab97aad3eced3939104eb6dc611881b4f22be10d868c54f4e362f7e6254",
+  "generated_at": "2026-09-07T04:25:04.584181+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/killing-eve-201.cache/cache.20190512.tar.xz",
+      "sha256": "d558fb4b18d4880c81ecc08edcfb1133acde51bc110bd67be1449559199dd855",
+      "size": 119735204
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/killing-eve-201.md",
+      "sha256": "4edafeb2d863929c8a2c256b9720c91609012715d4040816ce90071a5ff4909d",
+      "size": 593
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/killing-eve-201.json",
+      "sha256": "228ac1bc898b31e5920da211135f8c3c61691aff04e95745ecadb8ec380582f3",
+      "size": 2173
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/killing-eve-201.json",
+      "sha256": "8cd7acd8507f827b27230786b258a263e7980fd0cb6bc3e57d5f2fbe7324faac",
+      "size": 367
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "59b6868add8fdea315618cb799707e22c0f2d73090eee21ece419b793f834eec",
+      "size": 63424
+    }
+  },
+  "media_object": "killing-eve-201",
+  "published_files": {
+    "data/csv/bytes/killing-eve-201-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "f379274da5aeb3fce0eec9387e46baba497e2e8e25f9607eff976437d3759384",
+    "docs/itemized/figures/killing-eve-201-carto-4k.webp": "ada96892c484ef2173231da5d2959fb0c9624aa713c45df3b1875b8ee18a2624",
+    "docs/itemized/figures/killing-eve-201-carto.png": "96dd4fe78bb33406906f0131d4394b88f2d0db8536c1a2a5dcf371b7b8abcfe0",
+    "docs/itemized/figures/killing-eve-201-cumulative-detail-btiha-itemized-by-bytes.svg": "cf072cd7b38ba230769b1bd3fcbe415c54016380e37902ba144eb4045bd0447e",
+    "docs/itemized/figures/killing-eve-201-data-ge-1080p-4k.webp": "9b42afa2b5fb155a1ff43d01039d1d881bb1f25db29bfaa73573308a1efb2979",
+    "docs/itemized/figures/killing-eve-201-data-ge-1080p.webp": "63ebd4471049c2d259cef165566e1db3351c15c56aa00d70c76b00ea10b0a9d2",
+    "docs/itemized/figures/killing-eve-201-data-lt-1080p-4k.webp": "9323f6070fc9f62ae6efaddcf44a37006a6b62c1cb944255474e604170f6bd90",
+    "docs/itemized/figures/killing-eve-201-data-lt-1080p.webp": "76675b69d808b3a5c4486840a55d078eba95497994931dfbc94c729d745cbdcc",
+    "docs/itemized/figures/killing-eve-201-downloads-by-day-day.svg": "5558c5e8395e3f97c45834a4105408cfd7467808163576b7982231cbd6adaabe",
+    "docs/itemized/figures/killing-eve-201-downloads-by-week-killing-eve-201-week.svg": "fac0998fe5a14cf0b52ccea5ae8b0ec35fa6ab27c6e34dd5c1c344d3ef2dd103",
+    "docs/itemized/killing-eve-201-sample-cache-audit.md": "523c56a3130376db389d35bcc991b920af44fba954542c90f9ffa25193fdd8cd",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "47e01ea4391fcd7119df3bc980118ad625e1bde2",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "e9557435d4436b955e35ce9d77d77bbef2c8da903222fb2c6f42877078ae0776",
+      "size": 37133552
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/killing-eve-201/tmp/killing-eve-201-cumulative-btiha.geojson",
+        "sha256": "7bcbea96c67d21b21a5ab1ebc655c76619d83fb67224542889db7ea8886be087",
+        "size": 26596286
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/killing-eve-201/tmp/killing-eve-201-cumulative-btiha-media-objects.json",
+        "sha256": "af1ee712e25660a076194dd2e1079b677716e83e819adcd0f8dd3983c2cc14b3",
+        "size": 135900
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "killing-eve-201",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "c8123c331bb382b004482f68c6d9d9a10011f7e2b0b16b642fbaad46bcf6c1ab",
+      "size": 8759488
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          82.0,
+          67.0,
+          42.0,
+          40.0,
+          39.0,
+          37.0,
+          31.0,
+          30.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Columbus",
+          "Seattle",
+          "Tokyo",
+          "New York City",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Beijing"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          84.0,
+          79.0,
+          55.0,
+          49.0,
+          48.0,
+          42.0,
+          35.0,
+          33.0,
+          29.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Columbus",
+          "New York City",
+          "Tokyo",
+          "Seattle",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 35,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 31,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 5,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "db0cb6ae778e372d8b54eed24dd53267dfaf634a",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "a106b9528c6f444032ab6551adbc582767d33c9e",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "9514ccfbd3fb410c55a67538b309160f758fb29c"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}
