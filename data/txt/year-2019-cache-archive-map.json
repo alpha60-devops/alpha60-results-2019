@@ -10,7 +10,7 @@
     "post_release_archive_records": 0,
     "records": 53,
     "sample_end_matches": 53,
-    "selected_archive_bytes": 61427569916,
+    "selected_archive_bytes": 61330433916,
     "selected_archive_hashes": 53,
     "sparse_sample_records": 7,
     "unique_records": 53
@@ -28,11 +28,11 @@
   },
   "owners": {
     "eureka": {
-      "archive_bytes": 30711686704,
+      "archive_bytes": 30665249688,
       "records": 26
     },
     "ord": {
-      "archive_bytes": 30715883212,
+      "archive_bytes": 30665184228,
       "records": 27
     }
   },
@@ -42,8 +42,8 @@
         "filename": "cache.20190408.tar.xz",
         "filename_date": "20190408",
         "path": "/mnt/gold/src/alpha60-samples-cache.gold/bachelors-23-and-01.cache/cache.20190408.tar.xz",
-        "sha256": "22dcc6dfdd3e7c3263627fe338b4fb2191e739cbe9c70f4c9820e5af361cb29a",
-        "size": 52602760
+        "sha256": "cb0c7bd7469f683dc7650f1e639acc74dd9f789fdaded8c51558d96ede04e031",
+        "size": 28633556
       },
       "collection_key": "bachelors-23-and-01",
       "day_cache_validation": {
@@ -73,7 +73,7 @@
         "required_sparse_intervals": [],
         "status": "pass-read-only-member-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "23",
         "collection_name": "The Bachelor",
@@ -92,7 +92,7 @@
         "eligible_candidates": [
           {
             "filename": "cache.20190408.tar.xz",
-            "size": 52602760
+            "size": 28633556
           }
         ],
         "expected_filename_date": "20190408"
@@ -1119,7 +1119,7 @@
         "required_sparse_intervals": [],
         "status": "pass-read-only-member-stream"
       },
-      "owner": "ord",
+      "owner": "eureka",
       "release": {
         "collection_id": "",
         "collection_name": "High Flying Bird",
@@ -1180,7 +1180,7 @@
         "required_sparse_intervals": [],
         "status": "pass-read-only-member-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "1",
         "collection_name": "I Am the Night",
@@ -2061,8 +2061,8 @@
         "filename": "cache.20191210.tar.xz",
         "filename_date": "20191210",
         "path": "/mnt/gold/src/alpha60-samples-cache.gold/permanent-record.cache/cache.20191210.tar.xz",
-        "sha256": "d3d0f46a425f6f2486cf21fedd8d5b6ce9dca81bfbed6573b0af2b85c87cdb59",
-        "size": 32549252
+        "sha256": "0b0cc35319ca92c9c063faabc0ff68122e4f288678bc3049f3c6cc61766ebd11",
+        "size": 18073668
       },
       "collection_key": "permanent-record",
       "day_cache_validation": {
@@ -2111,7 +2111,7 @@
         "eligible_candidates": [
           {
             "filename": "cache.20191210.tar.xz",
-            "size": 32549252
+            "size": 18073668
           }
         ],
         "expected_filename_date": "20191210"
@@ -2620,8 +2620,8 @@
         "filename": "cache.20191117.tar.xz",
         "filename_date": "20191117",
         "path": "/mnt/gold/src/alpha60-samples-cache.gold/succession-210.cache/cache.20191117.tar.xz",
-        "sha256": "e2346de34ec0fb66e352d3831d1e71281e09e5d2a5394ccc2c13db56167452f3",
-        "size": 105771896
+        "sha256": "7ccafeb6f80c595a9cbe45928a2a605b89e2e5fee1315cc4cee658b89db4deec",
+        "size": 56018796
       },
       "collection_key": "succession-210",
       "day_cache_validation": {
@@ -2651,7 +2651,7 @@
         "required_sparse_intervals": [],
         "status": "pass-read-only-member-stream"
       },
-      "owner": "eureka",
+      "owner": "ord",
       "release": {
         "collection_id": "2",
         "collection_name": "Succession",
@@ -2670,7 +2670,7 @@
         "eligible_candidates": [
           {
             "filename": "cache.20191117.tar.xz",
-            "size": 105771896
+            "size": 56018796
           }
         ],
         "expected_filename_date": "20191117"
@@ -3299,8 +3299,8 @@
         "filename": "cache.20190831.tar.xz",
         "filename_date": "20190831",
         "path": "/mnt/gold/src/alpha60-samples-cache.gold/yellowstone-210.cache/cache.20190831.tar.xz",
-        "sha256": "6b2fa864b4af07b6ea8d813d094d2327eff17b7aab73d0667521499d1cc0ec3b",
-        "size": 16313672
+        "sha256": "2f689f4022647ff712cd229fe0a5a566d180521031076ed2d7abedf86a5e3d26",
+        "size": 7375560
       },
       "collection_key": "yellowstone-210",
       "day_cache_validation": {
@@ -3349,7 +3349,7 @@
         "eligible_candidates": [
           {
             "filename": "cache.20190831.tar.xz",
-            "size": 16313672
+            "size": 7375560
           }
         ],
         "expected_filename_date": "20190831"
