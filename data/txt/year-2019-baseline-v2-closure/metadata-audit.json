@@ -5,16 +5,17 @@
   "metadata_directory": "/home/bkoz/src/alpha60-swarm-metadata/metadata",
   "approved_empty_collection_ids": [
     "dolemite-is-my-name",
-    "high-flying-bird"
+    "high-flying-bird",
+    "permanent-record"
   ],
   "approved_not_applicable_identity_ids": [
     "ferhat-ile-sirin"
   ],
   "status": "pass",
   "counts": {
-    "inventory_entries": 41,
-    "unique_keys": 41,
-    "ready_records": 41,
+    "inventory_entries": 53,
+    "unique_keys": 53,
+    "ready_records": 53,
     "error_records": 0,
     "errors": 0
   },
@@ -22,12 +23,27 @@
   "duplicate_keys": [],
   "records": [
     {
+      "collection_key": "bachelors-23-and-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
       "collection_key": "big-bang-theory-1223",
       "status": "ready",
       "issues": []
     },
     {
+      "collection_key": "big-little-lies-201",
+      "status": "ready",
+      "issues": []
+    },
+    {
       "collection_key": "big-little-lies-207",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "black-monday-106",
       "status": "ready",
       "issues": []
     },
@@ -97,7 +113,17 @@
       "issues": []
     },
     {
+      "collection_key": "i-am-the-night-103",
+      "status": "ready",
+      "issues": []
+    },
+    {
       "collection_key": "i-am-the-night-106",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "killing-eve-201",
       "status": "ready",
       "issues": []
     },
@@ -147,7 +173,22 @@
       "issues": []
     },
     {
+      "collection_key": "orville-206",
+      "status": "ready",
+      "issues": []
+    },
+    {
       "collection_key": "orville-214",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "permanent-record",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "queen-of-the-south-407",
       "status": "ready",
       "issues": []
     },
@@ -172,6 +213,11 @@
       "issues": []
     },
     {
+      "collection_key": "star-trek-discovery-206",
+      "status": "ready",
+      "issues": []
+    },
+    {
       "collection_key": "star-trek-discovery-214",
       "status": "ready",
       "issues": []
@@ -182,7 +228,17 @@
       "issues": []
     },
     {
+      "collection_key": "succession-210",
+      "status": "ready",
+      "issues": []
+    },
+    {
       "collection_key": "tales-of-the-city-2019",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "true-detective-301",
       "status": "ready",
       "issues": []
     },
@@ -223,6 +279,11 @@
     },
     {
       "collection_key": "wu-assassins-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "yellowstone-210",
       "status": "ready",
       "issues": []
     }

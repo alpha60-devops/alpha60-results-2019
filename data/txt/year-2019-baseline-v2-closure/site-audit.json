@@ -3,22 +3,37 @@
   "year": "2019",
   "status": "pass",
   "counts": {
-    "passed": 41,
+    "passed": 53,
     "absent": 0,
     "old": 0,
     "failed": 0,
-    "inventory": 41,
-    "unique": 41
+    "inventory": 53,
+    "unique": 53
   },
   "duplicate_keys": [],
   "records": [
+    {
+      "collection_key": "bachelors-23-and-01",
+      "status": "passed",
+      "issues": []
+    },
     {
       "collection_key": "big-bang-theory-1223",
       "status": "passed",
       "issues": []
     },
     {
+      "collection_key": "big-little-lies-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
       "collection_key": "big-little-lies-207",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "black-monday-106",
       "status": "passed",
       "issues": []
     },
@@ -88,7 +103,17 @@
       "issues": []
     },
     {
+      "collection_key": "i-am-the-night-103",
+      "status": "passed",
+      "issues": []
+    },
+    {
       "collection_key": "i-am-the-night-106",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "killing-eve-201",
       "status": "passed",
       "issues": []
     },
@@ -138,7 +163,22 @@
       "issues": []
     },
     {
+      "collection_key": "orville-206",
+      "status": "passed",
+      "issues": []
+    },
+    {
       "collection_key": "orville-214",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "permanent-record",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "queen-of-the-south-407",
       "status": "passed",
       "issues": []
     },
@@ -163,6 +203,11 @@
       "issues": []
     },
     {
+      "collection_key": "star-trek-discovery-206",
+      "status": "passed",
+      "issues": []
+    },
+    {
       "collection_key": "star-trek-discovery-214",
       "status": "passed",
       "issues": []
@@ -173,7 +218,17 @@
       "issues": []
     },
     {
+      "collection_key": "succession-210",
+      "status": "passed",
+      "issues": []
+    },
+    {
       "collection_key": "tales-of-the-city-2019",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "true-detective-301",
       "status": "passed",
       "issues": []
     },
@@ -214,6 +269,11 @@
     },
     {
       "collection_key": "wu-assassins-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "yellowstone-210",
       "status": "passed",
       "issues": []
     }
