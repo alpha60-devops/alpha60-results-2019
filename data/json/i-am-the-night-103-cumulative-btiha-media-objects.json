@@ -1,0 +1,3562 @@
+{
+    "collection_name": "I Am The Night",
+    "collection_id": "103",
+    "collection_key": "i-am-the-night-103",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "93b16bd97029522e9c1cbae9f6d4f8e962a7a524",
+            "duplicate_0_0": "I-Am-the-Night-S01E03-Dark-Flower-720p-AMZN-WEB-DL-DD",
+            "duplicate_0_1": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[TGx].93b16bd97029522e"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "a53fc559387e258dff354ec8fb565bd84d9f1aa2",
+            "duplicate_1_0": "I-Am-the-Night-S01E03-Dark-Flower-720p-HDTV-x264-CRiMSON[TGx]",
+            "duplicate_1_1": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[TGx].a53fc559387e258d"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "506c433b94d424fc9fc5dd247d39e88356eb4048",
+            "duplicate_2_0": "I-Am-the-Night-S01E03-Dark-Flower-HDTV-x264-CRiMSON[TGx]",
+            "duplicate_2_1": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[TGx].506c433b94d424fc"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "9c0596badc5a8b1a695a0a876a5e09e11952cbea",
+            "duplicate_3_0": "I-Am-the-Night-S01E03-Dark-Flower-XviD-AFG[TGx]",
+            "duplicate_3_1": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG[TGx].9c0596badc5a8b1a"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "889ca00630afc9bee10f407c7eb05b7214aa1fe5",
+            "duplicate_4_0": "I.Am.the.Night.S01E03.480p.x264-mSD[eztv].mkv.889ca00630afc9be",
+            "duplicate_4_1": "I.Am.the.Night.S01E03.480p.x264-mSD[eztv].mkv"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "fde5864f1bede9433e03f3df39d102a55c8e5b3a",
+            "duplicate_5_0": "I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD[eztv].mkv.fde5864f1bede943",
+            "duplicate_5_1": "I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD[eztv].mkv"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "0a9d8e5383e88fd840828bca605e19da970d8df0",
+            "duplicate_6_0": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD%2B5.1.H.264-QOQ[eztv].mkv",
+            "duplicate_6_1": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[eztv].mkv.0a9d8e5383e88fd8"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "db6695f79c4324ee5f078903334d757227637dad",
+            "duplicate_7_0": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[eztv].mkv.db6695f79c4324ee",
+            "duplicate_7_1": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[eztv].mkv"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "c5b09ecaf2ab2dd38e70afea00c232719df77819",
+            "duplicate_8_0": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[eztv].mkv.c5b09ecaf2ab2dd3",
+            "duplicate_8_1": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[eztv].mkv"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "d27174bf81d0cc6c1c79e84e08048059d72cddd6",
+            "duplicate_9_0": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[eztv].mkv.d27174bf81d0cc6c",
+            "duplicate_9_1": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[eztv].mkv"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "f5cfe5e6f48f775e0effce65963d2c5b15d326fe",
+            "duplicate_10_0": "[TorrentCouch-net]-I-Am-The-Night-S01E03-720p-WEBRip-x264-[496MB]",
+            "duplicate_10_1": "[TorrentCouch.net].I.Am.The.Night.S01E03.720p.WEBRip.x264.[496MB].f5cfe5e6f48f775e"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "10f064fd6242f05371ad18adf75db9d0360ae24a",
+            "duplicate_11_0": "[rutor.is]I.Am.the.Night_(s01)_LF_1080p",
+            "duplicate_11_1": "Имя мне - ночь I Am the Night Сезон 1 Серии 1-3 из 6 (Виктория Махони, Пэтти Дженкинс, Карл Франклин) [2019, США, драма, д [rutracker-5683917]"
+        },
+        {
+            "duplicate_id": 12,
+            "duplicate_btih": "e111a05c2eacfd419b2567bd7a2e2dfd4b13fef1",
+            "duplicate_12_0": "[rutor.is]I_Am_the_Night._Season_1_WEB-DL_l_1080p_l_Jaski",
+            "duplicate_12_1": "Имя мне Ночь I Am the Night Сезон 1 Серии 1-3 из 6 (Пэтти Дженкинс, Виктория Махони, Карл Франклин) [2019, США, Драма, дет [rutracker-5682863]"
+        },
+        {
+            "duplicate_id": 13,
+            "duplicate_btih": "ec829e36c831f107b1322cfe3ea31f68e5c5646d",
+            "duplicate_13_0": "[rutor.is]I_Am_the_Night._Season_1_WEBDLRip_l_400p_l_Jask",
+            "duplicate_13_1": "Имя мне Ночь I Am the Night Сезон 1 Серии 1-3 из 6 (Пэтти Дженкинс, Виктория Махони, Карл Франклин) [2019, США, Драма, дет [rutracker-5682860]"
+        },
+        {
+            "duplicate_id": 14,
+            "duplicate_btih": "2ce12f240c29158b82fc10cbac03f13ce0c36559",
+            "duplicate_14_0": "i.am.the.night.s01e03.720p.webrip.x264-tbs[eztv].mkv.2ce12f240c29158b",
+            "duplicate_14_1": "i.am.the.night.s01e03.720p.webrip.x264-tbs[eztv].mkv"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "78aa-I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS[ettv]",
+            "size_total": 1.057502464,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.85e-7,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.057502279,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS[ettv]/i.am.the.night.s01e03.720p.webrip.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "8366-I.Am.the.Night.S01E03.WEBRip.x264-TBS[ettv]",
+            "size_total": 0.329158242,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.85e-7,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.329158057,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[ettv]/i.am.the.night.s01e03.webrip.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]I.Am.the.Night.S01.1080p.WEBRip.Profix.Media",
+            "size_total": 7.401521518,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.599655208,
+                    "path": "I.Am.the.Night.S01.1080p.WEBRip.Profix.Media/I.Am.the.Night.S01E01.1080p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.429176699,
+                    "path": "I.Am.the.Night.S01.1080p.WEBRip.Profix.Media/I.Am.the.Night.S01E02.1080p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.372689611,
+                    "path": "I.Am.the.Night.S01.1080p.WEBRip.Profix.Media/I.Am.the.Night.S01E03.1080p.WEBRip.Profix.Media.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]I.Am.the.Night.S01.720p.WEBRip.Profix.Media",
+            "size_total": 4.804439725,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.687408095,
+                    "path": "I.Am.the.Night.S01.720p.WEBRip.Profix.Media/I.Am.the.Night.S01E01.720p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.572935227,
+                    "path": "I.Am.the.Night.S01.720p.WEBRip.Profix.Media/I.Am.the.Night.S01E02.720p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.544096403,
+                    "path": "I.Am.the.Night.S01.720p.WEBRip.Profix.Media/I.Am.the.Night.S01E03.720p.WEBRip.Profix.Media.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]I.Am.the.Night.S01.WEBRip.Profix.Media",
+            "size_total": 2.019406306,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.742466272,
+                    "path": "I.Am.the.Night.S01.WEBRip.Profix.Media/I.Am.the.Night.S01E01.WEBRip.Profix.Media.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.694669108,
+                    "path": "I.Am.the.Night.S01.WEBRip.Profix.Media/I.Am.the.Night.S01E02.WEBRip.Profix.Media.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.582270926,
+                    "path": "I.Am.the.Night.S01.WEBRip.Profix.Media/I.Am.the.Night.S01E03.WEBRip.Profix.Media.avi"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]I.am.the.Night.S01E01-03.1080p.WEBRip.Horizon",
+            "size_total": 5.4945806,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.02326394,
+                    "path": "I.am.the.Night.S01E01-03.1080p.WEBRip.Horizon.Studio/I.am.the.Night.S01E01.1080p.WEBRip.Horizon.Studio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.825665161,
+                    "path": "I.am.the.Night.S01E01-03.1080p.WEBRip.Horizon.Studio/I.am.the.Night.S01E02.1080p.WEBRip.Horizon.Studio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.645651499,
+                    "path": "I.am.the.Night.S01E01-03.1080p.WEBRip.Horizon.Studio/I.am.the.Night.S01E03.1080p.WEBRip.Horizon.Studio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]I.am.the.Night.S01E01-03.720p.WEBRip.Horizon",
+            "size_total": 3.691798748,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.319262496,
+                    "path": "I.am.the.Night.S01E01-03.720p.WEBRip.Horizon.Studio/I.am.the.Night.S01E01.720p.WEBRip.Horizon.Studio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.191704355,
+                    "path": "I.am.the.Night.S01E01-03.720p.WEBRip.Horizon.Studio/I.am.the.Night.S01E02.720p.WEBRip.Horizon.Studio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.180831897,
+                    "path": "I.am.the.Night.S01E01-03.720p.WEBRip.Horizon.Studio/I.am.the.Night.S01E03.720p.WEBRip.Horizon.Studio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]I.am.the.Night.S01E01-03.WEBRip.Horizon",
+            "size_total": 1.824274432,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.651986944,
+                    "path": "I.am.the.Night.S01E01-03.WEBRip.Horizon.Studio/I.am.the.Night.S01E01.WEBRip.Horizon.Studio.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.590041088,
+                    "path": "I.am.the.Night.S01E01-03.WEBRip.Horizon.Studio/I.am.the.Night.S01E02.WEBRip.Horizon.Studio.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.5822464,
+                    "path": "I.am.the.Night.S01E01-03.WEBRip.Horizon.Studio/I.am.the.Night.S01E03.WEBRip.Horizon.Studio.avi"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[rutor.is]I.Am.the.Night_(s01)_LF_1080p",
+            "size_total": 12.400243901,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.400155065,
+                    "path": "I.Am.the.Night.2019.S01.1080p.AMZN.WEB-DL.H.264.RUS.LF.DDP5.1-EniaHD/I.Am.the.Night.S01E01.Pilot.1080p.AMZN.WEB-DL.H.264.RUS.LF.DDP5.1-EniaHD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.068153359,
+                    "path": "I.Am.the.Night.2019.S01.1080p.AMZN.WEB-DL.H.264.RUS.LF.DDP5.1-EniaHD/I.Am.the.Night.S01E02.Phenomenon.of.Interference.1080p.AMZN.WEB-DL.H.264.RUS.LF.DDP5.1-EniaHD.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.931935477,
+                    "path": "I.Am.the.Night.2019.S01.1080p.AMZN.WEB-DL.H.264.RUS.LF.DDP5.1-EniaHD/I.Am.the.Night.S01E03.Dark.Flower.1080p.AMZN.WEB-DL.H.264.RUS.LF.DDP5.1-EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[rutor.is]I_Am_the_Night._Season_1_WEB-DL_l_1080p_l_Jaski",
+            "size_total": 11.807419936,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.191586514,
+                    "path": "I Am the Night. Season 1 (WEB-DL l 1080p l Jaskier)/I.Am.the.Night.S01E01.1080p.WEB-DL.DD5.1.H.264-Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.87465911,
+                    "path": "I Am the Night. Season 1 (WEB-DL l 1080p l Jaskier)/I.Am.the.Night.S01E02.1080p.WEB-DL.DD5.1.H.264-Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.741174312,
+                    "path": "I Am the Night. Season 1 (WEB-DL l 1080p l Jaskier)/I.Am.the.Night.S01E03.1080p.WEB-DL.DD5.1.H.264-Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[rutor.is]I_Am_the_Night._Season_1_WEBDLRip_l_400p_l_Jask",
+            "size_total": 2.045874176,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.682428416,
+                    "path": "I Am the Night. Season 1 (WEBDLRip l 400p l Jaskier)/I.Am.the.Night.S01E01.WEB-DLRip.Rus.Eng.Jaskier.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.681672704,
+                    "path": "I Am the Night. Season 1 (WEBDLRip l 400p l Jaskier)/I.Am.the.Night.S01E02.WEB-DLRip.Rus.Eng.Jaskier.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.681773056,
+                    "path": "I Am the Night. Season 1 (WEBDLRip l 400p l Jaskier)/I.Am.the.Night.S01E03.WEB-DLRip.Rus.Eng.Jaskier.avi"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "[rutor.is]I_Am_The_Night_S01_2019_720p_WEBRip_Gears_Media",
+            "size_total": 2.694696758,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.415893765,
+                    "path": "I Am The Night S01 (2019) 720p WEBRip [Gears Media]/I Am The Night S01E01 (2019) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.278802993,
+                    "path": "I Am The Night S01 (2019) 720p WEBRip [Gears Media]/I Am The Night S01E02 (2019) 720p WEBRip [Gears Media].mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "[rutor.is]I_Am_The_Night_S01_2019_WEBRip_Gears_Media",
+            "size_total": 1.30446993,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.685029104,
+                    "path": "I Am The Night S01 (2019) WEBRip [Gears Media]/I Am The Night S01E01 (2019) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.6194408260000001,
+                    "path": "I Am The Night S01 (2019) WEBRip [Gears Media]/I Am The Night S01E02 (2019) WEBRip [Gears Media].avi"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "[rutor.is]I_Am_the_Night_S01_WEBRip_720p_OMSKBIRD",
+            "size_total": 3.688079257,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.299488921,
+                    "path": "I Am the Night S01 WEBRip 720p (OMSKBIRD)/I Am the Night S01E01 WEBRip 720p (OMSKBIRD).mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.205133667,
+                    "path": "I Am the Night S01 WEBRip 720p (OMSKBIRD)/I Am the Night S01E02 WEBRip 720p (OMSKBIRD).mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.183456669,
+                    "path": "I Am the Night S01 WEBRip 720p (OMSKBIRD)/I Am the Night S01E03 WEBRip 720p (OMSKBIRD).mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "[rutor.is]I_Am_the_Night_S01_WEBRip_OMSKBIRD",
+            "size_total": 2.32257536,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.8164864,
+                    "path": "I Am the Night S01 WEBRip (OMSKBIRD)/I Am the Night S01E01 WEBRip (OMSKBIRD).avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.758355968,
+                    "path": "I Am the Night S01 WEBRip (OMSKBIRD)/I Am the Night S01E02 WEBRip (OMSKBIRD).avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.747732992,
+                    "path": "I Am the Night S01 WEBRip (OMSKBIRD)/I Am the Night S01E03 WEBRip (OMSKBIRD).avi"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "[TorrentCouch-net]-I-Am-The-Night-S01E03-720p-WEBRip-x264-[496MB]",
+            "size_total": 0.520963403,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.520963039,
+                    "path": "[TorrentCouch.net].I.Am.The.Night.S01E03.720p.WEBRip.x264.[496MB]/[TorrentCouch.net].I.Am.The.Night.S01E03.720p.WEBRip.x264.[496MB].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 1.87e-7,
+                    "path": "[TorrentCouch.net].I.Am.The.Night.S01E03.720p.WEBRip.x264.[496MB]/Download HD & BluRay Movies from TorrentCounter.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 1.77e-7,
+                    "path": "[TorrentCouch.net].I.Am.The.Night.S01E03.720p.WEBRip.x264.[496MB]/Download Daily Updated TV Shows from TorrentCouch.net.txt"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "[TorrentCouch.net].I.Am.The.Night.S01E03.720p.WEBRip.x264.[496MB].f5cfe5e6f48f775e",
+            "size_total": 0.520963403,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.520963039,
+                    "path": "[TorrentCouch.net].I.Am.The.Night.S01E03.720p.WEBRip.x264.[496MB]/[TorrentCouch.net].I.Am.The.Night.S01E03.720p.WEBRip.x264.[496MB].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 1.87e-7,
+                    "path": "[TorrentCouch.net].I.Am.The.Night.S01E03.720p.WEBRip.x264.[496MB]/Download HD & BluRay Movies from TorrentCounter.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 1.77e-7,
+                    "path": "[TorrentCouch.net].I.Am.The.Night.S01E03.720p.WEBRip.x264.[496MB]/Download Daily Updated TV Shows from TorrentCouch.net.txt"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "I-Am-the-Night-S01E03-1080p-HEVC-x265-MeGusta",
+            "size_total": 0.71396155,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.706379677,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta/I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001217,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta/I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002412428,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001881575,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002178075,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001108492,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 8.6e-8,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta/Torrent Downloaded From www.torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "I-Am-the-Night-S01E03-Dark-Flower-480p-x264-mSD",
+            "size_total": 0.182169417,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.181372338,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD/I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001207,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD/I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000222851,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000143811,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000273347,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000155777,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 8.6e-8,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD/Torrent Downloaded From www.torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "I-Am-the-Night-S01E03-Dark-Flower-720p-AMZN-WEB-DL-DD",
+            "size_total": 2.275186408,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.270860732,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[TGx]/I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001601,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[TGx]/I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001131911,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001159962,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000620675,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001410836,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "I-Am-the-Night-S01E03-Dark-Flower-720p-HDTV-x264-CRiMSON",
+            "size_total": 1.217855305,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.214375774,
+                    "path": "www.Torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 8.04e-7,
+                    "path": "www.Torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001165041,
+                    "path": "www.Torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00091668,
+                    "path": "www.Torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000168876,
+                    "path": "www.Torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001228044,
+                    "path": "www.Torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/Torrent Downloaded From www.torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "I-Am-the-Night-S01E03-Dark-Flower-720p-HDTV-x264-CRiMSON[TGx]",
+            "size_total": 1.21785591,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.214375774,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[TGx]/I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001165041,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00091668,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000168876,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001228044,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 6,
+                    "size": 6.91e-7,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 7,
+                    "size": 8.04e-7,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[TGx]/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.nfo"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "I-Am-the-Night-S01E03-Dark-Flower-720p-HEVC-x265-MeGusta",
+            "size_total": 0.335615043,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.332618441,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta/I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001217,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta/I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001084859,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000726638,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000103938,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001079864,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 8.6e-8,
+                    "path": "www.torrenting.com - I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta/Torrent Downloaded From www.torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "I-Am-the-Night-S01E03-Dark-Flower-HDTV-x264-CRiMSON[TGx]",
+            "size_total": 0.367394592,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.366113322,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[TGx]/I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000419114,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000347079,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000068145,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000445442,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 6,
+                    "size": 6.91e-7,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 7,
+                    "size": 7.99e-7,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[TGx]/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.nfo"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "I-Am-the-Night-S01E03-Dark-Flower-XviD-AFG[TGx]",
+            "size_total": 0.512654533,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.511797354,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG[TGx]/I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001188,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG[TGx]/I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00028063,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000127984,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00029945,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000147236,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "I.Am.the.Night.S01E02.Phenomenon.of.Interference.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ [IPT]",
+            "size_total": 2.410853421,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.406333,
+                    "path": "I.Am.the.Night.S01E02.Phenomenon.of.Interference.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ/I.Am.the.Night.S01E02.Phenomenon.of.Interference.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001618,
+                    "path": "I.Am.the.Night.S01E02.Phenomenon.of.Interference.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ/I.Am.the.Night.S01E02.Phenomenon.of.Interference.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001899181,
+                    "path": "I.Am.the.Night.S01E02.Phenomenon.of.Interference.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000343828,
+                    "path": "I.Am.the.Night.S01E02.Phenomenon.of.Interference.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001114593,
+                    "path": "I.Am.the.Night.S01E02.Phenomenon.of.Interference.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001161201,
+                    "path": "I.Am.the.Night.S01E02.Phenomenon.of.Interference.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.713961464,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.706379677,
+                    "path": "I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta/I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001217,
+                    "path": "I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta/I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002412428,
+                    "path": "I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001881575,
+                    "path": "I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002178075,
+                    "path": "I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001108492,
+                    "path": "I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS [IPT]",
+            "size_total": 1.663885785,
+            "files_total": 36,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.06e-7,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.013883707,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 36,
+                    "size": 0.000001972,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS/i.am.the.night.s01e03.1080p.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.663879896,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.663879661,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS[rarbg]/i.am.the.night.s01e03.1080p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.06e-7,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS[rarbg]/i.am.the.night.s01e03.1080p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS[TGx].3cd75dc452af089e",
+            "size_total": 1.669539779,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.002221952,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001550572,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00063159,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001255207,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 1.663879661,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS[TGx]/i.am.the.night.s01e03.1080p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.06e-7,
+                    "path": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS[TGx]/i.am.the.night.s01e03.1080p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "I.Am.the.Night.S01E03.480p.x264-mSD [IPT]",
+            "size_total": 0.170143813,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.16917414,
+                    "path": "I.Am.the.Night.S01E03.480p.x264-mSD/I.Am.the.Night.S01E03.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001183,
+                    "path": "I.Am.the.Night.S01E03.480p.x264-mSD/I.Am.the.Night.S01E03.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000305291,
+                    "path": "I.Am.the.Night.S01E03.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000241079,
+                    "path": "I.Am.the.Night.S01E03.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.0002741,
+                    "path": "I.Am.the.Night.S01E03.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00014802,
+                    "path": "I.Am.the.Night.S01E03.480p.x264-mSD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "I.Am.the.Night.S01E03.480p.x264-mSD[eztv].mkv.889ca00630afc9be",
+            "size_total": 0.16917414,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.16917414,
+                    "path": "I.Am.the.Night.S01E03.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "I.Am.the.Night.S01E03.480p.x264-mSD[eztv].mkv",
+            "size_total": 0.16917414,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.16917414,
+                    "path": "I.Am.the.Night.S01E03.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "I.Am.the.Night.S01E03.720p.HDTV.x264-300MB.mkv.10f63fff9e02c3ff",
+            "size_total": 0.377171862,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.377171862,
+                    "path": "I.Am.the.Night.S01E03.720p.HDTV.x264-300MB.mkv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "I.Am.the.Night.S01E03.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.290982516,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.28810334,
+                    "path": "I.Am.the.Night.S01E03.720p.HEVC.x265-MeGusta/I.Am.the.Night.S01E03.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001193,
+                    "path": "I.Am.the.Night.S01E03.720p.HEVC.x265-MeGusta/I.Am.the.Night.S01E03.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001077195,
+                    "path": "I.Am.the.Night.S01E03.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000794804,
+                    "path": "I.Am.the.Night.S01E03.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000289156,
+                    "path": "I.Am.the.Night.S01E03.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000716828,
+                    "path": "I.Am.the.Night.S01E03.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS [IPT]",
+            "size_total": 1.057506279,
+            "files_total": 24,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.5e-7,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.007504875,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000001254,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS/i.am.the.night.s01e03.720p.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "i.am.the.night.s01e03.720p.webrip.x264-tbs[eztv].mkv.2ce12f240c29158b",
+            "size_total": 1.057502279,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.057502279,
+                    "path": "i.am.the.night.s01e03.720p.webrip.x264-tbs[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "i.am.the.night.s01e03.720p.webrip.x264-tbs[eztv].mkv",
+            "size_total": 1.057502279,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.057502279,
+                    "path": "i.am.the.night.s01e03.720p.webrip.x264-tbs[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.057502558,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.057502279,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS[rarbg]/i.am.the.night.s01e03.720p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.5e-7,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS[rarbg]/i.am.the.night.s01e03.720p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "I.Am.the.Night.S01E03.720p.WEBRip.x265-MiNX[eztv].mkv",
+            "size_total": 0.209914068,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.209914068,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "I.Am.the.Night.S01E03.720p.WEBRip.x265-MiNX[TGx].8cf222e05ff641c7",
+            "size_total": 0.209914759,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.209914068,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x265-MiNX[TGx]/I.Am.the.Night.S01E03.720p.WEBRip.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.91e-7,
+                    "path": "I.Am.the.Night.S01E03.720p.WEBRip.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "I.Am.the.Night.S01E03.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.188640142,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.187524669,
+                    "path": "I.Am.the.Night.S01E03.AAC.MP4-Mobile/I.Am.the.Night.S01E03.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001282,
+                    "path": "I.Am.the.Night.S01E03.AAC.MP4-Mobile/I.Am.the.Night.S01E03.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000347325,
+                    "path": "I.Am.the.Night.S01E03.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000276717,
+                    "path": "I.Am.the.Night.S01E03.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000318468,
+                    "path": "I.Am.the.Night.S01E03.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000171681,
+                    "path": "I.Am.the.Night.S01E03.AAC.MP4-Mobile/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD [IPT]",
+            "size_total": 0.182169331,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.181372338,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD/I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001207,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD/I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000222851,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000143811,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000273347,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000155777,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD[eztv].mkv.fde5864f1bede943",
+            "size_total": 0.181372338,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.181372338,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD[eztv].mkv",
+            "size_total": 0.181372338,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.181372338,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD%2B5.1.H.264-QOQ[eztv].mkv",
+            "size_total": 2.270860732,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.270860732,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ [IPT]",
+            "size_total": 2.275185717,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.270860732,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ/I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001601,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ/I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001131911,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001159962,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000620675,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001410836,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[eztv].mkv.0a9d8e5383e88fd8",
+            "size_total": 2.270860732,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.270860732,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[TGx].93b16bd97029522e",
+            "size_total": 2.275186408,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.270860732,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[TGx]/I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001601,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[TGx]/I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001131911,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001159962,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000620675,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001410836,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON [IPT]",
+            "size_total": 1.214381328,
+            "files_total": 27,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 8.04e-7,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.014378749,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.rar"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000001775,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.sfv"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[eztv].mkv.db6695f79c4324ee",
+            "size_total": 1.214375774,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.214375774,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[eztv].mkv",
+            "size_total": 1.214375774,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.214375774,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[TGx].a53fc559387e258d",
+            "size_total": 1.21785591,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.214375774,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[TGx]/I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001165041,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00091668,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000168876,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001228044,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 6,
+                    "size": 6.91e-7,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 7,
+                    "size": 8.04e-7,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[TGx]/i.am.the.night.s01e03.dark.flower.720p.hdtv.x264-crimson.nfo"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.335614957,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.332618441,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta/I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001217,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta/I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001084859,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000726638,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000103938,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001079864,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.202698975,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.201753589,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.AAC.MP4-Mobile/I.Am.the.Night.S01E03.Dark.Flower.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001309,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.AAC.MP4-Mobile/I.Am.the.Night.S01E03.Dark.Flower.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000260468,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000177949,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000320201,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000185459,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.AAC.MP4-Mobile/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON [IPT]",
+            "size_total": 0.366117541,
+            "files_total": 21,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.99e-7,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.006115488,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.rar"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000001254,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.sfv"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[eztv].mkv.c5b09ecaf2ab2dd3",
+            "size_total": 0.366113322,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.366113322,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[eztv].mkv",
+            "size_total": 0.366113322,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.366113322,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[TGx].506c433b94d424fc",
+            "size_total": 0.367394592,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.366113322,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[TGx]/I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000419114,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000347079,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000068145,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000445442,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 6,
+                    "size": 6.91e-7,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 7,
+                    "size": 7.99e-7,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[TGx]/i.am.the.night.s01e03.dark.flower.hdtv.x264-crimson.nfo"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG [IPT]",
+            "size_total": 0.512653842,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.511797354,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG/I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001188,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG/I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00028063,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000127984,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00029945,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000147236,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG[TGx].9c0596badc5a8b1a",
+            "size_total": 0.512654533,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.511797354,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG[TGx]/I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001188,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG[TGx]/I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00028063,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000127984,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00029945,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000147236,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "I.Am.the.Night.S01E03.WEBRip.x264-TBS [IPT]",
+            "size_total": 0.329161007,
+            "files_total": 19,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.45e-7,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.009159978,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.02,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 19,
+                    "size": 8.84e-7,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS/i.am.the.night.s01e03.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "name": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[eztv].mkv.d27174bf81d0cc6c",
+            "size_total": 0.329158057,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.329158057,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "name": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[eztv].mkv",
+            "size_total": 0.329158057,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.329158057,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "name": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.329158331,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.329158057,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[rarbg]/i.am.the.night.s01e03.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.45e-7,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[rarbg]/i.am.the.night.s01e03.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "name": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[TGx].d3782a01b959aee2",
+            "size_total": 0.330350067,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000400382,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000332433,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000167417,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000290942,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.329158057,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[TGx]/i.am.the.night.s01e03.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.45e-7,
+                    "path": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[TGx]/i.am.the.night.s01e03.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "name": "I.Am.the.Night.S01E03.XviD-AFG [IPT]",
+            "size_total": 0.469623674,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.46857255,
+                    "path": "I.Am.the.Night.S01E03.XviD-AFG/I.Am.the.Night.S01E03.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001164,
+                    "path": "I.Am.the.Night.S01E03.XviD-AFG/I.Am.the.Night.S01E03.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000350982,
+                    "path": "I.Am.the.Night.S01E03.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000257827,
+                    "path": "I.Am.the.Night.S01E03.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000292222,
+                    "path": "I.Am.the.Night.S01E03.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000148929,
+                    "path": "I.Am.the.Night.S01E03.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "name": "I.Am.the.Night.S01E03.XviD-AFG[TGx].aeba82297799b000",
+            "size_total": 0.469624365,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.46857255,
+                    "path": "I.Am.the.Night.S01E03.XviD-AFG[TGx]/I.Am.the.Night.S01E03.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001164,
+                    "path": "I.Am.the.Night.S01E03.XviD-AFG[TGx]/I.Am.the.Night.S01E03.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000350982,
+                    "path": "I.Am.the.Night.S01E03.XviD-AFG[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000257827,
+                    "path": "I.Am.the.Night.S01E03.XviD-AFG[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000292222,
+                    "path": "I.Am.the.Night.S01E03.XviD-AFG[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000148929,
+                    "path": "I.Am.the.Night.S01E03.XviD-AFG[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "I.Am.the.Night.S01E03.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Имя мне - ночь I Am the Night Сезон 1 Серии 1-3 из 6 (Виктория Махони, Пэтти Дженкинс, Карл Франклин) [2019, США, драма, д [rutracker-5683917]",
+            "size_total": 12.400243901,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.400155065,
+                    "path": "I.Am.the.Night.2019.S01.1080p.AMZN.WEB-DL.H.264.RUS.LF.DDP5.1-EniaHD/I.Am.the.Night.S01E01.Pilot.1080p.AMZN.WEB-DL.H.264.RUS.LF.DDP5.1-EniaHD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.068153359,
+                    "path": "I.Am.the.Night.2019.S01.1080p.AMZN.WEB-DL.H.264.RUS.LF.DDP5.1-EniaHD/I.Am.the.Night.S01E02.Phenomenon.of.Interference.1080p.AMZN.WEB-DL.H.264.RUS.LF.DDP5.1-EniaHD.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.931935477,
+                    "path": "I.Am.the.Night.2019.S01.1080p.AMZN.WEB-DL.H.264.RUS.LF.DDP5.1-EniaHD/I.Am.the.Night.S01E03.Dark.Flower.1080p.AMZN.WEB-DL.H.264.RUS.LF.DDP5.1-EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Имя мне - ночь I Am the Night Сезон 1 Серии 1-3 из 6 (Виктория Махони, Пэтти Дженкинс, Карл Франклин) [2019, США, драма, д [rutracker-5688665]",
+            "size_total": 12.103597468,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.295793317,
+                    "path": "I.Am.the.Night.S01.1080p.TVShows/I.Am.the.Night.S01E01.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.97132527,
+                    "path": "I.Am.the.Night.S01.1080p.TVShows/I.Am.the.Night.S01E02.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.836478881,
+                    "path": "I.Am.the.Night.S01.1080p.TVShows/I.Am.the.Night.S01E03.1080p.TVShows.mkv"
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Имя мне Ночь I Am the Night Сезон 1 Серии 1-3 из 6 (Пэтти Дженкинс, Виктория Махони, Карл Франклин) [2019, США, Драма, дет [rutracker-5682860]",
+            "size_total": 2.045874176,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.682428416,
+                    "path": "I Am the Night. Season 1 (WEBDLRip l 400p l Jaskier)/I.Am.the.Night.S01E01.WEB-DLRip.Rus.Eng.Jaskier.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.681672704,
+                    "path": "I Am the Night. Season 1 (WEBDLRip l 400p l Jaskier)/I.Am.the.Night.S01E02.WEB-DLRip.Rus.Eng.Jaskier.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.681773056,
+                    "path": "I Am the Night. Season 1 (WEBDLRip l 400p l Jaskier)/I.Am.the.Night.S01E03.WEB-DLRip.Rus.Eng.Jaskier.avi"
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Имя мне Ночь I Am the Night Сезон 1 Серии 1-3 из 6 (Пэтти Дженкинс, Виктория Махони, Карл Франклин) [2019, США, Драма, дет [rutracker-5682863]",
+            "size_total": 11.807419936,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.191586514,
+                    "path": "I Am the Night. Season 1 (WEB-DL l 1080p l Jaskier)/I.Am.the.Night.S01E01.1080p.WEB-DL.DD5.1.H.264-Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.87465911,
+                    "path": "I Am the Night. Season 1 (WEB-DL l 1080p l Jaskier)/I.Am.the.Night.S01E02.1080p.WEB-DL.DD5.1.H.264-Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.741174312,
+                    "path": "I Am the Night. Season 1 (WEB-DL l 1080p l Jaskier)/I.Am.the.Night.S01E03.1080p.WEB-DL.DD5.1.H.264-Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Имя мне Ночь I Am the Night Сезон 1 Серии 1-3 из 6 (Пэтти Дженкинс, Виктория Махони, Карл Франклин) [2019, США, драма, дет [rutracker-5682936]",
+            "size_total": 3.89402293,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.427009645,
+                    "path": "I Am The Night S01 (2019) 720p WEBRip (Gears Media)/I Am The Night S01E01 (2019) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.26678727,
+                    "path": "I Am The Night S01 (2019) 720p WEBRip (Gears Media)/I Am The Night S01E02 (2019) 720p WEBRip (Gears Media).mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.200226015,
+                    "path": "I Am The Night S01 (2019) 720p WEBRip (Gears Media)/I Am The Night S01E03 (2019) 720p WEBRip (Gears Media).mkv"
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Имя мне Ночь I Am the Night Сезон 1 Серии 1-3 из 6 (Пэтти Дженкинс, Виктория Махони, Карл Франклин) [2019, США, драма, дет [rutracker-5682968]",
+            "size_total": 2.054727346,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.735181408,
+                    "path": "I Am The Night S01 (2019) WEBRip (Gears Media)/I Am The Night S01E01 (2019) WEBRip (Gears Media).avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.664258228,
+                    "path": "I Am The Night S01 (2019) WEBRip (Gears Media)/I Am The Night S01E02 (2019) WEBRip (Gears Media).avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.65528771,
+                    "path": "I Am The Night S01 (2019) WEBRip (Gears Media)/I Am The Night S01E03 (2019) WEBRip (Gears Media).avi"
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Имя мне Ночь Я-Ночь I Am the Night Сезон 1 Серии 1-3 из 6 (Пэтти Дженкинс, Виктория Махони, Карл Франклин) [2019, США, Д [rutracker-5683233]",
+            "size_total": 1.9408384,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.682043392,
+                    "path": "I.Am.the.Night.S01.WEBRip.RusEng.Profix.Media/I.Am.the.Night.S01E01.WEBRip.RusEng.Profix.Media.J.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.629420032,
+                    "path": "I.Am.the.Night.S01.WEBRip.RusEng.Profix.Media/I.Am.the.Night.S01E02.WEBRip.RusEng.Profix.Media.J.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.629374976,
+                    "path": "I.Am.the.Night.S01.WEBRip.RusEng.Profix.Media/I.Am.the.Night.S01E03.WEBRip.RusEng.Profix.Media.J.avi"
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Я-ночь I Am the Night Сезон 1 Серии 1-3 (6) (Сэм Шеридан) [2019, США, драма, детектив, WEBRip 1080p] MVO (OMSKBIRD) [rutracker-5682133]",
+            "size_total": 11.807359752,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.191566566,
+                    "path": "I Am the Night S01 WEBRip 1080p (OMSKBIRD)/I Am the Night S01E01 WEBRip 1080p (OMSKBIRD).mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.87463811,
+                    "path": "I Am the Night S01 WEBRip 1080p (OMSKBIRD)/I Am the Night S01E02 WEBRip 1080p (OMSKBIRD).mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.741155076,
+                    "path": "I Am the Night S01 WEBRip 1080p (OMSKBIRD)/I Am the Night S01E03 WEBRip 1080p (OMSKBIRD).mkv"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 82,
+            "name": "multi-btih-5-2-x-I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD[eztv].mkv.fde5864f1bede943",
+            "btih": "fde5864f1bede9433e03f3df39d102a55c8e5b3a",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.181372338,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 72423,
+            "uuploaders": 2279
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]I.Am.the.Night.S01.WEBRip.Profix.Media",
+            "btih": "edc714cf57c077e455459f513b35f0182fd805e3",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.019406306,
+            "creation": "2019-02-13T17:49:28.000000000Z,uTorrent/3.5,http://rutor.is/torrent/678751",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 52477,
+            "uuploaders": 1189
+        },
+        {
+            "id": 89,
+            "name": "multi-btih-12-2-x-[rutor.is]I_Am_the_Night._Season_1_WEB-DL_l_1080p_l_Jaski",
+            "btih": "e111a05c2eacfd419b2567bd7a2e2dfd4b13fef1",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 11.807419936,
+            "creation": "1970-01-01T00:00:00.000000000Z,Сидбоксы Megaseed.kz,http://rutor.is/torrent/678853",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 51998,
+            "uuploaders": 1217
+        },
+        {
+            "id": 88,
+            "name": "multi-btih-11-2-x-[rutor.is]I.Am.the.Night_(s01)_LF_1080p",
+            "btih": "10f064fd6242f05371ad18adf75db9d0360ae24a",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 12.400243901,
+            "creation": "2019-02-16T06:09:50.000000000Z,mktorrent 1.1,http://rutor.is/torrent/679320",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 48393,
+            "uuploaders": 2008
+        },
+        {
+            "id": 87,
+            "name": "multi-btih-10-2-x-[TorrentCouch-net]-I-Am-The-Night-S01E03-720p-WEBRip-x264-[496MB]",
+            "btih": "f5cfe5e6f48f775e0effce65963d2c5b15d326fe",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.520963403,
+            "creation": "2019-02-13T07:02:28.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 46995,
+            "uuploaders": 1077
+        },
+        {
+            "id": 40,
+            "name": "I.Am.the.Night.S01E03.720p.WEBRip.x265-MiNX[eztv].mkv",
+            "btih": "4619c3e850d114804626740ea2baffd4788409ce",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.209914068,
+            "creation": "2019-02-12T03:59:13.000000000Z,EZTV,Visit us: https://eztv.io/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 43151,
+            "uuploaders": 4098
+        },
+        {
+            "id": 74,
+            "name": "Имя мне Ночь I Am the Night Сезон 1 Серии 1-3 из 6 (Пэтти Дженкинс, Виктория Махони, Карл Франклин) [2019, США, драма, дет [rutracker-5682968]",
+            "btih": "b5a06f2425d5ccf2c87bde211c780d915ea9f80e",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 2.054727346,
+            "creation": "2019-02-15T03:41:49.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5682968",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42689,
+            "uuploaders": 299
+        },
+        {
+            "id": 83,
+            "name": "multi-btih-6-2-x-I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD%2B5.1.H.264-QOQ[eztv].mkv",
+            "btih": "0a9d8e5383e88fd840828bca605e19da970d8df0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.270860732,
+            "creation": "2019-02-12T11:01:34.000000000Z,EZTV,Visit us: https://eztv.io/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42535,
+            "uuploaders": 2514
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]I.am.the.Night.S01E01-03.1080p.WEBRip.Horizon",
+            "btih": "b9eed9d2db20558c7c6d035edf98c6a2e1193b93",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 5.4945806,
+            "creation": "2019-02-12T18:02:21.000000000Z,Transmission/2.94 (d8e60ee44f),http://rutor.is/torrent/681147",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 40093,
+            "uuploaders": 1227
+        },
+        {
+            "id": 81,
+            "name": "multi-btih-4-2-x-I.Am.the.Night.S01E03.480p.x264-mSD[eztv].mkv.889ca00630afc9be",
+            "btih": "889ca00630afc9bee10f407c7eb05b7214aa1fe5",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.16917414,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37534,
+            "uuploaders": 3513
+        },
+        {
+            "id": 86,
+            "name": "multi-btih-9-2-x-I.Am.the.Night.S01E03.WEBRip.x264-TBS[eztv].mkv.d27174bf81d0cc6c",
+            "btih": "d27174bf81d0cc6c1c79e84e08048059d72cddd6",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.329158057,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 32050,
+            "uuploaders": 11301
+        },
+        {
+            "id": 30,
+            "name": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS[TGx].3cd75dc452af089e",
+            "btih": "3cd75dc452af089e657790c4b1395156a2019985",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.669539779,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 31396,
+            "uuploaders": 2169
+        },
+        {
+            "id": 79,
+            "name": "multi-btih-2-2-x-I-Am-the-Night-S01E03-Dark-Flower-HDTV-x264-CRiMSON[TGx]",
+            "btih": "506c433b94d424fc9fc5dd247d39e88356eb4048",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.367394592,
+            "creation": "2019-02-13T05:00:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 29127,
+            "uuploaders": 1100
+        },
+        {
+            "id": 77,
+            "name": "multi-btih-0-2-x-I-Am-the-Night-S01E03-Dark-Flower-720p-AMZN-WEB-DL-DD",
+            "btih": "93b16bd97029522e9c1cbae9f6d4f8e962a7a524",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.275186408,
+            "creation": "2019-02-13T04:59:18.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 29006,
+            "uuploaders": 484
+        },
+        {
+            "id": 65,
+            "name": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "26414fe956cb2063812338ecaa625791a78e13d1",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.329158331,
+            "creation": "2019-02-12T02:30:10.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27715,
+            "uuploaders": 4623
+        },
+        {
+            "id": 91,
+            "name": "multi-btih-14-2-x-i.am.the.night.s01e03.720p.webrip.x264-tbs[eztv].mkv.2ce12f240c29158b",
+            "btih": "2ce12f240c29158b82fc10cbac03f13ce0c36559",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.057502279,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 27401,
+            "uuploaders": 3625
+        },
+        {
+            "id": 2,
+            "name": "8366-I.Am.the.Night.S01E03.WEBRip.x264-TBS[ettv]",
+            "btih": "abf405ac715c7484b8cf2d1182537ee91366f3ed",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.329158242,
+            "creation": "2019-02-12T02:32:14.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25710,
+            "uuploaders": 8961
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]I.Am.the.Night.S01.1080p.WEBRip.Profix.Media",
+            "btih": "1c6e5e9111d284f0d88b0112622180358995d8f1",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 7.401521518,
+            "creation": "2019-02-13T17:59:58.000000000Z,uTorrent/3.5,http://rutor.is/torrent/678753",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24062,
+            "uuploaders": 1100
+        },
+        {
+            "id": 13,
+            "name": "[rutor.is]I_Am_The_Night_S01_2019_WEBRip_Gears_Media",
+            "btih": "831b4c9542760adf4ea268c8933783335e62c7c1",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.30446993,
+            "creation": "2019-02-13T04:15:09.000000000Z,uTorrent/2210,http://rutor.is/torrent/678918",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24057,
+            "uuploaders": 763
+        },
+        {
+            "id": 75,
+            "name": "Имя мне Ночь Я-Ночь I Am the Night Сезон 1 Серии 1-3 из 6 (Пэтти Дженкинс, Виктория Махони, Карл Франклин) [2019, США, Д [rutracker-5683233]",
+            "btih": "64f908887c5672f0cf1d4f31cad09dfae7606339",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.9408384,
+            "creation": "2019-02-13T20:18:17.000000000Z,uTorrent/1820,https://rutracker.org/forum/viewtopic.php?t=5683233",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22847,
+            "uuploaders": 948
+        },
+        {
+            "id": 29,
+            "name": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "5097f937d40f0442157b8cfc8849109b4e586f67",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.663879896,
+            "creation": "2019-02-12T02:48:53.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19311,
+            "uuploaders": 2392
+        },
+        {
+            "id": 15,
+            "name": "[rutor.is]I_Am_the_Night_S01_WEBRip_OMSKBIRD",
+            "btih": "141a41cbdbc77897fc0f7e0c70aa9c99864d748f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.32257536,
+            "creation": "2019-02-13T10:29:20.000000000Z,uTorrent/3.5.3,http://rutor.is/torrent/678621",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19273,
+            "uuploaders": 1040
+        },
+        {
+            "id": 80,
+            "name": "multi-btih-3-2-x-I-Am-the-Night-S01E03-Dark-Flower-XviD-AFG[TGx]",
+            "btih": "9c0596badc5a8b1a695a0a876a5e09e11952cbea",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.512654533,
+            "creation": "2019-02-13T05:59:21.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19026,
+            "uuploaders": 1226
+        },
+        {
+            "id": 90,
+            "name": "multi-btih-13-2-x-[rutor.is]I_Am_the_Night._Season_1_WEBDLRip_l_400p_l_Jask",
+            "btih": "ec829e36c831f107b1322cfe3ea31f68e5c5646d",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 2.045874176,
+            "creation": "1970-01-01T00:00:00.000000000Z,Сидбоксы Megaseed.kz,http://rutor.is/torrent/678854",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 18174,
+            "uuploaders": 1331
+        },
+        {
+            "id": 18,
+            "name": "I-Am-the-Night-S01E03-1080p-HEVC-x265-MeGusta",
+            "btih": "85cc2f5adcbcb88be34eac987dcac14f34118dc9",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.71396155,
+            "creation": "2019-02-12T22:44:50.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17287,
+            "uuploaders": 730
+        },
+        {
+            "id": 14,
+            "name": "[rutor.is]I_Am_the_Night_S01_WEBRip_720p_OMSKBIRD",
+            "btih": "123f628519d7225be0fc018d97393d94d3739ff4",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 3.688079257,
+            "creation": "2019-02-13T10:30:19.000000000Z,uTorrent/3.5.3,http://rutor.is/torrent/678620",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17053,
+            "uuploaders": 1494
+        },
+        {
+            "id": 84,
+            "name": "multi-btih-7-2-x-I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON[eztv].mkv.db6695f79c4324ee",
+            "btih": "db6695f79c4324ee5f078903334d757227637dad",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.214375774,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16736,
+            "uuploaders": 2096
+        },
+        {
+            "id": 39,
+            "name": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "a5e18fae1ed7f4f0ef5eafbba4d232e2b6f39725",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.057502558,
+            "creation": "2019-02-12T02:34:56.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15880,
+            "uuploaders": 3057
+        },
+        {
+            "id": 68,
+            "name": "I.Am.the.Night.S01E03.XviD-AFG[TGx].aeba82297799b000",
+            "btih": "aeba82297799b000bf2f6cf5dcff0b7a0c747675",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.469624365,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15735,
+            "uuploaders": 1367
+        },
+        {
+            "id": 34,
+            "name": "I.Am.the.Night.S01E03.720p.HDTV.x264-300MB.mkv.10f63fff9e02c3ff",
+            "btih": "10f63fff9e02c3ffaa1b653a129eb7c710103d49",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.377171862,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14147,
+            "uuploaders": 502
+        },
+        {
+            "id": 85,
+            "name": "multi-btih-8-2-x-I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON[eztv].mkv.c5b09ecaf2ab2dd3",
+            "btih": "c5b09ecaf2ab2dd38e70afea00c232719df77819",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.366113322,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13293,
+            "uuploaders": 2436
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]I.am.the.Night.S01E01-03.WEBRip.Horizon",
+            "btih": "51ce644a04a7a685a399e5e84f1bb349c9f8c8df",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.824274432,
+            "creation": "2019-02-12T18:02:47.000000000Z,Transmission/2.94 (d8e60ee44f),http://rutor.is/torrent/681145",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13018,
+            "uuploaders": 1217
+        },
+        {
+            "id": 21,
+            "name": "I-Am-the-Night-S01E03-Dark-Flower-720p-HDTV-x264-CRiMSON",
+            "btih": "5e5e14d9e00b28f4214ef3873fe7e25359afe9cd",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.217855305,
+            "creation": "2019-02-13T02:46:49.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12384,
+            "uuploaders": 210
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]I.Am.the.Night.S01.720p.WEBRip.Profix.Media",
+            "btih": "152cdeeb71c607e585837482bfecb7a7dab1d872",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.804439725,
+            "creation": "2019-02-13T17:53:24.000000000Z,uTorrent/3.5,http://rutor.is/torrent/678752",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12294,
+            "uuploaders": 1155
+        },
+        {
+            "id": 78,
+            "name": "multi-btih-1-2-x-I-Am-the-Night-S01E03-Dark-Flower-720p-HDTV-x264-CRiMSON[TGx]",
+            "btih": "a53fc559387e258dff354ec8fb565bd84d9f1aa2",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.21785591,
+            "creation": "2019-02-13T02:04:18.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12236,
+            "uuploaders": 1318
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]I.am.the.Night.S01E01-03.720p.WEBRip.Horizon",
+            "btih": "65e6bd0b56e8846d7afc198056b6939e8c9a264b",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 3.691798748,
+            "creation": "2019-02-12T18:01:53.000000000Z,Transmission/2.94 (d8e60ee44f),http://rutor.is/torrent/681146",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10253,
+            "uuploaders": 1081
+        },
+        {
+            "id": 19,
+            "name": "I-Am-the-Night-S01E03-Dark-Flower-480p-x264-mSD",
+            "btih": "919a0509d21684990f6307012fa86f86de146d79",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.182169417,
+            "creation": "2019-02-13T01:24:41.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9449,
+            "uuploaders": 344
+        },
+        {
+            "id": 1,
+            "name": "78aa-I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS[ettv]",
+            "btih": "9927cdae013648105a08332ec196a210cf5d2296",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.057502464,
+            "creation": "2019-02-12T02:36:15.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8976,
+            "uuploaders": 2531
+        },
+        {
+            "id": 73,
+            "name": "Имя мне Ночь I Am the Night Сезон 1 Серии 1-3 из 6 (Пэтти Дженкинс, Виктория Махони, Карл Франклин) [2019, США, драма, дет [rutracker-5682936]",
+            "btih": "a96468b6527bdabb2a8ac2532e5b31d222a72c90",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 3.89402293,
+            "creation": "2019-02-14T23:16:17.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5682936",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8104,
+            "uuploaders": 279
+        },
+        {
+            "id": 23,
+            "name": "I-Am-the-Night-S01E03-Dark-Flower-720p-HEVC-x265-MeGusta",
+            "btih": "560958f637627e00e2d0f8165eb567c72bc324a9",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.335615043,
+            "creation": "2019-02-13T06:39:06.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7046,
+            "uuploaders": 373
+        },
+        {
+            "id": 66,
+            "name": "I.Am.the.Night.S01E03.WEBRip.x264-TBS[TGx].d3782a01b959aee2",
+            "btih": "d3782a01b959aee20e0c27675bd6824a8f0c1bd4",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.330350067,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6505,
+            "uuploaders": 1172
+        },
+        {
+            "id": 12,
+            "name": "[rutor.is]I_Am_The_Night_S01_2019_720p_WEBRip_Gears_Media",
+            "btih": "749f73a43cd86125e8bc313b9b1d230d8cd77165",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.694696758,
+            "creation": "2019-02-12T21:32:31.000000000Z,uTorrent/2210,http://rutor.is/torrent/678895",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5450,
+            "uuploaders": 648
+        },
+        {
+            "id": 41,
+            "name": "I.Am.the.Night.S01E03.720p.WEBRip.x265-MiNX[TGx].8cf222e05ff641c7",
+            "btih": "8cf222e05ff641c71b6930076c560ba47f4b16e2",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.209914759,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4952,
+            "uuploaders": 1591
+        },
+        {
+            "id": 70,
+            "name": "Имя мне - ночь I Am the Night Сезон 1 Серии 1-3 из 6 (Виктория Махони, Пэтти Дженкинс, Карл Франклин) [2019, США, драма, д [rutracker-5688665]",
+            "btih": "6908704e8ff36fd86c0d407a0b3e7faf3c1a3d05",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 12.103597468,
+            "creation": "2019-02-19T20:18:49.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),https://rutracker.org/forum/viewtopic.php?t=5688665",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4350,
+            "uuploaders": 300
+        },
+        {
+            "id": 76,
+            "name": "Я-ночь I Am the Night Сезон 1 Серии 1-3 (6) (Сэм Шеридан) [2019, США, драма, детектив, WEBRip 1080p] MVO (OMSKBIRD) [rutracker-5682133]",
+            "btih": "6b62e3ddf40c8f6f8d38583f56520d390278d5ec",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 11.807359752,
+            "creation": "2019-02-13T10:32:55.000000000Z,uTorrent/3.5.3,https://rutracker.org/forum/viewtopic.php?t=5682133",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4211,
+            "uuploaders": 422
+        },
+        {
+            "id": 67,
+            "name": "I.Am.the.Night.S01E03.XviD-AFG [IPT]",
+            "btih": "185255e3ca4cc7364b793c95446c383a342a2678",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.469623674,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 657,
+            "uuploaders": 473
+        },
+        {
+            "id": 36,
+            "name": "I.Am.the.Night.S01E03.720p.WEBRip.x264-TBS [IPT]",
+            "btih": "5dbd910b40f0f3048bdc6c403e99c7c52355c39c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.057506279,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 439,
+            "uuploaders": 300
+        },
+        {
+            "id": 31,
+            "name": "I.Am.the.Night.S01E03.480p.x264-mSD [IPT]",
+            "btih": "b17e9c29926f0da082e9078e88b0ef97484aa0c9",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.170143813,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 407,
+            "uuploaders": 198
+        },
+        {
+            "id": 27,
+            "name": "I.Am.the.Night.S01E03.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "d0e0a54802874de0a0b1aaaa206381bb878f795e",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.713961464,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 353,
+            "uuploaders": 217
+        },
+        {
+            "id": 35,
+            "name": "I.Am.the.Night.S01E03.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "f18f706f89450b6d6204edccebebfd5fc4fe6110",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.290982516,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 346,
+            "uuploaders": 197
+        },
+        {
+            "id": 47,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ [IPT]",
+            "btih": "5dc46823311b73948880725152400db81d79659f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.275185717,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 324,
+            "uuploaders": 63
+        },
+        {
+            "id": 28,
+            "name": "I.Am.the.Night.S01E03.1080p.WEBRip.x264-TBS [IPT]",
+            "btih": "4ea984f57504759b038715a2497d0f005a488b98",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.663885785,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 301,
+            "uuploaders": 209
+        },
+        {
+            "id": 62,
+            "name": "I.Am.the.Night.S01E03.WEBRip.x264-TBS [IPT]",
+            "btih": "56b77504908ef92963cc9267c78dd36e862a22c6",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.329161007,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 300,
+            "uuploaders": 77
+        },
+        {
+            "id": 54,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "f344a1fa61822aca8d5dbf5a12e56a196c9841f0",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.335614957,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 239,
+            "uuploaders": 133
+        },
+        {
+            "id": 42,
+            "name": "I.Am.the.Night.S01E03.AAC.MP4-Mobile [IPT]",
+            "btih": "41190a195f878f1bb00eb7bc6ad5759257537a8c",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.188640142,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 202,
+            "uuploaders": 140
+        },
+        {
+            "id": 60,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.XviD-AFG [IPT]",
+            "btih": "7e65fb09f7b25f93215424bf63c06e260f75fde2",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.512653842,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 200,
+            "uuploaders": 134
+        },
+        {
+            "id": 50,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.720p.HDTV.x264-CRiMSON [IPT]",
+            "btih": "ca6cb00811add8906be192f32c7d51a1ca7a0b09",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.214381328,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 145,
+            "uuploaders": 79
+        },
+        {
+            "id": 26,
+            "name": "I.Am.the.Night.S01E02.Phenomenon.of.Interference.720p.AMZN.WEB-DL.DD+5.1.H.264-QOQ [IPT]",
+            "btih": "46d38eb58d868ecb93504097162520eecbb255e3",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.410853421,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 91,
+            "uuploaders": 54
+        },
+        {
+            "id": 43,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.480p.x264-mSD [IPT]",
+            "btih": "4b3fc71ff7d1a6f55093822d85024eb34f993c56",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.182169331,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 81,
+            "uuploaders": 57
+        },
+        {
+            "id": 56,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.HDTV.x264-CRiMSON [IPT]",
+            "btih": "d30465dfa10fb70efd58b14e3d708dd435c45ba1",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.366117541,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 58,
+            "uuploaders": 49
+        },
+        {
+            "id": 55,
+            "name": "I.Am.the.Night.S01E03.Dark.Flower.AAC.MP4-Mobile [IPT]",
+            "btih": "b334fc4cdbec07636e0543c2bcadb807aaf326ca",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.202698975,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 46,
+            "uuploaders": 35
+        }
+    ]
+}
