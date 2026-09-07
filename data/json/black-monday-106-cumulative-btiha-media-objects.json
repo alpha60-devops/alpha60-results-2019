@@ -1,0 +1,2625 @@
+{
+    "collection_name": "Black Monday",
+    "collection_id": "106",
+    "collection_key": "black-monday-106",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "5eeca05a502b9d5f9acbf787149fc4037e7e5c3b",
+            "duplicate_0_0": "Black-Monday-S01E06-480p-x264-mSD[eztv]",
+            "duplicate_0_1": "Black.Monday.S01E06.480p.x264-mSD[eztv].mkv"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "7610eab51650ad34df620ff63b7c572b1d3e502b",
+            "duplicate_1_0": "Black-Monday-S01E06-720p-WEBRip-x265-MiNX[eztv]",
+            "duplicate_1_1": "Black.Monday.S01E06.720p.WEBRip.x265-MiNX[eztv].mkv"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "89b812b32afd47862a62803ae4910fab4c87c684",
+            "duplicate_2_0": "[rutor.is]Black.Monday.S01.WEB-DLRip.1080p.IdeaFilm",
+            "duplicate_2_1": "Black-Monday-S01-WEB-DLRip-1080p"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "1cc03ddde2e8c255f5b6d54b6cc5ab27c5bb390a",
+            "duplicate_3_0": "[rutor.is]Black.Monday.S01.WEB-DLRip.720p.IdeaFilm",
+            "duplicate_3_1": "Black.Monday.S01.WEB-DLRip.720p.1cc03ddde2e8c255"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "138869d3e1d5619c768e069054d95be4941652fe",
+            "duplicate_4_0": "[rutor.is]Black.Monday_1_WEB-DLRip_l_400p_l_Jaskier",
+            "duplicate_4_1": "Чёрный понедельник Black Monday Сезон 1 Серии 1-6 из 10 (Эван Голдберг, Сет Роген) [2019, США, Комедия, WEB-DLRip] MVO (Ja [rutracker-5675236]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "c10c785fac495294def504ff1a47572b6dccb166",
+            "duplicate_5_0": "[rutor.is]Black.Monday_1_WEB-DL_l_720p_l_Jaskier",
+            "duplicate_5_1": "Чёрный понедельник Black Monday Сезон 1 Серии 1-6 из 10 (Эван Голдберг, Сет Роген) [2019, США, Комедия, WEB-DL 720p] MVO ( [rutracker-5675238]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "f4107abbf506a1587250314efe4be40d202efbb8",
+            "duplicate_6_0": "black-monday-s01e06-720p-webrip-x264-tbs[eztv]",
+            "duplicate_6_1": "black.monday.s01e06.720p.webrip.x264-tbs[eztv].mkv"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "dfebfdbb608a36382c84373616d692984ab5f571",
+            "duplicate_7_0": "black-monday-s01e06-webrip-x264-tbs[eztv]",
+            "duplicate_7_1": "black.monday.s01e06.webrip.x264-tbs[eztv].mkv"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[rutor.is]Black.Monday.S01.WEB-DLRip.1080p.IdeaFilm",
+            "size_total": 11.013987258,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.119737751,
+                    "path": "Black.Monday.S01.WEB-DLRip.1080p/Black.Monday.S01E01.WEB-DLRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.780462145,
+                    "path": "Black.Monday.S01.WEB-DLRip.1080p/Black.Monday.S01E02.WEB-DLRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.783844076,
+                    "path": "Black.Monday.S01.WEB-DLRip.1080p/Black.Monday.S01E03.WEB-DLRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.78609634,
+                    "path": "Black.Monday.S01.WEB-DLRip.1080p/Black.Monday.S01E04.WEB-DLRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.801894747,
+                    "path": "Black.Monday.S01.WEB-DLRip.1080p/Black.Monday.S01E05.WEB-DLRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.741952199,
+                    "path": "Black.Monday.S01.WEB-DLRip.1080p/Black.Monday.S01E06.WEB-DLRip.1080p.IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]Black.Monday.S01.WEB-DLRip.720p.IdeaFilm",
+            "size_total": 6.898011308,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.329086552,
+                    "path": "Black.Monday.S01.WEB-DLRip.720p/Black.Monday.S01E01.WEB-DLRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.114692915,
+                    "path": "Black.Monday.S01.WEB-DLRip.720p/Black.Monday.S01E02.WEB-DLRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.117566201,
+                    "path": "Black.Monday.S01.WEB-DLRip.720p/Black.Monday.S01E03.WEB-DLRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.118110071,
+                    "path": "Black.Monday.S01.WEB-DLRip.720p/Black.Monday.S01E04.WEB-DLRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.128112494,
+                    "path": "Black.Monday.S01.WEB-DLRip.720p/Black.Monday.S01E05.WEB-DLRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.090443075,
+                    "path": "Black.Monday.S01.WEB-DLRip.720p/Black.Monday.S01E06.WEB-DLRip.720p.IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]Black.Monday.S01.WEB-DLRip.IdeaFilm",
+            "size_total": 3.002208332,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.585190778,
+                    "path": "Black.Monday.S01.WEB-DLRip/Black.Monday.S01E01.WEB-DLRip.IdeaFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.48636675,
+                    "path": "Black.Monday.S01.WEB-DLRip/Black.Monday.S01E02.WEB-DLRip.IdeaFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.487002618,
+                    "path": "Black.Monday.S01.WEB-DLRip/Black.Monday.S01E03.WEB-DLRip.IdeaFilm.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.484630912,
+                    "path": "Black.Monday.S01.WEB-DLRip/Black.Monday.S01E04.WEB-DLRip.IdeaFilm.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.489028344,
+                    "path": "Black.Monday.S01.WEB-DLRip/Black.Monday.S01E05.WEB-DLRip.IdeaFilm.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.46998893,
+                    "path": "Black.Monday.S01.WEB-DLRip/Black.Monday.S01E06.WEB-DLRip.IdeaFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Black.Monday_1_WEB-DL_l_720p_l_Jaskier",
+            "size_total": 8.422660011,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.832522487,
+                    "path": "Black.Monday 1 (WEB-DL l 720p l Jaskier)/Black.Monday.S01E01.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.53855054,
+                    "path": "Black.Monday 1 (WEB-DL l 720p l Jaskier)/Black.Monday.S01E02.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.524558421,
+                    "path": "Black.Monday 1 (WEB-DL l 720p l Jaskier)/Black.Monday.S01E03.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.524776844,
+                    "path": "Black.Monday 1 (WEB-DL l 720p l Jaskier)/Black.Monday.S01E04.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.515930601,
+                    "path": "Black.Monday 1 (WEB-DL l 720p l Jaskier)/Black.Monday.S01E05.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.486321118,
+                    "path": "Black.Monday 1 (WEB-DL l 720p l Jaskier)/Black.Monday.S01E06.WEB-DL.720p.Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Black.Monday_1_WEB-DLRip_l_400p_l_Jaskier",
+            "size_total": 2.43730432,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.47410176,
+                    "path": "Black.Monday 1 (WEB-DLRip l 400p l Jaskier)/Black.Monday.S01E01.WEB-DLRip.Jaskier.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.396521472,
+                    "path": "Black.Monday 1 (WEB-DLRip l 400p l Jaskier)/Black.Monday.S01E02.WEB-DLRip.Jaskier.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.395872256,
+                    "path": "Black.Monday 1 (WEB-DLRip l 400p l Jaskier)/Black.Monday.S01E03.WEB-DLRip.Jaskier.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.392247296,
+                    "path": "Black.Monday 1 (WEB-DLRip l 400p l Jaskier)/Black.Monday.S01E04.WEB-DLRip.Jaskier.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.395931648,
+                    "path": "Black.Monday 1 (WEB-DLRip l 400p l Jaskier)/Black.Monday.S01E05.WEB-DLRip.Jaskier.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.382629888,
+                    "path": "Black.Monday 1 (WEB-DLRip l 400p l Jaskier)/Black.Monday.S01E06.WEB-DLRip.Jaskier.avi"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Black-Monday-(Season-01)-HamsterStudio",
+            "size_total": 1.848561664,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.372946944,
+                    "path": "Black.Monday  (Season  01) HamsterStudio/Black.Monday.s01e01.WEBRip.HamsterStudio.Org.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.323506176,
+                    "path": "Black.Monday  (Season  01) HamsterStudio/Black.Monday.s01e02.WEBRip.HamsterStudio.Org.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.32079872,
+                    "path": "Black.Monday  (Season  01) HamsterStudio/Black.Monday.s01e03.WEBRip.HamsterStudio.Org.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.281509888,
+                    "path": "Black.Monday  (Season  01) HamsterStudio/Black.Monday.s01e05.WEBRip.HamsterStudio.Org.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.279302144,
+                    "path": "Black.Monday  (Season  01) HamsterStudio/Black.Monday.s01e04.WEBRip.HamsterStudio.Org.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.270497792,
+                    "path": "Black.Monday  (Season  01) HamsterStudio/Black.Monday.s01e06.WEBRip.HamsterStudio.Org.avi"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Black-Monday-S01-(2019)-WEBRip-[Gears-Media]",
+            "size_total": 1.92220827,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.442421074,
+                    "path": "Black Monday S01 (2019) WEBRip [Gears Media]/Black Monday S01E01 (2019) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.372384394,
+                    "path": "Black Monday S01 (2019) WEBRip [Gears Media]/Black Monday S01E05 (2019) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.369769044,
+                    "path": "Black Monday S01 (2019) WEBRip [Gears Media]/Black Monday S01E03 (2019) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.368987634,
+                    "path": "Black Monday S01 (2019) WEBRip [Gears Media]/Black Monday S01E04 (2019) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.368646124,
+                    "path": "Black Monday S01 (2019) WEBRip [Gears Media]/Black Monday S01E02 (2019) WEBRip [Gears Media].avi"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Black-Monday-S01-1080p-ColdFilm",
+            "size_total": 6.501626885,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.275011178,
+                    "path": "Black.Monday.S01.1080p.ColdFilm/Black.Monday.S01E01.1080p.ColdFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.055696965,
+                    "path": "Black.Monday.S01.1080p.ColdFilm/Black.Monday.S01E02.1080p.ColdFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.052825368,
+                    "path": "Black.Monday.S01.1080p.ColdFilm/Black.Monday.S01E05.1080p.ColdFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.051099357,
+                    "path": "Black.Monday.S01.1080p.ColdFilm/Black.Monday.S01E03.1080p.ColdFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.04507741,
+                    "path": "Black.Monday.S01.1080p.ColdFilm/Black.Monday.S01E04.1080p.ColdFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.021916607,
+                    "path": "Black.Monday.S01.1080p.ColdFilm/Black.Monday.S01E06.1080p.ColdFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Black-Monday-S01-720p-WEB-CasStudio-TV",
+            "size_total": 6.708939768,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.83264883,
+                    "path": "Black.Monday.S01.720p.WEB.CasStudio.TV/Black.Monday.S01E01.365.720p.WEBDL.KvK.CasStudio.TV.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.482004517,
+                    "path": "Black.Monday.S01.720p.WEB.CasStudio.TV/Black.Monday.S01E02.364.720p.WEBDL.KvK.CasStudio.TV.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.467393879,
+                    "path": "Black.Monday.S01.720p.WEB.CasStudio.TV/Black.Monday.S01E03.339.720p.WEBDL.KvK.CasStudio.TV.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.468139006,
+                    "path": "Black.Monday.S01.720p.WEB.CasStudio.TV/Black.Monday.S01E04.295.720p.WEBDL.KvK.CasStudio.TV.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.458753536,
+                    "path": "Black.Monday.S01.720p.WEB.CasStudio.TV/Black.Monday.S01E05.243.720p.WEBDL.KvK.CasStudio.TV.mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Black-Monday-s01-HD1080p-WEB-DL-Rus-Eng-BaibaKo-tv",
+            "size_total": 17.263891508,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.49735711,
+                    "path": "Black.Monday.s01.HD1080p.WEB-DL.Rus.Eng.BaibaKo.tv/Black.Monday.s01e01.HD1080p.WEB-DL.Rus.Eng.BaibaKo.tv.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.483557687,
+                    "path": "Black.Monday.s01.HD1080p.WEB-DL.Rus.Eng.BaibaKo.tv/Black.Monday.s01e02.HD1080p.WEB-DL.Rus.Eng.BaibaKo.tv.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.578385285,
+                    "path": "Black.Monday.s01.HD1080p.WEB-DL.Rus.Eng.BaibaKo.tv/Black.Monday.s01e03.HD1080p.WEB-DL.Rus.Eng.BaibaKo.tv.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.579731371,
+                    "path": "Black.Monday.s01.HD1080p.WEB-DL.Rus.Eng.BaibaKo.tv/Black.Monday.s01e04.HD1080p.WEB-DL.Rus.Eng.BaibaKo.tv.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.601527349,
+                    "path": "Black.Monday.s01.HD1080p.WEB-DL.Rus.Eng.BaibaKo.tv/Black.Monday.s01e05.HD1080p.WEB-DL.Rus.Eng.BaibaKo.tv.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.523332706,
+                    "path": "Black.Monday.s01.HD1080p.WEB-DL.Rus.Eng.BaibaKo.tv/Black.Monday.s01e06.HD1080p.WEB-DL.Rus.Eng.BaibaKo.tv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Black-Monday-s01-HDR1080p-WEBRip-x265-Rus-Eng-BaibaKo-tv",
+            "size_total": 12.37641219,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.739600228,
+                    "path": "Black.Monday.s01.HDR1080p.WEBRip.x265.Rus.Eng.BaibaKo.tv/Black.Monday.s01e01.HDR1080p.WEBRip.x265.Rus.Eng.BaibaKo.tv.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.816960721,
+                    "path": "Black.Monday.s01.HDR1080p.WEBRip.x265.Rus.Eng.BaibaKo.tv/Black.Monday.s01e02.HDR1080p.WEBRip.x265.Rus.Eng.BaibaKo.tv.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.409995316,
+                    "path": "Black.Monday.s01.HDR1080p.WEBRip.x265.Rus.Eng.BaibaKo.tv/Black.Monday.s01e03.HDR1080p.WEBRip.x265.Rus.Eng.BaibaKo.tv.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.416489512,
+                    "path": "Black.Monday.s01.HDR1080p.WEBRip.x265.Rus.Eng.BaibaKo.tv/Black.Monday.s01e04.HDR1080p.WEBRip.x265.Rus.Eng.BaibaKo.tv.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.766554134,
+                    "path": "Black.Monday.s01.HDR1080p.WEBRip.x265.Rus.Eng.BaibaKo.tv/Black.Monday.s01e05.HDR1080p.WEBRip.x265.Rus.Eng.BaibaKo.tv.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.226812279,
+                    "path": "Black.Monday.s01.HDR1080p.WEBRip.x265.Rus.Eng.BaibaKo.tv/Black.Monday.s01e06.HDR1080p.WEBRip.x265.Rus.Eng.BaibaKo.tv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Black-Monday-S01-WEB-DLRip-1080p",
+            "size_total": 11.013987258,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.119737751,
+                    "path": "Black.Monday.S01.WEB-DLRip.1080p/Black.Monday.S01E01.WEB-DLRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.780462145,
+                    "path": "Black.Monday.S01.WEB-DLRip.1080p/Black.Monday.S01E02.WEB-DLRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.783844076,
+                    "path": "Black.Monday.S01.WEB-DLRip.1080p/Black.Monday.S01E03.WEB-DLRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.78609634,
+                    "path": "Black.Monday.S01.WEB-DLRip.1080p/Black.Monday.S01E04.WEB-DLRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.801894747,
+                    "path": "Black.Monday.S01.WEB-DLRip.1080p/Black.Monday.S01E05.WEB-DLRip.1080p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.741952199,
+                    "path": "Black.Monday.S01.WEB-DLRip.1080p/Black.Monday.S01E06.WEB-DLRip.1080p.IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Black-Monday-S01E06-480p-x264-mSD[eztv]",
+            "size_total": 0.112092258,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.112092258,
+                    "path": "Black.Monday.S01E06.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Black-Monday-S01E06-720p-WEBRip-x264-TBS[ettv]",
+            "size_total": 1.201659177,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.85e-7,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.201658992,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS[ettv]/black.monday.s01e06.720p.webrip.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "black-monday-s01e06-720p-webrip-x264-tbs[eztv]",
+            "size_total": 1.201658992,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.201658992,
+                    "path": "black.monday.s01e06.720p.webrip.x264-tbs[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Black-Monday-S01E06-720p-WEBRip-x264-TBS[TGx]",
+            "size_total": 1.205746845,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000769095,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001174923,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001165791,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000977265,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 1.201658992,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS[TGx]/black.monday.s01e06.720p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 8.8e-8,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS[TGx]/black.monday.s01e06.720p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Black-Monday-S01E06-720p-WEBRip-x265-MiNX[eztv]",
+            "size_total": 0.126365241,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.126365241,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Black-Monday-S01E06-720p-WEBRip-x265-MiNX[TGx]",
+            "size_total": 0.126365932,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.126365241,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x265-MiNX[TGx]/Black.Monday.S01E06.720p.WEBRip.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.91e-7,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Black-Monday-S01E06-iNTERNAL-1080p-WEB-H264-MEMENTO",
+            "size_total": 3.164428847,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.163460887,
+                    "path": "www.Torrenting.org - Black Monday S01E06 iNTERNAL 1080p WEB H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001172,
+                    "path": "www.Torrenting.org - Black Monday S01E06 iNTERNAL 1080p WEB H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000156904,
+                    "path": "www.Torrenting.org - Black Monday S01E06 iNTERNAL 1080p WEB H264-MEMENTO/Screens/screen0001.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000204409,
+                    "path": "www.Torrenting.org - Black Monday S01E06 iNTERNAL 1080p WEB H264-MEMENTO/Screens/screen0002.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000215526,
+                    "path": "www.Torrenting.org - Black Monday S01E06 iNTERNAL 1080p WEB H264-MEMENTO/Screens/screen0003.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000195906,
+                    "path": "www.Torrenting.org - Black Monday S01E06 iNTERNAL 1080p WEB H264-MEMENTO/Screens/screen0004.jpg"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000193957,
+                    "path": "www.Torrenting.org - Black Monday S01E06 iNTERNAL 1080p WEB H264-MEMENTO/Screens/screen0005.jpg"
+                },
+                {
+                    "number": 8,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.org - Black Monday S01E06 iNTERNAL 1080p WEB H264-MEMENTO/Torrent Downloaded From www.torrenting.org.txt"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Black-Monday-S01E06-iNTERNAL-1080p-WEB-H264-MEMENTO[TGx]",
+            "size_total": 3.172230925,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00876544,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO[TGx]/Sample/sample-black.monday.s01e06.internal.1080p.web.h264-memento.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.91e-7,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 3.163460887,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO[TGx]/black.monday.s01e06.internal.1080p.web.h264-memento.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.3e-8,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO[TGx]/black.monday.s01e06.internal.1080p.web.h264-memento.nfo"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000002112,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO[TGx]/black.monday.s01e06.internal.1080p.web.h264-memento.sfv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001732,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO[TGx]/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Black-Monday-S01E06-WEBRip-x264-TBS",
+            "size_total": 0.178978039,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.178813304,
+                    "path": "www.Torrenting.org - Black Monday S01E06 WEBRip x264-TBS/black.monday.s01e06.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001024,
+                    "path": "www.Torrenting.org - Black Monday S01E06 WEBRip x264-TBS/black.monday.s01e06.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000020468,
+                    "path": "www.Torrenting.org - Black Monday S01E06 WEBRip x264-TBS/Screens/screen0001.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000031455,
+                    "path": "www.Torrenting.org - Black Monday S01E06 WEBRip x264-TBS/Screens/screen0002.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000031823,
+                    "path": "www.Torrenting.org - Black Monday S01E06 WEBRip x264-TBS/Screens/screen0003.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000026974,
+                    "path": "www.Torrenting.org - Black Monday S01E06 WEBRip x264-TBS/Screens/screen0004.jpg"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000026464,
+                    "path": "www.Torrenting.org - Black Monday S01E06 WEBRip x264-TBS/Screens/screen0005.jpg"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000026441,
+                    "path": "www.Torrenting.org - Black Monday S01E06 WEBRip x264-TBS/Screens/screen0006.jpg"
+                },
+                {
+                    "number": 9,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.org - Black Monday S01E06 WEBRip x264-TBS/Torrent Downloaded From www.Torrenting.org.txt"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Black-Monday-S01E06-WEBRip-x264-TBS[ettv]",
+            "size_total": 0.178813503,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.99e-7,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.178813304,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS[ettv]/black.monday.s01e06.webrip.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "black-monday-s01e06-webrip-x264-tbs[eztv]",
+            "size_total": 0.178813304,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.178813304,
+                    "path": "black.monday.s01e06.webrip.x264-tbs[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Black-Monday-S01E06-WEBRip-x264-TBS[TGx]",
+            "size_total": 0.18022254100000001,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00028041,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000404448,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000394273,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000329352,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.178813304,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS[TGx]/black.monday.s01e06.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 6.3e-8,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS[TGx]/black.monday.s01e06.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Black-Monday-S01E06-XviD-AFG[TGx]",
+            "size_total": 0.275650071,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.274622748,
+                    "path": "Black.Monday.S01E06.XviD-AFG[TGx]/Black.Monday.S01E06.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001165,
+                    "path": "Black.Monday.S01E06.XviD-AFG[TGx]/Black.Monday.S01E06.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000241072,
+                    "path": "Black.Monday.S01E06.XviD-AFG[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000232669,
+                    "path": "Black.Monday.S01E06.XviD-AFG[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000303755,
+                    "path": "Black.Monday.S01E06.XviD-AFG[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000247971,
+                    "path": "Black.Monday.S01E06.XviD-AFG[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "Black.Monday.S01E06.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Black.Monday.S01.WEB-DLRip.720p.1cc03ddde2e8c255",
+            "size_total": 6.898011308,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.329086552,
+                    "path": "Black.Monday.S01.WEB-DLRip.720p/Black.Monday.S01E01.WEB-DLRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.114692915,
+                    "path": "Black.Monday.S01.WEB-DLRip.720p/Black.Monday.S01E02.WEB-DLRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.117566201,
+                    "path": "Black.Monday.S01.WEB-DLRip.720p/Black.Monday.S01E03.WEB-DLRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.118110071,
+                    "path": "Black.Monday.S01.WEB-DLRip.720p/Black.Monday.S01E04.WEB-DLRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.128112494,
+                    "path": "Black.Monday.S01.WEB-DLRip.720p/Black.Monday.S01E05.WEB-DLRip.720p.IdeaFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.090443075,
+                    "path": "Black.Monday.S01.WEB-DLRip.720p/Black.Monday.S01E06.WEB-DLRip.720p.IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Black.Monday.S01E06.122.1080p.AMZN.WEBRip.DDP5.1.x264-monkee[rartv]-[rarbg.to]",
+            "size_total": 2.273501989,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.27350186,
+                    "path": "Black.Monday.S01E06.122.1080p.AMZN.WEBRip.DDP5.1.x264-monkee[rarbg]/Black.Monday.S01E06.122.1080p.AMZN.WEB-DL.DDP5.1.H.264-monkee.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Black.Monday.S01E06.122.1080p.AMZN.WEBRip.DDP5.1.x264-monkee[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Black.Monday.S01E06.122.1080p.AMZN.WEBRip.DDP5.1.x264-monkee[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Black.Monday.S01E06.122.720p.AMZN.WEBRip.DDP5.1.x264-monkee[rartv]-[rarbg.to]",
+            "size_total": 1.403348382,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.403348253,
+                    "path": "Black.Monday.S01E06.122.720p.AMZN.WEBRip.DDP5.1.x264-monkee[rarbg]/Black.Monday.S01E06.122.720p.AMZN.WEB-DL.DDP5.1.H.264-monkee.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Black.Monday.S01E06.122.720p.AMZN.WEBRip.DDP5.1.x264-monkee[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Black.Monday.S01E06.122.720p.AMZN.WEBRip.DDP5.1.x264-monkee[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Black.Monday.S01E06.480p.x264-mSD [IPT]",
+            "size_total": 0.113036181,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.112092258,
+                    "path": "Black.Monday.S01E06.480p.x264-mSD/Black.Monday.S01E06.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001183,
+                    "path": "Black.Monday.S01E06.480p.x264-mSD/Black.Monday.S01E06.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000223938,
+                    "path": "Black.Monday.S01E06.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000221142,
+                    "path": "Black.Monday.S01E06.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000267266,
+                    "path": "Black.Monday.S01E06.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000230394,
+                    "path": "Black.Monday.S01E06.480p.x264-mSD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Black.Monday.S01E06.480p.x264-mSD[eztv].mkv",
+            "size_total": 0.112092258,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.112092258,
+                    "path": "Black.Monday.S01E06.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Black.Monday.S01E06.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.174864347,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.171334572,
+                    "path": "Black.Monday.S01E06.720p.HEVC.x265-MeGusta/Black.Monday.S01E06.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001193,
+                    "path": "Black.Monday.S01E06.720p.HEVC.x265-MeGusta/Black.Monday.S01E06.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00061968,
+                    "path": "Black.Monday.S01E06.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001063719,
+                    "path": "Black.Monday.S01E06.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001062155,
+                    "path": "Black.Monday.S01E06.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000783028,
+                    "path": "Black.Monday.S01E06.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Black.Monday.S01E06.720p.WEBRip.x264-TBS [IPT]",
+            "size_total": 1.201663355,
+            "files_total": 27,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 8.8e-8,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.001661892,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000001375,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS/black.monday.s01e06.720p.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "black.monday.s01e06.720p.webrip.x264-tbs[eztv].mkv",
+            "size_total": 1.201658992,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.201658992,
+                    "path": "black.monday.s01e06.720p.webrip.x264-tbs[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Black.Monday.S01E06.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.201659209,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.201658992,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS[rarbg]/black.monday.s01e06.720p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 8.8e-8,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x264-TBS[rarbg]/black.monday.s01e06.720p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Black.Monday.S01E06.720p.WEBRip.x265-MiNX[eztv].mkv",
+            "size_total": 0.126365241,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.126365241,
+                    "path": "Black.Monday.S01E06.720p.WEBRip.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Black.Monday.S01E06.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.103100662,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.102245864,
+                    "path": "Black.Monday.S01E06.AAC.MP4-Mobile/Black.Monday.S01E06.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001287,
+                    "path": "Black.Monday.S01E06.AAC.MP4-Mobile/Black.Monday.S01E06.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000201608,
+                    "path": "Black.Monday.S01E06.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000205074,
+                    "path": "Black.Monday.S01E06.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000241193,
+                    "path": "Black.Monday.S01E06.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000205636,
+                    "path": "Black.Monday.S01E06.AAC.MP4-Mobile/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Black.Monday.S01E06.iNTERNAL.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.748540296,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.742119606,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.HEVC.x265-MeGusta/Black.Monday.S01E06.iNTERNAL.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001232,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.HEVC.x265-MeGusta/Black.Monday.S01E06.iNTERNAL.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001614317,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001419691,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001855831,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001529619,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO [IPT]",
+            "size_total": 3.163469115,
+            "files_total": 34,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r00"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r01"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r02"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r03"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r04"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r05"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r06"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r07"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r08"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r09"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r10"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r11"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r12"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r13"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r14"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r15"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r16"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r17"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r18"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r19"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r20"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r21"
+                },
+                {
+                    "number": 23,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r22"
+                },
+                {
+                    "number": 24,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r23"
+                },
+                {
+                    "number": 25,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r24"
+                },
+                {
+                    "number": 26,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r25"
+                },
+                {
+                    "number": 27,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r26"
+                },
+                {
+                    "number": 28,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r27"
+                },
+                {
+                    "number": 29,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r28"
+                },
+                {
+                    "number": 30,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r29"
+                },
+                {
+                    "number": 31,
+                    "size": 0.063465271,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.r30"
+                },
+                {
+                    "number": 32,
+                    "size": 0.1,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.rar"
+                },
+                {
+                    "number": 33,
+                    "size": 0.000002112,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/black.monday.s01e06.internal.1080p.web.h264-memento.sfv"
+                },
+                {
+                    "number": 34,
+                    "size": 0.000001732,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO[rartv]-[rarbg.to]",
+            "size_total": 3.163461079,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.163460887,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO[rarbg]/black.monday.s01e06.internal.1080p.web.h264-memento.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.3e-8,
+                    "path": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO[rarbg]/black.monday.s01e06.internal.1080p.web.h264-memento.nfo"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Black.Monday.S01E06.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.291648855,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.291593151,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-ION10/Black.Monday.S01E06.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000055575,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-ION10/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Black.Monday.S01E06.WEBRip.x264-TBS [IPT]",
+            "size_total": 0.178814816,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.3e-8,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS/black.monday.s01e06.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS/black.monday.s01e06.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS/black.monday.s01e06.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS/black.monday.s01e06.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS/black.monday.s01e06.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS/black.monday.s01e06.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS/black.monday.s01e06.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS/black.monday.s01e06.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.018814303,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS/black.monday.s01e06.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS/black.monday.s01e06.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 11,
+                    "size": 4.5e-7,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS/black.monday.s01e06.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "black.monday.s01e06.webrip.x264-tbs[eztv].mkv",
+            "size_total": 0.178813304,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.178813304,
+                    "path": "black.monday.s01e06.webrip.x264-tbs[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Black.Monday.S01E06.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.178813496,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.178813304,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS[rarbg]/black.monday.s01e06.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.3e-8,
+                    "path": "Black.Monday.S01E06.WEBRip.x264-TBS[rarbg]/black.monday.s01e06.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Black.Monday.S01E06.XviD-AFG [IPT]",
+            "size_total": 0.27564938,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.274622748,
+                    "path": "Black.Monday.S01E06.XviD-AFG/Black.Monday.S01E06.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001165,
+                    "path": "Black.Monday.S01E06.XviD-AFG/Black.Monday.S01E06.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000241072,
+                    "path": "Black.Monday.S01E06.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000232669,
+                    "path": "Black.Monday.S01E06.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000303755,
+                    "path": "Black.Monday.S01E06.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000247971,
+                    "path": "Black.Monday.S01E06.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Чёрный понедельник Black Monday Сезон 1 Серии 1-6 (10) (Эван Голдберг) [2019, США, комедия, WEB-DL 720p] MVO (AlexFilm) + [rutracker-5678628]",
+            "size_total": 4.491608838,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.706834522,
+                    "path": "Black Monday - Season 1 (AlexFilm) WEB-DL 720p/Black.Monday.s01e06.WEB-DL.720p.Rus.Eng.AlexFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.722648811,
+                    "path": "Black Monday - Season 1 (AlexFilm) WEB-DL 720p/Black.Monday.s01e02.WEB-DL.720p.Rus.Eng.AlexFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.724613904,
+                    "path": "Black Monday - Season 1 (AlexFilm) WEB-DL 720p/Black.Monday.s01e04.WEB-DL.720p.Rus.Eng.AlexFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.73015702,
+                    "path": "Black Monday - Season 1 (AlexFilm) WEB-DL 720p/Black.Monday.s01e03.WEB-DL.720p.Rus.Eng.AlexFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.731289141,
+                    "path": "Black Monday - Season 1 (AlexFilm) WEB-DL 720p/Black.Monday.s01e05.WEB-DL.720p.Rus.Eng.AlexFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.87606544,
+                    "path": "Black Monday - Season 1 (AlexFilm) WEB-DL 720p/Black.Monday.s01e01.WEB-DL.720p.Rus.Eng.AlexFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Чёрный понедельник Black Monday Сезон 1 Серии 1-6 (10) (Эван Голдберг) [2019, США, комедия, WEB-DLRip] MVO (AlexFilm) + Or [rutracker-5678625]",
+            "size_total": 2.306709504,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.363126784,
+                    "path": "Black Monday - Season 1 (AlexFilm) WEB-DLRip/Black.Monday.s01e06.WEB-DLRip.Rus.Eng.AlexFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.37111808,
+                    "path": "Black Monday - Season 1 (AlexFilm) WEB-DLRip/Black.Monday.s01e02.WEB-DLRip.Rus.Eng.AlexFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.372211712,
+                    "path": "Black Monday - Season 1 (AlexFilm) WEB-DLRip/Black.Monday.s01e04.WEB-DLRip.Rus.Eng.AlexFilm.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.375035904,
+                    "path": "Black Monday - Season 1 (AlexFilm) WEB-DLRip/Black.Monday.s01e03.WEB-DLRip.Rus.Eng.AlexFilm.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.3757056,
+                    "path": "Black Monday - Season 1 (AlexFilm) WEB-DLRip/Black.Monday.s01e05.WEB-DLRip.Rus.Eng.AlexFilm.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.449511424,
+                    "path": "Black Monday - Season 1 (AlexFilm) WEB-DLRip/Black.Monday.s01e01.WEB-DLRip.Rus.Eng.AlexFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Чёрный понедельник Black Monday Сезон 1 Серии 1-6 из 10 (Эван Голдберг, Сет Роген) [2019, США, Комедия, WEB-DL 1080p] MVO [rutracker-5683131]",
+            "size_total": 18.756066873,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.329809047,
+                    "path": "Black.Monday.S01.1080p.TVShows/Black.Monday.S01E01.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.329566074,
+                    "path": "Black.Monday.S01.1080p.TVShows/Black.Monday.S01E02.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.232644633,
+                    "path": "Black.Monday.S01.1080p.TVShows/Black.Monday.S01E03.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.294892357,
+                    "path": "Black.Monday.S01.1080p.TVShows/Black.Monday.S01E04.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.212575835,
+                    "path": "Black.Monday.S01.1080p.TVShows/Black.Monday.S01E05.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.356578927,
+                    "path": "Black.Monday.S01.1080p.TVShows/Black.Monday.S01E06.1080p.TVShows.mkv"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Чёрный понедельник Black Monday Сезон 1 Серии 1-6 из 10 (Эван Голдберг, Сет Роген) [2019, США, Комедия, WEB-DL 720p] MVO ( [rutracker-5675238]",
+            "size_total": 8.422660011,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.832522487,
+                    "path": "Black.Monday 1 (WEB-DL l 720p l Jaskier)/Black.Monday.S01E01.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.53855054,
+                    "path": "Black.Monday 1 (WEB-DL l 720p l Jaskier)/Black.Monday.S01E02.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.524558421,
+                    "path": "Black.Monday 1 (WEB-DL l 720p l Jaskier)/Black.Monday.S01E03.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.524776844,
+                    "path": "Black.Monday 1 (WEB-DL l 720p l Jaskier)/Black.Monday.S01E04.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.515930601,
+                    "path": "Black.Monday 1 (WEB-DL l 720p l Jaskier)/Black.Monday.S01E05.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.486321118,
+                    "path": "Black.Monday 1 (WEB-DL l 720p l Jaskier)/Black.Monday.S01E06.WEB-DL.720p.Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Чёрный понедельник Black Monday Сезон 1 Серии 1-6 из 10 (Эван Голдберг, Сет Роген) [2019, США, Комедия, WEB-DLRip] MVO (Ja [rutracker-5675236]",
+            "size_total": 2.43730432,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.47410176,
+                    "path": "Black.Monday 1 (WEB-DLRip l 400p l Jaskier)/Black.Monday.S01E01.WEB-DLRip.Jaskier.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.396521472,
+                    "path": "Black.Monday 1 (WEB-DLRip l 400p l Jaskier)/Black.Monday.S01E02.WEB-DLRip.Jaskier.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.395872256,
+                    "path": "Black.Monday 1 (WEB-DLRip l 400p l Jaskier)/Black.Monday.S01E03.WEB-DLRip.Jaskier.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.392247296,
+                    "path": "Black.Monday 1 (WEB-DLRip l 400p l Jaskier)/Black.Monday.S01E04.WEB-DLRip.Jaskier.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.395931648,
+                    "path": "Black.Monday 1 (WEB-DLRip l 400p l Jaskier)/Black.Monday.S01E05.WEB-DLRip.Jaskier.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.382629888,
+                    "path": "Black.Monday 1 (WEB-DLRip l 400p l Jaskier)/Black.Monday.S01E06.WEB-DLRip.Jaskier.avi"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Чёрный понедельник Black Monday Сезон 1 Серии 1-6 из 10 (Эван Голдберг, Сет Роген, Чарльз Стоун III) [2019, США, Комедия, [rutracker-5700978]",
+            "size_total": 8.491938906,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.901241633,
+                    "path": "Black.Monday_s01_Jaskier_720p/Black.Monday.s01e01.WEB-DL.720p.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.538668337,
+                    "path": "Black.Monday_s01_Jaskier_720p/Black.Monday.s01e02.WEB-DL.720p.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.524668841,
+                    "path": "Black.Monday_s01_Jaskier_720p/Black.Monday.s01e03.WEB-DL.720p.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.524888068,
+                    "path": "Black.Monday_s01_Jaskier_720p/Black.Monday.s01e04.WEB-DL.720p.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.516037546,
+                    "path": "Black.Monday_s01_Jaskier_720p/Black.Monday.s01e05.WEB-DL.720p.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.486434481,
+                    "path": "Black.Monday_s01_Jaskier_720p/Black.Monday.s01e06.WEB-DL.720p.mkv"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Чёрный понедельник Black Monday Сезон 1 Серии 1-6 из 10 (Эван Голдберг, Сет Роген, Чарльз Стоун III) [2019, США, Комедия, [rutracker-5700984]",
+            "size_total": 8.491938886,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.901241634,
+                    "path": "Black.Monday_s01_AlexFilm_720p/Black.Monday.s01e01.WEB-DL.720p.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.538668338,
+                    "path": "Black.Monday_s01_AlexFilm_720p/Black.Monday.s01e02.WEB-DL.720p.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.524668842,
+                    "path": "Black.Monday_s01_AlexFilm_720p/Black.Monday.s01e03.WEB-DL.720p.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.524888069,
+                    "path": "Black.Monday_s01_AlexFilm_720p/Black.Monday.s01e04.WEB-DL.720p.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.516037517,
+                    "path": "Black.Monday_s01_AlexFilm_720p/Black.Monday.s01e05.WEB-DL.720p.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.486434486,
+                    "path": "Black.Monday_s01_AlexFilm_720p/Black.Monday.s01e06.WEB-DL.720p.mkv"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Чёрный понедельник Black Monday Сезон 1 Серии 1-6 из 10 (Эван Голдберг, Сет Роген, Чарльз Стоун III) [2019, США, Комедия, [rutracker-5700990]",
+            "size_total": 8.491944139,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.901241635,
+                    "path": "Black.Monday_s01_NewStudio_720p/Black.Monday.s01e01.WEB-DL.720p.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.538668339,
+                    "path": "Black.Monday_s01_NewStudio_720p/Black.Monday.s01e02.WEB-DL.720p.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.524670583,
+                    "path": "Black.Monday_s01_NewStudio_720p/Black.Monday.s01e03.WEB-DL.720p.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.524889944,
+                    "path": "Black.Monday_s01_NewStudio_720p/Black.Monday.s01e04.WEB-DL.720p.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.516039151,
+                    "path": "Black.Monday_s01_NewStudio_720p/Black.Monday.s01e05.WEB-DL.720p.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.486434487,
+                    "path": "Black.Monday_s01_NewStudio_720p/Black.Monday.s01e06.WEB-DL.720p.mkv"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 60,
+            "name": "multi-btih-7-2-x-black-monday-s01e06-webrip-x264-tbs[eztv]",
+            "btih": "dfebfdbb608a36382c84373616d692984ab5f571",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.178813304,
+            "creation": "2019-03-03T05:40:11.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 92836,
+            "uuploaders": 7203
+        },
+        {
+            "id": 54,
+            "name": "multi-btih-1-2-x-Black-Monday-S01E06-720p-WEBRip-x265-MiNX[eztv]",
+            "btih": "7610eab51650ad34df620ff63b7c572b1d3e502b",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.126365241,
+            "creation": "2019-03-03T07:00:06.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 92554,
+            "uuploaders": 4261
+        },
+        {
+            "id": 59,
+            "name": "multi-btih-6-2-x-black-monday-s01e06-720p-webrip-x264-tbs[eztv]",
+            "btih": "f4107abbf506a1587250314efe4be40d202efbb8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.201658992,
+            "creation": "2019-03-03T05:45:17.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 90280,
+            "uuploaders": 3941
+        },
+        {
+            "id": 53,
+            "name": "multi-btih-0-2-x-Black-Monday-S01E06-480p-x264-mSD[eztv]",
+            "btih": "5eeca05a502b9d5f9acbf787149fc4037e7e5c3b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.112092258,
+            "creation": "2019-03-03T05:45:21.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 87900,
+            "uuploaders": 4101
+        },
+        {
+            "id": 34,
+            "name": "Black.Monday.S01E06.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "435108d1df2460673abc39713fd4bf79972673a1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.201659209,
+            "creation": "2019-03-03T05:21:06.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 82889,
+            "uuploaders": 2544
+        },
+        {
+            "id": 14,
+            "name": "Black-Monday-S01E06-720p-WEBRip-x264-TBS[ettv]",
+            "btih": "8ceb0c959aac52ea6b1e0f6d2f3687ffc07ac89f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.201659177,
+            "creation": "2019-03-03T05:41:08.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 79681,
+            "uuploaders": 3208
+        },
+        {
+            "id": 56,
+            "name": "multi-btih-3-2-x-[rutor.is]Black.Monday.S01.WEB-DLRip.720p.IdeaFilm",
+            "btih": "1cc03ddde2e8c255f5b6d54b6cc5ab27c5bb390a",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 6.898011308,
+            "creation": "2019-03-05T08:30:40.000000000Z,qBittorrent v4.1.5,http://rutor.is/torrent/678290",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 78452,
+            "uuploaders": 2062
+        },
+        {
+            "id": 57,
+            "name": "multi-btih-4-2-x-[rutor.is]Black.Monday_1_WEB-DLRip_l_400p_l_Jaskier",
+            "btih": "138869d3e1d5619c768e069054d95be4941652fe",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 2.43730432,
+            "creation": "1970-01-01T00:00:00.000000000Z,Сидбоксы Megaseed.kz,http://rutor.is/torrent/675999",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 77557,
+            "uuploaders": 1475
+        },
+        {
+            "id": 25,
+            "name": "Black-Monday-S01E06-XviD-AFG[TGx]",
+            "btih": "0da1618bc45e4c73d0314a52e89345472da50c5f",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.275650071,
+            "creation": "2019-03-03T05:45:09.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 77376,
+            "uuploaders": 3768
+        },
+        {
+            "id": 58,
+            "name": "multi-btih-5-2-x-[rutor.is]Black.Monday_1_WEB-DL_l_720p_l_Jaskier",
+            "btih": "c10c785fac495294def504ff1a47572b6dccb166",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 8.422660011,
+            "creation": "1970-01-01T00:00:00.000000000Z,Сидбоксы Megaseed.kz,http://rutor.is/torrent/676001",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 76365,
+            "uuploaders": 1590
+        },
+        {
+            "id": 21,
+            "name": "Black-Monday-S01E06-WEBRip-x264-TBS",
+            "btih": "ce7d5617b6161c48d3f6ac1359f3de6532f00746",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.178978039,
+            "creation": "2019-03-03T05:35:57.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 76340,
+            "uuploaders": 1837
+        },
+        {
+            "id": 43,
+            "name": "Black.Monday.S01E06.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "251bd40e8f49d954c2eb64f0bb93792b1d0110d6",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.178813496,
+            "creation": "2019-03-03T05:18:05.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 75969,
+            "uuploaders": 2453
+        },
+        {
+            "id": 46,
+            "name": "Чёрный понедельник Black Monday Сезон 1 Серии 1-6 (10) (Эван Голдберг) [2019, США, комедия, WEB-DLRip] MVO (AlexFilm) + Or [rutracker-5678625]",
+            "btih": "80f9de16314b481295387a7777eb12464025e12d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.306709504,
+            "creation": "2019-03-04T16:47:42.000000000Z,uTorrent/3.5.4,https://rutracker.org/forum/viewtopic.php?t=5678625",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 75678,
+            "uuploaders": 1350
+        },
+        {
+            "id": 19,
+            "name": "Black-Monday-S01E06-iNTERNAL-1080p-WEB-H264-MEMENTO",
+            "btih": "a43d922b59ea0b8cf71b1c276f118dd1e261728f",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.164428847,
+            "creation": "2019-03-03T05:56:43.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 74306,
+            "uuploaders": 1453
+        },
+        {
+            "id": 40,
+            "name": "Black.Monday.S01E06.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "fc43feed8708545b838e8b7f72e2490e4673eb4a",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.291648855,
+            "creation": "2019-03-03T05:32:33.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 73818,
+            "uuploaders": 3994
+        },
+        {
+            "id": 18,
+            "name": "Black-Monday-S01E06-720p-WEBRip-x265-MiNX[TGx]",
+            "btih": "720d8e1aaa337733c87e4249f89c79a369c3074a",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.126365932,
+            "creation": "2019-03-03T07:00:14.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 72063,
+            "uuploaders": 2286
+        },
+        {
+            "id": 22,
+            "name": "Black-Monday-S01E06-WEBRip-x264-TBS[ettv]",
+            "btih": "31dbd62659d272ca7740d0cf260900fe9d351c29",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.178813503,
+            "creation": "2019-03-03T05:30:35.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 71973,
+            "uuploaders": 3132
+        },
+        {
+            "id": 39,
+            "name": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO[rartv]-[rarbg.to]",
+            "btih": "e37d9c6bf489a3e283e78c9434f5c581c7463ade",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.163461079,
+            "creation": "2019-03-03T05:21:47.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 71911,
+            "uuploaders": 1738
+        },
+        {
+            "id": 20,
+            "name": "Black-Monday-S01E06-iNTERNAL-1080p-WEB-H264-MEMENTO[TGx]",
+            "btih": "732d16ff9b4fa107723328a9fb332734ad8d7d21",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.172230925,
+            "creation": "2019-03-03T06:00:04.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 71661,
+            "uuploaders": 1952
+        },
+        {
+            "id": 24,
+            "name": "Black-Monday-S01E06-WEBRip-x264-TBS[TGx]",
+            "btih": "0e45f9c8253cd49ee47c73881607264eff9a6cd9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.18022254100000001,
+            "creation": "2019-03-03T05:40:03.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 70461,
+            "uuploaders": 1554
+        },
+        {
+            "id": 11,
+            "name": "Black-Monday-s01-HDR1080p-WEBRip-x265-Rus-Eng-BaibaKo-tv",
+            "btih": "011737a6d4eca9398c23036ec30066c3bc4f3f3f",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 12.37641219,
+            "creation": "2019-03-07T03:10:43.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 69142,
+            "uuploaders": 482
+        },
+        {
+            "id": 45,
+            "name": "Чёрный понедельник Black Monday Сезон 1 Серии 1-6 (10) (Эван Голдберг) [2019, США, комедия, WEB-DL 720p] MVO (AlexFilm) + [rutracker-5678628]",
+            "btih": "a4cdb5c7163b667dd831ed14ef9fd99610cfc541",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.491608838,
+            "creation": "2019-03-04T17:00:24.000000000Z,uTorrent/3.5.4,https://rutracker.org/forum/viewtopic.php?t=5678628",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 68721,
+            "uuploaders": 1049
+        },
+        {
+            "id": 55,
+            "name": "multi-btih-2-2-x-[rutor.is]Black.Monday.S01.WEB-DLRip.1080p.IdeaFilm",
+            "btih": "89b812b32afd47862a62803ae4910fab4c87c684",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 11.013987258,
+            "creation": "2019-03-05T08:27:31.000000000Z,qBittorrent v4.1.5,http://rutor.is/torrent/678289",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 68311,
+            "uuploaders": 1855
+        },
+        {
+            "id": 50,
+            "name": "Чёрный понедельник Black Monday Сезон 1 Серии 1-6 из 10 (Эван Голдберг, Сет Роген, Чарльз Стоун III) [2019, США, Комедия, [rutracker-5700978]",
+            "btih": "55ab1baf68f29e00092a36915aef77f6f7dc638a",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 8.491938906,
+            "creation": "2019-03-08T17:45:58.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5700978",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 66762,
+            "uuploaders": 406
+        },
+        {
+            "id": 27,
+            "name": "Black.Monday.S01E06.122.1080p.AMZN.WEBRip.DDP5.1.x264-monkee[rartv]-[rarbg.to]",
+            "btih": "946e78a28dea72c4a08a419debd648dc77f274ed",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.273501989,
+            "creation": "2019-03-03T14:53:37.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 66606,
+            "uuploaders": 2192
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]Black.Monday.S01.WEB-DLRip.IdeaFilm",
+            "btih": "27968224b60b895f948190c6598ab086e3e20ea0",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 3.002208332,
+            "creation": "2019-03-05T08:31:59.000000000Z,qBittorrent v4.1.5,http://rutor.is/torrent/678291",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 65763,
+            "uuploaders": 1480
+        },
+        {
+            "id": 28,
+            "name": "Black.Monday.S01E06.122.720p.AMZN.WEBRip.DDP5.1.x264-monkee[rartv]-[rarbg.to]",
+            "btih": "8e1de7d3ede8f3ca2e31cb8602eb18582ad7e210",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.403348382,
+            "creation": "2019-03-03T14:50:28.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 65249,
+            "uuploaders": 1403
+        },
+        {
+            "id": 9,
+            "name": "Black-Monday-S01-720p-WEB-CasStudio-TV",
+            "btih": "b528529e66f3d89acb93008f8a19b75266c6ab1c",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 6.708939768,
+            "creation": "2019-03-07T18:44:56.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 64217,
+            "uuploaders": 742
+        },
+        {
+            "id": 10,
+            "name": "Black-Monday-s01-HD1080p-WEB-DL-Rus-Eng-BaibaKo-tv",
+            "btih": "d7a90e571198394c0e62c170e6a3119471731a3a",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 17.263891508,
+            "creation": "2019-03-07T19:20:28.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 63109,
+            "uuploaders": 530
+        },
+        {
+            "id": 8,
+            "name": "Black-Monday-S01-1080p-ColdFilm",
+            "btih": "32ed61204be8cf221fa5511a37a67cfaa08d6c38",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 6.501626885,
+            "creation": "2019-03-09T08:44:18.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 62940,
+            "uuploaders": 562
+        },
+        {
+            "id": 16,
+            "name": "Black-Monday-S01E06-720p-WEBRip-x264-TBS[TGx]",
+            "btih": "6c34aeabba30d18c3ea425ed824f9955ab9a4b74",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.205746845,
+            "creation": "2019-03-03T05:40:06.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 61009,
+            "uuploaders": 1620
+        },
+        {
+            "id": 7,
+            "name": "Black-Monday-S01-(2019)-WEBRip-[Gears-Media]",
+            "btih": "b60a40cf5a13dde98641887354b1c0987a605cea",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.92220827,
+            "creation": "2019-03-08T11:40:40.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 60044,
+            "uuploaders": 1913
+        },
+        {
+            "id": 52,
+            "name": "Чёрный понедельник Black Monday Сезон 1 Серии 1-6 из 10 (Эван Голдберг, Сет Роген, Чарльз Стоун III) [2019, США, Комедия, [rutracker-5700990]",
+            "btih": "1a26edcbe1d672e9c5b1ffe84ebb01947fd80e8f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 8.491944139,
+            "creation": "2019-03-09T05:11:58.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5700990",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 57865,
+            "uuploaders": 557
+        },
+        {
+            "id": 6,
+            "name": "Black-Monday-(Season-01)-HamsterStudio",
+            "btih": "3ccacf59c4130df721a052fbd044543055003c6e",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.848561664,
+            "creation": "2019-03-07T16:15:30.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 56586,
+            "uuploaders": 591
+        },
+        {
+            "id": 47,
+            "name": "Чёрный понедельник Black Monday Сезон 1 Серии 1-6 из 10 (Эван Голдберг, Сет Роген) [2019, США, Комедия, WEB-DL 1080p] MVO [rutracker-5683131]",
+            "btih": "a818d160965bc134f3cf4bf367b9d5fd12f1d381",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 18.756066873,
+            "creation": "2019-03-08T07:02:05.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),https://rutracker.org/forum/viewtopic.php?t=5683131",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53974,
+            "uuploaders": 649
+        },
+        {
+            "id": 51,
+            "name": "Чёрный понедельник Black Monday Сезон 1 Серии 1-6 из 10 (Эван Голдберг, Сет Роген, Чарльз Стоун III) [2019, США, Комедия, [rutracker-5700984]",
+            "btih": "163a98773b6aca66a231423c3b1b535d37db5d3d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 8.491938886,
+            "creation": "2019-03-08T18:01:40.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5700984",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53216,
+            "uuploaders": 281
+        },
+        {
+            "id": 38,
+            "name": "Black.Monday.S01E06.iNTERNAL.1080p.WEB.H264-MEMENTO [IPT]",
+            "btih": "553d9786307cfe3fc7e0030419a9045162276919",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.163469115,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 583,
+            "uuploaders": 312
+        },
+        {
+            "id": 32,
+            "name": "Black.Monday.S01E06.720p.WEBRip.x264-TBS [IPT]",
+            "btih": "7d53777a51b78d1229fe33a8b67b766447958f8a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.201663355,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 498,
+            "uuploaders": 322
+        },
+        {
+            "id": 31,
+            "name": "Black.Monday.S01E06.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "9f81641a1d0497c0f94362f35fb1120bfb974173",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.174864347,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 466,
+            "uuploaders": 256
+        },
+        {
+            "id": 29,
+            "name": "Black.Monday.S01E06.480p.x264-mSD [IPT]",
+            "btih": "d276631557c832b73bdf6cf9fb0875822d32cf30",
+            "resolution": "2160",
+            "encoding": "264",
+            "gigabytes": 0.113036181,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 364,
+            "uuploaders": 186
+        },
+        {
+            "id": 44,
+            "name": "Black.Monday.S01E06.XviD-AFG [IPT]",
+            "btih": "4d3c5ae4963b0870457cac70d5ff8fcefd582250",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.27564938,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 358,
+            "uuploaders": 230
+        },
+        {
+            "id": 37,
+            "name": "Black.Monday.S01E06.iNTERNAL.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "be314adb6917e98ebef09ea2f2225875d74b52b5",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.748540296,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 280,
+            "uuploaders": 215
+        },
+        {
+            "id": 36,
+            "name": "Black.Monday.S01E06.AAC.MP4-Mobile [IPT]",
+            "btih": "5d7c6aba4e9b06a77de1c2ab72bd0d07934fe7a6",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.103100662,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 193,
+            "uuploaders": 106
+        },
+        {
+            "id": 41,
+            "name": "Black.Monday.S01E06.WEBRip.x264-TBS [IPT]",
+            "btih": "4bf7d8035eadb9fb4145581908b120cdb73beb29",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.178814816,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 162,
+            "uuploaders": 128
+        }
+    ]
+}
