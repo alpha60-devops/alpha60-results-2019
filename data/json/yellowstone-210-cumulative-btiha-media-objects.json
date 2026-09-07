@@ -1,0 +1,2343 @@
+{
+    "collection_name": "Yellowstone",
+    "collection_id": "210",
+    "collection_key": "yellowstone-210",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "e115c37637b92c79a8bd00090936870114977681",
+            "duplicate_0_0": "Yellowstone-2018-S02E10-480p-x264-mSD[eztv]",
+            "duplicate_0_1": "Yellowstone.2018.S02E10.480p.x264-mSD[eztv].mkv"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "a6e7859895984667ab45cbf6112ecbb8e038186a",
+            "duplicate_1_0": "Yellowstone-2018-S02E10-720p-WEBRip-x264-CONVOY[eztv]",
+            "duplicate_1_1": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[eztv].mkv"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "c382c0c6268fda180d0bc3d01342bcf40131b68b",
+            "duplicate_2_0": "Yellowstone-2018-S02E10-720p-WEBRip-x264-CONVOY[rarbg]",
+            "duplicate_2_1": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "1dda5b0464947d4cb1c157f88b9d51c5d8223170",
+            "duplicate_3_0": "Yellowstone-2018-S02E10-720p-WEBRip-x265-MiNX[eztv]",
+            "duplicate_3_1": "Yellowstone.2018.S02E10.720p.WEBRip.x265-MiNX[eztv].mkv"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "a312d096815216e7181e4ace73675403b8ceeead",
+            "duplicate_4_0": "Yellowstone-2018-S02E10-Sins-of-the-Father-1080p-AMZN-WEBRip-DDP2-0-x264-NTb[rarbg]",
+            "duplicate_4_1": "Yellowstone.2018.S02E10.Sins.of.the.Father.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "424164519847445445c5297b0b6f901aaab83663",
+            "duplicate_5_0": "Yellowstone-2018-S02E10-Sins-of-the-Father-720p-AMZN-WEBRip-DDP2-0-x264-NTb[rarbg]",
+            "duplicate_5_1": "Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "fbb06e6748bf71b974a238847896d11db08d8c5c",
+            "duplicate_6_0": "Yellowstone-2018-S02E10-WEB-x264-PHOENiX[eztv]",
+            "duplicate_6_1": "Yellowstone.2018.S02E10.WEB.x264-PHOENiX[eztv].mkv"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "a11b6ff05d989786dd417eb126b14b5e1224434a",
+            "duplicate_7_0": "Yellowstone-2018-S02E10-iNTERNAL-1080p-WEB-h264-CONVOY[rarbg]",
+            "duplicate_7_1": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "b7fca3f226649f4f6ba2f9169170f7bd3354aa9a",
+            "duplicate_8_0": "Yellowstone-S02E10-WEBRip-x264-ION10",
+            "duplicate_8_1": "Yellowstone.S02E10.WEBRip.x264-ION10-[rarbg.to]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[rutor.is]Yellowstone.S02.400p.Kerob",
+            "size_total": 5.491208914,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.599513004,
+                    "path": "Yellowstone.S02.400p.Kerob/Yellowstone.S02E01.400p.Kerob.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.529494084,
+                    "path": "Yellowstone.S02.400p.Kerob/Yellowstone.S02E02.400p.Kerob.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.571852894,
+                    "path": "Yellowstone.S02.400p.Kerob/Yellowstone.S02E03.400p.Kerob.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.573948068,
+                    "path": "Yellowstone.S02.400p.Kerob/Yellowstone.S02E04.400p.Kerob.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.545876872,
+                    "path": "Yellowstone.S02.400p.Kerob/Yellowstone.S02E05.400p.Kerob.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.617131862,
+                    "path": "Yellowstone.S02.400p.Kerob/Yellowstone.S02E06.400p.Kerob.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.534176682,
+                    "path": "Yellowstone.S02.400p.Kerob/Yellowstone.S02E07.400p.Kerob.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.52700453,
+                    "path": "Yellowstone.S02.400p.Kerob/Yellowstone.S02E08.400p.Kerob.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.46343636,
+                    "path": "Yellowstone.S02.400p.Kerob/Yellowstone.S02E09.400p.Kerob.avi"
+                },
+                {
+                    "number": 10,
+                    "size": 0.528774558,
+                    "path": "Yellowstone.S02.400p.Kerob/Yellowstone.S02E10.400p.Kerob.avi"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]Yellowstone.S02.720p.Kerob",
+            "size_total": 14.632255899,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.43832511,
+                    "path": "Yellowstone.S02.720p.Kerob/Yellowstone S02E07.720p.Kerob.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.496802002,
+                    "path": "Yellowstone.S02.720p.Kerob/Yellowstone.S02E01.720p.Kerob.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.480495619,
+                    "path": "Yellowstone.S02.720p.Kerob/Yellowstone.S02E02.720p.Kerob.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.518450247,
+                    "path": "Yellowstone.S02.720p.Kerob/Yellowstone.S02E03.720p.Kerob.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.476943408,
+                    "path": "Yellowstone.S02.720p.Kerob/Yellowstone.S02E04.720p.Kerob.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.421376406,
+                    "path": "Yellowstone.S02.720p.Kerob/Yellowstone.S02E05.720p.Kerob.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.552381252,
+                    "path": "Yellowstone.S02.720p.Kerob/Yellowstone.S02E06.720p.Kerob.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.492048001,
+                    "path": "Yellowstone.S02.720p.Kerob/Yellowstone.S02E08.720p.Kerob.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.31020283,
+                    "path": "Yellowstone.S02.720p.Kerob/Yellowstone.S02E09.720p.Kerob.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.445231024,
+                    "path": "Yellowstone.S02.720p.Kerob/Yellowstone.S02E10.720p.Kerob.mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Yellowstone S02 web hevc-d3g [IPT]",
+            "size_total": 11.073400908,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.101549734,
+                    "path": "Yellowstone S02 web hevc-d3g/Yellowstone.2018.S02E01.A.Thundering.WEBRip.1080p.DD+2.0.H265-d3g.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.140215451,
+                    "path": "Yellowstone S02 web hevc-d3g/Yellowstone.2018.S02E02.New.Beginnings.WEBRip.1080p.DD+2.0.H265-d3g.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.119283303,
+                    "path": "Yellowstone S02 web hevc-d3g/Yellowstone.2018.S02E03.The.Reek.of.Desperation.WEBRip.1080p.DD+2.0.H265-d3g.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.084172975,
+                    "path": "Yellowstone S02 web hevc-d3g/Yellowstone.2018.S02E04.Only.Devils.Left.WEBRip.1080p.DD+2.0.H265-d3g.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.059941576,
+                    "path": "Yellowstone S02 web hevc-d3g/Yellowstone.2018.S02E05.Touching.Your.Enemy.WEBRip.1080p.DD+2.0.H265-d3g.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.163873648,
+                    "path": "Yellowstone S02 web hevc-d3g/Yellowstone.2018.S02E06.Blood.The.Boy.WEBRip.1080p.DD+2.0.H265-d3g.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.140234874,
+                    "path": "Yellowstone S02 web hevc-d3g/Yellowstone.2018.S02E07.Resurrection.Day.WEBRip.1080p.DD+2.0.H265-d3g.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.123462138,
+                    "path": "Yellowstone S02 web hevc-d3g/Yellowstone.2018.S02E08.Behind.Us.Only.Grey.WEBRip.1080p.DD+2.0.H265-d3g.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.020091671,
+                    "path": "Yellowstone S02 web hevc-d3g/Yellowstone.2018.S02E09.Enemies.By.Monday.WEBRip.1080p.DD+2.0.H265-d3g.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.120575538,
+                    "path": "Yellowstone S02 web hevc-d3g/Yellowstone.2018.S02E10.Sins.of.the.Father.WEBRip.1080p.DD+2.0.H265-d3g.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Yellowstone-(Season-02)-HamsterStudio",
+            "size_total": 3.90736896,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.458272768,
+                    "path": "Yellowstone  (Season  02) HamsterStudio/Yellowstone.S02E06.WEBRip.HamsterStudio.Org.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.449570816,
+                    "path": "Yellowstone  (Season  02) HamsterStudio/Yellowstone.S02E07.WEBRip.HamsterStudio.Org.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.445415424,
+                    "path": "Yellowstone  (Season  02) HamsterStudio/Yellowstone.S02E08.WEBRip.HamsterStudio.Org.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.438863872,
+                    "path": "Yellowstone  (Season  02) HamsterStudio/Yellowstone.S02E01.WEBRip.HamsterStudio.Org.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.435920896,
+                    "path": "Yellowstone  (Season  02) HamsterStudio/Yellowstone.S02E03.WEBRip.HamsterStudio.Org.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.43556864,
+                    "path": "Yellowstone  (Season  02) HamsterStudio/Yellowstone.S02E02.WEBRip.HamsterStudio.Org.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.42350592,
+                    "path": "Yellowstone  (Season  02) HamsterStudio/Yellowstone.S02E04.WEBRip.HamsterStudio.Org.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.419213312,
+                    "path": "Yellowstone  (Season  02) HamsterStudio/Yellowstone.S02E05.WEBRip.HamsterStudio.Org.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.401037312,
+                    "path": "Yellowstone  (Season  02) HamsterStudio/Yellowstone.S02E09.WEBRip.HamsterStudio.Org.avi"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Yellowstone-2--LostFilm-TV",
+            "size_total": 5.9001856,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.765433856,
+                    "path": "Yellowstone 2 - LostFilm.TV/Yellowstone.S02E06.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.744251392,
+                    "path": "Yellowstone 2 - LostFilm.TV/Yellowstone.S02E02.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.697106432,
+                    "path": "Yellowstone 2 - LostFilm.TV/Yellowstone.S02E04.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.675653632,
+                    "path": "Yellowstone 2 - LostFilm.TV/Yellowstone.S02E09.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.638691328,
+                    "path": "Yellowstone 2 - LostFilm.TV/Yellowstone.S02E01.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.623990784,
+                    "path": "Yellowstone 2 - LostFilm.TV/Yellowstone.S02E05.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.613480448,
+                    "path": "Yellowstone 2 - LostFilm.TV/Yellowstone.S02E03.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.578054144,
+                    "path": "Yellowstone 2 - LostFilm.TV/Yellowstone.S02E07.rus.LostFilm.TV.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.563523584,
+                    "path": "Yellowstone 2 - LostFilm.TV/Yellowstone.S02E08.rus.LostFilm.TV.avi"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Yellowstone-2018-S01-1080p-AMZN-WEBRip-DDP2-0-x264-NTb",
+            "size_total": 25.511009777,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Yellowstone.2018.S01.1080p.AMZN.WEBRIp.DDP2.0.x264-NTb[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 5.358195783,
+                    "path": "Yellowstone.2018.S01.1080p.AMZN.WEBRIp.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S01E01.Daybreak.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.750439604,
+                    "path": "Yellowstone.2018.S01.1080p.AMZN.WEBRIp.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S01E02.Kill.The.Messenger.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.609679159,
+                    "path": "Yellowstone.2018.S01.1080p.AMZN.WEBRIp.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S01E03.No.Good.Horses.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.556275679,
+                    "path": "Yellowstone.2018.S01.1080p.AMZN.WEBRIp.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S01E04.The.Long.Black.Train.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.609461448,
+                    "path": "Yellowstone.2018.S01.1080p.AMZN.WEBRIp.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S01E05.Coming.Home.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.22910113,
+                    "path": "Yellowstone.2018.S01.1080p.AMZN.WEBRIp.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S01E06.The.Remembering.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 2.599052164,
+                    "path": "Yellowstone.2018.S01.1080p.AMZN.WEBRIp.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S01E07.A.Monster.Is.Among.Us.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 2.501493641,
+                    "path": "Yellowstone.2018.S01.1080p.AMZN.WEBRIp.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S01E08.The.Unravelling.Part.1.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 2.297311138,
+                    "path": "Yellowstone.2018.S01.1080p.AMZN.WEBRIp.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S01E09.The.Unravelling.Part.2.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Yellowstone-2018-S02E10-480p-x264-mSD[eztv]",
+            "size_total": 0.256727747,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.256727747,
+                    "path": "Yellowstone.2018.S02E10.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Yellowstone-2018-S02E10-720p-HEVC-x265-MeGusta",
+            "size_total": 0.257903109,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003017706,
+                    "path": "www.torrenting.com - Yellowstone 2018 S02E10 720p HEVC x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002398633,
+                    "path": "www.torrenting.com - Yellowstone 2018 S02E10 720p HEVC x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001679177,
+                    "path": "www.torrenting.com - Yellowstone 2018 S02E10 720p HEVC x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 1.02e-7,
+                    "path": "www.torrenting.com - Yellowstone 2018 S02E10 720p HEVC x265-MeGusta/www.Torrenting.com.txt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.250806358,
+                    "path": "www.torrenting.com - Yellowstone 2018 S02E10 720p HEVC x265-MeGusta/Yellowstone.2018.S02E10.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001133,
+                    "path": "www.torrenting.com - Yellowstone 2018 S02E10 720p HEVC x265-MeGusta/Yellowstone.2018.S02E10.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Yellowstone-2018-S02E10-720p-WEB-x265-MiNX",
+            "size_total": 0.1919564,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000001702,
+                    "path": "Yellowstone.2018.S02E10.720p.WEB.x265-MiNX/Yellowstone.2018.S02E10.720p.WEB.x265-MiNX.lnk"
+                },
+                {
+                    "number": 2,
+                    "size": 0.191954698,
+                    "path": "Yellowstone.2018.S02E10.720p.WEB.x265-MiNX/Yellowstone.2018.S02E10.720p.WEB.x265-MiNX.mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Yellowstone-2018-S02E10-720p-WEBRip-x264-CONVOY",
+            "size_total": 0.897139211,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000097909,
+                    "path": "www.Torrenting.org - Yellowstone 2018 S02E10 720p WEBRip x264-CONVOY/Screens/screen0001.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000046586,
+                    "path": "www.Torrenting.org - Yellowstone 2018 S02E10 720p WEBRip x264-CONVOY/Screens/screen0002.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.0000542,
+                    "path": "www.Torrenting.org - Yellowstone 2018 S02E10 720p WEBRip x264-CONVOY/Screens/screen0003.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000052529,
+                    "path": "www.Torrenting.org - Yellowstone 2018 S02E10 720p WEBRip x264-CONVOY/Screens/screen0004.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000080607,
+                    "path": "www.Torrenting.org - Yellowstone 2018 S02E10 720p WEBRip x264-CONVOY/Screens/screen0005.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.org - Yellowstone 2018 S02E10 720p WEBRip x264-CONVOY/Torrent Downloaded From www.torrenting.org.txt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.896806177,
+                    "path": "www.Torrenting.org - Yellowstone 2018 S02E10 720p WEBRip x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000001117,
+                    "path": "www.Torrenting.org - Yellowstone 2018 S02E10 720p WEBRip x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.nfo"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Yellowstone-2018-S02E10-720p-WEBRip-x264-CONVOY[ettv]",
+            "size_total": 0.896806362,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.85e-7,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[ettv]/Downloaded from www.ettv.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.896806177,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[ettv]/yellowstone.2018.s02e10.720p.webrip.x264-convoy[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Yellowstone-2018-S02E10-720p-WEBRip-x264-CONVOY[eztv]",
+            "size_total": 0.896806177,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.896806177,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Yellowstone-2018-S02E10-720p-WEBRip-x264-CONVOY[rarbg]",
+            "size_total": 0.896808658,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.896806177,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[rarbg]/yellowstone.2018.s02e10.720p.webrip.x264-convoy.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000002352,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[rarbg]/yellowstone.2018.s02e10.720p.webrip.x264-convoy.nfo"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Yellowstone-2018-S02E10-720p-WEBRip-x264-CONVOY[TGx]",
+            "size_total": 0.900133529,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001182057,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000615521,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000727896,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000798837,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.89e-7,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.896806177,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[TGx]/yellowstone.2018.s02e10.720p.webrip.x264-convoy.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000002352,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[TGx]/yellowstone.2018.s02e10.720p.webrip.x264-convoy.nfo"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Yellowstone-2018-S02E10-720p-WEBRip-x265-MiNX[eztv]",
+            "size_total": 0.191042141,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.191042141,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Yellowstone-2018-S02E10-720p-WEBRip-x265-MiNX[TGx]",
+            "size_total": 0.19104283,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.191042141,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x265-MiNX[TGx]/Yellowstone.2018.S02E10.720p.WEBRip.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.89e-7,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Yellowstone-2018-S02E10-iNTERNAL-1080p-WEB-h264-CONVOY",
+            "size_total": 3.102347682,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000188864,
+                    "path": "www.Torrenting.org - Yellowstone 2018 S02E10 iNTERNAL 1080p WEB h264-CONVOY/Screens/screen0001.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00010736,
+                    "path": "www.Torrenting.org - Yellowstone 2018 S02E10 iNTERNAL 1080p WEB h264-CONVOY/Screens/screen0002.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000128639,
+                    "path": "www.Torrenting.org - Yellowstone 2018 S02E10 iNTERNAL 1080p WEB h264-CONVOY/Screens/screen0003.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00011055,
+                    "path": "www.Torrenting.org - Yellowstone 2018 S02E10 iNTERNAL 1080p WEB h264-CONVOY/Screens/screen0004.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000158325,
+                    "path": "www.Torrenting.org - Yellowstone 2018 S02E10 iNTERNAL 1080p WEB h264-CONVOY/Screens/screen0005.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.org - Yellowstone 2018 S02E10 iNTERNAL 1080p WEB h264-CONVOY/Torrent Downloaded From www.torrenting.org.txt"
+                },
+                {
+                    "number": 7,
+                    "size": 3.101653858,
+                    "path": "www.Torrenting.org - Yellowstone 2018 S02E10 iNTERNAL 1080p WEB h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Yellowstone-2018-S02E10-iNTERNAL-1080p-WEB-h264-CONVOY[rarbg]",
+            "size_total": 3.101663164,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.101653858,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY[rarbg]/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000009177,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY[rarbg]/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Yellowstone-2018-S02E10-Sins-of-the-Father-1080p-AMZN-WEBRip-DDP2-0-x264-NTb[rarbg]",
+            "size_total": 3.101653781,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.101653652,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/Yellowstone.2018.S02E10.Sins.of.the.Father.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Yellowstone-2018-S02E10-Sins-of-the-Father-720p-AMZN-WEB-DL-D",
+            "size_total": 1.313934322,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.04e-7,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb[ettv]/Downloaded from www.ettv.to .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000068743,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb[ettv]/Screenshot-001.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000095022,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb[ettv]/Screenshot-002.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000064872,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb[ettv]/Screenshot-003.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000088334,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb[ettv]/Screenshot-004.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 1.313617047,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb[ettv]/Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Yellowstone-2018-S02E10-Sins-of-the-Father-720p-AMZN-WEBRip-DDP2-0-x264-NTb[rarbg]",
+            "size_total": 1.313617176,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.313617047,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Yellowstone-2018-S02E10-WEB-x264-PHOENiX[eztv]",
+            "size_total": 0.294050346,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.294050346,
+                    "path": "Yellowstone.2018.S02E10.WEB.x264-PHOENiX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Yellowstone-2018-S02E10-WEB-x264-PHOENiX[TGx]",
+            "size_total": 0.294051035,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.294050346,
+                    "path": "Yellowstone.2018.S02E10.WEB.x264-PHOENiX[TGx]/Yellowstone.2018.S02E10.WEB.x264-PHOENiX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.89e-7,
+                    "path": "Yellowstone.2018.S02E10.WEB.x264-PHOENiX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Yellowstone-2018-S02E10-XviD-AFG[TGx]",
+            "size_total": 0.425684946,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000267241,
+                    "path": "Yellowstone.2018.S02E10.XviD-AFG[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000195552,
+                    "path": "Yellowstone.2018.S02E10.XviD-AFG[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000131953,
+                    "path": "Yellowstone.2018.S02E10.XviD-AFG[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000182944,
+                    "path": "Yellowstone.2018.S02E10.XviD-AFG[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.4249054,
+                    "path": "Yellowstone.2018.S02E10.XviD-AFG[TGx]/Yellowstone.2018.S02E10.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001167,
+                    "path": "Yellowstone.2018.S02E10.XviD-AFG[TGx]/Yellowstone.2018.S02E10.XviD-AFG.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 6.89e-7,
+                    "path": "Yellowstone.2018.S02E10.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Yellowstone-S02-1080p-TVShows",
+            "size_total": 26.362764262,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.458539241,
+                    "path": "Yellowstone.S02.1080p.TVShows/Yellowstone.S02E01.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.110064543,
+                    "path": "Yellowstone.S02.1080p.TVShows/Yellowstone.S02E02.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.521756839,
+                    "path": "Yellowstone.S02.1080p.TVShows/Yellowstone.S02E03.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.402995257,
+                    "path": "Yellowstone.S02.1080p.TVShows/Yellowstone.S02E04.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.207858972,
+                    "path": "Yellowstone.S02.1080p.TVShows/Yellowstone.S02E05.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.752452834,
+                    "path": "Yellowstone.S02.1080p.TVShows/Yellowstone.S02E06.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 3.430314013,
+                    "path": "Yellowstone.S02.1080p.TVShows/Yellowstone.S02E07.1080p.TVShows.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 3.478782563,
+                    "path": "Yellowstone.S02.1080p.TVShows/Yellowstone.S02E08.1080p.TVShows.mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Yellowstone-S02-400p-ColdFilm",
+            "size_total": 5.151738422,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.633815024,
+                    "path": "Yellowstone.S02.400p.ColdFilm/Yellowstone.S02E06.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.61976977,
+                    "path": "Yellowstone.S02.400p.ColdFilm/Yellowstone.S02E07.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.606572762,
+                    "path": "Yellowstone.S02.400p.ColdFilm/Yellowstone.S02E01.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.583558384,
+                    "path": "Yellowstone.S02.400p.ColdFilm/Yellowstone.S02E08.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.576917746,
+                    "path": "Yellowstone.S02.400p.ColdFilm/Yellowstone.S02E02.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.57541506,
+                    "path": "Yellowstone.S02.400p.ColdFilm/Yellowstone.S02E04.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 7,
+                    "size": 0.556694928,
+                    "path": "Yellowstone.S02.400p.ColdFilm/Yellowstone.S02E05.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 8,
+                    "size": 0.51683427,
+                    "path": "Yellowstone.S02.400p.ColdFilm/Yellowstone.S02E03.400p.ColdFilm.avi"
+                },
+                {
+                    "number": 9,
+                    "size": 0.482160478,
+                    "path": "Yellowstone.S02.400p.ColdFilm/Yellowstone.S02E09.400p.ColdFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Yellowstone-S02E10-WEBRip-x264-ION10",
+            "size_total": 0.478083231,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.S02E10.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.S02E10.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000027542,
+                    "path": "Yellowstone.S02E10.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.47805556,
+                    "path": "Yellowstone.S02E10.WEBRip.x264-ION10/Yellowstone.S02E10.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Yellowstone.2018.S02.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 32.084160175,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Yellowstone.2018.S02.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 3.324501505,
+                    "path": "Yellowstone.2018.S02.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E01.A.Thundering.REPACK.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.974250423,
+                    "path": "Yellowstone.2018.S02.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E02.New.Beginnings.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.38553928,
+                    "path": "Yellowstone.2018.S02.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E03.The.Reek.of.Desperation.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.27055221,
+                    "path": "Yellowstone.2018.S02.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E04.Only.Devils.Left.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.257576906,
+                    "path": "Yellowstone.2018.S02.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E05.Touching.Your.Enemy.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 3.330248079,
+                    "path": "Yellowstone.2018.S02.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E06.Blood.The.Boy.REPACK.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 3.291218043,
+                    "path": "Yellowstone.2018.S02.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E07.Resurrection.Day.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 3.340991532,
+                    "path": "Yellowstone.2018.S02.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E08.Behind.Us.Only.Grey.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 2.807628514,
+                    "path": "Yellowstone.2018.S02.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E09.Enemies.By.Monday.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 3.101653652,
+                    "path": "Yellowstone.2018.S02.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E10.Sins.of.the.Father.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Yellowstone.2018.S02.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 14.920871532,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Yellowstone.2018.S02.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.473555913,
+                    "path": "Yellowstone.2018.S02.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E01.A.Thundering.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.653003589,
+                    "path": "Yellowstone.2018.S02.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E02.New.Beginnings.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.492337362,
+                    "path": "Yellowstone.2018.S02.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E03.The.Reek.of.Desperation.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.653203082,
+                    "path": "Yellowstone.2018.S02.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E04.Only.Devils.Left.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.594045501,
+                    "path": "Yellowstone.2018.S02.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E05.Touching.Your.Enemy.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.634904592,
+                    "path": "Yellowstone.2018.S02.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E06.Blood.The.Boy.REPACK.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.401577305,
+                    "path": "Yellowstone.2018.S02.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E07.Resurrection.Day.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 1.472478005,
+                    "path": "Yellowstone.2018.S02.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E08.Behind.Us.Only.Grey.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.232149105,
+                    "path": "Yellowstone.2018.S02.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E09.Enemies.By.Monday.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 1.313617047,
+                    "path": "Yellowstone.2018.S02.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]/Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST [IPT]",
+            "size_total": 0.260270076,
+            "files_total": 16,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 9.19e-7,
+                    "path": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST/yellowstone.2018.s02e09.webrip.x264-kompost.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST/yellowstone.2018.s02e09.webrip.x264-kompost.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST/yellowstone.2018.s02e09.webrip.x264-kompost.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST/yellowstone.2018.s02e09.webrip.x264-kompost.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST/yellowstone.2018.s02e09.webrip.x264-kompost.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST/yellowstone.2018.s02e09.webrip.x264-kompost.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST/yellowstone.2018.s02e09.webrip.x264-kompost.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST/yellowstone.2018.s02e09.webrip.x264-kompost.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST/yellowstone.2018.s02e09.webrip.x264-kompost.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST/yellowstone.2018.s02e09.webrip.x264-kompost.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST/yellowstone.2018.s02e09.webrip.x264-kompost.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST/yellowstone.2018.s02e09.webrip.x264-kompost.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST/yellowstone.2018.s02e09.webrip.x264-kompost.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.000268345,
+                    "path": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST/yellowstone.2018.s02e09.webrip.x264-kompost.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.02,
+                    "path": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST/yellowstone.2018.s02e09.webrip.x264-kompost.rar"
+                },
+                {
+                    "number": 16,
+                    "size": 8.12e-7,
+                    "path": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST/yellowstone.2018.s02e09.webrip.x264-kompost.sfv"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Yellowstone.2018.S02E10.480p.x264-mSD [IPT]",
+            "size_total": 0.259466958,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000961619,
+                    "path": "Yellowstone.2018.S02E10.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001015532,
+                    "path": "Yellowstone.2018.S02E10.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000761085,
+                    "path": "Yellowstone.2018.S02E10.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.256727747,
+                    "path": "Yellowstone.2018.S02E10.480p.x264-mSD/Yellowstone.2018.S02E10.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 9.75e-7,
+                    "path": "Yellowstone.2018.S02E10.480p.x264-mSD/Yellowstone.2018.S02E10.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Yellowstone.2018.S02E10.480p.x264-mSD[eztv].mkv",
+            "size_total": 0.256727747,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.256727747,
+                    "path": "Yellowstone.2018.S02E10.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Yellowstone.2018.S02E10.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.257903007,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003017706,
+                    "path": "Yellowstone.2018.S02E10.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002398633,
+                    "path": "Yellowstone.2018.S02E10.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001679177,
+                    "path": "Yellowstone.2018.S02E10.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.250806358,
+                    "path": "Yellowstone.2018.S02E10.720p.HEVC.x265-MeGusta/Yellowstone.2018.S02E10.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001133,
+                    "path": "Yellowstone.2018.S02E10.720p.HEVC.x265-MeGusta/Yellowstone.2018.S02E10.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY [IPT]",
+            "size_total": 0.896811949,
+            "files_total": 20,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000002352,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.046808481,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.rar"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000001116,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY/yellowstone.2018.s02e10.720p.webrip.x264-convoy.sfv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[eztv].mkv",
+            "size_total": 0.896806177,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.896806177,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[rartv]-[rarbg.to]",
+            "size_total": 0.896808658,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.896806177,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[rarbg]/yellowstone.2018.s02e10.720p.webrip.x264-convoy.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000002352,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY[rarbg]/yellowstone.2018.s02e10.720p.webrip.x264-convoy.nfo"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Yellowstone.2018.S02E10.720p.WEBRip.x265-MiNX[eztv].mkv",
+            "size_total": 0.191042141,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.191042141,
+                    "path": "Yellowstone.2018.S02E10.720p.WEBRip.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Yellowstone.2018.S02E10.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.158479849,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000216893,
+                    "path": "Yellowstone.2018.S02E10.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000186448,
+                    "path": "Yellowstone.2018.S02E10.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000127482,
+                    "path": "Yellowstone.2018.S02E10.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.157947793,
+                    "path": "Yellowstone.2018.S02E10.AAC.MP4-Mobile/Yellowstone.2018.S02E10.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001233,
+                    "path": "Yellowstone.2018.S02E10.AAC.MP4-Mobile/Yellowstone.2018.S02E10.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY [IPT]",
+            "size_total": 3.162276342,
+            "files_total": 35,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.060606523,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/Sample/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy-sample.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000009177,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r00"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r01"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r02"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r03"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r04"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r05"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r06"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r07"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r08"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r09"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r10"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r11"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r12"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r13"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r14"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r15"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r16"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r17"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r18"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r19"
+                },
+                {
+                    "number": 23,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r20"
+                },
+                {
+                    "number": 24,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r21"
+                },
+                {
+                    "number": 25,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r22"
+                },
+                {
+                    "number": 26,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r23"
+                },
+                {
+                    "number": 27,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r24"
+                },
+                {
+                    "number": 28,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r25"
+                },
+                {
+                    "number": 29,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r26"
+                },
+                {
+                    "number": 30,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r27"
+                },
+                {
+                    "number": 31,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r28"
+                },
+                {
+                    "number": 32,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r29"
+                },
+                {
+                    "number": 33,
+                    "size": 0.001658434,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.r30"
+                },
+                {
+                    "number": 34,
+                    "size": 0.1,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.rar"
+                },
+                {
+                    "number": 35,
+                    "size": 0.000002208,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.sfv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY[rartv]-[rarbg.to]",
+            "size_total": 3.101663164,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.101653858,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY[rarbg]/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000009177,
+                    "path": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY[rarbg]/yellowstone.2018.s02e10.internal.1080p.web.h264-convoy.nfo"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Yellowstone.2018.S02E10.Sins.of.the.Father.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 3.101653781,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.101653652,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/Yellowstone.2018.S02E10.Sins.of.the.Father.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.313617176,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.313617047,
+                    "path": "Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rarbg]/Yellowstone.2018.S02E10.Sins.of.the.Father.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Yellowstone.2018.S02E10.WEB.x264-PHOENiX[eztv].mkv",
+            "size_total": 0.294050346,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.294050346,
+                    "path": "Yellowstone.2018.S02E10.WEB.x264-PHOENiX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Yellowstone.2018.S02E10.XviD-AFG [IPT]",
+            "size_total": 0.425684257,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000267241,
+                    "path": "Yellowstone.2018.S02E10.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000195552,
+                    "path": "Yellowstone.2018.S02E10.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000131953,
+                    "path": "Yellowstone.2018.S02E10.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000182944,
+                    "path": "Yellowstone.2018.S02E10.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.4249054,
+                    "path": "Yellowstone.2018.S02E10.XviD-AFG/Yellowstone.2018.S02E10.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001167,
+                    "path": "Yellowstone.2018.S02E10.XviD-AFG/Yellowstone.2018.S02E10.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Yellowstone.S02E10.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.478083231,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Yellowstone.S02E10.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Yellowstone.S02E10.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000027542,
+                    "path": "Yellowstone.S02E10.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.47805556,
+                    "path": "Yellowstone.S02E10.WEBRip.x264-ION10/Yellowstone.S02E10.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 54,
+            "name": "multi-btih-8-2-x-Yellowstone-S02E10-WEBRip-x264-ION10",
+            "btih": "b7fca3f226649f4f6ba2f9169170f7bd3354aa9a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.478083231,
+            "creation": "2019-08-29T12:59:14.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14695,
+            "uuploaders": 6728
+        },
+        {
+            "id": 47,
+            "name": "multi-btih-1-2-x-Yellowstone-2018-S02E10-720p-WEBRip-x264-CONVOY[eztv]",
+            "btih": "a6e7859895984667ab45cbf6112ecbb8e038186a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.896806177,
+            "creation": "2019-08-29T11:55:21.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14267,
+            "uuploaders": 5853
+        },
+        {
+            "id": 14,
+            "name": "Yellowstone-2018-S02E10-720p-WEBRip-x264-CONVOY[TGx]",
+            "btih": "5aa8f39a1a7bd9a0cd421a50c2d40d1aac1c8c9d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.900133529,
+            "creation": "2019-08-29T11:30:08.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9341,
+            "uuploaders": 4943
+        },
+        {
+            "id": 49,
+            "name": "multi-btih-3-2-x-Yellowstone-2018-S02E10-720p-WEBRip-x265-MiNX[eztv]",
+            "btih": "1dda5b0464947d4cb1c157f88b9d51c5d8223170",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.191042141,
+            "creation": "2019-08-29T12:13:06.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7761,
+            "uuploaders": 2791
+        },
+        {
+            "id": 24,
+            "name": "Yellowstone-2018-S02E10-XviD-AFG[TGx]",
+            "btih": "74eadf95a57fd88551c9be14b5df094e77420d3c",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.425684946,
+            "creation": "2019-08-29T12:05:10.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7672,
+            "uuploaders": 2759
+        },
+        {
+            "id": 50,
+            "name": "multi-btih-4-2-x-Yellowstone-2018-S02E10-Sins-of-the-Father-1080p-AMZN-WEBRip-DDP2-0-x264-NTb[rarbg]",
+            "btih": "a312d096815216e7181e4ace73675403b8ceeead",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.101653781,
+            "creation": "2019-08-29T10:18:15.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7654,
+            "uuploaders": 4338
+        },
+        {
+            "id": 46,
+            "name": "multi-btih-0-2-x-Yellowstone-2018-S02E10-480p-x264-mSD[eztv]",
+            "btih": "e115c37637b92c79a8bd00090936870114977681",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.256727747,
+            "creation": "2019-08-29T15:25:08.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6828,
+            "uuploaders": 3452
+        },
+        {
+            "id": 52,
+            "name": "multi-btih-6-2-x-Yellowstone-2018-S02E10-WEB-x264-PHOENiX[eztv]",
+            "btih": "fbb06e6748bf71b974a238847896d11db08d8c5c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.294050346,
+            "creation": "2019-08-29T14:58:01.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6409,
+            "uuploaders": 1677
+        },
+        {
+            "id": 53,
+            "name": "multi-btih-7-2-x-Yellowstone-2018-S02E10-iNTERNAL-1080p-WEB-h264-CONVOY[rarbg]",
+            "btih": "a11b6ff05d989786dd417eb126b14b5e1224434a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.101663164,
+            "creation": "2019-08-29T12:04:56.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6084,
+            "uuploaders": 1183
+        },
+        {
+            "id": 51,
+            "name": "multi-btih-5-2-x-Yellowstone-2018-S02E10-Sins-of-the-Father-720p-AMZN-WEBRip-DDP2-0-x264-NTb[rarbg]",
+            "btih": "424164519847445445c5297b0b6f901aaab83663",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.313617176,
+            "creation": "2019-08-29T10:19:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5828,
+            "uuploaders": 2899
+        },
+        {
+            "id": 48,
+            "name": "multi-btih-2-2-x-Yellowstone-2018-S02E10-720p-WEBRip-x264-CONVOY[rarbg]",
+            "btih": "c382c0c6268fda180d0bc3d01342bcf40131b68b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.896808658,
+            "creation": "2019-08-29T12:02:06.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5787,
+            "uuploaders": 2342
+        },
+        {
+            "id": 16,
+            "name": "Yellowstone-2018-S02E10-720p-WEBRip-x265-MiNX[TGx]",
+            "btih": "20227b999dbb0f8909ac5e72bda35998c84df9f5",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.19104283,
+            "creation": "2019-08-29T11:50:18.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4773,
+            "uuploaders": 1308
+        },
+        {
+            "id": 23,
+            "name": "Yellowstone-2018-S02E10-WEB-x264-PHOENiX[TGx]",
+            "btih": "3e864c182598b86c8bfb2ed97fd0a6e050526259",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.294051035,
+            "creation": "2019-08-29T14:45:23.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4253,
+            "uuploaders": 1551
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]Yellowstone.S02.720p.Kerob",
+            "btih": "210a0b6f3a676e1e0ef63fb84e383dc1a5a12920",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 14.632255899,
+            "creation": "2019-08-29T13:10:30.000000000Z,uTorrent/2210,http://rutor.is/torrent/714250",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4070,
+            "uuploaders": 751
+        },
+        {
+            "id": 1,
+            "name": "[rutor.is]Yellowstone.S02.400p.Kerob",
+            "btih": "d5aef1629ecc3d675dcd1b9fb212b229555d97d8",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 5.491208914,
+            "creation": "2019-08-29T13:08:49.000000000Z,uTorrent/2210,http://rutor.is/torrent/714249",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3888,
+            "uuploaders": 631
+        },
+        {
+            "id": 10,
+            "name": "Yellowstone-2018-S02E10-720p-WEBRip-x264-CONVOY",
+            "btih": "744eb21b0c93c2838cfba7416d6e81fff5ae5cd7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.897139211,
+            "creation": "2019-08-29T11:40:14.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3476,
+            "uuploaders": 421
+        },
+        {
+            "id": 28,
+            "name": "Yellowstone.2018.S02.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "80188eb53d1c44e3fbf208cb9532de1ddd22a42e",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 32.084160175,
+            "creation": "2019-08-29T11:40:10.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3223,
+            "uuploaders": 776
+        },
+        {
+            "id": 8,
+            "name": "Yellowstone-2018-S02E10-720p-HEVC-x265-MeGusta",
+            "btih": "35a987596c1f07a6f1b2ef7956061e927a1200fd",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.257903109,
+            "creation": "2019-08-29T12:10:12.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3137,
+            "uuploaders": 213
+        },
+        {
+            "id": 4,
+            "name": "Yellowstone-(Season-02)-HamsterStudio",
+            "btih": "1c635d82e96c7e98c4d70f0a52d97efd2c00b34c",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 3.90736896,
+            "creation": "2019-08-29T09:02:31.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2656,
+            "uuploaders": 63
+        },
+        {
+            "id": 29,
+            "name": "Yellowstone.2018.S02.720p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "c16b8fd76905db24043a905bfe41f5238115ea71",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 14.920871532,
+            "creation": "2019-08-29T11:39:53.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2531,
+            "uuploaders": 398
+        },
+        {
+            "id": 11,
+            "name": "Yellowstone-2018-S02E10-720p-WEBRip-x264-CONVOY[ettv]",
+            "btih": "4964ab5414057bcc1188df9158b5c76ff3f265d7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.896806362,
+            "creation": "2019-08-29T13:47:20.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2242,
+            "uuploaders": 690
+        },
+        {
+            "id": 17,
+            "name": "Yellowstone-2018-S02E10-iNTERNAL-1080p-WEB-h264-CONVOY",
+            "btih": "6d9f21fa38ce67af2c4751838044525e0a428a55",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.102347682,
+            "creation": "2019-08-29T11:40:15.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1743,
+            "uuploaders": 428
+        },
+        {
+            "id": 9,
+            "name": "Yellowstone-2018-S02E10-720p-WEB-x265-MiNX",
+            "btih": "63f659498f04f5cb5d55464c1760d77cfc195de9",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.1919564,
+            "creation": "2019-08-29T04:08:55.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1443,
+            "uuploaders": 142
+        },
+        {
+            "id": 5,
+            "name": "Yellowstone-2--LostFilm-TV",
+            "btih": "84cd35d8e17b75a9b2799076731d892812a206b9",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 5.9001856,
+            "creation": "2019-08-29T06:02:27.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 910,
+            "uuploaders": 71
+        },
+        {
+            "id": 20,
+            "name": "Yellowstone-2018-S02E10-Sins-of-the-Father-720p-AMZN-WEB-DL-D",
+            "btih": "890af202bd9b44acfeec690231532b4f2247d6a7",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.313934322,
+            "creation": "2019-08-29T13:40:09.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 869,
+            "uuploaders": 276
+        },
+        {
+            "id": 26,
+            "name": "Yellowstone-S02-400p-ColdFilm",
+            "btih": "d708507b252e926de7a82c8fbfd003f4a59fd719",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 5.151738422,
+            "creation": "2019-08-29T15:34:10.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 817,
+            "uuploaders": 92
+        },
+        {
+            "id": 25,
+            "name": "Yellowstone-S02-1080p-TVShows",
+            "btih": "6818c290cae8eb320044c087db48b0777e54731f",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 26.362764262,
+            "creation": "2019-08-17T17:29:02.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 775,
+            "uuploaders": 78
+        },
+        {
+            "id": 6,
+            "name": "Yellowstone-2018-S01-1080p-AMZN-WEBRip-DDP2-0-x264-NTb",
+            "btih": "db96b234c8f826a941e93b2566a3d23239f8e5de",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 25.511009777,
+            "creation": "2018-09-01T17:33:22.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 580,
+            "uuploaders": 228
+        },
+        {
+            "id": 33,
+            "name": "Yellowstone.2018.S02E10.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "39996805608431cf0ed750ea82f70fedce125e70",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.257903007,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 513,
+            "uuploaders": 261
+        },
+        {
+            "id": 39,
+            "name": "Yellowstone.2018.S02E10.iNTERNAL.1080p.WEB.h264-CONVOY [IPT]",
+            "btih": "4e257bef3b0214071c57e9e5c17b95a21520ed23",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.162276342,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 505,
+            "uuploaders": 301
+        },
+        {
+            "id": 34,
+            "name": "Yellowstone.2018.S02E10.720p.WEBRip.x264-CONVOY [IPT]",
+            "btih": "f54d5f9dc1ad5f2ee1c9431b80af40424d04325f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.896811949,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 445,
+            "uuploaders": 261
+        },
+        {
+            "id": 44,
+            "name": "Yellowstone.2018.S02E10.XviD-AFG [IPT]",
+            "btih": "4f749017495badc2461f24c0306fc5e18f979866",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.425684257,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 366,
+            "uuploaders": 253
+        },
+        {
+            "id": 3,
+            "name": "Yellowstone S02 web hevc-d3g [IPT]",
+            "btih": "b6bb04f4b31c5176fef08875bc70ca576d9cb05b",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 11.073400908,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 331,
+            "uuploaders": 228
+        },
+        {
+            "id": 31,
+            "name": "Yellowstone.2018.S02E10.480p.x264-mSD [IPT]",
+            "btih": "692bbac3d79131ea677d314f3a04ed971fa89402",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.259466958,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 175,
+            "uuploaders": 110
+        },
+        {
+            "id": 38,
+            "name": "Yellowstone.2018.S02E10.AAC.MP4-Mobile [IPT]",
+            "btih": "dac660ee5e35c087fec845b624d7413e7a85fa38",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.158479849,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 87,
+            "uuploaders": 58
+        },
+        {
+            "id": 30,
+            "name": "Yellowstone.2018.S02E09.WEBRip.x264-KOMPOST [IPT]",
+            "btih": "a64e8730134b2d2241ba6fbc1212b0bc8f8c2930",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.260270076,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 16,
+            "uuploaders": 13
+        }
+    ]
+}

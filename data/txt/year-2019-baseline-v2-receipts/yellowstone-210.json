@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt4236770",
+    "imdb_id": "tt4236770",
+    "revision": "9514ccfbd3fb410c55a67538b309160f758fb29c",
+    "wikidata_id": "Q47452423",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yellowstone_(TV_series)"
+  },
+  "coverage_sha256": "337550c6e798697cbef6b6cb572d103b0ef33d03affefde5299200b9961009c6",
+  "generated_at": "2026-09-07T04:29:50.636958+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/yellowstone-210.cache/cache.20190831.tar.xz",
+      "sha256": "2f689f4022647ff712cd229fe0a5a566d180521031076ed2d7abedf86a5e3d26",
+      "size": 7375560
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/yellowstone-210.md",
+      "sha256": "2f241a09f07fe0df40d4fa81e2ad747fad8d3af74bff8b0039bbc602d24ed982",
+      "size": 591
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/yellowstone-210.json",
+      "sha256": "b92d2f3016fe05e751c337be7ba229f8796264535a011f4552b3ab5840159ac7",
+      "size": 1914
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/yellowstone-210.json",
+      "sha256": "900a8a444dd3b508deb645b120f42d7154c0082aa356f9da2d9c796e6e0c8125",
+      "size": 365
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "59b6868add8fdea315618cb799707e22c0f2d73090eee21ece419b793f834eec",
+      "size": 63424
+    }
+  },
+  "media_object": "yellowstone-210",
+  "published_files": {
+    "data/csv/bytes/yellowstone-210-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "e41d02e4ae0395492d8fb04e29d270ea843aaede1eab1e2ef5416f4f34009bf4",
+    "docs/itemized/figures/yellowstone-210-carto-4k.webp": "fc43fecd446185d6a22452013de4765f0b114724dd538de9bb8b93d9aaa3dd24",
+    "docs/itemized/figures/yellowstone-210-carto.png": "92581e5d947ba369fd13be273cd8fe1d55ea80470b584673b889658336a5da6b",
+    "docs/itemized/figures/yellowstone-210-cumulative-detail-btiha-itemized-by-bytes.svg": "234840bf1cafbcba1e3593be7635e5fb2c1ed11106496b64f38bc2c7115f26b9",
+    "docs/itemized/figures/yellowstone-210-data-ge-1080p-4k.webp": "ec4a09c03412ddde4004ff6f21f18dd1397f058725ac8c8b26c60dc3473678a4",
+    "docs/itemized/figures/yellowstone-210-data-ge-1080p.webp": "9166c3409c70a149afccf16189789d0b347c6d1a100c1c23e51ae10869363b89",
+    "docs/itemized/figures/yellowstone-210-data-lt-1080p-4k.webp": "6fb886848748e993480a0b46bc8647db2361b3a376d848cf003f24333b85a59b",
+    "docs/itemized/figures/yellowstone-210-data-lt-1080p.webp": "b082e46d05e6d3867ac98157246c68a369a1281071cec5b30fbbb6dc70346666",
+    "docs/itemized/figures/yellowstone-210-downloads-by-day-day.svg": "aeabce14833a43ad57ddc81aa547f8d1331cdbb06556a1522a89d08335bb6f81",
+    "docs/itemized/figures/yellowstone-210-downloads-by-week-yellowstone-210-week.svg": "5a4d3e955f7f46e4323706a3f1d52c2a0e4806373faae47be589fbbab5c18acc",
+    "docs/itemized/yellowstone-210-sample-cache-audit.md": "337d61f6ac83fc3e583f144252c368e29abdbb4f70c26f6665cb365adb2d9185",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "db0cb6ae778e372d8b54eed24dd53267dfaf634a",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "e9557435d4436b955e35ce9d77d77bbef2c8da903222fb2c6f42877078ae0776",
+      "size": 37133552
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/yellowstone-210/tmp/yellowstone-210-cumulative-btiha.geojson",
+        "sha256": "0588cd1a21937225b273ddcded1555290511d7f208c48802d9f7f9ddb171071d",
+        "size": 3419148
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/yellowstone-210/tmp/yellowstone-210-cumulative-btiha-media-objects.json",
+        "sha256": "d1a8ae1d155ca83ae333a6bb05b1151972e79a190985b251cad4fc7b4115c082",
+        "size": 97886
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "yellowstone-210",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "c8123c331bb382b004482f68c6d9d9a10011f7e2b0b16b642fbaad46bcf6c1ab",
+      "size": 8759488
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          67.0,
+          51.0,
+          49.0,
+          46.0,
+          42.0,
+          41.0,
+          39.0,
+          37.0,
+          33.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Lelystad",
+          "New York City",
+          "Columbus",
+          "Dallas",
+          "Roosendaal",
+          "Ashburn",
+          "Shanghai",
+          "Breda",
+          "Amsterdam"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          44.0,
+          42.0,
+          42.0,
+          37.0,
+          31.0,
+          31.0,
+          30.0,
+          29.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Dallas",
+          "Sydney",
+          "New York City",
+          "Columbus",
+          "Ashburn",
+          "Breda",
+          "Seattle",
+          "Cape Town",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 3,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 15,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 1,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "db0cb6ae778e372d8b54eed24dd53267dfaf634a",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "a106b9528c6f444032ab6551adbc582767d33c9e",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "9514ccfbd3fb410c55a67538b309160f758fb29c"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}
