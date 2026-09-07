@@ -1,0 +1,194 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt0313038",
+    "imdb_id": "tt0313038",
+    "revision": "9514ccfbd3fb410c55a67538b309160f758fb29c",
+    "wikidata_id": "Q60742405",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Bachelor_(American_TV_series)_season_23"
+  },
+  "coverage_sha256": "ba7c84d39950e93c4cd9b851fe2315f62ca33ded1b586704a33b0bb5920c6d72",
+  "generated_at": "2026-09-07T04:32:55.878916+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/bachelors-23-and-01.cache/cache.20190408.tar.xz",
+      "sha256": "cb0c7bd7469f683dc7650f1e639acc74dd9f789fdaded8c51558d96ede04e031",
+      "size": 28633556
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/bachelors-23-and-01.md",
+      "sha256": "e87ce49737d5631776edd5a74f5d616a8926b97bf8e864c68166e24bd0c9b871",
+      "size": 597
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/bachelors-23-and-01.json",
+      "sha256": "0bf651bfc19e0db321db8df190d1a2d3de7737305bf4cf86896c7231055159ae",
+      "size": 2129
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/bachelors-23-and-01.json",
+      "sha256": "a59279f30fde07eb5e99d3eec04dfd81d7f01e21dc54b3e35273b893200058eb",
+      "size": 371
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "bc67aacc16174fce1c4e8c8539840f57e89809881470468557acbeb44fc2f1c8",
+      "size": 60646
+    }
+  },
+  "media_object": "bachelors-23-and-01",
+  "published_files": {
+    "data/csv/bytes/bachelors-23-and-01-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "4767ffdcce16533d36b75b6a4c23dd4a1d223cdb3ac3ec933e0879178ec60df6",
+    "docs/itemized/bachelors-23-and-01-sample-cache-audit.md": "e446b4d05c1b9f7cdde738c47b39d667841130e6de0671e13fc3d7044ea7137c",
+    "docs/itemized/figures/bachelors-23-and-01-carto-4k.webp": "cc14b09f6e069b7b88c2115960c5374f3b518afda8848d0ff9daa567e2df83bf",
+    "docs/itemized/figures/bachelors-23-and-01-carto.png": "5637c9b4d4e741ee73b5122ea3bafe7ecc7bfd6d80a9b47c9037ff305d3c6099",
+    "docs/itemized/figures/bachelors-23-and-01-cumulative-detail-btiha-itemized-by-bytes.svg": "284295fb68fdd571795cc4c9cd7e9b0381aa3757165c0c4bd9df80d6c7a77873",
+    "docs/itemized/figures/bachelors-23-and-01-data-ge-1080p-4k.webp": "1778dafdb878bfab0f865db26b24c2ec8e9ca4dfdefbcd07f52a51d357e4510e",
+    "docs/itemized/figures/bachelors-23-and-01-data-ge-1080p.webp": "3960833b7a6ac144bdba4b5f8e21909873c55a37c3f098078e454912d077db0c",
+    "docs/itemized/figures/bachelors-23-and-01-data-lt-1080p-4k.webp": "557ebe2b01dcd1f39f0871616cd00f719f57821587bc30d118d44b52b79fcd7a",
+    "docs/itemized/figures/bachelors-23-and-01-data-lt-1080p.webp": "544c0bde506bbaf939c986b712475779b4662aec7dd0d4b9328b2196b554d91e",
+    "docs/itemized/figures/bachelors-23-and-01-downloads-by-day-day.svg": "e2f503f1589fad80ea1911b356ec71deba8b3bb17c9948cfc811feeff0f24fa0",
+    "docs/itemized/figures/bachelors-23-and-01-downloads-by-week-bachelors-23-and-01-week.svg": "aece971974a3db658679ba8b322f3df3d838370935f2fc4ec04b83acede43999",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "ca06b431660fedf8daa576fd54a086ec68e94ac1",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "e9557435d4436b955e35ce9d77d77bbef2c8da903222fb2c6f42877078ae0776",
+      "size": 37133552
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/bachelors-23-and-01/tmp/bachelors-23-and-01-cumulative-btiha.geojson",
+        "sha256": "7b3fb351b0894a87e36f440dcece5d436418defa59c975697072ac39f7167972",
+        "size": 5635415
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/bachelors-23-and-01/tmp/bachelors-23-and-01-cumulative-btiha-media-objects.json",
+        "sha256": "34ae4797487b5261a9e58c3f74bcac6881c57431024e3c6918b09b1b20c4beef",
+        "size": 131387
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "bachelors-23-and-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "c8123c331bb382b004482f68c6d9d9a10011f7e2b0b16b642fbaad46bcf6c1ab",
+      "size": 8759488
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          90.0,
+          90.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 3,
+        "labels": [
+          "Lelystad",
+          "Lille",
+          "Falkenstein"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          41.0,
+          30.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Cape Town",
+          "London",
+          "Johannesburg",
+          "Seoul",
+          "Pretoria",
+          "Toronto",
+          "Columbus",
+          "New York City",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 28,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 19,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 4,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "ca06b431660fedf8daa576fd54a086ec68e94ac1",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "a106b9528c6f444032ab6551adbc582767d33c9e",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "9514ccfbd3fb410c55a67538b309160f758fb29c"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}

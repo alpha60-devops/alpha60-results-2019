@@ -1,0 +1,3211 @@
+{
+    "collection_name": "The Bachelors USA 23 UK 1",
+    "collection_id": "23-01",
+    "collection_key": "bachelors-23-and-01",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "f658cf9ab5b65800d1c3263657c87c7d0ec7d95f",
+            "duplicate_0_0": "3f8a-The.Bachelor.S23E12.WEB.x264-TBS[ettv]",
+            "duplicate_0_1": "The-Bachelor-S23E12-WEB-x264-TBS[ettv]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "ba45c7fdda4b6b184dbddb1647c437a40c97da2e",
+            "duplicate_1_0": "86ed-The.Bachelor.S23E11.WEB.x264-TBS[ettv]",
+            "duplicate_1_1": "The-Bachelor-S23E11-WEB-x264-TBS[ettv]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "61dc9720430e77e5d0841b16d0b833323a159340",
+            "duplicate_2_0": "The-Bachelor-S23E11-720p-HULU-WEB-DL-AAC2-0-H-264-NTb[eztv]",
+            "duplicate_2_1": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[eztv].mkv"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "9515812e9ea82b1dce6969a3e94494a79aa1bb15",
+            "duplicate_3_0": "The-Bachelor-S23E11-720p-WEB-x264-TBS[eztv]",
+            "duplicate_3_1": "The.Bachelor.S23E11.720p.WEB.x264-TBS[eztv].mkv"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "f0cd331a625533828cc07e9b1029b5495dded474",
+            "duplicate_4_0": "The-Bachelor-S23E11-WEB-x264-TBS[eztv]",
+            "duplicate_4_1": "The.Bachelor.S23E11.WEB.x264-TBS[eztv].mkv"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "df458aa41178df64402d0d6aa8d9310a24824547",
+            "duplicate_5_0": "The-Bachelor-S23E11-WEB-x264-TBS[rarbg]",
+            "duplicate_5_1": "The.Bachelor.S23E11.WEB.x264-TBS[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "25d40a383528e6f1239352e05ded999c13c4e634",
+            "duplicate_6_0": "The-Bachelor-S23E11-WEBRip-x264-ION10",
+            "duplicate_6_1": "The.Bachelor.S23E11.WEBRip.x264-ION10-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "53f8f7b45247676522df44847bd54480c2e532e0",
+            "duplicate_7_0": "The-Bachelor-S23E12-720p-HULU-WEB-DL-AAC2-0-H-264-NTb[eztv]",
+            "duplicate_7_1": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[eztv].mkv"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "1277a6a7ad2e6599b78debbdedad0dc5a93f2a78",
+            "duplicate_8_0": "The-Bachelor-S23E12-720p-HULU-WEBRip-AAC2-0-H264-NTb[rarbg]",
+            "duplicate_8_1": "The.Bachelor.S23E12.720p.HULU.WEBRip.AAC2.0.H264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "0e187e2ad56ba09c0c742d6ccc300aef402645da",
+            "duplicate_9_0": "The-Bachelor-S23E12-720p-WEB-x264-TBS[eztv]",
+            "duplicate_9_1": "The.Bachelor.S23E12.720p.WEB.x264-TBS[eztv].mkv"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "76e20178918b3bb503dd7ebfe42118f3d3989ac2",
+            "duplicate_10_0": "The-Bachelor-S23E12-720p-WEB-x264-TBS[rarbg]",
+            "duplicate_10_1": "The.Bachelor.S23E12.720p.WEB.x264-TBS[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "55cd41e69499308a615087968a817af58df2e3a1",
+            "duplicate_11_0": "The-Bachelor-S23E12-WEB-x264-TBS[eztv]",
+            "duplicate_11_1": "The.Bachelor.S23E12.WEB.x264-TBS[eztv].mkv"
+        },
+        {
+            "duplicate_id": 12,
+            "duplicate_btih": "4425b401748455882d3580097a325912a3ab8ec9",
+            "duplicate_12_0": "The-Bachelor-S23E12-WEB-x264-TBS[rarbg]",
+            "duplicate_12_1": "The.Bachelor.S23E12.WEB.x264-TBS[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 13,
+            "duplicate_btih": "54395be55422c36fe90cd31a4952073dc280ffe7",
+            "duplicate_13_0": "The-Bachelor-S23E12-WEBRip-x264-ION10",
+            "duplicate_13_1": "The.Bachelor.S23E12.WEBRip.x264-ION10-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 14,
+            "duplicate_btih": "b89bc5d7785ecbb9d54c9ac613ab2369ac97b4af",
+            "duplicate_14_0": "The-Bachelor-UK-S01E09-The-Final-HDTV-x264-PLUTONiUM[eztv]",
+            "duplicate_14_1": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM[eztv].mkv"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "3f8a-The.Bachelor.S23E12.WEB.x264-TBS[ettv]",
+            "size_total": 0.695944534,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.99e-7,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.695944335,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[ettv]/the.bachelor.s23e12.web.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "86ed-The.Bachelor.S23E11.WEB.x264-TBS[ettv]",
+            "size_total": 0.713915733,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.99e-7,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.713915534,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[ettv]/the.bachelor.s23e11.web.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "The-Bachelor-S23E11-720p-HULU-WEB-DL-AAC2-0-H-264-NTb[eztv]",
+            "size_total": 1.927755687,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.927755687,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "The-Bachelor-S23E11-720p-HULU-WEB-DL-AAC2-0-H-264-NTb[TGx]",
+            "size_total": 1.93223136,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001043109,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001248035,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000821395,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001360865,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.927755687,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[TGx]/The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001578,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[TGx]/The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "The-Bachelor-S23E11-720p-WEB-x264-TBS[eztv]",
+            "size_total": 2.211892304,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.211892304,
+                    "path": "The.Bachelor.S23E11.720p.WEB.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "The-Bachelor-S23E11-720p-WEB-x264-TBS[TGx]",
+            "size_total": 2.215417332,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000607421,
+                    "path": "The.Bachelor.S23E11.720p.WEB.x264-TBS[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00115539,
+                    "path": "The.Bachelor.S23E11.720p.WEB.x264-TBS[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000538031,
+                    "path": "The.Bachelor.S23E11.720p.WEB.x264-TBS[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001223446,
+                    "path": "The.Bachelor.S23E11.720p.WEB.x264-TBS[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "The.Bachelor.S23E11.720p.WEB.x264-TBS[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 2.211892304,
+                    "path": "The.Bachelor.S23E11.720p.WEB.x264-TBS[TGx]/the.bachelor.s23e11.720p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 4.9e-8,
+                    "path": "The.Bachelor.S23E11.720p.WEB.x264-TBS[TGx]/the.bachelor.s23e11.720p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "The-Bachelor-S23E11-WEB-x264-TBS[ettv]",
+            "size_total": 0.713915733,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.99e-7,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.713915534,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[ettv]/the.bachelor.s23e11.web.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "The-Bachelor-S23E11-WEB-x264-TBS[eztv]",
+            "size_total": 0.713915534,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.713915534,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "The-Bachelor-S23E11-WEB-x264-TBS[rarbg]",
+            "size_total": 0.713915707,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.713915534,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[rarbg]/the.bachelor.s23e11.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.4e-8,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[rarbg]/the.bachelor.s23e11.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "The-Bachelor-S23E11-WEB-x264-TBS[TGx]",
+            "size_total": 0.715854886,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000228695,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000704125,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000274393,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000731404,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.713915534,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[TGx]/the.bachelor.s23e11.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 4.4e-8,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[TGx]/the.bachelor.s23e11.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "The-Bachelor-S23E11-WEBRip-x264-ION10",
+            "size_total": 0.863675993,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Bachelor.S23E11.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Bachelor.S23E11.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000083697,
+                    "path": "The.Bachelor.S23E11.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.863592167,
+                    "path": "The.Bachelor.S23E11.WEBRip.x264-ION10/The.Bachelor.S23E11.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "The-Bachelor-S23E12-720p-HULU-WEB-DL-AAC2-0-H-264-NTb[eztv]",
+            "size_total": 1.934813154,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.934813154,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "The-Bachelor-S23E12-720p-HULU-WEB-DL-AAC2-0-H-264-NTb[TGx]",
+            "size_total": 1.940134764,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000850904,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000931459,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00212998,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001407,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.934813154,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[TGx]/The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001576,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[TGx]/The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "The-Bachelor-S23E12-720p-HULU-WEBRip-AAC2-0-H264-NTb[rarbg]",
+            "size_total": 1.934813283,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.934813154,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "The-Bachelor-S23E12-720p-WEB-x264-TBS",
+            "size_total": 2.146695108,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000040163,
+                    "path": "www.Torrenting.org - The Bachelor S23E12 720p WEB x264-TBS/Screens/screen0001.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000062666,
+                    "path": "www.Torrenting.org - The Bachelor S23E12 720p WEB x264-TBS/Screens/screen0002.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000262828,
+                    "path": "www.Torrenting.org - The Bachelor S23E12 720p WEB x264-TBS/Screens/screen0003.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000103873,
+                    "path": "www.Torrenting.org - The Bachelor S23E12 720p WEB x264-TBS/Screens/screen0004.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000103674,
+                    "path": "www.Torrenting.org - The Bachelor S23E12 720p WEB x264-TBS/Screens/screen0005.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 2.146120662,
+                    "path": "www.Torrenting.org - The Bachelor S23E12 720p WEB x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000001156,
+                    "path": "www.Torrenting.org - The Bachelor S23E12 720p WEB x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 8,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.org - The Bachelor S23E12 720p WEB x264-TBS/Torrent Downloaded From www.torrenting.org.txt"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "The-Bachelor-S23E12-720p-WEB-x264-TBS[eztv]",
+            "size_total": 2.146120662,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.146120662,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "The-Bachelor-S23E12-720p-WEB-x264-TBS[rarbg]",
+            "size_total": 2.14612084,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.146120662,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS[rarbg]/the.bachelor.s23e12.720p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.9e-8,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS[rarbg]/the.bachelor.s23e12.720p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "The-Bachelor-S23E12-720p-WEB-x264-TBS[TGx]",
+            "size_total": 2.15040712,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000388859,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000752831,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00202495,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001119078,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 2.146120662,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS[TGx]/the.bachelor.s23e12.720p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 4.9e-8,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS[TGx]/the.bachelor.s23e12.720p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "The-Bachelor-S23E12-WEB-x264-TBS",
+            "size_total": 0.696342759,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000023208,
+                    "path": "www.SceneTime.com - The Bachelor S23E12 WEB x264-TBS/Screens/screen0001.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000040051,
+                    "path": "www.SceneTime.com - The Bachelor S23E12 WEB x264-TBS/Screens/screen0002.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000152735,
+                    "path": "www.SceneTime.com - The Bachelor S23E12 WEB x264-TBS/Screens/screen0003.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000063982,
+                    "path": "www.SceneTime.com - The Bachelor S23E12 WEB x264-TBS/Screens/screen0004.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000059793,
+                    "path": "www.SceneTime.com - The Bachelor S23E12 WEB x264-TBS/Screens/screen0005.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000057587,
+                    "path": "www.SceneTime.com - The Bachelor S23E12 WEB x264-TBS/Screens/screen0006.jpg"
+                },
+                {
+                    "number": 7,
+                    "size": 0.695944335,
+                    "path": "www.SceneTime.com - The Bachelor S23E12 WEB x264-TBS/the.bachelor.s23e12.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 9.83e-7,
+                    "path": "www.SceneTime.com - The Bachelor S23E12 WEB x264-TBS/the.bachelor.s23e12.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 9,
+                    "size": 8.5e-8,
+                    "path": "www.SceneTime.com - The Bachelor S23E12 WEB x264-TBS/Torrent Downloaded From www.SceneTime.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "The-Bachelor-S23E12-WEB-x264-TBS[ettv]",
+            "size_total": 0.695944534,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.99e-7,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.695944335,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[ettv]/the.bachelor.s23e12.web.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "The-Bachelor-S23E12-WEB-x264-TBS[eztv]",
+            "size_total": 0.695944335,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.695944335,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "The-Bachelor-S23E12-WEB-x264-TBS[rarbg]",
+            "size_total": 0.695944508,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.695944335,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[rarbg]/the.bachelor.s23e12.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.4e-8,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[rarbg]/the.bachelor.s23e12.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "The-Bachelor-S23E12-WEB-x264-TBS[TGx]",
+            "size_total": 0.698428544,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000208061,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000444979,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001190029,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000640405,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.695944335,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[TGx]/the.bachelor.s23e12.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 4.4e-8,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[TGx]/the.bachelor.s23e12.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "The-Bachelor-S23E12-WEBRip-x264-ION10",
+            "size_total": 0.837456504,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Bachelor.S23E12.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Bachelor.S23E12.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000097444,
+                    "path": "The.Bachelor.S23E12.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.837358931,
+                    "path": "The.Bachelor.S23E12.WEBRip.x264-ION10/The.Bachelor.S23E12.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "The-Bachelor-UK-S01E01-720p-HDTV-x264-PLUTONiUM",
+            "size_total": 1.383307929,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000073585,
+                    "path": "www.Torrenting.org - The Bachelor UK S01E01 720p HDTV x264-PLUTONiUM/Screens/screen0001.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000016022,
+                    "path": "www.Torrenting.org - The Bachelor UK S01E01 720p HDTV x264-PLUTONiUM/Screens/screen0002.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000089931,
+                    "path": "www.Torrenting.org - The Bachelor UK S01E01 720p HDTV x264-PLUTONiUM/Screens/screen0003.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000085053,
+                    "path": "www.Torrenting.org - The Bachelor UK S01E01 720p HDTV x264-PLUTONiUM/Screens/screen0004.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000071642,
+                    "path": "www.Torrenting.org - The Bachelor UK S01E01 720p HDTV x264-PLUTONiUM/Screens/screen0005.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 1.382970273,
+                    "path": "www.Torrenting.org - The Bachelor UK S01E01 720p HDTV x264-PLUTONiUM/The.Bachelor.UK.S01E01.720p.HDTV.x264-PLUTONiUM.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000001337,
+                    "path": "www.Torrenting.org - The Bachelor UK S01E01 720p HDTV x264-PLUTONiUM/The.Bachelor.UK.S01E01.720p.HDTV.x264-PLUTONiUM.nfo"
+                },
+                {
+                    "number": 8,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.org - The Bachelor UK S01E01 720p HDTV x264-PLUTONiUM/Torrent Downloaded From www.torrenting.org.txt"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "The-Bachelor-UK-S01E09-The-Final-HDTV-x264-PLUTONiUM[eztv]",
+            "size_total": 0.514083196,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.514083196,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "The-Bachelor-UK-S01E09-The-Final-HDTV-x264-PLUTONiUM[TGx]",
+            "size_total": 0.515777209,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000409131,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000367506,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000560051,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000354883,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.514083196,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM[TGx]/The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 6.91e-7,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000001751,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM[TGx]/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.nfo"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "The.Bachelor.S23E11.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.853639355,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000401559,
+                    "path": "The.Bachelor.S23E11.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001166587,
+                    "path": "The.Bachelor.S23E11.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000459579,
+                    "path": "The.Bachelor.S23E11.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001292013,
+                    "path": "The.Bachelor.S23E11.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.850318435,
+                    "path": "The.Bachelor.S23E11.720p.HEVC.x265-MeGusta/The.Bachelor.S23E11.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001182,
+                    "path": "The.Bachelor.S23E11.720p.HEVC.x265-MeGusta/The.Bachelor.S23E11.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb [IPT]",
+            "size_total": 1.932230669,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001043109,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001248035,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000821395,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001360865,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.927755687,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001578,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[eztv].mkv",
+            "size_total": 1.927755687,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.927755687,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "The.Bachelor.S23E11.720p.HULU.WEBRip.AAC2.0.H264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.927755816,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.927755687,
+                    "path": "The.Bachelor.S23E11.720p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "The.Bachelor.S23E11.720p.WEB.x264-TBS[eztv].mkv",
+            "size_total": 2.211892304,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.211892304,
+                    "path": "The.Bachelor.S23E11.720p.WEB.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "The.Bachelor.S23E11.720p.WEB.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 2.211892482,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Bachelor.S23E11.720p.WEB.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Bachelor.S23E11.720p.WEB.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.211892304,
+                    "path": "The.Bachelor.S23E11.720p.WEB.x264-TBS[rarbg]/the.bachelor.s23e11.720p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.9e-8,
+                    "path": "The.Bachelor.S23E11.720p.WEB.x264-TBS[rarbg]/the.bachelor.s23e11.720p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "The.Bachelor.S23E11.WEB.x264-TBS[eztv].mkv",
+            "size_total": 0.713915534,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.713915534,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "The.Bachelor.S23E11.WEB.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.713915707,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.713915534,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[rarbg]/the.bachelor.s23e11.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.4e-8,
+                    "path": "The.Bachelor.S23E11.WEB.x264-TBS[rarbg]/the.bachelor.s23e11.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "The.Bachelor.S23E11.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.863675993,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Bachelor.S23E11.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Bachelor.S23E11.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000083697,
+                    "path": "The.Bachelor.S23E11.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.863592167,
+                    "path": "The.Bachelor.S23E11.WEBRip.x264-ION10/The.Bachelor.S23E11.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "The.Bachelor.S23E11.XviD-AFG [IPT]",
+            "size_total": 1.176996182,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000154898,
+                    "path": "The.Bachelor.S23E11.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00040352,
+                    "path": "The.Bachelor.S23E11.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000140421,
+                    "path": "The.Bachelor.S23E11.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000318463,
+                    "path": "The.Bachelor.S23E11.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.175977722,
+                    "path": "The.Bachelor.S23E11.XviD-AFG/The.Bachelor.S23E11.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001158,
+                    "path": "The.Bachelor.S23E11.XviD-AFG/The.Bachelor.S23E11.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "The.Bachelor.S23E12.480p.x264-mSD [IPT]",
+            "size_total": 0.439096503,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000389601,
+                    "path": "The.Bachelor.S23E12.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000319755,
+                    "path": "The.Bachelor.S23E12.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000324666,
+                    "path": "The.Bachelor.S23E12.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000308795,
+                    "path": "The.Bachelor.S23E12.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.43775251,
+                    "path": "The.Bachelor.S23E12.480p.x264-mSD/The.Bachelor.S23E12.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001176,
+                    "path": "The.Bachelor.S23E12.480p.x264-mSD/The.Bachelor.S23E12.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "The.Bachelor.S23E12.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 1.16173509,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00034532,
+                    "path": "The.Bachelor.S23E12.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000792756,
+                    "path": "The.Bachelor.S23E12.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002107556,
+                    "path": "The.Bachelor.S23E12.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001152388,
+                    "path": "The.Bachelor.S23E12.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.157335885,
+                    "path": "The.Bachelor.S23E12.720p.HEVC.x265-MeGusta/The.Bachelor.S23E12.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001185,
+                    "path": "The.Bachelor.S23E12.720p.HEVC.x265-MeGusta/The.Bachelor.S23E12.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb [IPT]",
+            "size_total": 1.940134073,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000850904,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000931459,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00212998,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001407,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.934813154,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001576,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb/The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[eztv].mkv",
+            "size_total": 1.934813154,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.934813154,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "The.Bachelor.S23E12.720p.HULU.WEBRip.AAC2.0.H264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.934813283,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.934813154,
+                    "path": "The.Bachelor.S23E12.720p.HULU.WEBRip.AAC2.0.H264-NTb[rarbg]/The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "The.Bachelor.S23E12.720p.WEB.x264-TBS [IPT]",
+            "size_total": 2.146127806,
+            "files_total": 45,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.9e-8,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.046125521,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.05,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.rar"
+                },
+                {
+                    "number": 45,
+                    "size": 0.000002236,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS/the.bachelor.s23e12.720p.web.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "The.Bachelor.S23E12.720p.WEB.x264-TBS[eztv].mkv",
+            "size_total": 2.146120662,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.146120662,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "The.Bachelor.S23E12.720p.WEB.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 2.14612084,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.146120662,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS[rarbg]/the.bachelor.s23e12.720p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.9e-8,
+                    "path": "The.Bachelor.S23E12.720p.WEB.x264-TBS[rarbg]/the.bachelor.s23e12.720p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "The.Bachelor.S23E12.WEB.x264-TBS [IPT]",
+            "size_total": 0.695949804,
+            "files_total": 37,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.4e-8,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.015948115,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.02,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.rar"
+                },
+                {
+                    "number": 37,
+                    "size": 0.000001645,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS/the.bachelor.s23e12.web.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "The.Bachelor.S23E12.WEB.x264-TBS[eztv].mkv",
+            "size_total": 0.695944335,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.695944335,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "The.Bachelor.S23E12.WEB.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.695944508,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.695944335,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[rarbg]/the.bachelor.s23e12.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.4e-8,
+                    "path": "The.Bachelor.S23E12.WEB.x264-TBS[rarbg]/the.bachelor.s23e12.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "The.Bachelor.S23E12.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.837456504,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Bachelor.S23E12.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Bachelor.S23E12.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000097444,
+                    "path": "The.Bachelor.S23E12.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.837358931,
+                    "path": "The.Bachelor.S23E12.WEBRip.x264-ION10/The.Bachelor.S23E12.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "The.Bachelor.S23E12.XviD-AFG [IPT]",
+            "size_total": 1.54310917,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000453343,
+                    "path": "The.Bachelor.S23E12.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000404403,
+                    "path": "The.Bachelor.S23E12.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00036585,
+                    "path": "The.Bachelor.S23E12.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000348368,
+                    "path": "The.Bachelor.S23E12.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.541536046,
+                    "path": "The.Bachelor.S23E12.XviD-AFG/The.Bachelor.S23E12.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.00000116,
+                    "path": "The.Bachelor.S23E12.XviD-AFG/The.Bachelor.S23E12.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM [IPT]",
+            "size_total": 2.599505681,
+            "files_total": 54,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000001763,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r38"
+                },
+                {
+                    "number": 41,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r39"
+                },
+                {
+                    "number": 42,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r40"
+                },
+                {
+                    "number": 43,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r41"
+                },
+                {
+                    "number": 44,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r42"
+                },
+                {
+                    "number": 45,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r43"
+                },
+                {
+                    "number": 46,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r44"
+                },
+                {
+                    "number": 47,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r45"
+                },
+                {
+                    "number": 48,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r46"
+                },
+                {
+                    "number": 49,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r47"
+                },
+                {
+                    "number": 50,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r48"
+                },
+                {
+                    "number": 51,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r49"
+                },
+                {
+                    "number": 52,
+                    "size": 0.049500122,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.r50"
+                },
+                {
+                    "number": 53,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.rar"
+                },
+                {
+                    "number": 54,
+                    "size": 0.000003796,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.1080p.hdtv.h264-plutonium.sfv"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "The.Bachelor.UK.S01E09.The.Final.480p.x264-mSD [IPT]",
+            "size_total": 0.368590005,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000194213,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00018372,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000361801,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000437298,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.367411775,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.480p.x264-mSD/The.Bachelor.UK.S01E09.The.Final.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001198,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.480p.x264-mSD/The.Bachelor.UK.S01E09.The.Final.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM [IPT]",
+            "size_total": 1.348355921,
+            "files_total": 29,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000001759,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.048352218,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.rar"
+                },
+                {
+                    "number": 29,
+                    "size": 0.000001944,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.720p.hdtv.x264-plutonium.sfv"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "The.Bachelor.UK.S01E09.The.Final.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.700687865,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001063305,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000862605,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001371044,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000862567,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.696527136,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HEVC.x265-MeGusta/The.Bachelor.UK.S01E09.The.Final.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001208,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.720p.HEVC.x265-MeGusta/The.Bachelor.UK.S01E09.The.Final.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "The.Bachelor.UK.S01E09.The.Final.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.398507016,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000222436,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000212372,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000418468,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000498181,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.397154258,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.AAC.MP4-Mobile/The.Bachelor.UK.S01E09.The.Final.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001301,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.AAC.MP4-Mobile/The.Bachelor.UK.S01E09.The.Final.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM [IPT]",
+            "size_total": 0.514090069,
+            "files_total": 28,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000001751,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.014086576,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.02,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.rar"
+                },
+                {
+                    "number": 28,
+                    "size": 0.000001742,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM/the.bachelor.uk.s01e09.the.final.hdtv.x264-plutonium.sfv"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM[eztv].mkv",
+            "size_total": 0.514083196,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.514083196,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "The.Bachelor.UK.S01E09.The.Final.XviD-AFG [IPT]",
+            "size_total": 0.981043812,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00021616,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000228894,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000399201,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000501537,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.979696842,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.XviD-AFG/The.Bachelor.UK.S01E09.The.Final.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001178,
+                    "path": "The.Bachelor.UK.S01E09.The.Final.XviD-AFG/The.Bachelor.UK.S01E09.The.Final.XviD-AFG.nfo"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 70,
+            "name": "multi-btih-11-2-x-The-Bachelor-S23E12-WEB-x264-TBS[eztv]",
+            "btih": "55cd41e69499308a615087968a817af58df2e3a1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.695944335,
+            "creation": "2019-03-13T11:25:27.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 34548,
+            "uuploaders": 13071
+        },
+        {
+            "id": 60,
+            "name": "multi-btih-1-2-x-86ed-The.Bachelor.S23E11.WEB.x264-TBS[ettv]",
+            "btih": "ba45c7fdda4b6b184dbddb1647c437a40c97da2e",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.713915733,
+            "creation": "2019-03-12T09:20:09.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26120,
+            "uuploaders": 13326
+        },
+        {
+            "id": 63,
+            "name": "multi-btih-4-2-x-The-Bachelor-S23E11-WEB-x264-TBS[eztv]",
+            "btih": "f0cd331a625533828cc07e9b1029b5495dded474",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.713915534,
+            "creation": "2019-03-12T10:05:06.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24738,
+            "uuploaders": 12403
+        },
+        {
+            "id": 19,
+            "name": "The-Bachelor-S23E12-WEB-x264-TBS",
+            "btih": "b3e94bf74c27b27cd6027e231c5b551c0c90bcc6",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.696342759,
+            "creation": "2019-03-13T09:25:35.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16606,
+            "uuploaders": 8880
+        },
+        {
+            "id": 65,
+            "name": "multi-btih-6-2-x-The-Bachelor-S23E11-WEBRip-x264-ION10",
+            "btih": "25d40a383528e6f1239352e05ded999c13c4e634",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.863675993,
+            "creation": "2019-03-12T13:57:47.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13216,
+            "uuploaders": 1511
+        },
+        {
+            "id": 59,
+            "name": "multi-btih-0-2-x-3f8a-The.Bachelor.S23E12.WEB.x264-TBS[ettv]",
+            "btih": "f658cf9ab5b65800d1c3263657c87c7d0ec7d95f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.695944534,
+            "creation": "2019-03-13T09:18:09.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12533,
+            "uuploaders": 2998
+        },
+        {
+            "id": 18,
+            "name": "The-Bachelor-S23E12-720p-WEB-x264-TBS[TGx]",
+            "btih": "87d0379a7ccd1964c5e9a1577256805852a80e36",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.15040712,
+            "creation": "2019-03-13T11:05:21.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11709,
+            "uuploaders": 1270
+        },
+        {
+            "id": 15,
+            "name": "The-Bachelor-S23E12-720p-WEB-x264-TBS",
+            "btih": "68978f565914c58b919d2a4bd628416ce0f9cd2e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.146695108,
+            "creation": "2019-03-13T09:30:12.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11045,
+            "uuploaders": 1748
+        },
+        {
+            "id": 62,
+            "name": "multi-btih-3-2-x-The-Bachelor-S23E11-720p-WEB-x264-TBS[eztv]",
+            "btih": "9515812e9ea82b1dce6969a3e94494a79aa1bb15",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.211892304,
+            "creation": "2019-03-12T10:05:18.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9418,
+            "uuploaders": 3365
+        },
+        {
+            "id": 69,
+            "name": "multi-btih-10-2-x-The-Bachelor-S23E12-720p-WEB-x264-TBS[rarbg]",
+            "btih": "76e20178918b3bb503dd7ebfe42118f3d3989ac2",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.14612084,
+            "creation": "2019-03-13T09:22:12.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9258,
+            "uuploaders": 1841
+        },
+        {
+            "id": 10,
+            "name": "The-Bachelor-S23E11-WEB-x264-TBS[TGx]",
+            "btih": "7ca0102d890cfbbea1676a00731c51187b3cf8f4",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.715854886,
+            "creation": "2019-03-12T09:29:37.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8812,
+            "uuploaders": 678
+        },
+        {
+            "id": 61,
+            "name": "multi-btih-2-2-x-The-Bachelor-S23E11-720p-HULU-WEB-DL-AAC2-0-H-264-NTb[eztv]",
+            "btih": "61dc9720430e77e5d0841b16d0b833323a159340",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.927755687,
+            "creation": "2019-03-12T13:45:15.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8279,
+            "uuploaders": 3963
+        },
+        {
+            "id": 66,
+            "name": "multi-btih-7-2-x-The-Bachelor-S23E12-720p-HULU-WEB-DL-AAC2-0-H-264-NTb[eztv]",
+            "btih": "53f8f7b45247676522df44847bd54480c2e532e0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.934813154,
+            "creation": "2019-03-13T17:05:09.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7531,
+            "uuploaders": 2371
+        },
+        {
+            "id": 71,
+            "name": "multi-btih-12-2-x-The-Bachelor-S23E12-WEB-x264-TBS[rarbg]",
+            "btih": "4425b401748455882d3580097a325912a3ab8ec9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.695944508,
+            "creation": "2019-03-13T09:21:23.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7525,
+            "uuploaders": 1889
+        },
+        {
+            "id": 68,
+            "name": "multi-btih-9-2-x-The-Bachelor-S23E12-720p-WEB-x264-TBS[eztv]",
+            "btih": "0e187e2ad56ba09c0c742d6ccc300aef402645da",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.146120662,
+            "creation": "2019-03-13T11:25:25.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7415,
+            "uuploaders": 3502
+        },
+        {
+            "id": 72,
+            "name": "multi-btih-13-2-x-The-Bachelor-S23E12-WEBRip-x264-ION10",
+            "btih": "54395be55422c36fe90cd31a4952073dc280ffe7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.837456504,
+            "creation": "2019-03-13T16:26:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6944,
+            "uuploaders": 1216
+        },
+        {
+            "id": 13,
+            "name": "The-Bachelor-S23E12-720p-HULU-WEB-DL-AAC2-0-H-264-NTb[TGx]",
+            "btih": "d175165888dafeeea6d4aff202dd32c4a136a697",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.940134764,
+            "creation": "2019-03-13T15:02:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6594,
+            "uuploaders": 1306
+        },
+        {
+            "id": 25,
+            "name": "The-Bachelor-UK-S01E01-720p-HDTV-x264-PLUTONiUM",
+            "btih": "3db619fad98bb1b6cee08036feb3d9160bc32b1c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.383307929,
+            "creation": "2019-03-07T18:21:55.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6304,
+            "uuploaders": 135
+        },
+        {
+            "id": 73,
+            "name": "multi-btih-14-2-x-The-Bachelor-UK-S01E09-The-Final-HDTV-x264-PLUTONiUM[eztv]",
+            "btih": "b89bc5d7785ecbb9d54c9ac613ab2369ac97b4af",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.514083196,
+            "creation": "2019-03-16T02:18:52.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5955,
+            "uuploaders": 1994
+        },
+        {
+            "id": 67,
+            "name": "multi-btih-8-2-x-The-Bachelor-S23E12-720p-HULU-WEBRip-AAC2-0-H264-NTb[rarbg]",
+            "btih": "1277a6a7ad2e6599b78debbdedad0dc5a93f2a78",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.934813283,
+            "creation": "2019-03-13T16:26:38.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5281,
+            "uuploaders": 562
+        },
+        {
+            "id": 27,
+            "name": "The-Bachelor-UK-S01E09-The-Final-HDTV-x264-PLUTONiUM[TGx]",
+            "btih": "4749d6a07498416d9ef59559975cba8c057ba107",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.515777209,
+            "creation": "2019-03-16T00:52:29.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4734,
+            "uuploaders": 770
+        },
+        {
+            "id": 33,
+            "name": "The.Bachelor.S23E11.720p.WEB.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "319e2e617c21331bc22745fa8b6716b7ef0e8025",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.211892482,
+            "creation": "2019-03-12T09:17:59.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4463,
+            "uuploaders": 1573
+        },
+        {
+            "id": 64,
+            "name": "multi-btih-5-2-x-The-Bachelor-S23E11-WEB-x264-TBS[rarbg]",
+            "btih": "df458aa41178df64402d0d6aa8d9310a24824547",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.713915707,
+            "creation": "2019-03-12T09:21:28.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4271,
+            "uuploaders": 1596
+        },
+        {
+            "id": 31,
+            "name": "The.Bachelor.S23E11.720p.HULU.WEBRip.AAC2.0.H264-NTb[rartv]-[rarbg.to]",
+            "btih": "8cdebf620201792d354af3a1a47b035187847b60",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.927755816,
+            "creation": "2019-03-12T13:05:50.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4210,
+            "uuploaders": 746
+        },
+        {
+            "id": 6,
+            "name": "The-Bachelor-S23E11-720p-WEB-x264-TBS[TGx]",
+            "btih": "374816ea1872cc076dfbafa1aefca634522f2bb1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.215417332,
+            "creation": "2019-03-12T09:28:57.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4028,
+            "uuploaders": 354
+        },
+        {
+            "id": 4,
+            "name": "The-Bachelor-S23E11-720p-HULU-WEB-DL-AAC2-0-H-264-NTb[TGx]",
+            "btih": "88105c90ad09d7f7fbfc2cb2f0820947040d4526",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.93223136,
+            "creation": "2019-03-12T13:50:15.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3618,
+            "uuploaders": 1462
+        },
+        {
+            "id": 23,
+            "name": "The-Bachelor-S23E12-WEB-x264-TBS[TGx]",
+            "btih": "6eb6ef6ffd317a4f1d88c275f0a0084254866230",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.698428544,
+            "creation": "2019-03-13T11:01:16.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3351,
+            "uuploaders": 1274
+        },
+        {
+            "id": 43,
+            "name": "The.Bachelor.S23E12.720p.WEB.x264-TBS [IPT]",
+            "btih": "8edce8cb7feb7d24cb0599869ebd9a44a96e27b9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.146127806,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 748,
+            "uuploaders": 403
+        },
+        {
+            "id": 38,
+            "name": "The.Bachelor.S23E12.480p.x264-mSD [IPT]",
+            "btih": "f8c9a99489068943fefa4537122c2eb47866dbb3",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.439096503,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 587,
+            "uuploaders": 203
+        },
+        {
+            "id": 50,
+            "name": "The.Bachelor.S23E12.XviD-AFG [IPT]",
+            "btih": "2422bb44c61ee03d0e4eda1073f6cb74d8d7e9dd",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 1.54310917,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 399,
+            "uuploaders": 276
+        },
+        {
+            "id": 39,
+            "name": "The.Bachelor.S23E12.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "f85ae0fc53992834bbcb4450a98dd6031c193f68",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 1.16173509,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 311,
+            "uuploaders": 219
+        },
+        {
+            "id": 28,
+            "name": "The.Bachelor.S23E11.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "ca345dad9da29aba4c88b7cede0a22bd94aaf321",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.853639355,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 302,
+            "uuploaders": 216
+        },
+        {
+            "id": 37,
+            "name": "The.Bachelor.S23E11.XviD-AFG [IPT]",
+            "btih": "b0a0de1c98742605580618a22809a3dd49fdc3e9",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 1.176996182,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 186,
+            "uuploaders": 151
+        },
+        {
+            "id": 40,
+            "name": "The.Bachelor.S23E12.720p.HULU.WEB-DL.AAC2.0.H.264-NTb [IPT]",
+            "btih": "7e091b26b0dac2478aacbc3401277cc5101153ab",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.940134073,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 178,
+            "uuploaders": 102
+        },
+        {
+            "id": 29,
+            "name": "The.Bachelor.S23E11.720p.HULU.WEB-DL.AAC2.0.H.264-NTb [IPT]",
+            "btih": "0ce50c15d673d94a5437f0f2ef6dddf19f94795b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.932230669,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 176,
+            "uuploaders": 100
+        },
+        {
+            "id": 46,
+            "name": "The.Bachelor.S23E12.WEB.x264-TBS [IPT]",
+            "btih": "f33c4277a13d088e44e18914f522416027c1d8d9",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.695949804,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 173,
+            "uuploaders": 120
+        },
+        {
+            "id": 53,
+            "name": "The.Bachelor.UK.S01E09.The.Final.720p.HDTV.x264-PLUTONiUM [IPT]",
+            "btih": "5daf10acea7f97b62ac9d9280998d4b964fe8ba6",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.348355921,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 153,
+            "uuploaders": 115
+        },
+        {
+            "id": 58,
+            "name": "The.Bachelor.UK.S01E09.The.Final.XviD-AFG [IPT]",
+            "btih": "c8440fedc795985eb1e1cae033ef9deadf7fcca7",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.981043812,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 57,
+            "uuploaders": 52
+        },
+        {
+            "id": 54,
+            "name": "The.Bachelor.UK.S01E09.The.Final.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "02ae2467d3c63ad4b63766d615de243baeb6861d",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.700687865,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 39,
+            "uuploaders": 36
+        },
+        {
+            "id": 51,
+            "name": "The.Bachelor.UK.S01E09.The.Final.1080p.HDTV.h264-PLUTONiUM [IPT]",
+            "btih": "0f1e0339609e9689a732f713e49b36f2bf3eb511",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.599505681,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 34,
+            "uuploaders": 26
+        },
+        {
+            "id": 56,
+            "name": "The.Bachelor.UK.S01E09.The.Final.HDTV.x264-PLUTONiUM [IPT]",
+            "btih": "50131ffade34fa167282c625af9a1eae02243240",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.514090069,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 29,
+            "uuploaders": 23
+        },
+        {
+            "id": 52,
+            "name": "The.Bachelor.UK.S01E09.The.Final.480p.x264-mSD [IPT]",
+            "btih": "c2e5bd0c9dc889ca0ebee321ebfea75d015893f1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.368590005,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 24,
+            "uuploaders": 17
+        },
+        {
+            "id": 55,
+            "name": "The.Bachelor.UK.S01E09.The.Final.AAC.MP4-Mobile [IPT]",
+            "btih": "f9868970d61a70c27176ef470bd5e9c9b534dd54",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.398507016,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 16,
+            "uuploaders": 13
+        }
+    ]
+}
