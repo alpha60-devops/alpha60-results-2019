@@ -1,0 +1,3378 @@
+{
+    "collection_name": "The Orville",
+    "collection_id": "206",
+    "collection_key": "orville-206",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "b8068f63b93f81e8692122e5e5cd394bbb2c0453",
+            "duplicate_0_0": "The-Orville-S02E06-720p-WEB-x264-TBS[eztv]",
+            "duplicate_0_1": "The.Orville.S02E06.720p.WEB.x264-TBS[eztv].mkv"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "b6487e69f65600448a68bde7d316a15eafeef18b",
+            "duplicate_1_0": "[rutor.is]The.Orville.S02.1080p.WEBRip.Profix.Media(1)",
+            "duplicate_1_1": "[rutor.is]The.Orville.S02.1080p.WEBRip.Profix.Media"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "27280fde285978f0e6e2226ca88854c6613a1dd7",
+            "duplicate_2_0": "[rutor.is]The.Orville.S02.720p.WEBRip.Profix.Media(1)",
+            "duplicate_2_1": "[rutor.is]The.Orville.S02.720p.WEBRip.Profix.Media"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "6281a7960849f9f801d6cbdd2408669604ffe372",
+            "duplicate_3_0": "[rutor.is]The.Orville.S02.AMZN.WEB-DL.1080p",
+            "duplicate_3_1": "Орвилл The Orville Сезон 2 Серии 1-6 из 15 (Брэннон Брага, Джон Кассар, Роберт Данкан МакНил) [2018, США, Фантастика, драм [rutracker-5669927]"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "bb678651a27793a47e8336394aecd387d5a9f19c",
+            "duplicate_4_0": "[rutor.is]The_Orville_(s02)_LF",
+            "duplicate_4_1": "Орвилл The Orville Сезон 2 Серии 1-6 из 15 (Брэннон Брага, Джон Кассар, Роберт Данкан МакНил) [2018, США, Фантастика, драм [rutracker-5669623]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "0f58f6a2500d3703f4431a3a9d0e552a42164e3e",
+            "duplicate_5_0": "[rutor.is]The_Orville_Season_2_WEB-DL_l_1080p_l_Jaskier",
+            "duplicate_5_1": "Орвилл The Orville Сезон 2 Серии 1-6 из 12 (Брэннон Брага, Джон Кассар, Джеймс Л. Конуэй) [2019, США, Фантастика, драма, к [rutracker-5674460]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "8f165010ff26e60a83372b3a81167cd7620b88e0",
+            "duplicate_6_0": "[rutor.is]The_Orville_Season_2_WEB-DL_l_720p_l_Jaskier",
+            "duplicate_6_1": "Орвилл The Orville Сезон 2 Серии 1-6 из 12 (Брэннон Брага, Джон Кассар, Джеймс Л. Конуэй) [2019, США, Фантастика, драма, к [rutracker-5674458]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "0c67-The.Orville.S02E06.720p.WEB.x264-TBS[ettv]",
+            "size_total": 1.235587895,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.85e-7,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.23558771,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS[ettv]/the.orville.s02e06.720p.web.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "66b4-The Orville S02E06 A Happy Refrain  (1080p x265 10bit FS95 Joy).mkv",
+            "size_total": 0.501565793,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.501565793,
+                    "path": "The Orville S02E06 A Happy Refrain  (1080p x265 10bit FS95 Joy).mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]Orville_S02_WEBRip_720p_OMSKBIRD",
+            "size_total": 6.917040183,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.15269476,
+                    "path": "Orville S02 WEBRip 720p (OMSKBIRD)/Orville S02E01 WEBRip 720p (OMSKBIRD).mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.151837847,
+                    "path": "Orville S02 WEBRip 720p (OMSKBIRD)/Orville S02E02 WEBRip 720p (OMSKBIRD).mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.15403976,
+                    "path": "Orville S02 WEBRip 720p (OMSKBIRD)/Orville S02E03 WEBRip 720p (OMSKBIRD).mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.151175154,
+                    "path": "Orville S02 WEBRip 720p (OMSKBIRD)/Orville S02E04 WEBRip 720p (OMSKBIRD).mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.153315526,
+                    "path": "Orville S02 WEBRip 720p (OMSKBIRD)/Orville S02E05 WEBRip 720p (OMSKBIRD).mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.153977136,
+                    "path": "Orville S02 WEBRip 720p (OMSKBIRD)/Orville S02E06 WEBRip 720p (OMSKBIRD).mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Orville_S02_WEBRip_OMSKBIRD",
+            "size_total": 4.383510528,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.72848384,
+                    "path": "Orville S02 WEBRip (OMSKBIRD)/Orville S02E01 WEBRip (OMSKBIRD).avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.726996992,
+                    "path": "Orville S02 WEBRip (OMSKBIRD)/Orville S02E02 WEBRip (OMSKBIRD).avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.736045056,
+                    "path": "Orville S02 WEBRip (OMSKBIRD)/Orville S02E03 WEBRip (OMSKBIRD).avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.736075776,
+                    "path": "Orville S02 WEBRip (OMSKBIRD)/Orville S02E04 WEBRip (OMSKBIRD).avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.728190976,
+                    "path": "Orville S02 WEBRip (OMSKBIRD)/Orville S02E05 WEBRip (OMSKBIRD).avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.727717888,
+                    "path": "Orville S02 WEBRip (OMSKBIRD)/Orville S02E06 WEBRip (OMSKBIRD).avi"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]The.Orville.S02.1080p.GostFilm",
+            "size_total": 11.27315394,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.876619232,
+                    "path": "The.Orville.S02.1080p.GostFilm/The.Orville.S02E04.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.877153608,
+                    "path": "The.Orville.S02.1080p.GostFilm/The.Orville.S02E01.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.877620817,
+                    "path": "The.Orville.S02.1080p.GostFilm/The.Orville.S02E06.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.879086019,
+                    "path": "The.Orville.S02.1080p.GostFilm/The.Orville.S02E03.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.881238677,
+                    "path": "The.Orville.S02.1080p.GostFilm/The.Orville.S02E05.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.881435587,
+                    "path": "The.Orville.S02.1080p.GostFilm/The.Orville.S02E02.1080p.GostFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]The.Orville.S02.1080p.WEBRip.Profix.Media(1)",
+            "size_total": 10.256904746,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.574332283,
+                    "path": "The.Orville.S02.1080p.WEBRip.Profix.Media/The.Orville.S02E01.1080p.WEBRip.Profix.Media-PROPER.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.736303032,
+                    "path": "The.Orville.S02.1080p.WEBRip.Profix.Media/The.Orville.S02E02.1080p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.745151382,
+                    "path": "The.Orville.S02.1080p.WEBRip.Profix.Media/The.Orville.S02E03.1080p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.824862209,
+                    "path": "The.Orville.S02.1080p.WEBRip.Profix.Media/The.Orville.S02E04.1080p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.594256844,
+                    "path": "The.Orville.S02.1080p.WEBRip.Profix.Media/The.Orville.S02E05.1080p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.781998996,
+                    "path": "The.Orville.S02.1080p.WEBRip.Profix.Media/The.Orville.S02E06.1080p.WEBRip.Profix.Media.mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]The.Orville.S02.1080p.WEBRip.Profix.Media",
+            "size_total": 10.256904746,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.574332283,
+                    "path": "The.Orville.S02.1080p.WEBRip.Profix.Media/The.Orville.S02E01.1080p.WEBRip.Profix.Media-PROPER.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.736303032,
+                    "path": "The.Orville.S02.1080p.WEBRip.Profix.Media/The.Orville.S02E02.1080p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.745151382,
+                    "path": "The.Orville.S02.1080p.WEBRip.Profix.Media/The.Orville.S02E03.1080p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.824862209,
+                    "path": "The.Orville.S02.1080p.WEBRip.Profix.Media/The.Orville.S02E04.1080p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.594256844,
+                    "path": "The.Orville.S02.1080p.WEBRip.Profix.Media/The.Orville.S02E05.1080p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.781998996,
+                    "path": "The.Orville.S02.1080p.WEBRip.Profix.Media/The.Orville.S02E06.1080p.WEBRip.Profix.Media.mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]The.Orville.S02.720p.GostFilm",
+            "size_total": 7.605740231,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.073409829,
+                    "path": "The.Orville.S02.720p.GostFilm/The.Orville.S02E03.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.304338102,
+                    "path": "The.Orville.S02.720p.GostFilm/The.Orville.S02E04.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.304799808,
+                    "path": "The.Orville.S02.720p.GostFilm/The.Orville.S02E01.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.305431756,
+                    "path": "The.Orville.S02.720p.GostFilm/The.Orville.S02E06.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.307670326,
+                    "path": "The.Orville.S02.720p.GostFilm/The.Orville.S02E02.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.31009041,
+                    "path": "The.Orville.S02.720p.GostFilm/The.Orville.S02E05.720p.GostFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[rutor.is]The.Orville.S02.720p.WEBRip.Profix.Media(1)",
+            "size_total": 4.233348901,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.447982465,
+                    "path": "The.Orville.S02.720p.WEBRip.Profix.Media/The.Orville.S02E01.720p.WEBRip.Profix.Media-PROPER.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.77370541,
+                    "path": "The.Orville.S02.720p.WEBRip.Profix.Media/The.Orville.S02E02.720p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.761916811,
+                    "path": "The.Orville.S02.720p.WEBRip.Profix.Media/The.Orville.S02E03.720p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.742320209,
+                    "path": "The.Orville.S02.720p.WEBRip.Profix.Media/The.Orville.S02E04.720p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.741910874,
+                    "path": "The.Orville.S02.720p.WEBRip.Profix.Media/The.Orville.S02E05.720p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.765513132,
+                    "path": "The.Orville.S02.720p.WEBRip.Profix.Media/The.Orville.S02E06.720p.WEBRip.Profix.Media.mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[rutor.is]The.Orville.S02.720p.WEBRip.Profix.Media",
+            "size_total": 4.233348901,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.447982465,
+                    "path": "The.Orville.S02.720p.WEBRip.Profix.Media/The.Orville.S02E01.720p.WEBRip.Profix.Media-PROPER.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.77370541,
+                    "path": "The.Orville.S02.720p.WEBRip.Profix.Media/The.Orville.S02E02.720p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.761916811,
+                    "path": "The.Orville.S02.720p.WEBRip.Profix.Media/The.Orville.S02E03.720p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.742320209,
+                    "path": "The.Orville.S02.720p.WEBRip.Profix.Media/The.Orville.S02E04.720p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.741910874,
+                    "path": "The.Orville.S02.720p.WEBRip.Profix.Media/The.Orville.S02E05.720p.WEBRip.Profix.Media.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.765513132,
+                    "path": "The.Orville.S02.720p.WEBRip.Profix.Media/The.Orville.S02E06.720p.WEBRip.Profix.Media.mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "[rutor.is]The.Orville.S02.AMZN.WEB-DL.1080p",
+            "size_total": 19.4403272,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.981358645,
+                    "path": "The.Orville.S02.AMZN.WEB-DL.1080p/The.Orville.S02E01.Jaloja.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.048081828,
+                    "path": "The.Orville.S02.AMZN.WEB-DL.1080p/The.Orville.S02E02.Primal.Urges.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.992234321,
+                    "path": "The.Orville.S02.AMZN.WEB-DL.1080p/The.Orville.S02E03.Home.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.691448738,
+                    "path": "The.Orville.S02.AMZN.WEB-DL.1080p/The.Orville.S02E04.Nothing.Left.on.Earth.Excepting.Fishes.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.666251979,
+                    "path": "The.Orville.S02.AMZN.WEB-DL.1080p/The.Orville.S02E05.All.the.World.is.Birthday.Cake.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.060951689,
+                    "path": "The.Orville.S02.AMZN.WEB-DL.1080p/The.Orville.S02E06.A.Happy.Refrain.AMZN.WEB-DL.1080p.mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "[rutor.is]The.Orville.S02.WEBRip.Profix.Media",
+            "size_total": 1.829944781,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.259432383,
+                    "path": "The.Orville.S02.WEBRip.Profix.Media/The.Orville.S02E01.WEBRip.Profix.Media-PROPER.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.310580276,
+                    "path": "The.Orville.S02.WEBRip.Profix.Media/The.Orville.S02E02.WEBRip.Profix.Media.mp4"
+                },
+                {
+                    "number": 3,
+                    "size": 0.322540788,
+                    "path": "The.Orville.S02.WEBRip.Profix.Media/The.Orville.S02E03.WEBRip.Profix.Media.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.288027435,
+                    "path": "The.Orville.S02.WEBRip.Profix.Media/The.Orville.S02E04.WEBRip.Profix.Media.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.322546169,
+                    "path": "The.Orville.S02.WEBRip.Profix.Media/The.Orville.S02E05.WEBRip.Profix.Media.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.32681773,
+                    "path": "The.Orville.S02.WEBRip.Profix.Media/The.Orville.S02E06.WEBRip.Profix.Media.mp4"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "[rutor.is]The_Orville_(s02)_LF",
+            "size_total": 3.855949824,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.643403776,
+                    "path": "The Orville (Season 2) WEBRip LostFilm/The.Orville.s02e01.WEBRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.64185344,
+                    "path": "The Orville (Season 2) WEBRip LostFilm/The.Orville.s02e02.WEBRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.642762752,
+                    "path": "The Orville (Season 2) WEBRip LostFilm/The.Orville.s02e03.WEBRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.642781184,
+                    "path": "The Orville (Season 2) WEBRip LostFilm/The.Orville.s02e04.WEBRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.642576384,
+                    "path": "The Orville (Season 2) WEBRip LostFilm/The.Orville.s02e05.WEBRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.642572288,
+                    "path": "The Orville (Season 2) WEBRip LostFilm/The.Orville.s02e06.WEBRip.RGzsRutracker.[Wentworth_Miller].avi"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "[rutor.is]The_Orville_Season_2_WEB-DL_l_1080p_l_Jaskier",
+            "size_total": 21.304460191,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.95798291,
+                    "path": "The Orville Season 2 (WEB-DL l 1080p l Jaskier)/The.Orville.S02E01.WEB-DL.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.024751732,
+                    "path": "The Orville Season 2 (WEB-DL l 1080p l Jaskier)/The.Orville.S02E02.WEB-DL.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.968877669,
+                    "path": "The Orville Season 2 (WEB-DL l 1080p l Jaskier)/The.Orville.S02E03.WEB-DL.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.782486259,
+                    "path": "The Orville Season 2 (WEB-DL l 1080p l Jaskier)/The.Orville.S02E04.WEB-DL.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.735846696,
+                    "path": "The Orville Season 2 (WEB-DL l 1080p l Jaskier)/The.Orville.S02E05.WEB-DL.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.834514925,
+                    "path": "The Orville Season 2 (WEB-DL l 1080p l Jaskier)/The.Orville.S02E06.WEB-DL.1080p.Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "[rutor.is]The_Orville_Season_2_WEB-DL_l_720p_l_Jaskier",
+            "size_total": 8.645823118,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.9357362,
+                    "path": "The Orville Season 2 (WEB-DL l 720p l Jaskier)/The.Orville.S02E01.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.143951986,
+                    "path": "The Orville Season 2 (WEB-DL l 720p l Jaskier)/The.Orville.S02E02.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.986344503,
+                    "path": "The Orville Season 2 (WEB-DL l 720p l Jaskier)/The.Orville.S02E03.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.228773385,
+                    "path": "The Orville Season 2 (WEB-DL l 720p l Jaskier)/The.Orville.S02E04.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.201002819,
+                    "path": "The Orville Season 2 (WEB-DL l 720p l Jaskier)/The.Orville.S02E05.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.150014225,
+                    "path": "The Orville Season 2 (WEB-DL l 720p l Jaskier)/The.Orville.S02E06.WEB-DL.720p.Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "[rutor.is]The_Orville_Season_2_WEB-DLRip_l_400p_l_Jaskier",
+            "size_total": 4.012230656,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.643403776,
+                    "path": "The Orville Season 2 (WEB-DLRip l 400p l Jaskier)/The Orville.S02E01.WEB-DLRip.Jaskier.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.64185344,
+                    "path": "The Orville Season 2 (WEB-DLRip l 400p l Jaskier)/The Orville.S02E02.WEB-DLRip.Jaskier.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.642762752,
+                    "path": "The Orville Season 2 (WEB-DLRip l 400p l Jaskier)/The Orville.S02E03.WEB-DLRip.Jaskier.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.77356032,
+                    "path": "The Orville Season 2 (WEB-DLRip l 400p l Jaskier)/The Orville.S02E04.WEB-DLRip.Jaskier.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.660045824,
+                    "path": "The Orville Season 2 (WEB-DLRip l 400p l Jaskier)/The Orville.S02E05.WEB-DLRip.Jaskier.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.650604544,
+                    "path": "The Orville Season 2 (WEB-DLRip l 400p l Jaskier)/The Orville.S02E06.WEB-DLRip.Jaskier.avi"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "[TorrentCouch-net]-The-Orville-S02E06-720p-WEB-x264-[488MB]",
+            "size_total": 0.51234887,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.512348506,
+                    "path": "[TorrentCouch.net].The.Orville.S02E06.720p.WEB.x264.[488MB]/[TorrentCouch.net].The.Orville.S02E06.720p.WEB.x264.[488MB].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 1.87e-7,
+                    "path": "[TorrentCouch.net].The.Orville.S02E06.720p.WEB.x264.[488MB]/Download HD & BluRay Movies from TorrentCounter.to .txt"
+                },
+                {
+                    "number": 3,
+                    "size": 1.77e-7,
+                    "path": "[TorrentCouch.net].The.Orville.S02E06.720p.WEB.x264.[488MB]/Download Daily Updated TV Shows from TorrentCouch.net.txt"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "ce49-The Orville S02E06 A Happy Refrain 1080p Webrip x265 EAC3 5.1 Goki [SEV]",
+            "size_total": 1.534079914,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.534079914,
+                    "path": "The Orville S02E06 A Happy Refrain 1080p Webrip x265 EAC3 5.1 Goki [SEV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "The-Orville-S02E06-1080p-HEVC-x265-MeGusta",
+            "size_total": 0.699784807,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00203294,
+                    "path": "www.torrenting.com - The.Orville.S02E06.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002364628,
+                    "path": "www.torrenting.com - The.Orville.S02E06.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001339145,
+                    "path": "www.torrenting.com - The.Orville.S02E06.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001592493,
+                    "path": "www.torrenting.com - The.Orville.S02E06.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.692454309,
+                    "path": "www.torrenting.com - The.Orville.S02E06.1080p.HEVC.x265-MeGusta/The.Orville.S02E06.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001206,
+                    "path": "www.torrenting.com - The.Orville.S02E06.1080p.HEVC.x265-MeGusta/The.Orville.S02E06.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.6e-8,
+                    "path": "www.torrenting.com - The.Orville.S02E06.1080p.HEVC.x265-MeGusta/Torrent Downloaded From www.torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "The-Orville-S02E06-1080p-WEB-x264-TBS",
+            "size_total": 1.814759219,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001658816,
+                    "path": "www.Torrenting.com - The.Orville.S02E06.1080p.WEB.x264-TBS/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002096757,
+                    "path": "www.Torrenting.com - The.Orville.S02E06.1080p.WEB.x264-TBS/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00136747,
+                    "path": "www.Torrenting.com - The.Orville.S02E06.1080p.WEB.x264-TBS/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001860188,
+                    "path": "www.Torrenting.com - The.Orville.S02E06.1080p.WEB.x264-TBS/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.807775853,
+                    "path": "www.Torrenting.com - The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 4.9e-8,
+                    "path": "www.Torrenting.com - The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.com - The.Orville.S02E06.1080p.WEB.x264-TBS/Torrent Downloaded From www.torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "The-Orville-S02E06-1080p-WEB-x264-TBS[TGx]",
+            "size_total": 1.814759824,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001658816,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002096757,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00136747,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001860188,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 1.807775853,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS[TGx]/the.orville.s02e06.1080p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 4.9e-8,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS[TGx]/the.orville.s02e06.1080p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "The-Orville-S02E06-480p-x264-mSD",
+            "size_total": 0.189122038,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000272667,
+                    "path": "www.torrenting.com - The.Orville.S02E06.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000319215,
+                    "path": "www.torrenting.com - The.Orville.S02E06.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000212206,
+                    "path": "www.torrenting.com - The.Orville.S02E06.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000205882,
+                    "path": "www.torrenting.com - The.Orville.S02E06.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.188110809,
+                    "path": "www.torrenting.com - The.Orville.S02E06.480p.x264-mSD/The.Orville.S02E06.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001173,
+                    "path": "www.torrenting.com - The.Orville.S02E06.480p.x264-mSD/The.Orville.S02E06.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.6e-8,
+                    "path": "www.torrenting.com - The.Orville.S02E06.480p.x264-mSD/Torrent Downloaded From www.torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "The-Orville-S02E06-720p-HEVC-x265-MeGusta",
+            "size_total": 0.335982483,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000777411,
+                    "path": "www.torrenting.com - The.Orville.S02E06.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000883365,
+                    "path": "www.torrenting.com - The.Orville.S02E06.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000716732,
+                    "path": "www.torrenting.com - The.Orville.S02E06.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001034119,
+                    "path": "www.torrenting.com - The.Orville.S02E06.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.332569587,
+                    "path": "www.torrenting.com - The.Orville.S02E06.720p.HEVC.x265-MeGusta/The.Orville.S02E06.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001183,
+                    "path": "www.torrenting.com - The.Orville.S02E06.720p.HEVC.x265-MeGusta/The.Orville.S02E06.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.6e-8,
+                    "path": "www.torrenting.com - The.Orville.S02E06.720p.HEVC.x265-MeGusta/Torrent Downloaded From www.torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "The-Orville-s02e06-720p-WEB-x264-300MB",
+            "size_total": 0.371300863,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.371300863,
+                    "path": "The.Orville.s02e06.720p.WEB.x264-300MB.mkv"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "The-Orville-S02E06-720p-WEB-x264-TBS[eztv]",
+            "size_total": 1.23558771,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.23558771,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "The-Orville-S02E06-720p-WEB-x264-TBS[TGx]",
+            "size_total": 1.239203592,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000863138,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.0010338,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000699371,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001018834,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 1.23558771,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS[TGx]/the.orville.s02e06.720p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 4.8e-8,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS[TGx]/the.orville.s02e06.720p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "The-Orville-S02E06-A-Happy-Refrain",
+            "size_total": 2.096881602,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.096881602,
+                    "path": "The Orville S02E06 A Happy Refrain.mkv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "The-Orville-S02E06-WEB-DL-XviD-B4ND1T69",
+            "size_total": 0.44438097,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.1e-8,
+                    "path": "The.Orville.S02E06.WEB-DL.XviD.B4ND1T69/1337x text file.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.39e-7,
+                    "path": "The.Orville.S02E06.WEB-DL.XviD.B4ND1T69/KAT text file.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000064282,
+                    "path": "The.Orville.S02E06.WEB-DL.XviD.B4ND1T69/The.Orville.S02E06.WEB-DL.XviD.B4ND1T69.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.444316488,
+                    "path": "The.Orville.S02E06.WEB-DL.XviD.B4ND1T69/The.Orville.S02E06.WEB-DL.XviD.B4ND1T69.avi"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "The-Orville-S02E06-WEB-x264-TBS",
+            "size_total": 0.409325413,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00051946,
+                    "path": "www.torrenting.com - The.Orville.S02E06.WEB.x264-TBS/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000578136,
+                    "path": "www.torrenting.com - The.Orville.S02E06.WEB.x264-TBS/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000428201,
+                    "path": "www.torrenting.com - The.Orville.S02E06.WEB.x264-TBS/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000646968,
+                    "path": "www.torrenting.com - The.Orville.S02E06.WEB.x264-TBS/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.407152519,
+                    "path": "www.torrenting.com - The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 4.3e-8,
+                    "path": "www.torrenting.com - The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 8.6e-8,
+                    "path": "www.torrenting.com - The.Orville.S02E06.WEB.x264-TBS/Torrent Downloaded From www.torrenting.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "The-Orville-S02E06-WEB-x264-TBS[TGx]",
+            "size_total": 0.409326018,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00051946,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000578136,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000428201,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000646968,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.407152519,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS[TGx]/the.orville.s02e06.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 4.3e-8,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS[TGx]/the.orville.s02e06.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "The-Orville-S02E06-XviD-AFG[TGx]",
+            "size_total": 0.509407426,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000294275,
+                    "path": "The.Orville.S02E06.XviD-AFG[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000373453,
+                    "path": "The.Orville.S02E06.XviD-AFG[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000244284,
+                    "path": "The.Orville.S02E06.XviD-AFG[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000226393,
+                    "path": "The.Orville.S02E06.XviD-AFG[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.508267172,
+                    "path": "The.Orville.S02E06.XviD-AFG[TGx]/The.Orville.S02E06.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001158,
+                    "path": "The.Orville.S02E06.XviD-AFG[TGx]/The.Orville.S02E06.XviD-AFG.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "The.Orville.S02E06.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "The.Orville.S02E06.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.699784721,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00203294,
+                    "path": "The.Orville.S02E06.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002364628,
+                    "path": "The.Orville.S02E06.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001339145,
+                    "path": "The.Orville.S02E06.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001592493,
+                    "path": "The.Orville.S02E06.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.692454309,
+                    "path": "The.Orville.S02E06.1080p.HEVC.x265-MeGusta/The.Orville.S02E06.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001206,
+                    "path": "The.Orville.S02E06.1080p.HEVC.x265-MeGusta/The.Orville.S02E06.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "The.Orville.S02E06.1080p.WEB.x264-TBS [IPT]",
+            "size_total": 1.807782081,
+            "files_total": 39,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.9e-8,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.007780108,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.rar"
+                },
+                {
+                    "number": 39,
+                    "size": 0.000001924,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS/the.orville.s02e06.1080p.web.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "The.Orville.S02E06.1080p.WEB.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.807776031,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.807775853,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS[rarbg]/the.orville.s02e06.1080p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.9e-8,
+                    "path": "The.Orville.S02E06.1080p.WEB.x264-TBS[rarbg]/the.orville.s02e06.1080p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "The.Orville.S02E06.480p.x264-mSD [IPT]",
+            "size_total": 0.189121952,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000272667,
+                    "path": "The.Orville.S02E06.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000319215,
+                    "path": "The.Orville.S02E06.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000212206,
+                    "path": "The.Orville.S02E06.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000205882,
+                    "path": "The.Orville.S02E06.480p.x264-mSD/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.188110809,
+                    "path": "The.Orville.S02E06.480p.x264-mSD/The.Orville.S02E06.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001173,
+                    "path": "The.Orville.S02E06.480p.x264-mSD/The.Orville.S02E06.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "The.Orville.S02E06.480p.x264-mSD[eztv].mkv",
+            "size_total": 0.188110809,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.188110809,
+                    "path": "The.Orville.S02E06.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS [IPT]",
+            "size_total": 1.16749303,
+            "files_total": 26,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000008017,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.017483669,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.rar"
+                },
+                {
+                    "number": 26,
+                    "size": 0.000001344,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS/the.orville.s02e06.720p.hdtv.x264-cravers.sfv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS[eztv].mkv",
+            "size_total": 1.167480741,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.167480741,
+                    "path": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "The.Orville.S02E06.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.335982397,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000777411,
+                    "path": "The.Orville.S02E06.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000883365,
+                    "path": "The.Orville.S02E06.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000716732,
+                    "path": "The.Orville.S02E06.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001034119,
+                    "path": "The.Orville.S02E06.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.332569587,
+                    "path": "The.Orville.S02E06.720p.HEVC.x265-MeGusta/The.Orville.S02E06.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001183,
+                    "path": "The.Orville.S02E06.720p.HEVC.x265-MeGusta/The.Orville.S02E06.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "The.Orville.S02E06.720p.WEB.x264-TBS [IPT]",
+            "size_total": 1.235591883,
+            "files_total": 27,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.8e-8,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.03559056,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.rar"
+                },
+                {
+                    "number": 27,
+                    "size": 0.000001275,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS/the.orville.s02e06.720p.web.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "The.Orville.S02E06.720p.WEB.x264-TBS[eztv].mkv",
+            "size_total": 1.23558771,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.23558771,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "The.Orville.S02E06.720p.WEB.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.235587887,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.23558771,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS[rarbg]/the.orville.s02e06.720p.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.8e-8,
+                    "path": "The.Orville.S02E06.720p.WEB.x264-TBS[rarbg]/the.orville.s02e06.720p.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "The.Orville.S02E06.720p.WEB.x265-MiNX[eztv].mkv",
+            "size_total": 0.247917215,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.247917215,
+                    "path": "The.Orville.S02E06.720p.WEB.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "The.Orville.S02E06.A.Happy.Refrain.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 3.703891416,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.002030433,
+                    "path": "The.Orville.S02E06.A.Happy.Refrain.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002748488,
+                    "path": "The.Orville.S02E06.A.Happy.Refrain.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001867945,
+                    "path": "The.Orville.S02E06.A.Happy.Refrain.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002201576,
+                    "path": "The.Orville.S02E06.A.Happy.Refrain.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 3.695041381,
+                    "path": "The.Orville.S02E06.A.Happy.Refrain.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/The.Orville.S02E06.A.Happy.Refrain.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001593,
+                    "path": "The.Orville.S02E06.A.Happy.Refrain.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/The.Orville.S02E06.A.Happy.Refrain.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "The.Orville.S02E06.A.Happy.Refrain.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 2.014772511,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000951968,
+                    "path": "The.Orville.S02E06.A.Happy.Refrain.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001274885,
+                    "path": "The.Orville.S02E06.A.Happy.Refrain.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00083958,
+                    "path": "The.Orville.S02E06.A.Happy.Refrain.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001160734,
+                    "path": "The.Orville.S02E06.A.Happy.Refrain.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.010543752,
+                    "path": "The.Orville.S02E06.A.Happy.Refrain.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/The.Orville.S02E06.A.Happy.Refrain.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001592,
+                    "path": "The.Orville.S02E06.A.Happy.Refrain.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/The.Orville.S02E06.A.Happy.Refrain.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "The.Orville.S02E06.A.Happy.Refrain.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv",
+            "size_total": 2.010543752,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.010543752,
+                    "path": "The.Orville.S02E06.A.Happy.Refrain.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "The.Orville.S02E06.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.204787046,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000307361,
+                    "path": "The.Orville.S02E06.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000356468,
+                    "path": "The.Orville.S02E06.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000223577,
+                    "path": "The.Orville.S02E06.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000232091,
+                    "path": "The.Orville.S02E06.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.20366627,
+                    "path": "The.Orville.S02E06.AAC.MP4-Mobile/The.Orville.S02E06.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001279,
+                    "path": "The.Orville.S02E06.AAC.MP4-Mobile/The.Orville.S02E06.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "The.Orville.S02E06.HDTV.x264-CRAVERS [IPT]",
+            "size_total": 0.340748458,
+            "files_total": 20,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000008017,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000739523,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.rar"
+                },
+                {
+                    "number": 20,
+                    "size": 9.18e-7,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS/the.orville.s02e06.hdtv.x264-cravers.sfv"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "The.Orville.S02E06.HDTV.x264-CRAVERS[eztv].mkv",
+            "size_total": 0.340737417,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.340737417,
+                    "path": "The.Orville.S02E06.HDTV.x264-CRAVERS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "The.Orville.S02E06.WEB.x264-TBS [IPT]",
+            "size_total": 0.407155775,
+            "files_total": 23,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.3e-8,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.007154766,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.02,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.rar"
+                },
+                {
+                    "number": 23,
+                    "size": 9.66e-7,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS/the.orville.s02e06.web.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "The.Orville.S02E06.WEB.x264-TBS[eztv].mkv",
+            "size_total": 0.407152519,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.407152519,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "The.Orville.S02E06.WEB.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.407152691,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.407152519,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS[rarbg]/the.orville.s02e06.web.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.3e-8,
+                    "path": "The.Orville.S02E06.WEB.x264-TBS[rarbg]/the.orville.s02e06.web.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "The.Orville.S02E06.XviD-AFG [IPT]",
+            "size_total": 0.509406735,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000294275,
+                    "path": "The.Orville.S02E06.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000373453,
+                    "path": "The.Orville.S02E06.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000244284,
+                    "path": "The.Orville.S02E06.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000226393,
+                    "path": "The.Orville.S02E06.XviD-AFG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.508267172,
+                    "path": "The.Orville.S02E06.XviD-AFG/The.Orville.S02E06.XviD-AFG.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001158,
+                    "path": "The.Orville.S02E06.XviD-AFG/The.Orville.S02E06.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Орвилл The Orville Сезон 2 Серии 1-6 (12) (Брэннон Брага, Джон Кассар, Джеймс Л. Конуэй) [2019, США, фантастика, драма, ком [rutracker-5671186]",
+            "size_total": 3.584641024,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.59669504,
+                    "path": "The Orville - Season 2 (AlexFilm) WEB-DLRip/The.Orville.s02e02.WEB-DLRip.Rus.Eng.AlexFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.597424128,
+                    "path": "The Orville - Season 2 (AlexFilm) WEB-DLRip/The.Orville.s02e06.WEB-DLRip.Rus.Eng.AlexFilm.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.597436416,
+                    "path": "The Orville - Season 2 (AlexFilm) WEB-DLRip/The.Orville.s02e05.WEB-DLRip.Rus.Eng.AlexFilm.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.597602304,
+                    "path": "The Orville - Season 2 (AlexFilm) WEB-DLRip/The.Orville.s02e01.WEB-DLRip.Rus.Eng.AlexFilm.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.59766784,
+                    "path": "The Orville - Season 2 (AlexFilm) WEB-DLRip/The.Orville.s02e03.WEB-DLRip.Rus.Eng.AlexFilm.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.597815296,
+                    "path": "The Orville - Season 2 (AlexFilm) WEB-DLRip/The.Orville.s02e04.WEB-DLRip.Rus.Eng.AlexFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Орвилл The Orville Сезон 2 Серии 1-6 (12) (Брэннон Брага, Джон Кассар, Джеймс Л. Конуэй) [2019, США, фантастика, драма, коме [rutracker-5671185]",
+            "size_total": 8.366832193,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.935736293,
+                    "path": "The Orville - Season 2 (AlexFilm) WEB-DL 720p/The.Orville.s02e01.WEB-DL.720p.Rus.Eng.AlexFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.986344596,
+                    "path": "The Orville - Season 2 (AlexFilm) WEB-DL 720p/The.Orville.s02e03.WEB-DL.720p.Rus.Eng.AlexFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.13577981,
+                    "path": "The Orville - Season 2 (AlexFilm) WEB-DL 720p/The.Orville.s02e04.WEB-DL.720p.Rus.Eng.AlexFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.143952045,
+                    "path": "The Orville - Season 2 (AlexFilm) WEB-DL 720p/The.Orville.s02e02.WEB-DL.720p.Rus.Eng.AlexFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.057044886,
+                    "path": "The Orville - Season 2 (AlexFilm) WEB-DL 720p/The.Orville.s02e06.WEB-DL.720p.Rus.Eng.AlexFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.107974563,
+                    "path": "The Orville - Season 2 (AlexFilm) WEB-DL 720p/The.Orville.s02e05.WEB-DL.720p.Rus.Eng.AlexFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Орвилл The Orville Сезон 2 Серии 1-6 (12) (Сет МакФарлейн) [2018, США, драма, WEBRip 1080p] MVO (OMSKBIRD) [rutracker-5668087]",
+            "size_total": 21.025722521,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.958023367,
+                    "path": "Orville S02 WEBRip 1080p (OMSKBIRD)/Orville S02E01 WEBRip 1080p (OMSKBIRD).mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.024780862,
+                    "path": "Orville S02 WEBRip 1080p (OMSKBIRD)/Orville S02E02 WEBRip 1080p (OMSKBIRD).mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.968904058,
+                    "path": "Orville S02 WEBRip 1080p (OMSKBIRD)/Orville S02E03 WEBRip 1080p (OMSKBIRD).mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.689520085,
+                    "path": "Orville S02 WEBRip 1080p (OMSKBIRD)/Orville S02E04 WEBRip 1080p (OMSKBIRD).mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.64292107,
+                    "path": "Orville S02 WEBRip 1080p (OMSKBIRD)/Orville S02E05 WEBRip 1080p (OMSKBIRD).mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.741573079,
+                    "path": "Orville S02 WEBRip 1080p (OMSKBIRD)/Orville S02E06 WEBRip 1080p (OMSKBIRD).mkv"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Орвилл The Orville Сезон 2 Серии 1-6 из 12 (Брэннон Брага, Джон Кассар, Джеймс Л. Конуэй) [2018, США, Фантастика, драма, к [rutracker-5678054]",
+            "size_total": 8.924601455,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.028724341,
+                    "path": "The.Orville.S02.LostFilm.720p/The.Orville.S02E01.WEB-DL.720p.LostFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.236813253,
+                    "path": "The.Orville.S02.LostFilm.720p/The.Orville.S02E02.WEB-DL.720pLostFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.079335654,
+                    "path": "The.Orville.S02.LostFilm.720p/The.Orville.S02E03.WEB-DL.720p.LostFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.228772251,
+                    "path": "The.Orville.S02.LostFilm.720p/The.Orville.S02E04.WEB-DL.720p.LostFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.200942822,
+                    "path": "The.Orville.S02.LostFilm.720p/The.Orville.S02E05.WEB-DL.720p.LostFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.150013134,
+                    "path": "The.Orville.S02.LostFilm.720p/The.Orville.S02E06.WEB-DL.720p.LostFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Орвилл The Orville Сезон 2 Серии 1-6 из 12 (Брэннон Брага, Джон Кассар, Джеймс Л. Конуэй) [2019, США, Фантастика, драма, к [rutracker-5674458]",
+            "size_total": 8.645823118,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.9357362,
+                    "path": "The Orville Season 2 (WEB-DL l 720p l Jaskier)/The.Orville.S02E01.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.143951986,
+                    "path": "The Orville Season 2 (WEB-DL l 720p l Jaskier)/The.Orville.S02E02.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.986344503,
+                    "path": "The Orville Season 2 (WEB-DL l 720p l Jaskier)/The.Orville.S02E03.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.228773385,
+                    "path": "The Orville Season 2 (WEB-DL l 720p l Jaskier)/The.Orville.S02E04.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.201002819,
+                    "path": "The Orville Season 2 (WEB-DL l 720p l Jaskier)/The.Orville.S02E05.WEB-DL.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.150014225,
+                    "path": "The Orville Season 2 (WEB-DL l 720p l Jaskier)/The.Orville.S02E06.WEB-DL.720p.Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Орвилл The Orville Сезон 2 Серии 1-6 из 12 (Брэннон Брага, Джон Кассар, Джеймс Л. Конуэй) [2019, США, Фантастика, драма, к [rutracker-5674460]",
+            "size_total": 21.304460191,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.95798291,
+                    "path": "The Orville Season 2 (WEB-DL l 1080p l Jaskier)/The.Orville.S02E01.WEB-DL.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.024751732,
+                    "path": "The Orville Season 2 (WEB-DL l 1080p l Jaskier)/The.Orville.S02E02.WEB-DL.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.968877669,
+                    "path": "The Orville Season 2 (WEB-DL l 1080p l Jaskier)/The.Orville.S02E03.WEB-DL.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.782486259,
+                    "path": "The Orville Season 2 (WEB-DL l 1080p l Jaskier)/The.Orville.S02E04.WEB-DL.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.735846696,
+                    "path": "The Orville Season 2 (WEB-DL l 1080p l Jaskier)/The.Orville.S02E05.WEB-DL.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.834514925,
+                    "path": "The Orville Season 2 (WEB-DL l 1080p l Jaskier)/The.Orville.S02E06.WEB-DL.1080p.Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Орвилл The Orville Сезон 2 Серии 1-6 из 15 (Брэннон Брага, Джон Кассар, Джеймс Л. Конуэй) [2018, США, фантастика, драма, к [rutracker-5668871]",
+            "size_total": 3.791962112,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.631939072,
+                    "path": "Орвилл. Сезон 2/2x01 - Джа'Лоджа (Ja'Loja).avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.631832576,
+                    "path": "Орвилл. Сезон 2/2x02 - Неизменные желания (Primal Urges).avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.632096768,
+                    "path": "Орвилл. Сезон 2/2x03 - Дом (Home).avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.632082432,
+                    "path": "Орвилл. Сезон 2/2x04 - На Земле не осталось никого кроме рыб (Nothing Left on Earth Excepting Fishes).avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.63203328,
+                    "path": "Орвилл. Сезон 2/2x05 - Весь мир праздничный торт (All the World is Birthday Cake).avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.631977984,
+                    "path": "Орвилл. Сезон 2/2x06 - Счастливый припев (A Happy Refrain).avi"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Орвилл The Orville Сезон 2 Серии 1-6 из 15 (Брэннон Брага, Джон Кассар, Роберт Данкан МакНил) [2018, США, Фантастика, драм [rutracker-5669623]",
+            "size_total": 3.855949824,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.643403776,
+                    "path": "The Orville (Season 2) WEBRip LostFilm/The.Orville.s02e01.WEBRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.64185344,
+                    "path": "The Orville (Season 2) WEBRip LostFilm/The.Orville.s02e02.WEBRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.642762752,
+                    "path": "The Orville (Season 2) WEBRip LostFilm/The.Orville.s02e03.WEBRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.642781184,
+                    "path": "The Orville (Season 2) WEBRip LostFilm/The.Orville.s02e04.WEBRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.642576384,
+                    "path": "The Orville (Season 2) WEBRip LostFilm/The.Orville.s02e05.WEBRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.642572288,
+                    "path": "The Orville (Season 2) WEBRip LostFilm/The.Orville.s02e06.WEBRip.RGzsRutracker.[Wentworth_Miller].avi"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Орвилл The Orville Сезон 2 Серии 1-6 из 15 (Брэннон Брага, Джон Кассар, Роберт Данкан МакНил) [2018, США, Фантастика, драм [rutracker-5669927]",
+            "size_total": 19.4403272,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.981358645,
+                    "path": "The.Orville.S02.AMZN.WEB-DL.1080p/The.Orville.S02E01.Jaloja.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.048081828,
+                    "path": "The.Orville.S02.AMZN.WEB-DL.1080p/The.Orville.S02E02.Primal.Urges.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.992234321,
+                    "path": "The.Orville.S02.AMZN.WEB-DL.1080p/The.Orville.S02E03.Home.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.691448738,
+                    "path": "The.Orville.S02.AMZN.WEB-DL.1080p/The.Orville.S02E04.Nothing.Left.on.Earth.Excepting.Fishes.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.666251979,
+                    "path": "The.Orville.S02.AMZN.WEB-DL.1080p/The.Orville.S02E05.All.the.World.is.Birthday.Cake.AMZN.WEB-DL.1080p.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.060951689,
+                    "path": "The.Orville.S02.AMZN.WEB-DL.1080p/The.Orville.S02E06.A.Happy.Refrain.AMZN.WEB-DL.1080p.mkv"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 52,
+            "name": "The.Orville.S02E06.WEB.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "f98b1cfd722b3fbb0e649bc8608ff4b9a07a5b31",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.407152691,
+            "creation": "2019-02-01T02:03:20.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 99209,
+            "uuploaders": 19912
+        },
+        {
+            "id": 51,
+            "name": "The.Orville.S02E06.WEB.x264-TBS[eztv].mkv",
+            "btih": "9e5fb3a9c970123a3d60cbde93cc476bd4759daa",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.407152519,
+            "creation": "2019-02-01T02:20:16.000000000Z,EZTV,Visit us: https://eztv.io/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 98793,
+            "uuploaders": 31475
+        },
+        {
+            "id": 63,
+            "name": "multi-btih-0-2-x-The-Orville-S02E06-720p-WEB-x264-TBS[eztv]",
+            "btih": "b8068f63b93f81e8692122e5e5cd394bbb2c0453",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.23558771,
+            "creation": "2019-02-02T13:23:18.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 87943,
+            "uuploaders": 15915
+        },
+        {
+            "id": 34,
+            "name": "The.Orville.S02E06.1080p.WEB.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "c6dc6fb373e933d6aeb4067f63dfea936e85f86a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.807776031,
+            "creation": "2019-02-01T02:04:50.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 85387,
+            "uuploaders": 15111
+        },
+        {
+            "id": 68,
+            "name": "multi-btih-5-2-x-[rutor.is]The_Orville_Season_2_WEB-DL_l_1080p_l_Jaskier",
+            "btih": "0f58f6a2500d3703f4431a3a9d0e552a42164e3e",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 21.304460191,
+            "creation": "1970-01-01T00:00:00.000000000Z,Сидбоксы Megaseed.kz,http://rutor.is/torrent/675670",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 74882,
+            "uuploaders": 2076
+        },
+        {
+            "id": 66,
+            "name": "multi-btih-3-2-x-[rutor.is]The.Orville.S02.AMZN.WEB-DL.1080p",
+            "btih": "6281a7960849f9f801d6cbdd2408669604ffe372",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 19.4403272,
+            "creation": "2019-02-07T12:55:46.000000000Z,uTorrent/3.5.5,http://rutor.is/torrent/680139",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 65361,
+            "uuploaders": 2525
+        },
+        {
+            "id": 67,
+            "name": "multi-btih-4-2-x-[rutor.is]The_Orville_(s02)_LF",
+            "btih": "bb678651a27793a47e8336394aecd387d5a9f19c",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 3.855949824,
+            "creation": "2019-02-04T18:49:46.000000000Z,uTorrent/2040,http://rutor.is/torrent/673856",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 61550,
+            "uuploaders": 4783
+        },
+        {
+            "id": 43,
+            "name": "The.Orville.S02E06.720p.WEB.x265-MiNX[eztv].mkv",
+            "btih": "57b3323cccccdd0d59f616577fbf56cf54303168",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.247917215,
+            "creation": "2019-02-01T03:04:14.000000000Z,EZTV,Visit us: https://eztv.io/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 60201,
+            "uuploaders": 18138
+        },
+        {
+            "id": 65,
+            "name": "multi-btih-2-2-x-[rutor.is]The.Orville.S02.720p.WEBRip.Profix.Media(1)",
+            "btih": "27280fde285978f0e6e2226ca88854c6613a1dd7",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.233348901,
+            "creation": "2019-02-02T20:08:52.000000000Z,uTorrent/3.5,http://rutor.is/torrent/673843",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 58257,
+            "uuploaders": 1853
+        },
+        {
+            "id": 36,
+            "name": "The.Orville.S02E06.480p.x264-mSD[eztv].mkv",
+            "btih": "914c0b73ba260a28567f17b9f5034acf6689df41",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.188110809,
+            "creation": "2019-02-01T02:25:21.000000000Z,EZTV,Visit us: https://eztv.io/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 52603,
+            "uuploaders": 10194
+        },
+        {
+            "id": 1,
+            "name": "0c67-The.Orville.S02E06.720p.WEB.x264-TBS[ettv]",
+            "btih": "89c78c21e09bef886a1d03886e1da80615c28228",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.235587895,
+            "creation": "2019-02-01T02:06:09.000000000Z,mktorrent 1.0",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 51363,
+            "uuploaders": 26474
+        },
+        {
+            "id": 42,
+            "name": "The.Orville.S02E06.720p.WEB.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "630e6e7ca7e502b6f295eaf1e6c617cf3f9a27fe",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.235587887,
+            "creation": "2019-02-01T02:04:37.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42784,
+            "uuploaders": 10120
+        },
+        {
+            "id": 23,
+            "name": "The-Orville-S02E06-720p-HEVC-x265-MeGusta",
+            "btih": "1ffa5f03245f09432652ef542e043c685d58c077",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.335982483,
+            "creation": "2019-02-02T12:00:24.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42637,
+            "uuploaders": 1545
+        },
+        {
+            "id": 22,
+            "name": "The-Orville-S02E06-480p-x264-mSD",
+            "btih": "7b63a7b95b066b4eba867fca36d56b7a784588e3",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.189122038,
+            "creation": "2019-02-02T12:49:52.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41096,
+            "uuploaders": 1386
+        },
+        {
+            "id": 28,
+            "name": "The-Orville-S02E06-WEB-DL-XviD-B4ND1T69",
+            "btih": "27b65cf7777626765f3672e95e82875f4c1b428e",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.44438097,
+            "creation": "2019-02-02T11:43:32.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 39325,
+            "uuploaders": 499
+        },
+        {
+            "id": 18,
+            "name": "ce49-The Orville S02E06 A Happy Refrain 1080p Webrip x265 EAC3 5.1 Goki [SEV]",
+            "btih": "776b4b92dcfd59f1f6f17e7f6dddf5efc67cfe01",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.534079914,
+            "creation": "2019-02-03T21:57:27.000000000Z,Tixati v2.58",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 39087,
+            "uuploaders": 1707
+        },
+        {
+            "id": 46,
+            "name": "The.Orville.S02E06.A.Happy.Refrain.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv",
+            "btih": "0a68639887987d46e7aa56fe74a25eba585e7e82",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.010543752,
+            "creation": "2019-02-03T05:43:29.000000000Z,EZTV,Visit us: https://eztv.io/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37794,
+            "uuploaders": 3816
+        },
+        {
+            "id": 69,
+            "name": "multi-btih-6-2-x-[rutor.is]The_Orville_Season_2_WEB-DL_l_720p_l_Jaskier",
+            "btih": "8f165010ff26e60a83372b3a81167cd7620b88e0",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 8.645823118,
+            "creation": "1970-01-01T00:00:00.000000000Z,Сидбоксы Megaseed.kz,http://rutor.is/torrent/675669",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37558,
+            "uuploaders": 2214
+        },
+        {
+            "id": 56,
+            "name": "Орвилл The Orville Сезон 2 Серии 1-6 (12) (Сет МакФарлейн) [2018, США, драма, WEBRip 1080p] MVO (OMSKBIRD) [rutracker-5668087]",
+            "btih": "5ee77f2d08821d35a10cbb1cd778ee227881b1fc",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 21.025722521,
+            "creation": "2019-02-03T10:53:12.000000000Z,uTorrent/3.5.3,https://rutracker.org/forum/viewtopic.php?t=5668087",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37377,
+            "uuploaders": 1371
+        },
+        {
+            "id": 21,
+            "name": "The-Orville-S02E06-1080p-WEB-x264-TBS[TGx]",
+            "btih": "d70939b34f3d4fd76d901e73e344f700f2f0fac4",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.814759824,
+            "creation": "2019-02-02T13:10:08.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36595,
+            "uuploaders": 2018
+        },
+        {
+            "id": 27,
+            "name": "The-Orville-S02E06-A-Happy-Refrain",
+            "btih": "db535d0189e2f1ac54f950149b9c962d6851d9de",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 2.096881602,
+            "creation": "2019-02-02T15:33:39.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36129,
+            "uuploaders": 2045
+        },
+        {
+            "id": 64,
+            "name": "multi-btih-1-2-x-[rutor.is]The.Orville.S02.1080p.WEBRip.Profix.Media(1)",
+            "btih": "b6487e69f65600448a68bde7d316a15eafeef18b",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 10.256904746,
+            "creation": "2019-02-02T20:16:54.000000000Z,uTorrent/3.5,http://rutor.is/torrent/673853",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 35933,
+            "uuploaders": 2038
+        },
+        {
+            "id": 49,
+            "name": "The.Orville.S02E06.HDTV.x264-CRAVERS[eztv].mkv",
+            "btih": "011c6ad3f7e5476da6091b4665e57c1f1f4a17ed",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.340737417,
+            "creation": "2019-02-02T18:18:21.000000000Z,EZTV,Visit us: https://eztv.io/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 35125,
+            "uuploaders": 4983
+        },
+        {
+            "id": 54,
+            "name": "Орвилл The Orville Сезон 2 Серии 1-6 (12) (Брэннон Брага, Джон Кассар, Джеймс Л. Конуэй) [2019, США, фантастика, драма, ком [rutracker-5671186]",
+            "btih": "7f02bba7de384369755c9af8eef15d12aeb9bfdf",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 3.584641024,
+            "creation": "2019-02-08T18:51:43.000000000Z,uTorrent/3.5.4,https://rutracker.org/forum/viewtopic.php?t=5671186",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 34764,
+            "uuploaders": 679
+        },
+        {
+            "id": 2,
+            "name": "66b4-The Orville S02E06 A Happy Refrain  (1080p x265 10bit FS95 Joy).mkv",
+            "btih": "c290c8454667c00bf64be6264c5d9a258cd0280e",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.501565793,
+            "creation": "2019-02-03T20:59:22.000000000Z,qBittorrent v4.1.5,\n",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33725,
+            "uuploaders": 2192
+        },
+        {
+            "id": 31,
+            "name": "The-Orville-S02E06-XviD-AFG[TGx]",
+            "btih": "3ec894bb7eb3e417860f0c87e38eff59eb587e53",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.509407426,
+            "creation": "2019-02-02T13:09:46.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33438,
+            "uuploaders": 1769
+        },
+        {
+            "id": 16,
+            "name": "[rutor.is]The_Orville_Season_2_WEB-DLRip_l_400p_l_Jaskier",
+            "btih": "0e8fd80dace913c036af7234067220de7f7a7013",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 4.012230656,
+            "creation": "1970-01-01T00:00:00.000000000Z,Сидбоксы Megaseed.kz,http://rutor.is/torrent/675668",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 29847,
+            "uuploaders": 1480
+        },
+        {
+            "id": 12,
+            "name": "[rutor.is]The.Orville.S02.WEBRip.Profix.Media",
+            "btih": "bc175a208f202b850ccc3359f09a10a630e1e79d",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.829944781,
+            "creation": "2019-02-02T20:03:43.000000000Z,uTorrent/3.5,http://rutor.is/torrent/673842",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 29427,
+            "uuploaders": 1200
+        },
+        {
+            "id": 19,
+            "name": "The-Orville-S02E06-1080p-HEVC-x265-MeGusta",
+            "btih": "b6082877276c8fda9e10f8eb3ebbc5e6d3d8a157",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.699784807,
+            "creation": "2019-02-02T11:35:31.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25155,
+            "uuploaders": 2040
+        },
+        {
+            "id": 57,
+            "name": "Орвилл The Orville Сезон 2 Серии 1-6 из 12 (Брэннон Брага, Джон Кассар, Джеймс Л. Конуэй) [2018, США, Фантастика, драма, к [rutracker-5678054]",
+            "btih": "78b1856317fda60edeffa93bc04b5dc426112398",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 8.924601455,
+            "creation": "2019-02-03T20:20:29.000000000Z,uTorrent/2210,https://rutracker.org/forum/viewtopic.php?t=5678054",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25076,
+            "uuploaders": 2527
+        },
+        {
+            "id": 20,
+            "name": "The-Orville-S02E06-1080p-WEB-x264-TBS",
+            "btih": "8369272e970b1f17f5fd2854c192579a08412fbe",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.814759219,
+            "creation": "2019-02-02T15:24:40.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24416,
+            "uuploaders": 3767
+        },
+        {
+            "id": 17,
+            "name": "[TorrentCouch-net]-The-Orville-S02E06-720p-WEB-x264-[488MB]",
+            "btih": "b725c38ad59bee3344156b3b40d9b86fac46c619",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.51234887,
+            "creation": "2019-02-02T13:17:48.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24184,
+            "uuploaders": 1290
+        },
+        {
+            "id": 60,
+            "name": "Орвилл The Orville Сезон 2 Серии 1-6 из 15 (Брэннон Брага, Джон Кассар, Джеймс Л. Конуэй) [2018, США, фантастика, драма, к [rutracker-5668871]",
+            "btih": "b3786ce7cffba39161461c4fae42f7488bb0644d",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 3.791962112,
+            "creation": "2019-02-07T10:07:10.000000000Z,uTorrent/2040,https://rutracker.org/forum/viewtopic.php?t=5668871",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23604,
+            "uuploaders": 555
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Orville_S02_WEBRip_OMSKBIRD",
+            "btih": "bcdf9389ea9def293da2af81af6b27e8d4845ff8",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.383510528,
+            "creation": "2019-02-03T10:45:01.000000000Z,uTorrent/3.5.3,http://rutor.is/torrent/673259",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 20408,
+            "uuploaders": 1413
+        },
+        {
+            "id": 55,
+            "name": "Орвилл The Orville Сезон 2 Серии 1-6 (12) (Брэннон Брага, Джон Кассар, Джеймс Л. Конуэй) [2019, США, фантастика, драма, коме [rutracker-5671185]",
+            "btih": "c4be648d82b7090882fa2d80ade885dcba6120a8",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 8.366832193,
+            "creation": "2019-02-08T19:08:51.000000000Z,uTorrent/3.5.4,https://rutracker.org/forum/viewtopic.php?t=5671185",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19793,
+            "uuploaders": 771
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]The.Orville.S02.1080p.GostFilm",
+            "btih": "4d7afbe19d65acb39945ab5968284450ecd21f73",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 11.27315394,
+            "creation": "2019-02-01T13:00:13.000000000Z,uTorrent/3.5,http://rutor.is/torrent/679005",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19387,
+            "uuploaders": 2604
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]Orville_S02_WEBRip_720p_OMSKBIRD",
+            "btih": "de13bf6276b0b9912cfd21fa228f0c0ac6884c3d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 6.917040183,
+            "creation": "2019-02-03T10:47:20.000000000Z,uTorrent/3.5.3,http://rutor.is/torrent/673258",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 18182,
+            "uuploaders": 1454
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]The.Orville.S02.720p.GostFilm",
+            "btih": "5b980ca9dac724c1fae89d2b22445863566585cb",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 7.605740231,
+            "creation": "2019-02-01T12:57:54.000000000Z,uTorrent/3.5,http://rutor.is/torrent/679004",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17723,
+            "uuploaders": 3789
+        },
+        {
+            "id": 30,
+            "name": "The-Orville-S02E06-WEB-x264-TBS[TGx]",
+            "btih": "6664fa552446801f457e7dd9d4f444586e813bea",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.409326018,
+            "creation": "2019-02-02T13:10:07.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15542,
+            "uuploaders": 2721
+        },
+        {
+            "id": 38,
+            "name": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS[eztv].mkv",
+            "btih": "c56f015b90ec179bfa3d733e6ff0fa0aeef6908a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.167480741,
+            "creation": "2019-02-02T18:19:34.000000000Z,EZTV,Visit us: https://eztv.io/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13986,
+            "uuploaders": 2398
+        },
+        {
+            "id": 24,
+            "name": "The-Orville-s02e06-720p-WEB-x264-300MB",
+            "btih": "aa91d5fed358b9b6b2ae121d5f81df055f5db991",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.371300863,
+            "creation": "2019-02-02T12:40:13.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13439,
+            "uuploaders": 706
+        },
+        {
+            "id": 29,
+            "name": "The-Orville-S02E06-WEB-x264-TBS",
+            "btih": "08ac0690a086063641bcf167787edd8589fc5adf",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.409325413,
+            "creation": "2019-02-02T13:00:27.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11818,
+            "uuploaders": 1173
+        },
+        {
+            "id": 26,
+            "name": "The-Orville-S02E06-720p-WEB-x264-TBS[TGx]",
+            "btih": "157ba16f40601eb7783f9e8ed1fda55b41acb275",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.239203592,
+            "creation": "2019-02-02T13:10:15.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11621,
+            "uuploaders": 1026
+        },
+        {
+            "id": 33,
+            "name": "The.Orville.S02E06.1080p.WEB.x264-TBS [IPT]",
+            "btih": "bfc699d847156f9a3ff03910f670f45026c0127f",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.807782081,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 8693,
+            "uuploaders": 5044
+        },
+        {
+            "id": 53,
+            "name": "The.Orville.S02E06.XviD-AFG [IPT]",
+            "btih": "8750e88176385aa5b55963844e299c6911f6564c",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.509406735,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4936,
+            "uuploaders": 2293
+        },
+        {
+            "id": 40,
+            "name": "The.Orville.S02E06.720p.WEB.x264-TBS [IPT]",
+            "btih": "9f2fd4bcd171ec015efeda8d45e53fd91a80d6e1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.235591883,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3607,
+            "uuploaders": 1692
+        },
+        {
+            "id": 32,
+            "name": "The.Orville.S02E06.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "297f95b366d14043678a407e69767ff86dd89196",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.699784721,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3247,
+            "uuploaders": 1500
+        },
+        {
+            "id": 39,
+            "name": "The.Orville.S02E06.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "a81d6e54006d1f209ca3328e03f935ed68fbcb47",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.335982397,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2508,
+            "uuploaders": 970
+        },
+        {
+            "id": 35,
+            "name": "The.Orville.S02E06.480p.x264-mSD [IPT]",
+            "btih": "60ea9bc702965c41a734773fe391b4a2cdf05723",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.189121952,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2188,
+            "uuploaders": 1007
+        },
+        {
+            "id": 50,
+            "name": "The.Orville.S02E06.WEB.x264-TBS [IPT]",
+            "btih": "714dda71ec11696a0f6cd33e2c14603cf0ade450",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.407155775,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1206,
+            "uuploaders": 466
+        },
+        {
+            "id": 47,
+            "name": "The.Orville.S02E06.AAC.MP4-Mobile [IPT]",
+            "btih": "7c13c41673fe61e291a91a1e18780f45c722e671",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.204787046,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1009,
+            "uuploaders": 405
+        },
+        {
+            "id": 44,
+            "name": "The.Orville.S02E06.A.Happy.Refrain.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "btih": "c0315f2de7d8718bb32e3a2349a92a8dd37633a8",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.703891416,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 880,
+            "uuploaders": 423
+        },
+        {
+            "id": 37,
+            "name": "The.Orville.S02E06.720p.HDTV.x264-CRAVERS [IPT]",
+            "btih": "d0bc4184ad22fb9216b4105918a5823d161b5c7b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.16749303,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 604,
+            "uuploaders": 342
+        },
+        {
+            "id": 45,
+            "name": "The.Orville.S02E06.A.Happy.Refrain.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "btih": "1103631a0e8ffb3482cc8adb5a1e4565e60c02cc",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.014772511,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 544,
+            "uuploaders": 236
+        },
+        {
+            "id": 48,
+            "name": "The.Orville.S02E06.HDTV.x264-CRAVERS [IPT]",
+            "btih": "70c5031f0b58e29461c7a60075238659d7f50ec6",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.340748458,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 197,
+            "uuploaders": 136
+        }
+    ]
+}
