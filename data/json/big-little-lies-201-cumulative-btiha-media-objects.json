@@ -1,0 +1,2889 @@
+{
+    "collection_name": "Big Little Lies",
+    "collection_id": "201",
+    "collection_key": "big-little-lies-201",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "f14fd4512025eb9d177c14e3e1b9beb3f81e15db",
+            "duplicate_0_0": "Big-Little-Lies-S02E01-1080p-WEB-H264-MEMENTO[rarbg]",
+            "duplicate_0_1": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "f995b232affbf9b592daa46c1d5651e321d428cc",
+            "duplicate_1_0": "Big-Little-Lies-S02E01-720p-WEB-H264-MEMENTO[rarbg]",
+            "duplicate_1_1": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "6f7135db176276824514f79930c5c314b1844e9e",
+            "duplicate_2_0": "Big-Little-Lies-S02E01-720p-WEB-x265-MiNX[TGx](1)",
+            "duplicate_2_1": "Big-Little-Lies-S02E01-720p-WEB-x265-MiNX[TGx]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "1ae8763673130baf838a72cd4b4ab0fe2ccc67e0",
+            "duplicate_3_0": "Big-Little-Lies-S02E01-WEB-H264-MEMENTO[rarbg]",
+            "duplicate_3_1": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "5833754b977c75465d60c230c29cd1c80ced931a",
+            "duplicate_4_0": "Big-Little-Lies-S02E01-WEBRip-x264-ION10",
+            "duplicate_4_1": "Big.Little.Lies.S02E01.WEBRip.x264-ION10-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "5a2158845d16a23400c3afe1f1cfd095d051cc22",
+            "duplicate_5_0": "Big-Little-Lies-S02E01-What-Have-They-Done-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "duplicate_5_1": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "6aff6916c3aa11c7aa16a96a9b2ad3b7e3f3198f",
+            "duplicate_6_0": "Big-Little-Lies-S02E01-What-Have-They-Done-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "duplicate_6_1": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "18e28a3614ed66d9729343e79a80e8d86e8dbb48",
+            "duplicate_7_0": "[rutor.is]Big_Little_Lies",
+            "duplicate_7_1": "Big-Little-Lies-S02-400p-Novamedia",
+            "duplicate_7_2": "Большая маленькая ложь Big Little Lies Сезон 2 Серии 1 из 7 (Жан-Марк Валле, Андреа Арнольд) [2019, США, драма, криминал, [rutracker-5743423]"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "8b66f70e3e39851b66b79bfd66db5b6135664fe0",
+            "duplicate_8_0": "[rutor.is]Big_Little_Lies_(s02)",
+            "duplicate_8_1": "Big-Little-Lies-(Season-2)-WEB-DLRip",
+            "duplicate_8_2": "Большая маленькая ложь Big Little Lies Сезон 2 Серии 1 из 7 (Жан-Марк Валле, Андреа Арнольд) [2019, США, Драма, криминал, [rutracker-5743212]"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "3aab0bdd821e42bf9945581b2f7fbdf69b5b1736",
+            "duplicate_9_0": "[rutor.is]Big_Little_Lies_(s02)_1080p",
+            "duplicate_9_1": "Big-Little-Lies-S02-1080p-AMZN-WEB-DL-DDP5-1-H-264-EniaHD",
+            "duplicate_9_2": "Большая маленькая ложь Big Little Lies Сезон 2 Серии 1 из 7 (Жан-Марк Валле, Андреа Арнольд) [2019, США, Драма, криминал, [rutracker-5744274]"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "0a3b43817bca4fc13d601b6e0c9a6df109416663",
+            "duplicate_10_0": "big-little-lies-s02e01-720p-web-h264-memento[eztv]",
+            "duplicate_10_1": "big.little.lies.s02e01.720p.web.h264-memento[eztv].mkv"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "5810a521a7eb907eee80813ecd7fd463af7d3c81",
+            "duplicate_11_0": "big-little-lies-s02e01-web-h264-memento[eztv]",
+            "duplicate_11_1": "big.little.lies.s02e01.web.h264-memento[eztv].mkv"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[rutor.is]Big_Little_Lies",
+            "size_total": 0.921207431,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.921083904,
+                    "path": "Big Little Lies S02 400p Novamedia/Big.Little.Lies.S02E01.WEB-DLRip.Rus.Eng.Novamedia.RGzsRutracker.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 8.05e-7,
+                    "path": "Big Little Lies S02 400p Novamedia/Big.Little.Lies.S02E01.WEB-DLRip.Rus.Eng.Novamedia.RGzsRutracker.rus.forc.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000063458,
+                    "path": "Big Little Lies S02 400p Novamedia/Eng/Big.Little.Lies.S02E01.WEB-DLRip.Rus.Eng.Novamedia.RGzsRutracker.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000059264,
+                    "path": "Big Little Lies S02 400p Novamedia/Rus/Big.Little.Lies.S02E01.WEB-DLRip.Rus.Eng.Novamedia.RGzsRutracker.rus.srt"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]Big_Little_Lies_(s02)",
+            "size_total": 0.661760647,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000063458,
+                    "path": "Big Little Lies (Season 2) WEB-DLRip/Eng/Big.Little.Lies.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000059264,
+                    "path": "Big Little Lies (Season 2) WEB-DLRip/Rus/Big.Little.Lies.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.66163712,
+                    "path": "Big Little Lies (Season 2) WEB-DLRip/Big.Little.Lies.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 4,
+                    "size": 8.05e-7,
+                    "path": "Big Little Lies (Season 2) WEB-DLRip/Big.Little.Lies.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]Big_Little_Lies_(s02)_1080p",
+            "size_total": 3.400074945,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.400074945,
+                    "path": "Big.Little.Lies.S02.1080p.AMZN.WEB-DL.DDP5.1.H.264-EniaHD/Big.Little.Lies.S02E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Bolshaja_malenkaja_lozh_2_sezon_scarabey.org",
+            "size_total": 0.627730432,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.627730432,
+                    "path": "Большая маленькая ложь_2_сезон_[scarabey.org]/Big.Little.Lies.S02E01_[scarabey.org].avi"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Big-Little-Lies-(Season-2)-WEB-DLRip",
+            "size_total": 0.661760647,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000063458,
+                    "path": "Big Little Lies (Season 2) WEB-DLRip/Eng/Big.Little.Lies.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000059264,
+                    "path": "Big Little Lies (Season 2) WEB-DLRip/Rus/Big.Little.Lies.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.66163712,
+                    "path": "Big Little Lies (Season 2) WEB-DLRip/Big.Little.Lies.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 4,
+                    "size": 8.05e-7,
+                    "path": "Big Little Lies (Season 2) WEB-DLRip/Big.Little.Lies.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Big-Little-Lies-S01-SweSub-EngSub-1080p-x264-Justiso",
+            "size_total": 7.248043543,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.15224554,
+                    "path": "Big.Little.Lies.S01.SweSub-EngSub.1080p.x264-Justiso/Big.Little.Lies.S01E07.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.057165913,
+                    "path": "Big.Little.Lies.S01.SweSub-EngSub.1080p.x264-Justiso/Big.Little.Lies.S01E02.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.020878233,
+                    "path": "Big.Little.Lies.S01.SweSub-EngSub.1080p.x264-Justiso/Big.Little.Lies.S01E04.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.00979652,
+                    "path": "Big.Little.Lies.S01.SweSub-EngSub.1080p.x264-Justiso/Big.Little.Lies.S01E03.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.007178713,
+                    "path": "Big.Little.Lies.S01.SweSub-EngSub.1080p.x264-Justiso/Big.Little.Lies.S01E06.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.002016223,
+                    "path": "Big.Little.Lies.S01.SweSub-EngSub.1080p.x264-Justiso/Big.Little.Lies.S01E05.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.998761565,
+                    "path": "Big.Little.Lies.S01.SweSub-EngSub.1080p.x264-Justiso/Big.Little.Lies.S01E01.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 8.36e-7,
+                    "path": "Big.Little.Lies.S01.SweSub-EngSub.1080p.x264-Justiso/Info.txt"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Big-Little-Lies-S02-(2018)-720p-WEBRip-[Gears-Media]",
+            "size_total": 1.097290702,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.097290702,
+                    "path": "Big Little Lies S02 (2018) 720p WEBRip [Gears Media]/Big Little Lies S02E01 (2018) 720p WEBRip [Gears Media].mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Big-Little-Lies-S02-1080p-AMZN-WEB-DL-DDP5-1-H-264-EniaHD",
+            "size_total": 3.400074945,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.400074945,
+                    "path": "Big.Little.Lies.S02.1080p.AMZN.WEB-DL.DDP5.1.H.264-EniaHD/Big.Little.Lies.S02E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Big-Little-Lies-S02-400p-Novamedia",
+            "size_total": 0.921207431,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.921083904,
+                    "path": "Big Little Lies S02 400p Novamedia/Big.Little.Lies.S02E01.WEB-DLRip.Rus.Eng.Novamedia.RGzsRutracker.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 8.05e-7,
+                    "path": "Big Little Lies S02 400p Novamedia/Big.Little.Lies.S02E01.WEB-DLRip.Rus.Eng.Novamedia.RGzsRutracker.rus.forc.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000063458,
+                    "path": "Big Little Lies S02 400p Novamedia/Eng/Big.Little.Lies.S02E01.WEB-DLRip.Rus.Eng.Novamedia.RGzsRutracker.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000059264,
+                    "path": "Big Little Lies S02 400p Novamedia/Rus/Big.Little.Lies.S02E01.WEB-DLRip.Rus.Eng.Novamedia.RGzsRutracker.rus.srt"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Big-Little-Lies-S02E01-(1080p-AMZN-WEB-DL-x265-HEVC-10bit-AAC-5-1)[Bandi]-mkv",
+            "size_total": 0.855475962,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.855475962,
+                    "path": "Big Little Lies S02E01 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1)[Bandi].mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Big-Little-Lies-S02E01-1080p-HEVC-x265-MeGusta",
+            "size_total": 0.55837952,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.535139548,
+                    "path": "www.xBay.me - Big Little Lies S02E01 1080p HEVC x265-MeGusta/Big.Little.Lies.S02E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001139,
+                    "path": "www.xBay.me - Big Little Lies S02E01 1080p HEVC x265-MeGusta/Big.Little.Lies.S02E01.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.007222299,
+                    "path": "www.xBay.me - Big Little Lies S02E01 1080p HEVC x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.009037708,
+                    "path": "www.xBay.me - Big Little Lies S02E01 1080p HEVC x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.006978778,
+                    "path": "www.xBay.me - Big Little Lies S02E01 1080p HEVC x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 4.8e-8,
+                    "path": "www.xBay.me - Big Little Lies S02E01 1080p HEVC x265-MeGusta/www.xBay.me.txt"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Big-Little-Lies-S02E01-1080p-WEB-H264-MEMENTO[rarbg]",
+            "size_total": 3.323223916,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.32322373,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO[rarbg]/big.little.lies.s02e01.1080p.web.h264-memento.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 5.7e-8,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO[rarbg]/big.little.lies.s02e01.1080p.web.h264-memento.nfo"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Big-Little-Lies-S02E01-1080p-WEB-H264-MEMENTO[TGx]-⭐",
+            "size_total": 3.331112337,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001050025,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.003204825,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001764412,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001868599,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.89e-7,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 3.32322373,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO[TGx]/big.little.lies.s02e01.1080p.web.h264-memento.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 5.7e-8,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO[TGx]/big.little.lies.s02e01.1080p.web.h264-memento.nfo"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Big-Little-Lies-S02E01-1080p-WEB-x264-worldmkv",
+            "size_total": 0.603706816,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.603706816,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.x264-worldmkv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Big-Little-Lies-S02E01-480p-x264-mSD-[eztv]",
+            "size_total": 0.17374837,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.17374837,
+                    "path": "Big.Little.Lies.S02E01.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Big-Little-Lies-S02E01-720p-HEVC-x265-MeGusta",
+            "size_total": 0.433371859,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.421944921,
+                    "path": "www.xBay.me - Big Little Lies S02E01 720p HEVC x265-MeGusta/Big.Little.Lies.S02E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001135,
+                    "path": "www.xBay.me - Big Little Lies S02E01 720p HEVC x265-MeGusta/Big.Little.Lies.S02E01.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.003456256,
+                    "path": "www.xBay.me - Big Little Lies S02E01 720p HEVC x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.004265092,
+                    "path": "www.xBay.me - Big Little Lies S02E01 720p HEVC x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.003704407,
+                    "path": "www.xBay.me - Big Little Lies S02E01 720p HEVC x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 4.8e-8,
+                    "path": "www.xBay.me - Big Little Lies S02E01 720p HEVC x265-MeGusta/www.xBay.me.txt"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Big-Little-Lies-S02E01-720p-TRUE-WEB-DL",
+            "size_total": 0.392143481,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.392143481,
+                    "path": "Big Little Lies S02E01 720p TRUE WEB-DL + ESub [MOVCR]/www.movcr.tv. -Big Little Lies S02E01 720p TRUE WEB-DL + ESub [MOVCR].mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "big-little-lies-s02e01-720p-web-h264-memento[eztv]",
+            "size_total": 1.829420805,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.829420805,
+                    "path": "big.little.lies.s02e01.720p.web.h264-memento[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Big-Little-Lies-S02E01-720p-WEB-H264-MEMENTO[rarbg]",
+            "size_total": 1.82942099,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.829420805,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO[rarbg]/big.little.lies.s02e01.720p.web.h264-memento.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 5.6e-8,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO[rarbg]/big.little.lies.s02e01.720p.web.h264-memento.nfo"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Big-Little-Lies-S02E01-720p-WEB-H264-MEMENTO[TGx]",
+            "size_total": 1.833312432,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000589726,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001490724,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00089003,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000920402,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.89e-7,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 1.829420805,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO[TGx]/big.little.lies.s02e01.720p.web.h264-memento.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 5.6e-8,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO[TGx]/big.little.lies.s02e01.720p.web.h264-memento.nfo"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Big-Little-Lies-S02E01-720p-WEB-x264-worldmkv",
+            "size_total": 0.354342387,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.354342387,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.x264-worldmkv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Big-Little-Lies-S02E01-720p-WEB-x265-MiNX[eztv]-mkv",
+            "size_total": 0.219052447,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.219052447,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Big-Little-Lies-S02E01-720p-WEB-x265-MiNX[TGx](1)",
+            "size_total": 0.219053136,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.219052447,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.x265-MiNX[TGx]/Big.Little.Lies.S02E01.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.89e-7,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Big-Little-Lies-S02E01-720p-WEB-x265-MiNX[TGx]",
+            "size_total": 0.219053136,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.219052447,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.x265-MiNX[TGx]/Big.Little.Lies.S02E01.720p.WEB.x265-MiNX.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.89e-7,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.x265-MiNX[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "big-little-lies-s02e01-web-h264-memento[eztv]",
+            "size_total": 0.307058535,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.307058535,
+                    "path": "big.little.lies.s02e01.web.h264-memento[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Big-Little-Lies-S02E01-WEB-H264-MEMENTO[rarbg]",
+            "size_total": 0.307058715,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.307058535,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO[rarbg]/big.little.lies.s02e01.web.h264-memento.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 5.1e-8,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO[rarbg]/big.little.lies.s02e01.web.h264-memento.nfo"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Big-Little-Lies-S02E01-WEB-H264-MEMENTO[TGx]",
+            "size_total": 0.308585324,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000339967,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000554151,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00038829,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000243641,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.89e-7,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.307058535,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO[TGx]/big.little.lies.s02e01.web.h264-memento.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 5.1e-8,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO[TGx]/big.little.lies.s02e01.web.h264-memento.nfo"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Big-Little-Lies-S02E01-WEBRip-x264-ION10",
+            "size_total": 0.442114601,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.442051565,
+                    "path": "Big.Little.Lies.S02E01.WEBRip.x264-ION10/Big.Little.Lies.S02E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Big.Little.Lies.S02E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Big.Little.Lies.S02E01.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000062907,
+                    "path": "Big.Little.Lies.S02E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Big-Little-Lies-S02E01-What-Have-They-Done-1080p-AMZN-WEB-DL-DDP",
+            "size_total": 3.341754693,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.329197667,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001611,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002102022,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.003774981,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.003486189,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.003191534,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 6.89e-7,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Big-Little-Lies-S02E01-What-Have-They-Done-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "size_total": 3.329197796,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.329197667,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Big-Little-Lies-S02E01-What-Have-They-Done-720p-AMZN-WEB-DL-DDP5-1-H-264-NTb[eztv]-mkv",
+            "size_total": 1.831613342,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.831613342,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Big-Little-Lies-S02E01-What-Have-They-Done-720p-AMZN-WEB-DL-DDP5",
+            "size_total": 1.837101888,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.831613342,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001606,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000974076,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001447145,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001619362,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001445668,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 6.89e-7,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Big-Little-Lies-S02E01-What-Have-They-Done-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "size_total": 1.831613471,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.831613342,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Big-Little-Lies-S02E01-XviD-AFG[TGx]",
+            "size_total": 0.442771328,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.441880284,
+                    "path": "Big.Little.Lies.S02E01.XviD-AFG[TGx]/Big.Little.Lies.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001164,
+                    "path": "Big.Little.Lies.S02E01.XviD-AFG[TGx]/Big.Little.Lies.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000199856,
+                    "path": "Big.Little.Lies.S02E01.XviD-AFG[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000268652,
+                    "path": "Big.Little.Lies.S02E01.XviD-AFG[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000230388,
+                    "path": "Big.Little.Lies.S02E01.XviD-AFG[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000190295,
+                    "path": "Big.Little.Lies.S02E01.XviD-AFG[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 7,
+                    "size": 6.89e-7,
+                    "path": "Big.Little.Lies.S02E01.XviD-AFG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Big.Little.Lies.S02E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.558379472,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.535139548,
+                    "path": "Big.Little.Lies.S02E01.1080p.HEVC.x265-MeGusta/Big.Little.Lies.S02E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001139,
+                    "path": "Big.Little.Lies.S02E01.1080p.HEVC.x265-MeGusta/Big.Little.Lies.S02E01.1080p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.007222299,
+                    "path": "Big.Little.Lies.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.009037708,
+                    "path": "Big.Little.Lies.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.006978778,
+                    "path": "Big.Little.Lies.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO [IPT]",
+            "size_total": 3.323230213,
+            "files_total": 36,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.7e-8,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.023228116,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.rar"
+                },
+                {
+                    "number": 36,
+                    "size": 0.00000204,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO/big.little.lies.s02e01.1080p.web.h264-memento.sfv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO[rartv]-[rarbg.to]",
+            "size_total": 3.323223916,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 3.32322373,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO[rarbg]/big.little.lies.s02e01.1080p.web.h264-memento.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 5.7e-8,
+                    "path": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO[rarbg]/big.little.lies.s02e01.1080p.web.h264-memento.nfo"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Big.Little.Lies.S02E01.480p.x264-mSD [IPT]",
+            "size_total": 0.174499787,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.17374837,
+                    "path": "Big.Little.Lies.S02E01.480p.x264-mSD/Big.Little.Lies.S02E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001185,
+                    "path": "Big.Little.Lies.S02E01.480p.x264-mSD/Big.Little.Lies.S02E01.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00017175,
+                    "path": "Big.Little.Lies.S02E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000249667,
+                    "path": "Big.Little.Lies.S02E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000169453,
+                    "path": "Big.Little.Lies.S02E01.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000159362,
+                    "path": "Big.Little.Lies.S02E01.480p.x264-mSD/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Big.Little.Lies.S02E01.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.433371811,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.421944921,
+                    "path": "Big.Little.Lies.S02E01.720p.HEVC.x265-MeGusta/Big.Little.Lies.S02E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001135,
+                    "path": "Big.Little.Lies.S02E01.720p.HEVC.x265-MeGusta/Big.Little.Lies.S02E01.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.003456256,
+                    "path": "Big.Little.Lies.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.004265092,
+                    "path": "Big.Little.Lies.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.003704407,
+                    "path": "Big.Little.Lies.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO [IPT]",
+            "size_total": 1.829426879,
+            "files_total": 21,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r00"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r01"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r02"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r03"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r04"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r05"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r06"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r07"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r08"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r09"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r10"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r11"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r12"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r13"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r14"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r15"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r16"
+                },
+                {
+                    "number": 18,
+                    "size": 0.029423123,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.r17"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.rar"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000001121,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/big.little.lies.s02e01.720p.web.h264-memento.sfv"
+                },
+                {
+                    "number": 21,
+                    "size": 0.000002635,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "big.little.lies.s02e01.720p.web.h264-memento[eztv].mkv",
+            "size_total": 1.829420805,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.829420805,
+                    "path": "big.little.lies.s02e01.720p.web.h264-memento[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO[rartv]-[rarbg.to]",
+            "size_total": 1.82942099,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.829420805,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO[rarbg]/big.little.lies.s02e01.720p.web.h264-memento.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 5.6e-8,
+                    "path": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO[rarbg]/big.little.lies.s02e01.720p.web.h264-memento.nfo"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Big.Little.Lies.S02E01.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.189238461,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.188567177,
+                    "path": "Big.Little.Lies.S02E01.AAC.MP4-Mobile/Big.Little.Lies.S02E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001232,
+                    "path": "Big.Little.Lies.S02E01.AAC.MP4-Mobile/Big.Little.Lies.S02E01.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000193541,
+                    "path": "Big.Little.Lies.S02E01.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000290188,
+                    "path": "Big.Little.Lies.S02E01.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000186323,
+                    "path": "Big.Little.Lies.S02E01.AAC.MP4-Mobile/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS [IPT]",
+            "size_total": 2.770119001,
+            "files_total": 30,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000011905,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.070105248,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.1,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.rar"
+                },
+                {
+                    "number": 30,
+                    "size": 0.000001848,
+                    "path": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS/big.little.lies.s02e01.multi.1080p.hdtv.h264-hybris.sfv"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS [IPT]",
+            "size_total": 1.086582793,
+            "files_total": 24,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r00"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r01"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r02"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r03"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r04"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r05"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r06"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r07"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r08"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r09"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r10"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r11"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r12"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r13"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r14"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r15"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r16"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r17"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r18"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r19"
+                },
+                {
+                    "number": 21,
+                    "size": 0.03657875,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.r20"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.rar"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000001408,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/big.little.lies.s02e01.multi.720p.web.h264-cielos.sfv"
+                },
+                {
+                    "number": 24,
+                    "size": 0.000002635,
+                    "path": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS/tvmaze.nfo"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO [IPT]",
+            "size_total": 0.30706129,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 5.1e-8,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.02,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.02,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.007060375,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.02,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.rar"
+                },
+                {
+                    "number": 18,
+                    "size": 8.64e-7,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO/big.little.lies.s02e01.web.h264-memento.sfv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "big.little.lies.s02e01.web.h264-memento[eztv].mkv",
+            "size_total": 0.307058535,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.307058535,
+                    "path": "big.little.lies.s02e01.web.h264-memento[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO[rartv]-[rarbg.to]",
+            "size_total": 0.307058715,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.307058535,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO[rarbg]/big.little.lies.s02e01.web.h264-memento.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 5.1e-8,
+                    "path": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO[rarbg]/big.little.lies.s02e01.web.h264-memento.nfo"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Big.Little.Lies.S02E01.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.442114601,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.442051565,
+                    "path": "Big.Little.Lies.S02E01.WEBRip.x264-ION10/Big.Little.Lies.S02E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Big.Little.Lies.S02E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Big.Little.Lies.S02E01.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000062907,
+                    "path": "Big.Little.Lies.S02E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 3.3417540039999998,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.329197667,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001611,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002102022,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.003774981,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.003486189,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.003191534,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 3.329197796,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.329197667,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 1.837101199,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.831613342,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001606,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000974076,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001447145,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001619362,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001445668,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.831613471,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.831613342,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Big.Little.Lies.S02E01.XviD-AFG [IPT]",
+            "size_total": 0.442770639,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.441880284,
+                    "path": "Big.Little.Lies.S02E01.XviD-AFG/Big.Little.Lies.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001164,
+                    "path": "Big.Little.Lies.S02E01.XviD-AFG/Big.Little.Lies.S02E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000199856,
+                    "path": "Big.Little.Lies.S02E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000268652,
+                    "path": "Big.Little.Lies.S02E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000230388,
+                    "path": "Big.Little.Lies.S02E01.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000190295,
+                    "path": "Big.Little.Lies.S02E01.XviD-AFG/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Большая маленькая ложь Big Little Lies Сезон 1 Серии 1-7 из 7 (Жан-Марк Валле) [2017, США, драма, криминал, BDRip 1080p] M [rutracker-5744587]",
+            "size_total": 31.441303546,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.519509273,
+                    "path": "Big.Little.Lies.S01/Big.Little.Lies.S01E07.1080p.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 4.495824877,
+                    "path": "Big.Little.Lies.S01/Big.Little.Lies.S01E02.1080p.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.485489811,
+                    "path": "Big.Little.Lies.S01/Big.Little.Lies.S01E03.1080p.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.488231904,
+                    "path": "Big.Little.Lies.S01/Big.Little.Lies.S01E04.1080p.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 4.484043409,
+                    "path": "Big.Little.Lies.S01/Big.Little.Lies.S01E05.1080p.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 4.48526712,
+                    "path": "Big.Little.Lies.S01/Big.Little.Lies.S01E06.1080p.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 4.482937152,
+                    "path": "Big.Little.Lies.S01/Big.Little.Lies.S01E01.1080p.mkv"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Большая маленькая ложь Big Little Lies Сезон 2 Серии 1 из 7 (Жан-Марк Валле, Андреа Арнольд) [2019, США, Драма, криминал, [rutracker-5743212]",
+            "size_total": 0.661760647,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000063458,
+                    "path": "Big Little Lies (Season 2) WEB-DLRip/Eng/Big.Little.Lies.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000059264,
+                    "path": "Big Little Lies (Season 2) WEB-DLRip/Rus/Big.Little.Lies.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.66163712,
+                    "path": "Big Little Lies (Season 2) WEB-DLRip/Big.Little.Lies.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 4,
+                    "size": 8.05e-7,
+                    "path": "Big Little Lies (Season 2) WEB-DLRip/Big.Little.Lies.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Большая маленькая ложь Big Little Lies Сезон 2 Серии 1 из 7 (Жан-Марк Валле, Андреа Арнольд) [2019, США, Драма, криминал, [rutracker-5744274]",
+            "size_total": 3.400074945,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.400074945,
+                    "path": "Big.Little.Lies.S02.1080p.AMZN.WEB-DL.DDP5.1.H.264-EniaHD/Big.Little.Lies.S02E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Большая маленькая ложь Big Little Lies Сезон 2 Серии 1 из 7 (Жан-Марк Валле, Андреа Арнольд) [2019, США, Драма, криминал, [rutracker-5744379]",
+            "size_total": 3.477946091,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.477946091,
+                    "path": "Big.Little.Lies.S02.1080p.TVShows/Big.Little.Lies.S02E01.1080p.TVShows.mkv"
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Большая маленькая ложь Big Little Lies Сезон 2 Серии 1 из 7 (Жан-Марк Валле, Андреа Арнольд) [2019, США, драма, криминал, [rutracker-5743255]",
+            "size_total": 0.394828733,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.394828733,
+                    "path": "Big Little Lies (2019) S02/Big Little Lies (2019) S02E01 WEB-DLRip-AVC_ivanes.mkv"
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Большая маленькая ложь Big Little Lies Сезон 2 Серии 1 из 7 (Жан-Марк Валле, Андреа Арнольд) [2019, США, драма, криминал, [rutracker-5743423]",
+            "size_total": 0.921207431,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.921083904,
+                    "path": "Big Little Lies S02 400p Novamedia/Big.Little.Lies.S02E01.WEB-DLRip.Rus.Eng.Novamedia.RGzsRutracker.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 8.05e-7,
+                    "path": "Big Little Lies S02 400p Novamedia/Big.Little.Lies.S02E01.WEB-DLRip.Rus.Eng.Novamedia.RGzsRutracker.rus.forc.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000063458,
+                    "path": "Big Little Lies S02 400p Novamedia/Eng/Big.Little.Lies.S02E01.WEB-DLRip.Rus.Eng.Novamedia.RGzsRutracker.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000059264,
+                    "path": "Big Little Lies S02 400p Novamedia/Rus/Big.Little.Lies.S02E01.WEB-DLRip.Rus.Eng.Novamedia.RGzsRutracker.rus.srt"
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "name": "大小谎言.Big.Little.Lies.S02E01.720p-天天美剧字幕组.mp4.a3c98afa21609aae",
+            "size_total": 0.771613316,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.771613316,
+                    "path": "大小谎言.Big.Little.Lies.S02E01.720p-天天美剧字幕组.mp4"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "name": "大小谎言.Big.Little.Lies.S02E01.720p.WEBRip.x264.双语字幕初版-深影字幕组.mp4.9fbeeb11d253caac",
+            "size_total": 0.638901128,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.638901128,
+                    "path": "大小谎言.Big.Little.Lies.S02E01.720p.WEBRip.x264.双语字幕初版-深影字幕组.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 63,
+            "name": "multi-btih-0-2-x-Big-Little-Lies-S02E01-1080p-WEB-H264-MEMENTO[rarbg]",
+            "btih": "f14fd4512025eb9d177c14e3e1b9beb3f81e15db",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.323223916,
+            "creation": "2019-06-10T04:55:47.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 98852,
+            "uuploaders": 59411
+        },
+        {
+            "id": 74,
+            "name": "multi-btih-11-2-x-big-little-lies-s02e01-web-h264-memento[eztv]",
+            "btih": "5810a521a7eb907eee80813ecd7fd463af7d3c81",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.307058535,
+            "creation": "2019-06-10T04:55:50.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 93913,
+            "uuploaders": 61695
+        },
+        {
+            "id": 20,
+            "name": "Big-Little-Lies-S02E01-720p-WEB-H264-MEMENTO[TGx]",
+            "btih": "1f75565fb094cb625a12871265e5045d0a2a9276",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.833312432,
+            "creation": "2019-06-10T01:46:33.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 63877,
+            "uuploaders": 38668
+        },
+        {
+            "id": 67,
+            "name": "multi-btih-4-2-x-Big-Little-Lies-S02E01-WEBRip-x264-ION10",
+            "btih": "5833754b977c75465d60c230c29cd1c80ced931a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.442114601,
+            "creation": "2019-06-10T04:55:32.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 62012,
+            "uuploaders": 31306
+        },
+        {
+            "id": 64,
+            "name": "multi-btih-1-2-x-Big-Little-Lies-S02E01-720p-WEB-H264-MEMENTO[rarbg]",
+            "btih": "f995b232affbf9b592daa46c1d5651e321d428cc",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.82942099,
+            "creation": "2019-06-10T04:55:48.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 61223,
+            "uuploaders": 36635
+        },
+        {
+            "id": 15,
+            "name": "Big-Little-Lies-S02E01-480p-x264-mSD-[eztv]",
+            "btih": "2b9488d7d58156c15cd3870ff0d715036fa95a4b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.17374837,
+            "creation": "2019-06-10T02:03:17.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53859,
+            "uuploaders": 26231
+        },
+        {
+            "id": 73,
+            "name": "multi-btih-10-2-x-big-little-lies-s02e01-720p-web-h264-memento[eztv]",
+            "btih": "0a3b43817bca4fc13d601b6e0c9a6df109416663",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.829420805,
+            "creation": "2019-06-10T04:55:57.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 49003,
+            "uuploaders": 26138
+        },
+        {
+            "id": 31,
+            "name": "Big-Little-Lies-S02E01-What-Have-They-Done-720p-AMZN-WEB-DL-DDP5-1-H-264-NTb[eztv]-mkv",
+            "btih": "c0eb5cf71014bba4597b10bb09fcadad364a9a6a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.831613342,
+            "creation": "2019-06-10T14:10:08.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 48596,
+            "uuploaders": 23523
+        },
+        {
+            "id": 22,
+            "name": "Big-Little-Lies-S02E01-720p-WEB-x265-MiNX[eztv]-mkv",
+            "btih": "3cc2e9574d53068967bd40f4ad8565b540db25a6",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.219052447,
+            "creation": "2019-06-10T02:46:14.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 45007,
+            "uuploaders": 23301
+        },
+        {
+            "id": 66,
+            "name": "multi-btih-3-2-x-Big-Little-Lies-S02E01-WEB-H264-MEMENTO[rarbg]",
+            "btih": "1ae8763673130baf838a72cd4b4ab0fe2ccc67e0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.307058715,
+            "creation": "2019-06-10T04:55:45.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42098,
+            "uuploaders": 20605
+        },
+        {
+            "id": 68,
+            "name": "multi-btih-5-2-x-Big-Little-Lies-S02E01-What-Have-They-Done-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "btih": "5a2158845d16a23400c3afe1f1cfd095d051cc22",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.329197796,
+            "creation": "2019-06-10T16:25:19.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33020,
+            "uuploaders": 14049
+        },
+        {
+            "id": 72,
+            "name": "multi-btih-9-3-x-[rutor.is]Big_Little_Lies_(s02)_1080p",
+            "btih": "3aab0bdd821e42bf9945581b2f7fbdf69b5b1736",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.400074945,
+            "creation": "2019-06-10T17:01:00.000000000Z,qBittorrent v4.1.6,http://rutor.is/torrent/703689",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 32688,
+            "uuploaders": 14576
+        },
+        {
+            "id": 71,
+            "name": "multi-btih-8-3-x-[rutor.is]Big_Little_Lies_(s02)",
+            "btih": "8b66f70e3e39851b66b79bfd66db5b6135664fe0",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.661760647,
+            "creation": "2019-06-10T19:49:47.000000000Z,uTorrent/2040,http://rutor.is/torrent/703700",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 31713,
+            "uuploaders": 11788
+        },
+        {
+            "id": 13,
+            "name": "Big-Little-Lies-S02E01-1080p-WEB-H264-MEMENTO[TGx]-⭐",
+            "btih": "83e2a8529707e1c4ef5c84277bb1aff32e570dec",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.331112337,
+            "creation": "2019-06-10T02:54:42.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 30228,
+            "uuploaders": 15715
+        },
+        {
+            "id": 69,
+            "name": "multi-btih-6-2-x-Big-Little-Lies-S02E01-What-Have-They-Done-720p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "btih": "6aff6916c3aa11c7aa16a96a9b2ad3b7e3f3198f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.831613471,
+            "creation": "2019-06-10T14:36:03.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 28448,
+            "uuploaders": 11739
+        },
+        {
+            "id": 34,
+            "name": "Big-Little-Lies-S02E01-XviD-AFG[TGx]",
+            "btih": "cbcbafb49c4f94c54d1163c047e0e2d254337031",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.442771328,
+            "creation": "2019-06-10T02:00:11.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 26647,
+            "uuploaders": 10944
+        },
+        {
+            "id": 65,
+            "name": "multi-btih-2-2-x-Big-Little-Lies-S02E01-720p-WEB-x265-MiNX[TGx](1)",
+            "btih": "6f7135db176276824514f79930c5c314b1844e9e",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.219053136,
+            "creation": "2019-06-10T02:38:04.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 24422,
+            "uuploaders": 9497
+        },
+        {
+            "id": 70,
+            "name": "multi-btih-7-3-x-[rutor.is]Big_Little_Lies",
+            "btih": "18e28a3614ed66d9729343e79a80e8d86e8dbb48",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.921207431,
+            "creation": "2019-06-11T13:05:42.000000000Z,uTorrent/1850,http://rutor.is/torrent/703825",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23605,
+            "uuploaders": 9963
+        },
+        {
+            "id": 32,
+            "name": "Big-Little-Lies-S02E01-What-Have-They-Done-720p-AMZN-WEB-DL-DDP5",
+            "btih": "4b49179b4a5a13af87533c5dcbe88df2401de3b3",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.837101888,
+            "creation": "2019-06-10T14:00:45.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16362,
+            "uuploaders": 2429
+        },
+        {
+            "id": 11,
+            "name": "Big-Little-Lies-S02E01-1080p-HEVC-x265-MeGusta",
+            "btih": "aa1b0651e6303bd3619b01606f73dc3cf11a1cab",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.55837952,
+            "creation": "2019-06-10T03:30:11.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13375,
+            "uuploaders": 5431
+        },
+        {
+            "id": 14,
+            "name": "Big-Little-Lies-S02E01-1080p-WEB-x264-worldmkv",
+            "btih": "167ebe74c397d9c75e1c4c79cac781664c960f63",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 0.603706816,
+            "creation": "2019-06-11T01:45:50.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12293,
+            "uuploaders": 1740
+        },
+        {
+            "id": 55,
+            "name": "Большая маленькая ложь Big Little Lies Сезон 1 Серии 1-7 из 7 (Жан-Марк Валле) [2017, США, драма, криминал, BDRip 1080p] M [rutracker-5744587]",
+            "btih": "d010e745ca08254124d3ce35c49d7bcae334559c",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 31.441303546,
+            "creation": "2019-06-14T17:00:49.000000000Z,qBittorrent v4.1.5,https://rutracker.org/forum/viewtopic.php?t=5744587",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10602,
+            "uuploaders": 3588
+        },
+        {
+            "id": 10,
+            "name": "Big-Little-Lies-S02E01-(1080p-AMZN-WEB-DL-x265-HEVC-10bit-AAC-5-1)[Bandi]-mkv",
+            "btih": "e6446fd751ce672aa6f9e7b81641152a7422c5c2",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.855475962,
+            "creation": "2019-06-10T11:00:18.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 10275,
+            "uuploaders": 3032
+        },
+        {
+            "id": 61,
+            "name": "大小谎言.Big.Little.Lies.S02E01.720p-天天美剧字幕组.mp4.a3c98afa21609aae",
+            "btih": "a3c98afa21609aaeabdf136ded6ac9b55521e7db",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.771613316,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9107,
+            "uuploaders": 1803
+        },
+        {
+            "id": 16,
+            "name": "Big-Little-Lies-S02E01-720p-HEVC-x265-MeGusta",
+            "btih": "fff7c69c748976b4b67326fa3ecfdcb68a305a72",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.433371859,
+            "creation": "2019-06-10T02:28:40.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8522,
+            "uuploaders": 2952
+        },
+        {
+            "id": 27,
+            "name": "Big-Little-Lies-S02E01-WEB-H264-MEMENTO[TGx]",
+            "btih": "6f831e71b523c200853f7de3bc3e9e83eb99e9f2",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.308585324,
+            "creation": "2019-06-10T02:29:16.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8482,
+            "uuploaders": 2909
+        },
+        {
+            "id": 17,
+            "name": "Big-Little-Lies-S02E01-720p-TRUE-WEB-DL",
+            "btih": "b2ff3f4775c3ef1c27c41d4f86307b20382ef51b",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.392143481,
+            "creation": "2019-06-10T02:20:25.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 8377,
+            "uuploaders": 986
+        },
+        {
+            "id": 6,
+            "name": "Big-Little-Lies-S01-SweSub-EngSub-1080p-x264-Justiso",
+            "btih": "c17cfadbb5c3a7734c938acd3c732db77faf6f41",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 7.248043543,
+            "creation": "2019-06-12T09:20:29.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7857,
+            "uuploaders": 2690
+        },
+        {
+            "id": 21,
+            "name": "Big-Little-Lies-S02E01-720p-WEB-x264-worldmkv",
+            "btih": "7f73ffc191ed1608bb42085d82affeab8053a8c3",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.354342387,
+            "creation": "2019-06-11T01:45:40.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7755,
+            "uuploaders": 1579
+        },
+        {
+            "id": 29,
+            "name": "Big-Little-Lies-S02E01-What-Have-They-Done-1080p-AMZN-WEB-DL-DDP",
+            "btih": "b4228a6360a284f6dd14b91c5d48f6bcdd4acd17",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.341754693,
+            "creation": "2019-06-10T14:00:11.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7142,
+            "uuploaders": 2658
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Bolshaja_malenkaja_lozh_2_sezon_scarabey.org",
+            "btih": "60e974a55652db5befb65af7b47a7f89b3bf6506",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.627730432,
+            "creation": "2019-06-11T20:32:23.000000000Z,uTorrent/2210,http://rutor.is/torrent/704039",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7141,
+            "uuploaders": 2050
+        },
+        {
+            "id": 58,
+            "name": "Большая маленькая ложь Big Little Lies Сезон 2 Серии 1 из 7 (Жан-Марк Валле, Андреа Арнольд) [2019, США, Драма, криминал, [rutracker-5744379]",
+            "btih": "21f71ea9550d96bfb2dc4fcfbc8d0db19e6993b4",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.477946091,
+            "creation": "2019-06-13T12:10:05.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),https://rutracker.org/forum/viewtopic.php?t=5744379",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7033,
+            "uuploaders": 1036
+        },
+        {
+            "id": 59,
+            "name": "Большая маленькая ложь Big Little Lies Сезон 2 Серии 1 из 7 (Жан-Марк Валле, Андреа Арнольд) [2019, США, драма, криминал, [rutracker-5743255]",
+            "btih": "6004028277577eeb9adfcce995f02cad3f95ec87",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.394828733,
+            "creation": "2019-06-10T22:33:05.000000000Z,uTorrent/3.5.5,https://rutracker.org/forum/viewtopic.php?t=5743255",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6405,
+            "uuploaders": 1647
+        },
+        {
+            "id": 62,
+            "name": "大小谎言.Big.Little.Lies.S02E01.720p.WEBRip.x264.双语字幕初版-深影字幕组.mp4.9fbeeb11d253caac",
+            "btih": "9fbeeb11d253caacdc95bff5143496997d43afd7",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.638901128,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5662,
+            "uuploaders": 185
+        },
+        {
+            "id": 40,
+            "name": "Big.Little.Lies.S02E01.720p.WEB.H264-MEMENTO [IPT]",
+            "btih": "bc557026791cec2b419fba061e5aa9e9257ab688",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.829426879,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 5085,
+            "uuploaders": 2823
+        },
+        {
+            "id": 7,
+            "name": "Big-Little-Lies-S02-(2018)-720p-WEBRip-[Gears-Media]",
+            "btih": "8e06f17ad4441befc5ddad1241b458568897c04b",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.097290702,
+            "creation": "2019-06-11T23:45:03.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 4498,
+            "uuploaders": 670
+        },
+        {
+            "id": 54,
+            "name": "Big.Little.Lies.S02E01.XviD-AFG [IPT]",
+            "btih": "a5cf6b78b6200f6a1c5faa8cdbcf0946d0631d9c",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.442770639,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4208,
+            "uuploaders": 1951
+        },
+        {
+            "id": 35,
+            "name": "Big.Little.Lies.S02E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "fede654f7c8ab1d28ccb8b4288c1ab4a5fa42115",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.558379472,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3100,
+            "uuploaders": 1470
+        },
+        {
+            "id": 39,
+            "name": "Big.Little.Lies.S02E01.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "4eea45addc4296aacf2504b7108bed551b5c5f52",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.433371811,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2243,
+            "uuploaders": 1035
+        },
+        {
+            "id": 36,
+            "name": "Big.Little.Lies.S02E01.1080p.WEB.H264-MEMENTO [IPT]",
+            "btih": "8ef5d167b81a2376a3666d3098af4b98f621c53c",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.323230213,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1884,
+            "uuploaders": 971
+        },
+        {
+            "id": 50,
+            "name": "Big.Little.Lies.S02E01.What.Have.They.Done.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "btih": "78f3a21705bff52652ff33f3487bb2eb427719bc",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.3417540039999998,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1569,
+            "uuploaders": 814
+        },
+        {
+            "id": 38,
+            "name": "Big.Little.Lies.S02E01.480p.x264-mSD [IPT]",
+            "btih": "75b1c71870ec3ab6d2084e9af1c8908f8ebcd0c7",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.174499787,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1373,
+            "uuploaders": 831
+        },
+        {
+            "id": 52,
+            "name": "Big.Little.Lies.S02E01.What.Have.They.Done.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "btih": "8789d206aedc0738ddcea03a1e11dd9dfc54c7d8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.837101199,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1099,
+            "uuploaders": 624
+        },
+        {
+            "id": 46,
+            "name": "Big.Little.Lies.S02E01.WEB.H264-MEMENTO [IPT]",
+            "btih": "225bc7abd8b7221010753b0eba9e1e3a9a096f57",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.30706129,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 739,
+            "uuploaders": 531
+        },
+        {
+            "id": 43,
+            "name": "Big.Little.Lies.S02E01.AAC.MP4-Mobile [IPT]",
+            "btih": "80695b0ed83722611b68b1892713e87ccc29dd2f",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.189238461,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 713,
+            "uuploaders": 583
+        },
+        {
+            "id": 45,
+            "name": "Big.Little.Lies.S02E01.MULTi.720p.WEB.H264-CiELOS [IPT]",
+            "btih": "890d6a8c5e42bd150b22ab0c4f00d2a8484f7d54",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.086582793,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 629,
+            "uuploaders": 459
+        },
+        {
+            "id": 44,
+            "name": "Big.Little.Lies.S02E01.MULTi.1080p.HDTV.H264-HYBRiS [IPT]",
+            "btih": "d85d2e0bb9994f7b829908472a40f4e45ca48e14",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.770119001,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 464,
+            "uuploaders": 383
+        }
+    ]
+}

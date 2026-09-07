@@ -1,0 +1,110 @@
+{
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "available_day_products": 42,
+  "cache_members": 2559,
+  "collection_key": "big-little-lies-201",
+  "downstream_cache_synthesis": {
+    "cache_members": {
+      "cumulative": 62,
+      "week": 372
+    },
+    "derived_durations": [
+      "week",
+      "cumulative"
+    ],
+    "producer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-cache-samples.exe",
+      "sha256": "68ce9b7545ac3d2afa3a9bc6002a3b70650aa932a522880c1da5433e3cce178b",
+      "size": 28613240
+    },
+    "sample_anchor": {
+      "directories": [
+        "2019-06-10-at-00-00",
+        "2019-07-21-at-00-00"
+      ],
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019/big-little-lies-201/tmp/big-little-lies-201-released-day-sample-anchor",
+      "raw_samples_opened": false,
+      "synthetic": true
+    },
+    "schema": "alpha60-released-day-downstream-cache/1",
+    "source_duration": "day",
+    "status": "pass"
+  },
+  "first_date": "2019-06-10",
+  "first_index": 1,
+  "indices": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42
+  ],
+  "last_date": "2019-07-21",
+  "last_index": 42,
+  "missing_indices": [],
+  "sample_span_days": 42,
+  "schema": "alpha60-day-cache-stream-contract/1",
+  "selection": {
+    "admitted_cache_members": 2559,
+    "archive_mutated": false,
+    "excluded_cache_members": 0,
+    "policy": "released-sample-endpoints-in-place",
+    "required_first_date": "2019-06-10",
+    "required_last_date": "2019-07-21",
+    "required_span_days": 42,
+    "schema": "alpha60-released-day-cache-window/1",
+    "source_cache_members": 2559,
+    "source_first_date": "2019-06-10",
+    "source_first_index": 1,
+    "source_last_date": "2019-07-21",
+    "source_last_index": 42
+  },
+  "sparse": false,
+  "status": "pass"
+}
