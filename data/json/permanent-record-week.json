@@ -1,0 +1,2035 @@
+{
+    "collection_name": "Permanent Record",
+    "collection_id": "",
+    "collection_key": "permanent-record",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "sample_duration": "2019-09-18-to-2019-12-10",
+    "sample_days": 84,
+    "sample_year_start": 2019,
+    "sample_year_end": 2019,
+    "sample_day_year_start": 261,
+    "sample_day_year_end": 344,
+    "collection_week": [
+        {
+    "number": "week-00001",
+    "btiha_size": 2,
+    "udownloaders_total": 12967,
+    "uuploaders_total": 4598
+},
+        {
+    "number": "week-00002",
+    "btiha_size": 4,
+    "udownloaders_total": 35050,
+    "uuploaders_total": 9244
+},
+        {
+    "number": "week-00003",
+    "btiha_size": 4,
+    "udownloaders_total": 54182,
+    "uuploaders_total": 12618
+},
+        {
+    "number": "week-00004",
+    "btiha_size": 4,
+    "udownloaders_total": 70128,
+    "uuploaders_total": 15008
+},
+        {
+    "number": "week-00005",
+    "btiha_size": 4,
+    "udownloaders_total": 86121,
+    "uuploaders_total": 16771
+},
+        {
+    "number": "week-00006",
+    "btiha_size": 5,
+    "udownloaders_total": 114415,
+    "uuploaders_total": 20278
+},
+        {
+    "number": "week-00007",
+    "btiha_size": 5,
+    "udownloaders_total": 137600,
+    "uuploaders_total": 23370
+},
+        {
+    "number": "week-00008",
+    "btiha_size": 5,
+    "udownloaders_total": 146619,
+    "uuploaders_total": 26027
+},
+        {
+    "number": "week-00009",
+    "btiha_size": 5,
+    "udownloaders_total": 155599,
+    "uuploaders_total": 28509
+},
+        {
+    "number": "week-00010",
+    "btiha_size": 5,
+    "udownloaders_total": 177860,
+    "uuploaders_total": 30733
+},
+        {
+    "number": "week-00011",
+    "btiha_size": 5,
+    "udownloaders_total": 195341,
+    "uuploaders_total": 32823
+},
+        {
+    "number": "week-00012",
+    "btiha_size": 5,
+    "udownloaders_total": 211900,
+    "uuploaders_total": 34805
+}
+    ],
+    "collection_week_by_btiha": [
+        [
+    {
+        "id": 3,
+        "name": "Edward-Snowden--Permanent-Record-Metropolitan-Books-(2019)-epub",
+        "btih": "14bc623e91fbc7c50af8620a212ef2b413d23692",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.000745483,
+        "creation": "2019-09-17T18:57:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 12057,
+        "uuploaders": 4309
+    },
+    {
+        "id": 4,
+        "name": "Permanent Record [IPT]",
+        "btih": "97c81f88d6ca4ddb0ecac019039d731f3b068101",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.004801712,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 910,
+        "uuploaders": 289
+    }
+],
+        [
+    {
+        "id": 3,
+        "name": "Edward-Snowden--Permanent-Record-Metropolitan-Books-(2019)-epub",
+        "btih": "14bc623e91fbc7c50af8620a212ef2b413d23692",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.000745483,
+        "creation": "2019-09-17T18:57:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 20841,
+        "uuploaders": 6904
+    },
+    {
+        "id": 5,
+        "name": "Permanent-Record-by-Edward-Snowden-EPUB",
+        "btih": "af5f9b5d4657dd3edd0c080c4086ca346d03dbbc",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.00052253,
+        "creation": "2019-09-24T14:05:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 8312,
+        "uuploaders": 1763
+    },
+    {
+        "id": 1,
+        "name": "[NulledPremium-com]-Permanent-Record",
+        "btih": "96da77b4da32e572ebc5fcd5a625359557070966",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.001215665,
+        "creation": "2019-09-18T14:26:03.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 4563,
+        "uuploaders": 192
+    },
+    {
+        "id": 4,
+        "name": "Permanent Record [IPT]",
+        "btih": "97c81f88d6ca4ddb0ecac019039d731f3b068101",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.004801712,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1334,
+        "uuploaders": 385
+    }
+],
+        [
+    {
+        "id": 3,
+        "name": "Edward-Snowden--Permanent-Record-Metropolitan-Books-(2019)-epub",
+        "btih": "14bc623e91fbc7c50af8620a212ef2b413d23692",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.000745483,
+        "creation": "2019-09-17T18:57:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 26400,
+        "uuploaders": 9109
+    },
+    {
+        "id": 5,
+        "name": "Permanent-Record-by-Edward-Snowden-EPUB",
+        "btih": "af5f9b5d4657dd3edd0c080c4086ca346d03dbbc",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.00052253,
+        "creation": "2019-09-24T14:05:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 18920,
+        "uuploaders": 2707
+    },
+    {
+        "id": 1,
+        "name": "[NulledPremium-com]-Permanent-Record",
+        "btih": "96da77b4da32e572ebc5fcd5a625359557070966",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.001215665,
+        "creation": "2019-09-18T14:26:03.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7180,
+        "uuploaders": 293
+    },
+    {
+        "id": 4,
+        "name": "Permanent Record [IPT]",
+        "btih": "97c81f88d6ca4ddb0ecac019039d731f3b068101",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.004801712,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1682,
+        "uuploaders": 509
+    }
+],
+        [
+    {
+        "id": 3,
+        "name": "Edward-Snowden--Permanent-Record-Metropolitan-Books-(2019)-epub",
+        "btih": "14bc623e91fbc7c50af8620a212ef2b413d23692",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.000745483,
+        "creation": "2019-09-17T18:57:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 29421,
+        "uuploaders": 10558
+    },
+    {
+        "id": 5,
+        "name": "Permanent-Record-by-Edward-Snowden-EPUB",
+        "btih": "af5f9b5d4657dd3edd0c080c4086ca346d03dbbc",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.00052253,
+        "creation": "2019-09-24T14:05:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 25727,
+        "uuploaders": 3438
+    },
+    {
+        "id": 1,
+        "name": "[NulledPremium-com]-Permanent-Record",
+        "btih": "96da77b4da32e572ebc5fcd5a625359557070966",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.001215665,
+        "creation": "2019-09-18T14:26:03.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 13065,
+        "uuploaders": 401
+    },
+    {
+        "id": 4,
+        "name": "Permanent Record [IPT]",
+        "btih": "97c81f88d6ca4ddb0ecac019039d731f3b068101",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.004801712,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1915,
+        "uuploaders": 611
+    }
+],
+        [
+    {
+        "id": 5,
+        "name": "Permanent-Record-by-Edward-Snowden-EPUB",
+        "btih": "af5f9b5d4657dd3edd0c080c4086ca346d03dbbc",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.00052253,
+        "creation": "2019-09-24T14:05:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 32112,
+        "uuploaders": 3979
+    },
+    {
+        "id": 3,
+        "name": "Edward-Snowden--Permanent-Record-Metropolitan-Books-(2019)-epub",
+        "btih": "14bc623e91fbc7c50af8620a212ef2b413d23692",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.000745483,
+        "creation": "2019-09-17T18:57:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 31533,
+        "uuploaders": 11605
+    },
+    {
+        "id": 1,
+        "name": "[NulledPremium-com]-Permanent-Record",
+        "btih": "96da77b4da32e572ebc5fcd5a625359557070966",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.001215665,
+        "creation": "2019-09-18T14:26:03.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 20248,
+        "uuploaders": 468
+    },
+    {
+        "id": 4,
+        "name": "Permanent Record [IPT]",
+        "btih": "97c81f88d6ca4ddb0ecac019039d731f3b068101",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.004801712,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 2228,
+        "uuploaders": 719
+    }
+],
+        [
+    {
+        "id": 5,
+        "name": "Permanent-Record-by-Edward-Snowden-EPUB",
+        "btih": "af5f9b5d4657dd3edd0c080c4086ca346d03dbbc",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.00052253,
+        "creation": "2019-09-24T14:05:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 38999,
+        "uuploaders": 5073
+    },
+    {
+        "id": 3,
+        "name": "Edward-Snowden--Permanent-Record-Metropolitan-Books-(2019)-epub",
+        "btih": "14bc623e91fbc7c50af8620a212ef2b413d23692",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.000745483,
+        "creation": "2019-09-17T18:57:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 36873,
+        "uuploaders": 13556
+    },
+    {
+        "id": 1,
+        "name": "[NulledPremium-com]-Permanent-Record",
+        "btih": "96da77b4da32e572ebc5fcd5a625359557070966",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.001215665,
+        "creation": "2019-09-18T14:26:03.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 35467,
+        "uuploaders": 588
+    },
+    {
+        "id": 4,
+        "name": "Permanent Record [IPT]",
+        "btih": "97c81f88d6ca4ddb0ecac019039d731f3b068101",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.004801712,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 2620,
+        "uuploaders": 881
+    },
+    {
+        "id": 2,
+        "name": "Edward Snowden - Permanent Record [IPT]",
+        "btih": "5187c43fb97139f861908413f75d083a9d3a2b21",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.282144896,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 456,
+        "uuploaders": 180
+    }
+],
+        [
+    {
+        "id": 5,
+        "name": "Permanent-Record-by-Edward-Snowden-EPUB",
+        "btih": "af5f9b5d4657dd3edd0c080c4086ca346d03dbbc",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.00052253,
+        "creation": "2019-09-24T14:05:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 48052,
+        "uuploaders": 5967
+    },
+    {
+        "id": 3,
+        "name": "Edward-Snowden--Permanent-Record-Metropolitan-Books-(2019)-epub",
+        "btih": "14bc623e91fbc7c50af8620a212ef2b413d23692",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.000745483,
+        "creation": "2019-09-17T18:57:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 43052,
+        "uuploaders": 15313
+    },
+    {
+        "id": 1,
+        "name": "[NulledPremium-com]-Permanent-Record",
+        "btih": "96da77b4da32e572ebc5fcd5a625359557070966",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.001215665,
+        "creation": "2019-09-18T14:26:03.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 42432,
+        "uuploaders": 678
+    },
+    {
+        "id": 4,
+        "name": "Permanent Record [IPT]",
+        "btih": "97c81f88d6ca4ddb0ecac019039d731f3b068101",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.004801712,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 2929,
+        "uuploaders": 1017
+    },
+    {
+        "id": 2,
+        "name": "Edward Snowden - Permanent Record [IPT]",
+        "btih": "5187c43fb97139f861908413f75d083a9d3a2b21",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.282144896,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1135,
+        "uuploaders": 395
+    }
+],
+        [
+    {
+        "id": 5,
+        "name": "Permanent-Record-by-Edward-Snowden-EPUB",
+        "btih": "af5f9b5d4657dd3edd0c080c4086ca346d03dbbc",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.00052253,
+        "creation": "2019-09-24T14:05:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 51808,
+        "uuploaders": 6774
+    },
+    {
+        "id": 3,
+        "name": "Edward-Snowden--Permanent-Record-Metropolitan-Books-(2019)-epub",
+        "btih": "14bc623e91fbc7c50af8620a212ef2b413d23692",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.000745483,
+        "creation": "2019-09-17T18:57:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 46103,
+        "uuploaders": 16827
+    },
+    {
+        "id": 1,
+        "name": "[NulledPremium-com]-Permanent-Record",
+        "btih": "96da77b4da32e572ebc5fcd5a625359557070966",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.001215665,
+        "creation": "2019-09-18T14:26:03.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 43889,
+        "uuploaders": 737
+    },
+    {
+        "id": 4,
+        "name": "Permanent Record [IPT]",
+        "btih": "97c81f88d6ca4ddb0ecac019039d731f3b068101",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.004801712,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 3217,
+        "uuploaders": 1150
+    },
+    {
+        "id": 2,
+        "name": "Edward Snowden - Permanent Record [IPT]",
+        "btih": "5187c43fb97139f861908413f75d083a9d3a2b21",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.282144896,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1602,
+        "uuploaders": 539
+    }
+],
+        [
+    {
+        "id": 5,
+        "name": "Permanent-Record-by-Edward-Snowden-EPUB",
+        "btih": "af5f9b5d4657dd3edd0c080c4086ca346d03dbbc",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.00052253,
+        "creation": "2019-09-24T14:05:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 54135,
+        "uuploaders": 7495
+    },
+    {
+        "id": 3,
+        "name": "Edward-Snowden--Permanent-Record-Metropolitan-Books-(2019)-epub",
+        "btih": "14bc623e91fbc7c50af8620a212ef2b413d23692",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.000745483,
+        "creation": "2019-09-17T18:57:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 49789,
+        "uuploaders": 18274
+    },
+    {
+        "id": 1,
+        "name": "[NulledPremium-com]-Permanent-Record",
+        "btih": "96da77b4da32e572ebc5fcd5a625359557070966",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.001215665,
+        "creation": "2019-09-18T14:26:03.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 46158,
+        "uuploaders": 810
+    },
+    {
+        "id": 4,
+        "name": "Permanent Record [IPT]",
+        "btih": "97c81f88d6ca4ddb0ecac019039d731f3b068101",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.004801712,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 3528,
+        "uuploaders": 1239
+    },
+    {
+        "id": 2,
+        "name": "Edward Snowden - Permanent Record [IPT]",
+        "btih": "5187c43fb97139f861908413f75d083a9d3a2b21",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.282144896,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 1989,
+        "uuploaders": 691
+    }
+],
+        [
+    {
+        "id": 3,
+        "name": "Edward-Snowden--Permanent-Record-Metropolitan-Books-(2019)-epub",
+        "btih": "14bc623e91fbc7c50af8620a212ef2b413d23692",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.000745483,
+        "creation": "2019-09-17T18:57:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 63080,
+        "uuploaders": 19587
+    },
+    {
+        "id": 5,
+        "name": "Permanent-Record-by-Edward-Snowden-EPUB",
+        "btih": "af5f9b5d4657dd3edd0c080c4086ca346d03dbbc",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.00052253,
+        "creation": "2019-09-24T14:05:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 56605,
+        "uuploaders": 8110
+    },
+    {
+        "id": 1,
+        "name": "[NulledPremium-com]-Permanent-Record",
+        "btih": "96da77b4da32e572ebc5fcd5a625359557070966",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.001215665,
+        "creation": "2019-09-18T14:26:03.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 52015,
+        "uuploaders": 890
+    },
+    {
+        "id": 4,
+        "name": "Permanent Record [IPT]",
+        "btih": "97c81f88d6ca4ddb0ecac019039d731f3b068101",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.004801712,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 3818,
+        "uuploaders": 1297
+    },
+    {
+        "id": 2,
+        "name": "Edward Snowden - Permanent Record [IPT]",
+        "btih": "5187c43fb97139f861908413f75d083a9d3a2b21",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.282144896,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 2342,
+        "uuploaders": 849
+    }
+],
+        [
+    {
+        "id": 3,
+        "name": "Edward-Snowden--Permanent-Record-Metropolitan-Books-(2019)-epub",
+        "btih": "14bc623e91fbc7c50af8620a212ef2b413d23692",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.000745483,
+        "creation": "2019-09-17T18:57:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 67353,
+        "uuploaders": 20878
+    },
+    {
+        "id": 5,
+        "name": "Permanent-Record-by-Edward-Snowden-EPUB",
+        "btih": "af5f9b5d4657dd3edd0c080c4086ca346d03dbbc",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.00052253,
+        "creation": "2019-09-24T14:05:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 65923,
+        "uuploaders": 8608
+    },
+    {
+        "id": 1,
+        "name": "[NulledPremium-com]-Permanent-Record",
+        "btih": "96da77b4da32e572ebc5fcd5a625359557070966",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.001215665,
+        "creation": "2019-09-18T14:26:03.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 55317,
+        "uuploaders": 957
+    },
+    {
+        "id": 4,
+        "name": "Permanent Record [IPT]",
+        "btih": "97c81f88d6ca4ddb0ecac019039d731f3b068101",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.004801712,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 4044,
+        "uuploaders": 1387
+    },
+    {
+        "id": 2,
+        "name": "Edward Snowden - Permanent Record [IPT]",
+        "btih": "5187c43fb97139f861908413f75d083a9d3a2b21",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.282144896,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 2704,
+        "uuploaders": 993
+    }
+],
+        [
+    {
+        "id": 5,
+        "name": "Permanent-Record-by-Edward-Snowden-EPUB",
+        "btih": "af5f9b5d4657dd3edd0c080c4086ca346d03dbbc",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.00052253,
+        "creation": "2019-09-24T14:05:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 73191,
+        "uuploaders": 9101
+    },
+    {
+        "id": 3,
+        "name": "Edward-Snowden--Permanent-Record-Metropolitan-Books-(2019)-epub",
+        "btih": "14bc623e91fbc7c50af8620a212ef2b413d23692",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.000745483,
+        "creation": "2019-09-17T18:57:27.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 72552,
+        "uuploaders": 22041
+    },
+    {
+        "id": 1,
+        "name": "[NulledPremium-com]-Permanent-Record",
+        "btih": "96da77b4da32e572ebc5fcd5a625359557070966",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 0.001215665,
+        "creation": "2019-09-18T14:26:03.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 58788,
+        "uuploaders": 1005
+    },
+    {
+        "id": 4,
+        "name": "Permanent Record [IPT]",
+        "btih": "97c81f88d6ca4ddb0ecac019039d731f3b068101",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.004801712,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 4297,
+        "uuploaders": 1483
+    },
+    {
+        "id": 2,
+        "name": "Edward Snowden - Permanent Record [IPT]",
+        "btih": "5187c43fb97139f861908413f75d083a9d3a2b21",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 0.282144896,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": true,
+        "i2p": false,
+        "udownloaders": 3072,
+        "uuploaders": 1175
+    }
+]
+    ],
+    "collection_week_by_country": [
+        [
+    {
+        "number": "BRA_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 140,
+        "uuploaders_total": 64
+    },
+    {
+        "number": "CAN_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 780,
+        "uuploaders_total": 283
+    },
+    {
+        "number": "CHN_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 219,
+        "uuploaders_total": 73
+    },
+    {
+        "number": "DEU_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 324,
+        "uuploaders_total": 91
+    },
+    {
+        "number": "ESP_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 272,
+        "uuploaders_total": 106
+    },
+    {
+        "number": "FRA_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 288,
+        "uuploaders_total": 81
+    },
+    {
+        "number": "HKG_week_1",
+        "btiha_size": 1,
+        "udownloaders_total": 125,
+        "uuploaders_total": 65
+    },
+    {
+        "number": "JPN_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 135,
+        "uuploaders_total": 34
+    },
+    {
+        "number": "KOR_week_1",
+        "btiha_size": 1,
+        "udownloaders_total": 127,
+        "uuploaders_total": 22
+    },
+    {
+        "number": "MEX_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 187,
+        "uuploaders_total": 110
+    },
+    {
+        "number": "NLD_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 1006,
+        "uuploaders_total": 260
+    },
+    {
+        "number": "RUS_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 234,
+        "uuploaders_total": 50
+    },
+    {
+        "number": "SWE_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 355,
+        "uuploaders_total": 98
+    },
+    {
+        "number": "TUR_week_1",
+        "btiha_size": 1,
+        "udownloaders_total": 52,
+        "uuploaders_total": 32
+    },
+    {
+        "number": "UKR_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 55,
+        "uuploaders_total": 20
+    },
+    {
+        "number": "USA_week_1",
+        "btiha_size": 2,
+        "udownloaders_total": 2964,
+        "uuploaders_total": 970
+    }
+],
+        [
+    {
+        "number": "BRA_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 520,
+        "uuploaders_total": 133
+    },
+    {
+        "number": "CAN_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 1603,
+        "uuploaders_total": 523
+    },
+    {
+        "number": "CHN_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 1243,
+        "uuploaders_total": 146
+    },
+    {
+        "number": "DEU_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 873,
+        "uuploaders_total": 173
+    },
+    {
+        "number": "ESP_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 581,
+        "uuploaders_total": 191
+    },
+    {
+        "number": "FRA_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 776,
+        "uuploaders_total": 151
+    },
+    {
+        "number": "HKG_week_2",
+        "btiha_size": 3,
+        "udownloaders_total": 287,
+        "uuploaders_total": 122
+    },
+    {
+        "number": "JPN_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 778,
+        "uuploaders_total": 65
+    },
+    {
+        "number": "KOR_week_2",
+        "btiha_size": 3,
+        "udownloaders_total": 548,
+        "uuploaders_total": 36
+    },
+    {
+        "number": "MEX_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 309,
+        "uuploaders_total": 164
+    },
+    {
+        "number": "NLD_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 1907,
+        "uuploaders_total": 467
+    },
+    {
+        "number": "RUS_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 711,
+        "uuploaders_total": 106
+    },
+    {
+        "number": "SWE_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 699,
+        "uuploaders_total": 165
+    },
+    {
+        "number": "TUR_week_2",
+        "btiha_size": 3,
+        "udownloaders_total": 147,
+        "uuploaders_total": 76
+    },
+    {
+        "number": "UKR_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 122,
+        "uuploaders_total": 36
+    },
+    {
+        "number": "USA_week_2",
+        "btiha_size": 4,
+        "udownloaders_total": 8800,
+        "uuploaders_total": 1863
+    }
+],
+        [
+    {
+        "number": "BRA_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 849,
+        "uuploaders_total": 179
+    },
+    {
+        "number": "CAN_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 2197,
+        "uuploaders_total": 676
+    },
+    {
+        "number": "CHN_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 2346,
+        "uuploaders_total": 200
+    },
+    {
+        "number": "DEU_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 1413,
+        "uuploaders_total": 223
+    },
+    {
+        "number": "ESP_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 839,
+        "uuploaders_total": 261
+    },
+    {
+        "number": "FRA_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 1156,
+        "uuploaders_total": 203
+    },
+    {
+        "number": "HKG_week_3",
+        "btiha_size": 3,
+        "udownloaders_total": 437,
+        "uuploaders_total": 162
+    },
+    {
+        "number": "JPN_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 1446,
+        "uuploaders_total": 93
+    },
+    {
+        "number": "KOR_week_3",
+        "btiha_size": 3,
+        "udownloaders_total": 994,
+        "uuploaders_total": 49
+    },
+    {
+        "number": "MEX_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 410,
+        "uuploaders_total": 202
+    },
+    {
+        "number": "NLD_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 2304,
+        "uuploaders_total": 585
+    },
+    {
+        "number": "RUS_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 1067,
+        "uuploaders_total": 156
+    },
+    {
+        "number": "SWE_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 924,
+        "uuploaders_total": 212
+    },
+    {
+        "number": "TUR_week_3",
+        "btiha_size": 3,
+        "udownloaders_total": 229,
+        "uuploaders_total": 106
+    },
+    {
+        "number": "UKR_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 184,
+        "uuploaders_total": 56
+    },
+    {
+        "number": "USA_week_3",
+        "btiha_size": 4,
+        "udownloaders_total": 14173,
+        "uuploaders_total": 2473
+    }
+],
+        [
+    {
+        "number": "BRA_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 1093,
+        "uuploaders_total": 220
+    },
+    {
+        "number": "CAN_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 2614,
+        "uuploaders_total": 791
+    },
+    {
+        "number": "CHN_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 3337,
+        "uuploaders_total": 241
+    },
+    {
+        "number": "DEU_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 1867,
+        "uuploaders_total": 277
+    },
+    {
+        "number": "ESP_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 1050,
+        "uuploaders_total": 304
+    },
+    {
+        "number": "FRA_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 1521,
+        "uuploaders_total": 255
+    },
+    {
+        "number": "HKG_week_4",
+        "btiha_size": 3,
+        "udownloaders_total": 561,
+        "uuploaders_total": 188
+    },
+    {
+        "number": "JPN_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 2008,
+        "uuploaders_total": 114
+    },
+    {
+        "number": "KOR_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 1317,
+        "uuploaders_total": 55
+    },
+    {
+        "number": "MEX_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 459,
+        "uuploaders_total": 218
+    },
+    {
+        "number": "NLD_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 2639,
+        "uuploaders_total": 676
+    },
+    {
+        "number": "RUS_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 1388,
+        "uuploaders_total": 178
+    },
+    {
+        "number": "SWE_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 1280,
+        "uuploaders_total": 260
+    },
+    {
+        "number": "TUR_week_4",
+        "btiha_size": 3,
+        "udownloaders_total": 287,
+        "uuploaders_total": 127
+    },
+    {
+        "number": "UKR_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 249,
+        "uuploaders_total": 73
+    },
+    {
+        "number": "USA_week_4",
+        "btiha_size": 4,
+        "udownloaders_total": 18881,
+        "uuploaders_total": 2894
+    }
+],
+        [
+    {
+        "number": "BRA_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 1423,
+        "uuploaders_total": 250
+    },
+    {
+        "number": "CAN_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 3030,
+        "uuploaders_total": 874
+    },
+    {
+        "number": "CHN_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 4382,
+        "uuploaders_total": 279
+    },
+    {
+        "number": "DEU_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 2322,
+        "uuploaders_total": 318
+    },
+    {
+        "number": "ESP_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 1249,
+        "uuploaders_total": 345
+    },
+    {
+        "number": "FRA_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 1882,
+        "uuploaders_total": 282
+    },
+    {
+        "number": "HKG_week_5",
+        "btiha_size": 3,
+        "udownloaders_total": 675,
+        "uuploaders_total": 220
+    },
+    {
+        "number": "JPN_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 2640,
+        "uuploaders_total": 129
+    },
+    {
+        "number": "KOR_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 1761,
+        "uuploaders_total": 80
+    },
+    {
+        "number": "MEX_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 522,
+        "uuploaders_total": 242
+    },
+    {
+        "number": "NLD_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 2936,
+        "uuploaders_total": 722
+    },
+    {
+        "number": "RUS_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 1799,
+        "uuploaders_total": 205
+    },
+    {
+        "number": "SWE_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 1574,
+        "uuploaders_total": 292
+    },
+    {
+        "number": "TUR_week_5",
+        "btiha_size": 3,
+        "udownloaders_total": 326,
+        "uuploaders_total": 136
+    },
+    {
+        "number": "UKR_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 302,
+        "uuploaders_total": 88
+    },
+    {
+        "number": "USA_week_5",
+        "btiha_size": 4,
+        "udownloaders_total": 23721,
+        "uuploaders_total": 3170
+    }
+],
+        [
+    {
+        "number": "BRA_week_6",
+        "btiha_size": 4,
+        "udownloaders_total": 1959,
+        "uuploaders_total": 289
+    },
+    {
+        "number": "CAN_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 3921,
+        "uuploaders_total": 1072
+    },
+    {
+        "number": "CHN_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 6104,
+        "uuploaders_total": 328
+    },
+    {
+        "number": "DEU_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 3151,
+        "uuploaders_total": 379
+    },
+    {
+        "number": "ESP_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 1544,
+        "uuploaders_total": 389
+    },
+    {
+        "number": "FRA_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 2502,
+        "uuploaders_total": 334
+    },
+    {
+        "number": "HKG_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 825,
+        "uuploaders_total": 254
+    },
+    {
+        "number": "JPN_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 3622,
+        "uuploaders_total": 159
+    },
+    {
+        "number": "KOR_week_6",
+        "btiha_size": 4,
+        "udownloaders_total": 2373,
+        "uuploaders_total": 94
+    },
+    {
+        "number": "MEX_week_6",
+        "btiha_size": 4,
+        "udownloaders_total": 611,
+        "uuploaders_total": 263
+    },
+    {
+        "number": "NLD_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 3541,
+        "uuploaders_total": 861
+    },
+    {
+        "number": "RUS_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 2331,
+        "uuploaders_total": 246
+    },
+    {
+        "number": "SWE_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 1914,
+        "uuploaders_total": 368
+    },
+    {
+        "number": "TUR_week_6",
+        "btiha_size": 4,
+        "udownloaders_total": 404,
+        "uuploaders_total": 154
+    },
+    {
+        "number": "UKR_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 382,
+        "uuploaders_total": 103
+    },
+    {
+        "number": "USA_week_6",
+        "btiha_size": 5,
+        "udownloaders_total": 32348,
+        "uuploaders_total": 3902
+    }
+],
+        [
+    {
+        "number": "BRA_week_7",
+        "btiha_size": 4,
+        "udownloaders_total": 2347,
+        "uuploaders_total": 316
+    },
+    {
+        "number": "CAN_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 4666,
+        "uuploaders_total": 1247
+    },
+    {
+        "number": "CHN_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 7431,
+        "uuploaders_total": 372
+    },
+    {
+        "number": "DEU_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 3817,
+        "uuploaders_total": 438
+    },
+    {
+        "number": "ESP_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 1817,
+        "uuploaders_total": 435
+    },
+    {
+        "number": "FRA_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 2901,
+        "uuploaders_total": 370
+    },
+    {
+        "number": "HKG_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 946,
+        "uuploaders_total": 281
+    },
+    {
+        "number": "JPN_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 4433,
+        "uuploaders_total": 182
+    },
+    {
+        "number": "KOR_week_7",
+        "btiha_size": 4,
+        "udownloaders_total": 2936,
+        "uuploaders_total": 120
+    },
+    {
+        "number": "MEX_week_7",
+        "btiha_size": 4,
+        "udownloaders_total": 689,
+        "uuploaders_total": 278
+    },
+    {
+        "number": "NLD_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 4076,
+        "uuploaders_total": 995
+    },
+    {
+        "number": "RUS_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 3137,
+        "uuploaders_total": 283
+    },
+    {
+        "number": "SWE_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 2318,
+        "uuploaders_total": 432
+    },
+    {
+        "number": "TUR_week_7",
+        "btiha_size": 4,
+        "udownloaders_total": 480,
+        "uuploaders_total": 170
+    },
+    {
+        "number": "UKR_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 454,
+        "uuploaders_total": 116
+    },
+    {
+        "number": "USA_week_7",
+        "btiha_size": 5,
+        "udownloaders_total": 39122,
+        "uuploaders_total": 4564
+    }
+],
+        [
+    {
+        "number": "BRA_week_8",
+        "btiha_size": 4,
+        "udownloaders_total": 2462,
+        "uuploaders_total": 339
+    },
+    {
+        "number": "CAN_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 5014,
+        "uuploaders_total": 1390
+    },
+    {
+        "number": "CHN_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 7918,
+        "uuploaders_total": 421
+    },
+    {
+        "number": "DEU_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 3996,
+        "uuploaders_total": 472
+    },
+    {
+        "number": "ESP_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 1930,
+        "uuploaders_total": 484
+    },
+    {
+        "number": "FRA_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 3043,
+        "uuploaders_total": 393
+    },
+    {
+        "number": "HKG_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 1011,
+        "uuploaders_total": 311
+    },
+    {
+        "number": "JPN_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 4649,
+        "uuploaders_total": 206
+    },
+    {
+        "number": "KOR_week_8",
+        "btiha_size": 4,
+        "udownloaders_total": 3062,
+        "uuploaders_total": 125
+    },
+    {
+        "number": "MEX_week_8",
+        "btiha_size": 4,
+        "udownloaders_total": 725,
+        "uuploaders_total": 294
+    },
+    {
+        "number": "NLD_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 4321,
+        "uuploaders_total": 1101
+    },
+    {
+        "number": "RUS_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 3320,
+        "uuploaders_total": 319
+    },
+    {
+        "number": "SWE_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 2543,
+        "uuploaders_total": 483
+    },
+    {
+        "number": "TUR_week_8",
+        "btiha_size": 4,
+        "udownloaders_total": 511,
+        "uuploaders_total": 185
+    },
+    {
+        "number": "UKR_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 494,
+        "uuploaders_total": 128
+    },
+    {
+        "number": "USA_week_8",
+        "btiha_size": 5,
+        "udownloaders_total": 41361,
+        "uuploaders_total": 5122
+    }
+],
+        [
+    {
+        "number": "BRA_week_9",
+        "btiha_size": 4,
+        "udownloaders_total": 2566,
+        "uuploaders_total": 359
+    },
+    {
+        "number": "CAN_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 5329,
+        "uuploaders_total": 1536
+    },
+    {
+        "number": "CHN_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 8352,
+        "uuploaders_total": 495
+    },
+    {
+        "number": "DEU_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 4172,
+        "uuploaders_total": 506
+    },
+    {
+        "number": "ESP_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 2040,
+        "uuploaders_total": 518
+    },
+    {
+        "number": "FRA_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 3186,
+        "uuploaders_total": 408
+    },
+    {
+        "number": "HKG_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 1104,
+        "uuploaders_total": 352
+    },
+    {
+        "number": "JPN_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 4892,
+        "uuploaders_total": 225
+    },
+    {
+        "number": "KOR_week_9",
+        "btiha_size": 4,
+        "udownloaders_total": 3289,
+        "uuploaders_total": 133
+    },
+    {
+        "number": "MEX_week_9",
+        "btiha_size": 4,
+        "udownloaders_total": 779,
+        "uuploaders_total": 322
+    },
+    {
+        "number": "NLD_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 4531,
+        "uuploaders_total": 1204
+    },
+    {
+        "number": "RUS_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 3932,
+        "uuploaders_total": 353
+    },
+    {
+        "number": "SWE_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 2803,
+        "uuploaders_total": 518
+    },
+    {
+        "number": "TUR_week_9",
+        "btiha_size": 4,
+        "udownloaders_total": 547,
+        "uuploaders_total": 202
+    },
+    {
+        "number": "UKR_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 557,
+        "uuploaders_total": 143
+    },
+    {
+        "number": "USA_week_9",
+        "btiha_size": 5,
+        "udownloaders_total": 43275,
+        "uuploaders_total": 5608
+    }
+],
+        [
+    {
+        "number": "BRA_week_10",
+        "btiha_size": 4,
+        "udownloaders_total": 2959,
+        "uuploaders_total": 374
+    },
+    {
+        "number": "CAN_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 5899,
+        "uuploaders_total": 1641
+    },
+    {
+        "number": "CHN_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 9799,
+        "uuploaders_total": 538
+    },
+    {
+        "number": "DEU_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 4762,
+        "uuploaders_total": 562
+    },
+    {
+        "number": "ESP_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 2278,
+        "uuploaders_total": 555
+    },
+    {
+        "number": "FRA_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 3601,
+        "uuploaders_total": 427
+    },
+    {
+        "number": "HKG_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 1227,
+        "uuploaders_total": 370
+    },
+    {
+        "number": "JPN_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 5818,
+        "uuploaders_total": 242
+    },
+    {
+        "number": "KOR_week_10",
+        "btiha_size": 4,
+        "udownloaders_total": 3852,
+        "uuploaders_total": 139
+    },
+    {
+        "number": "MEX_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 842,
+        "uuploaders_total": 341
+    },
+    {
+        "number": "NLD_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 4871,
+        "uuploaders_total": 1307
+    },
+    {
+        "number": "RUS_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 4592,
+        "uuploaders_total": 372
+    },
+    {
+        "number": "SWE_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 3110,
+        "uuploaders_total": 561
+    },
+    {
+        "number": "TUR_week_10",
+        "btiha_size": 4,
+        "udownloaders_total": 628,
+        "uuploaders_total": 215
+    },
+    {
+        "number": "UKR_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 623,
+        "uuploaders_total": 150
+    },
+    {
+        "number": "USA_week_10",
+        "btiha_size": 5,
+        "udownloaders_total": 50031,
+        "uuploaders_total": 5993
+    }
+],
+        [
+    {
+        "number": "BRA_week_11",
+        "btiha_size": 4,
+        "udownloaders_total": 3267,
+        "uuploaders_total": 407
+    },
+    {
+        "number": "CAN_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 6371,
+        "uuploaders_total": 1765
+    },
+    {
+        "number": "CHN_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 10826,
+        "uuploaders_total": 574
+    },
+    {
+        "number": "DEU_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 5180,
+        "uuploaders_total": 602
+    },
+    {
+        "number": "ESP_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 2459,
+        "uuploaders_total": 574
+    },
+    {
+        "number": "FRA_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 3962,
+        "uuploaders_total": 463
+    },
+    {
+        "number": "HKG_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 1332,
+        "uuploaders_total": 395
+    },
+    {
+        "number": "JPN_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 6398,
+        "uuploaders_total": 263
+    },
+    {
+        "number": "KOR_week_11",
+        "btiha_size": 4,
+        "udownloaders_total": 4319,
+        "uuploaders_total": 155
+    },
+    {
+        "number": "MEX_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 907,
+        "uuploaders_total": 359
+    },
+    {
+        "number": "NLD_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 5202,
+        "uuploaders_total": 1411
+    },
+    {
+        "number": "RUS_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 6283,
+        "uuploaders_total": 394
+    },
+    {
+        "number": "SWE_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 3338,
+        "uuploaders_total": 602
+    },
+    {
+        "number": "TUR_week_11",
+        "btiha_size": 4,
+        "udownloaders_total": 674,
+        "uuploaders_total": 228
+    },
+    {
+        "number": "UKR_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 727,
+        "uuploaders_total": 163
+    },
+    {
+        "number": "USA_week_11",
+        "btiha_size": 5,
+        "udownloaders_total": 54484,
+        "uuploaders_total": 6269
+    }
+],
+        [
+    {
+        "number": "BRA_week_12",
+        "btiha_size": 4,
+        "udownloaders_total": 3547,
+        "uuploaders_total": 417
+    },
+    {
+        "number": "CAN_week_12",
+        "btiha_size": 5,
+        "udownloaders_total": 6800,
+        "uuploaders_total": 1855
+    },
+    {
+        "number": "CHN_week_12",
+        "btiha_size": 5,
+        "udownloaders_total": 11757,
+        "uuploaders_total": 614
+    },
+    {
+        "number": "DEU_week_12",
+        "btiha_size": 5,
+        "udownloaders_total": 5592,
+        "uuploaders_total": 645
+    },
+    {
+        "number": "ESP_week_12",
+        "btiha_size": 5,
+        "udownloaders_total": 2661,
+        "uuploaders_total": 601
+    },
+    {
+        "number": "FRA_week_12",
+        "btiha_size": 5,
+        "udownloaders_total": 4283,
+        "uuploaders_total": 479
+    },
+    {
+        "number": "HKG_week_12",
+        "btiha_size": 5,
+        "udownloaders_total": 1418,
+        "uuploaders_total": 405
+    },
+    {
+        "number": "JPN_week_12",
+        "btiha_size": 5,
+        "udownloaders_total": 6946,
+        "uuploaders_total": 284
+    },
+    {
+        "number": "KOR_week_12",
+        "btiha_size": 4,
+        "udownloaders_total": 4875,
+        "uuploaders_total": 159
+    },
+    {
+        "number": "MEX_week_12",
+        "btiha_size": 5,
+        "udownloaders_total": 970,
+        "uuploaders_total": 377
+    },
+    {
+        "number": "NLD_week_12",
+        "btiha_size": 5,
+        "udownloaders_total": 5575,
+        "uuploaders_total": 1520
+    },
+    {
+        "number": "RUS_week_12",
+        "btiha_size": 5,
+        "udownloaders_total": 8013,
+        "uuploaders_total": 432
+    },
+    {
+        "number": "SWE_week_12",
+        "btiha_size": 5,
+        "udownloaders_total": 3584,
+        "uuploaders_total": 642
+    },
+    {
+        "number": "TUR_week_12",
+        "btiha_size": 4,
+        "udownloaders_total": 717,
+        "uuploaders_total": 246
+    },
+    {
+        "number": "UKR_week_12",
+        "btiha_size": 5,
+        "udownloaders_total": 864,
+        "uuploaders_total": 182
+    },
+    {
+        "number": "USA_week_12",
+        "btiha_size": 5,
+        "udownloaders_total": 58582,
+        "uuploaders_total": 6592
+    }
+]
+    ]
+}

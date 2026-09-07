@@ -1,0 +1,177 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "",
+    "imdb_id": "",
+    "revision": "9514ccfbd3fb410c55a67538b309160f758fb29c",
+    "wikidata_id": "Q66061138",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Permanent_Record_(autobiography)"
+  },
+  "coverage_sha256": "83de4a1fbf03d87beeda53ceb3ad68c0c6001c41d09de8830fc99377604d9741",
+  "generated_at": "2026-09-07T04:31:24.795990+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2019-archives/permanent-record.cache/cache.20191210.tar.xz",
+      "sha256": "0b0cc35319ca92c9c063faabc0ff68122e4f288678bc3049f3c6cc61766ebd11",
+      "size": 18073668
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-coverage-evidence/permanent-record.md",
+      "sha256": "4b3c112326eacf323d64854f5aa232c7b94954b2b094df36febf987e2cc3fbfe",
+      "size": 594
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-cache-stream-receipts/permanent-record.json",
+      "sha256": "72409f866e4ca6e0ef97f0315b6d35dc7a00e7dac4b68a2ec33479b08f449af2",
+      "size": 2563
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2019/data/txt/year-2019-day-product-receipts/permanent-record.json",
+      "sha256": "566af01adec421f37cf392f2f024ace16eedcbf5b15c390363ef4fbd22405280",
+      "size": 368
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-control/worker-map.json",
+      "sha256": "bc67aacc16174fce1c4e8c8539840f57e89809881470468557acbeb44fc2f1c8",
+      "size": 60646
+    }
+  },
+  "media_object": "permanent-record",
+  "published_files": {
+    "data/csv/bytes/permanent-record-cumulative-detail.2019-btiha-itemized-by-bytes.csv": "c2534c66f904fa7e7625484b1fc47abb775369dd1c94e1458c9203f5a8a77efb",
+    "docs/itemized/figures/permanent-record-carto-4k.webp": "d02bd2a0c1fea42abf60f4b0a6b53399eea0573408d907f8dbb7efb9d65ecb33",
+    "docs/itemized/figures/permanent-record-carto.png": "1e0f34ba617a33b81c6725be22a077ed5dc1205bf6f29007f03ff8bce88b5ac0",
+    "docs/itemized/figures/permanent-record-cumulative-detail-btiha-itemized-by-bytes.svg": "5d8fdbf2f9189f5b6f76d0eca0f69a2ac6731ac06ea291c08d18a0558e510d99",
+    "docs/itemized/figures/permanent-record-data-lt-1080p-4k.webp": "8e40a8df427dba650fd752cbe850799634c6121b42e41e438bdb10bf043afe9e",
+    "docs/itemized/figures/permanent-record-data-lt-1080p.webp": "a58f46df76618643275ac88484f679e83d3d25f3d78410871c9a1f60799208a5",
+    "docs/itemized/figures/permanent-record-downloads-by-day-day.svg": "269a9e833e986546391035758e970b31fefc81c126b49a9f804b53ab92f581a9",
+    "docs/itemized/figures/permanent-record-downloads-by-week-permanent-record-week.svg": "ea4790b231836334be45fa250c671cd576def8f2c55452f494bc448c66f35f89",
+    "docs/itemized/permanent-record-sample-cache-audit.md": "815b386291d6bc78219ce24ccd372fbaa055386a314aa067bd95c648d90e4d7e",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "a45b782e2677eaecd1b2d6987a7859743cb4961b",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "e9557435d4436b955e35ce9d77d77bbef2c8da903222fb2c6f42877078ae0776",
+      "size": 37133552
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/permanent-record/tmp/permanent-record-cumulative-btiha.geojson",
+        "sha256": "99db7a64b1cefe9faf9c2baef04f79cc21a030f09aa6cd93ed801d86912ea608",
+        "size": 3176526
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2019/permanent-record/tmp/permanent-record-cumulative-btiha-media-objects.json",
+        "sha256": "49d6f4d0ca51e800b83c85bb214b4dd5a083da19cc17585f68b058963eb73ba2",
+        "size": 7781
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "permanent-record",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "c8123c331bb382b004482f68c6d9d9a10011f7e2b0b16b642fbaad46bcf6c1ab",
+      "size": 8759488
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2019-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "reason": "no collection members at 1080p or 2160 resolution",
+        "status": "skipped-empty-partition"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          83.0,
+          83.0,
+          53.0,
+          52.0,
+          49.0,
+          48.0,
+          47.0,
+          44.0,
+          41.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "New York City",
+          "Columbus",
+          "Seattle",
+          "Seoul",
+          "Moscow",
+          "Mumbai",
+          "Stockholm",
+          "Ashburn",
+          "Tokyo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 3,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 12,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "12f7c9d3f36119119ab6a8cc41450cd3d494c9a9",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "a106b9528c6f444032ab6551adbc582767d33c9e",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "9514ccfbd3fb410c55a67538b309160f758fb29c"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2019"
+}

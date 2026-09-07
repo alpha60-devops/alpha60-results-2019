@@ -1,0 +1,209 @@
+{
+    "collection_name": "Permanent Record",
+    "collection_id": "",
+    "collection_key": "permanent-record",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[NulledPremium-com]-Permanent-Record",
+            "size_total": 0.001215665,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.63e-7,
+                    "path": "[NulledPremium.com] Permanent Record/NulledPremium.com.url"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000691796,
+                    "path": "[NulledPremium.com] Permanent Record/Permanent Record/Permanent Record - Snowden, Edward.azw3"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000521996,
+                    "path": "[NulledPremium.com] Permanent Record/Permanent Record/Permanent Record - Snowden, Edward.epub"
+                },
+                {
+                    "number": 4,
+                    "size": 3.28e-7,
+                    "path": "[NulledPremium.com] Permanent Record/Websites you may like/1. (FreeTutorials.Us) Download Udemy Paid Courses For Free.url"
+                },
+                {
+                    "number": 5,
+                    "size": 2.86e-7,
+                    "path": "[NulledPremium.com] Permanent Record/Websites you may like/2. (FreeCoursesOnline.Me) Download Udacity, Masterclass, Lynda, PHLearn, Pluralsight Free.url"
+                },
+                {
+                    "number": 6,
+                    "size": 1.63e-7,
+                    "path": "[NulledPremium.com] Permanent Record/Websites you may like/3. (NulledPremium.com) Download Cracked Website Themes, Plugins, Scripts And Stock Images.url"
+                },
+                {
+                    "number": 7,
+                    "size": 2.39e-7,
+                    "path": "[NulledPremium.com] Permanent Record/Websites you may like/4. (FTUApps.com) Download Cracked Developers Applications For Free.url"
+                },
+                {
+                    "number": 8,
+                    "size": 2.94e-7,
+                    "path": "[NulledPremium.com] Permanent Record/Websites you may like/5. (Discuss.FTUForum.com) FTU Discussion Forum.url"
+                },
+                {
+                    "number": 9,
+                    "size": 2.37e-7,
+                    "path": "[NulledPremium.com] Permanent Record/Websites you may like/How you can help Team-FTU.txt"
+                },
+                {
+                    "number": 10,
+                    "size": 1.63e-7,
+                    "path": "[NulledPremium.com] Permanent Record/Websites you may like/NulledPremium.com.url"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Edward Snowden - Permanent Record [IPT]",
+            "size_total": 0.282144896,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.282144896,
+                    "path": "Edward Snowden - Permanent Record/Edward Snowden - Permanent Record.mp3"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Edward-Snowden--Permanent-Record-Metropolitan-Books-(2019)-epub",
+            "size_total": 0.000745483,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000745483,
+                    "path": "Edward Snowden - Permanent Record-Metropolitan Books (2019).epub"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Permanent Record [IPT]",
+            "size_total": 0.004801712,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001532879,
+                    "path": "Permanent Record/Permanent Record.azw3"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000745483,
+                    "path": "Permanent Record/Permanent Record.epub"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00252335,
+                    "path": "Permanent Record/Permanent Record.mobi"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Permanent-Record-by-Edward-Snowden-EPUB",
+            "size_total": 0.00052253,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000521996,
+                    "path": "Permanent Record by Edward Snowden EPUB/Permanent Record by Edward Snowden.epub"
+                },
+                {
+                    "number": 2,
+                    "size": 5.34e-7,
+                    "path": "Permanent Record by Edward Snowden EPUB/free audiobook version.txt"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 5,
+            "name": "Permanent-Record-by-Edward-Snowden-EPUB",
+            "btih": "af5f9b5d4657dd3edd0c080c4086ca346d03dbbc",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.00052253,
+            "creation": "2019-09-24T14:05:29.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 73191,
+            "uuploaders": 9101
+        },
+        {
+            "id": 3,
+            "name": "Edward-Snowden--Permanent-Record-Metropolitan-Books-(2019)-epub",
+            "btih": "14bc623e91fbc7c50af8620a212ef2b413d23692",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.000745483,
+            "creation": "2019-09-17T18:57:27.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 72552,
+            "uuploaders": 22041
+        },
+        {
+            "id": 1,
+            "name": "[NulledPremium-com]-Permanent-Record",
+            "btih": "96da77b4da32e572ebc5fcd5a625359557070966",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.001215665,
+            "creation": "2019-09-18T14:26:03.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 58788,
+            "uuploaders": 1005
+        },
+        {
+            "id": 4,
+            "name": "Permanent Record [IPT]",
+            "btih": "97c81f88d6ca4ddb0ecac019039d731f3b068101",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.004801712,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 4297,
+            "uuploaders": 1483
+        },
+        {
+            "id": 2,
+            "name": "Edward Snowden - Permanent Record [IPT]",
+            "btih": "5187c43fb97139f861908413f75d083a9d3a2b21",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.282144896,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3072,
+            "uuploaders": 1175
+        }
+    ]
+}
