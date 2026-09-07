@@ -1,0 +1,2925 @@
+{
+    "collection_name": "Star Trek Discovery",
+    "collection_id": "206",
+    "collection_key": "star-trek-discovery-206",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "3a7c25a69b6db99a7854ef44ba5b98ba622b700f",
+            "duplicate_0_0": "[rutor.is]STD_(s02)_LF",
+            "duplicate_0_1": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 14 (Олатунде Осунсанми, Дуглас Арниокоски, Джонатан Фре [rutracker-5677416]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "8a417a24fb3070d7680fc937dbfdee4961e0f0a3",
+            "duplicate_1_0": "[rutor.is]Star.Trek.Discovery_Season_2_WEB-DL_l_1080p_l_J",
+            "duplicate_1_1": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 15 (Акива Голдсман, Адам Кэйн, Ли Роуз) [2019, США, Фан [rutracker-5677537]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "bb9a12e64989398f3fe4ef577935a352cc91de74",
+            "duplicate_2_0": "[rutor.is]Star.Trek.Discovery_Season_2_WEB-DL_l_400p_l_JA",
+            "duplicate_2_1": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 15 (Акива Голдсман, Адам Кэйн, Ли Роуз) [2019, США, Фан [rutracker-5677541]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "138617c84640f51b46d3b1415286ad44efa13b5c",
+            "duplicate_3_0": "[rutor.is]Star.Trek.Discovery_Season_2_WEB-DL_l_720p_l_JA",
+            "duplicate_3_1": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 15 (Акива Голдсман, Адам Кэйн, Ли Роуз) [2019, США, Фан [rutracker-5677535]"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[rutor.is]Star.Trek.Discovery.S02.1080p.GostFilm",
+            "size_total": 21.729134542,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.113912993,
+                    "path": "Star.Trek.Discovery.S02.1080p.GostFilm/Star.Trek.Discovery.S02E02.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.384552218,
+                    "path": "Star.Trek.Discovery.S02.1080p.GostFilm/Star.Trek.Discovery.S02E03.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.532958236,
+                    "path": "Star.Trek.Discovery.S02.1080p.GostFilm/Star.Trek.Discovery.S02E04.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.823524706,
+                    "path": "Star.Trek.Discovery.S02.1080p.GostFilm/Star.Trek.Discovery.S02E061080p.GostFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.908336048,
+                    "path": "Star.Trek.Discovery.S02.1080p.GostFilm/Star.Trek.Discovery.S02E01.1080p.GostFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 3.965850341,
+                    "path": "Star.Trek.Discovery.S02.1080p.GostFilm/Star.Trek.Discovery.S02E051080p.GostFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]Star.Trek.Discovery.S02.720p.GostFilm",
+            "size_total": 10.758389296,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.542985947,
+                    "path": "Star.Trek.Discovery.S02.720p.GostFilm/Star.Trek.Discovery.S02E02.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.6499759,
+                    "path": "Star.Trek.Discovery.S02.720p.GostFilm/Star.Trek.Discovery.S02E01.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.681925317,
+                    "path": "Star.Trek.Discovery.S02.720p.GostFilm/Star.Trek.Discovery.S02E03.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.760675436,
+                    "path": "Star.Trek.Discovery.S02.720p.GostFilm/Star.Trek.Discovery.S02E04.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.899670908,
+                    "path": "Star.Trek.Discovery.S02.720p.GostFilm/Star.Trek.Discovery.S02E06.720p.GostFilm.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.223155788,
+                    "path": "Star.Trek.Discovery.S02.720p.GostFilm/Star.Trek.Discovery.S02E05.720p.GostFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]Star.Trek.Discovery.S02.720p.WEBRip.OmskBird",
+            "size_total": 7.486553388,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.456075261,
+                    "path": "Star.Trek.Discovery.S02.720p.WEBRip.OmskBird/Star.Trek.Discovery.S02E01.720p.WEBRip.OmskBird.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.043139874,
+                    "path": "Star.Trek.Discovery.S02.720p.WEBRip.OmskBird/Star.Trek.Discovery.S02E02.720p.WEBRip.OmskBird.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.182703272,
+                    "path": "Star.Trek.Discovery.S02.720p.WEBRip.OmskBird/Star.Trek.Discovery.S02E03.720p.WEBRip.OmskBird.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.228265254,
+                    "path": "Star.Trek.Discovery.S02.720p.WEBRip.OmskBird/Star.Trek.Discovery.S02E04.720p.WEBRip.OmskBird.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.240813474,
+                    "path": "Star.Trek.Discovery.S02.720p.WEBRip.OmskBird/Star.Trek.Discovery.S02E05.720p.WEBRip.OmskBird.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.335556253,
+                    "path": "Star.Trek.Discovery.S02.720p.WEBRip.OmskBird/Star.Trek.Discovery.S02E06.720p.WEBRip.OmskBird.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Star.Trek.Discovery.S02.WEBRip.OmskBird",
+            "size_total": 4.725765086,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.916714084,
+                    "path": "Star.Trek.Discovery.S02.WEBRip.OmskBird/Star.Trek.Discovery.S02E01.WEBRip.OmskBird.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.65751214,
+                    "path": "Star.Trek.Discovery.S02.WEBRip.OmskBird/Star.Trek.Discovery.S02E02.WEBRip.OmskBird.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.74646688,
+                    "path": "Star.Trek.Discovery.S02.WEBRip.OmskBird/Star.Trek.Discovery.S02E03.WEBRip.OmskBird.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.774812782,
+                    "path": "Star.Trek.Discovery.S02.WEBRip.OmskBird/Star.Trek.Discovery.S02E04.WEBRip.OmskBird.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.787795968,
+                    "path": "Star.Trek.Discovery.S02.WEBRip.OmskBird/Star.Trek.Discovery.S02E05.WEBRip.OmskBird.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.842463232,
+                    "path": "Star.Trek.Discovery.S02.WEBRip.OmskBird/Star.Trek.Discovery.S02E06.WEBRip.OmskBird.avi"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Star.Trek.Discovery_Season_2_WEB-DL_l_1080p_l_J",
+            "size_total": 23.290706857,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.495797533,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 1080p l JASKiER)/Star.Trek.Discovery.S02E01.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.092585922,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 1080p l JASKiER)/Star.Trek.Discovery.S02E02.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.622272923,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 1080p l JASKiER)/Star.Trek.Discovery.S02E03.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.893368272,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 1080p l JASKiER)/Star.Trek.Discovery.S02E04.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.940521897,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 1080p l JASKiER)/Star.Trek.Discovery.S02E05.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 4.24616031,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 1080p l JASKiER)/Star.Trek.Discovery.S02E06.1080p.Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]Star.Trek.Discovery_Season_2_WEB-DL_l_400p_l_JA",
+            "size_total": 3.958786048,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.770471936,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 400p l JASKiER)/Star.Trek.Discovery.S02E01.400p.Jaskier.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.552853504,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 400p l JASKiER)/Star.Trek.Discovery.S02E02.400p.Jaskier.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.624869376,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 400p l JASKiER)/Star.Trek.Discovery.S02E03.400p.Jaskier.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.648388608,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 400p l JASKiER)/Star.Trek.Discovery.S02E04.400p.Jaskier.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.65695744,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 400p l JASKiER)/Star.Trek.Discovery.S02E05.400p.Jaskier.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.705245184,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 400p l JASKiER)/Star.Trek.Discovery.S02E06.400p.Jaskier.avi"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]Star.Trek.Discovery_Season_2_WEB-DL_l_720p_l_JA",
+            "size_total": 12.134470667,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.215462846,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 720p l JASKiER)/Star.Trek.Discovery.S02E01.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.521658934,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 720p l JASKiER)/Star.Trek.Discovery.S02E02.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.771295152,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 720p l JASKiER)/Star.Trek.Discovery.S02E03.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.074880135,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 720p l JASKiER)/Star.Trek.Discovery.S02E04.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.197827266,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 720p l JASKiER)/Star.Trek.Discovery.S02E05.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.353346334,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 720p l JASKiER)/Star.Trek.Discovery.S02E06.720p.Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[rutor.is]STD_(s02)_LF",
+            "size_total": 4.728700058,
+            "files_total": 24,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000065789,
+                    "path": "Star Trek Discovery S02 LostFilm/Eng/Star.Trek.Discovery.S02E01.WEB-DLRip.Rus.Eng.LostFilm.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000054179,
+                    "path": "Star Trek Discovery S02 LostFilm/Eng/Star.Trek.Discovery.S02E02.WEB-DLRip.Rus.Eng.LostFilm.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000057273,
+                    "path": "Star Trek Discovery S02 LostFilm/Eng/Star.Trek.Discovery.S02E03.WEB-DLRip.Rus.Eng.LostFilm.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000062669,
+                    "path": "Star Trek Discovery S02 LostFilm/Eng/Star.Trek.Discovery.S02E04.WEB-DLRip.Rus.Eng.LostFilm.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00005583,
+                    "path": "Star Trek Discovery S02 LostFilm/Eng/Star.Trek.Discovery.S02E05.WEB-DLRip.Rus.Eng.LostFilm.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000058812,
+                    "path": "Star Trek Discovery S02 LostFilm/Eng/Star.Trek.Discovery.S02E06.WEB-DLRip.Rus.Eng.LostFilm.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000082191,
+                    "path": "Star Trek Discovery S02 LostFilm/Rus/Star.Trek.Discovery.S02E01.WEB-DLRip.Rus.Eng.LostFilm.rus.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000068715,
+                    "path": "Star Trek Discovery S02 LostFilm/Rus/Star.Trek.Discovery.S02E02.WEB-DLRip.Rus.Eng.LostFilm.rus.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000070404,
+                    "path": "Star Trek Discovery S02 LostFilm/Rus/Star.Trek.Discovery.S02E03.WEB-DLRip.Rus.Eng.LostFilm.rus.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000078787,
+                    "path": "Star Trek Discovery S02 LostFilm/Rus/Star.Trek.Discovery.S02E04.WEB-DLRip.Rus.Eng.LostFilm.rus.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000068642,
+                    "path": "Star Trek Discovery S02 LostFilm/Rus/Star.Trek.Discovery.S02E05.WEB-DLRip.Rus.Eng.LostFilm.rus.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000072925,
+                    "path": "Star Trek Discovery S02 LostFilm/Rus/Star.Trek.Discovery.S02E06.WEB-DLRip.Rus.Eng.LostFilm.rus.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.911675392,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E01.WEB-DLRip.Rus.Eng.LostFilm.avi"
+                },
+                {
+                    "number": 14,
+                    "size": 0.0000011,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E01.WEB-DLRip.Rus.Eng.LostFilm.forc.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.66208768,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E02.WEB-DLRip.Rus.Eng.LostFilm.avi"
+                },
+                {
+                    "number": 16,
+                    "size": 4.95e-7,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E02.WEB-DLRip.Rus.Eng.LostFilm.forc.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.748132352,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E03.WEB-DLRip.Rus.Eng.LostFilm.avi"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000002318,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E03.WEB-DLRip.Rus.Eng.LostFilm.forc.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.776155136,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E04.WEB-DLRip.Rus.Eng.LostFilm.avi"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000002444,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E04.WEB-DLRip.Rus.Eng.LostFilm.forc.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.786171904,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E05.WEB-DLRip.Rus.Eng.LostFilm.avi"
+                },
+                {
+                    "number": 22,
+                    "size": 6.53e-7,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E05.WEB-DLRip.Rus.Eng.LostFilm.forc.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.8436736,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E06.WEB-DLRip.Rus.Eng.LostFilm.avi"
+                },
+                {
+                    "number": 24,
+                    "size": 7.68e-7,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E06.WEB-DLRip.Rus.Eng.LostFilm.forc.srt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Star Trek Discovery S02E06 720p WEBRip x264-SSN [IPT]",
+            "size_total": 1.646485182,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00006372,
+                    "path": "Star Trek Discovery S02E06 720p WEBRip x264-SSN/English.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.646417954,
+                    "path": "Star Trek Discovery S02E06 720p WEBRip x264-SSN/Star Trek Discovery S02E06 720p WEBRip x264-SSN.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000003508,
+                    "path": "Star Trek Discovery S02E06 720p WEBRip x264-SSN/Star Trek Discovery S02E06 720p WEBRip x264-SSN.nfo"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Star-Trek-Discovery-2x06-The-Sounds-of-Thunder-720p-ita-eng-sub-ita-eng-MIRCrew",
+            "size_total": 1.129224317,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00006372,
+                    "path": "Star Trek Discovery 2x06 The Sounds of Thunder.720p.ita.eng.sub.ita.eng-MIRCrew/Star Trek Discovery 2x06 The Sounds of Thunder.720p.ita.eng.sub.ita.eng-MIRCrew.eng.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000054468,
+                    "path": "Star Trek Discovery 2x06 The Sounds of Thunder.720p.ita.eng.sub.ita.eng-MIRCrew/Star Trek Discovery 2x06 The Sounds of Thunder.720p.ita.eng.sub.ita.eng-MIRCrew.ita.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 1.129105376,
+                    "path": "Star Trek Discovery 2x06 The Sounds of Thunder.720p.ita.eng.sub.ita.eng-MIRCrew/Star Trek Discovery 2x06 The Sounds of Thunder.720p.ita.eng.sub.ita.eng-MIRCrew.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 7.53e-7,
+                    "path": "Star Trek Discovery 2x06 The Sounds of Thunder.720p.ita.eng.sub.ita.eng-MIRCrew/Star Trek Discovery 2x06 The Sounds of Thunder.720p.ita.eng.sub.ita.eng-MIRCrew.srt"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Star-Trek-Discovery-2x06-The-Sounds-of-Thunder-ITA-ENG-1080p-AMZN-WEB-DLMux-DD5-1-H-264-Morpheus",
+            "size_total": 4.246355218,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.246355218,
+                    "path": "Star.Trek.Discovery.2x06.The.Sounds.of.Thunder.ITA.ENG.1080p.AMZN.WEB-DLMux.DD5.1.H.264-Morpheus.mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Star-Trek-Discovery-S02E06-720p-WEBRip-x264-SSN",
+            "size_total": 1.646485182,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.646417954,
+                    "path": "Star Trek Discovery S02E06 720p WEBRip x264-SSN/Star Trek Discovery S02E06 720p WEBRip x264-SSN.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00006372,
+                    "path": "Star Trek Discovery S02E06 720p WEBRip x264-SSN/English.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000003508,
+                    "path": "Star Trek Discovery S02E06 720p WEBRip x264-SSN/Star Trek Discovery S02E06 720p WEBRip x264-SSN.nfo"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Star-Trek-Discovery-S02E06-720p-WEBRip-x264-TBS",
+            "size_total": 1.257481791,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000055655,
+                    "path": "www.Torrenting.org - Star Trek Discovery S02E06 720p WEBRip x264-TBS/Screens/screen0001.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000066764,
+                    "path": "www.Torrenting.org - Star Trek Discovery S02E06 720p WEBRip x264-TBS/Screens/screen0002.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000088261,
+                    "path": "www.Torrenting.org - Star Trek Discovery S02E06 720p WEBRip x264-TBS/Screens/screen0003.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000096514,
+                    "path": "www.Torrenting.org - Star Trek Discovery S02E06 720p WEBRip x264-TBS/Screens/screen0004.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000068956,
+                    "path": "www.Torrenting.org - Star Trek Discovery S02E06 720p WEBRip x264-TBS/Screens/screen0005.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 1.257104495,
+                    "path": "www.Torrenting.org - Star Trek Discovery S02E06 720p WEBRip x264-TBS/star.trek.discovery.s02e06.720p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.00000106,
+                    "path": "www.Torrenting.org - Star Trek Discovery S02E06 720p WEBRip x264-TBS/star.trek.discovery.s02e06.720p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 8,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.org - Star Trek Discovery S02E06 720p WEBRip x264-TBS/Torrent Downloaded From www.torrenting.org.txt"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Star-Trek-Discovery-S02E06-720p-WEBRip-x264-TBS[ettv]",
+            "size_total": 1.25710468,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.85e-7,
+                    "path": "Star.Trek.Discovery.S02E06.720p.WEBRip.x264-TBS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.257104495,
+                    "path": "Star.Trek.Discovery.S02E06.720p.WEBRip.x264-TBS[ettv]/star.trek.discovery.s02e06.720p.webrip.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "star-trek-discovery-s02e06-720p-webrip-x264-tbs[eztv]",
+            "size_total": 1.257104495,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.257104495,
+                    "path": "star.trek.discovery.s02e06.720p.webrip.x264-tbs[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Star-Trek-Discovery-S02E06-iNTERNAL-1080p-WEB-x264-BAMBOOZLE",
+            "size_total": 1.923208514,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000115575,
+                    "path": "www.Torrenting.org - Star Trek Discovery S02E06 iNTERNAL 1080p WEB x264-BAMBOOZLE/Screens/screen0001.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00013713,
+                    "path": "www.Torrenting.org - Star Trek Discovery S02E06 iNTERNAL 1080p WEB x264-BAMBOOZLE/Screens/screen0002.jpg"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000171419,
+                    "path": "www.Torrenting.org - Star Trek Discovery S02E06 iNTERNAL 1080p WEB x264-BAMBOOZLE/Screens/screen0003.jpg"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000186999,
+                    "path": "www.Torrenting.org - Star Trek Discovery S02E06 iNTERNAL 1080p WEB x264-BAMBOOZLE/Screens/screen0004.jpg"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000140299,
+                    "path": "www.Torrenting.org - Star Trek Discovery S02E06 iNTERNAL 1080p WEB x264-BAMBOOZLE/Screens/screen0005.jpg"
+                },
+                {
+                    "number": 6,
+                    "size": 1.922455998,
+                    "path": "www.Torrenting.org - Star Trek Discovery S02E06 iNTERNAL 1080p WEB x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000001008,
+                    "path": "www.Torrenting.org - Star Trek Discovery S02E06 iNTERNAL 1080p WEB x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.nfo"
+                },
+                {
+                    "number": 8,
+                    "size": 8.6e-8,
+                    "path": "www.Torrenting.org - Star Trek Discovery S02E06 iNTERNAL 1080p WEB x264-BAMBOOZLE/Torrent Downloaded From www.torrenting.org.txt"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Star-Trek-Discovery-S02E06-The-Sounds-of-Thunder-1080p-AMZN-WEB-DL-DD",
+            "size_total": 4.203428255,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.002773077,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002793141,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.003106482,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002637101,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 4.192116139,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69[TGx]/Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001624,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69[TGx]/Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69.nfo"
+                },
+                {
+                    "number": 7,
+                    "size": 6.91e-7,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Star-Trek-Discovery-S02E06-The-Sounds-of-Thunder-1080p-AMZN-WEBrip-x265-5-1-AAC-D0ct0rLew[SEV]",
+            "size_total": 1.92428468,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.92428468,
+                    "path": "Star Trek Discovery S02E06 The Sounds of Thunder 1080p AMZN WEBrip x265 5.1 AAC D0ct0rLew[SEV].mkv"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Star-Trek-Discovery-S02E06-The-Sounds-of-Thunder-720p-AMZN-WEB-DL-DD",
+            "size_total": 2.299307769,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.299307769,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Star-Trek-Discovery-S02E06-VOSTFR-WEB-DL-XviD-ZT",
+            "size_total": 0.472380164,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.472380164,
+                    "path": "[ www.Torrent9.uno ] Star.Trek.Discovery.S02E06.VOSTFR.WEB-DL.XviD-ZT.avi"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Star-Trek-Discovery-S02E06-WEB-DL-XviD-B4ND1T69",
+            "size_total": 0.551488985,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.1e-8,
+                    "path": "Star.Trek.Discovery.S02E06.WEB-DL.XviD.B4ND1T69/1337x text file.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.39e-7,
+                    "path": "Star.Trek.Discovery.S02E06.WEB-DL.XviD.B4ND1T69/KAT text file.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000070677,
+                    "path": "Star.Trek.Discovery.S02E06.WEB-DL.XviD.B4ND1T69/Star.Trek.Discovery.S02E06.WEB-DL.XviD.B4ND1T69.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.551418108,
+                    "path": "Star.Trek.Discovery.S02E06.WEB-DL.XviD.B4ND1T69/Star.Trek.Discovery.S02E06.WEB-DL.XviD.B4ND1T69.avi"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Star-Trek-Discovery-S02E06-WEBRip-x264-TBS[ettv]",
+            "size_total": 0.408583451,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.99e-7,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS[ettv]/Downloaded from www.ETTV.tv .txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.408583252,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS[ettv]/star.trek.discovery.s02e06.webrip.x264-tbs[ettv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Star-Trek-Discovery-S02E06-WEBRip-x264-TBS[TGx]",
+            "size_total": 0.409951418,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000288909,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS[TGx]/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000323197,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS[TGx]/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000386853,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS[TGx]/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000368426,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS[TGx]/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 6.91e-7,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS[TGx]/[TGx]Downloaded from torrentgalaxy.org .txt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.408583252,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS[TGx]/star.trek.discovery.s02e06.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 9e-8,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS[TGx]/star.trek.discovery.s02e06.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Star.Trek.Discovery.S02E05.iNTERNAL.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.871092938,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.002681546,
+                    "path": "Star.Trek.Discovery.S02E05.iNTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002027835,
+                    "path": "Star.Trek.Discovery.S02E05.iNTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001460912,
+                    "path": "Star.Trek.Discovery.S02E05.iNTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001773208,
+                    "path": "Star.Trek.Discovery.S02E05.iNTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.863148195,
+                    "path": "Star.Trek.Discovery.S02E05.iNTERNAL.1080p.HEVC.x265-MeGusta/Star.Trek.Discovery.S02E05.iNTERNAL.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001242,
+                    "path": "Star.Trek.Discovery.S02E05.iNTERNAL.1080p.HEVC.x265-MeGusta/Star.Trek.Discovery.S02E05.iNTERNAL.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Star.Trek.Discovery.S02E05.Saints.of.Imperfection.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69 [IPT]",
+            "size_total": 2.15119164,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000856953,
+                    "path": "Star.Trek.Discovery.S02E05.Saints.of.Imperfection.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000622755,
+                    "path": "Star.Trek.Discovery.S02E05.Saints.of.Imperfection.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001237095,
+                    "path": "Star.Trek.Discovery.S02E05.Saints.of.Imperfection.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000983693,
+                    "path": "Star.Trek.Discovery.S02E05.Saints.of.Imperfection.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.147489525,
+                    "path": "Star.Trek.Discovery.S02E05.Saints.of.Imperfection.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Star.Trek.Discovery.S02E05.Saints.of.Imperfection.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001619,
+                    "path": "Star.Trek.Discovery.S02E05.Saints.of.Imperfection.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Star.Trek.Discovery.S02E05.Saints.of.Imperfection.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69.nfo"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Star.Trek.Discovery.S02E06.480p.x264-mSD[eztv].mkv",
+            "size_total": 0.276269598,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.276269598,
+                    "path": "Star.Trek.Discovery.S02E06.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Star.Trek.Discovery.S02E06.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.436336787,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000681155,
+                    "path": "Star.Trek.Discovery.S02E06.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00079757,
+                    "path": "Star.Trek.Discovery.S02E06.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001061642,
+                    "path": "Star.Trek.Discovery.S02E06.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000935796,
+                    "path": "Star.Trek.Discovery.S02E06.720p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.432859416,
+                    "path": "Star.Trek.Discovery.S02E06.720p.HEVC.x265-MeGusta/Star.Trek.Discovery.S02E06.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001208,
+                    "path": "Star.Trek.Discovery.S02E06.720p.HEVC.x265-MeGusta/Star.Trek.Discovery.S02E06.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Star.Trek.Discovery.S02E06.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 1.257104719,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S02E06.720p.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Star.Trek.Discovery.S02E06.720p.WEBRip.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.257104495,
+                    "path": "Star.Trek.Discovery.S02E06.720p.WEBRip.x264-TBS[rarbg]/star.trek.discovery.s02e06.720p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 9.5e-8,
+                    "path": "Star.Trek.Discovery.S02E06.720p.WEBRip.x264-TBS[rarbg]/star.trek.discovery.s02e06.720p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Star.Trek.Discovery.S02E06.720p.WEBRip.x265-MiNX[eztv].mkv",
+            "size_total": 0.296386253,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.296386253,
+                    "path": "Star.Trek.Discovery.S02E06.720p.WEBRip.x265-MiNX[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Star.Trek.Discovery.S02E06.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.24662821,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000201264,
+                    "path": "Star.Trek.Discovery.S02E06.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00020952,
+                    "path": "Star.Trek.Discovery.S02E06.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000205502,
+                    "path": "Star.Trek.Discovery.S02E06.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000245681,
+                    "path": "Star.Trek.Discovery.S02E06.AAC.MP4-Mobile/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.245764944,
+                    "path": "Star.Trek.Discovery.S02E06.AAC.MP4-Mobile/Star.Trek.Discovery.S02E06.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001299,
+                    "path": "Star.Trek.Discovery.S02E06.AAC.MP4-Mobile/Star.Trek.Discovery.S02E06.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.857971198,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001474769,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001520368,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00164169,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001783195,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.HEVC.x265-MeGusta/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.851549933,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.HEVC.x265-MeGusta/Star.Trek.Discovery.S02E06.iNTERNAL.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001243,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.HEVC.x265-MeGusta/Star.Trek.Discovery.S02E06.iNTERNAL.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE [IPT]",
+            "size_total": 1.922464299,
+            "files_total": 41,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 7.2e-8,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r20"
+                },
+                {
+                    "number": 23,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r21"
+                },
+                {
+                    "number": 24,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r22"
+                },
+                {
+                    "number": 25,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r23"
+                },
+                {
+                    "number": 26,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r24"
+                },
+                {
+                    "number": 27,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r25"
+                },
+                {
+                    "number": 28,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r26"
+                },
+                {
+                    "number": 29,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r27"
+                },
+                {
+                    "number": 30,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r28"
+                },
+                {
+                    "number": 31,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r29"
+                },
+                {
+                    "number": 32,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r30"
+                },
+                {
+                    "number": 33,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r31"
+                },
+                {
+                    "number": 34,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r32"
+                },
+                {
+                    "number": 35,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r33"
+                },
+                {
+                    "number": 36,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r34"
+                },
+                {
+                    "number": 37,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r35"
+                },
+                {
+                    "number": 38,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r36"
+                },
+                {
+                    "number": 39,
+                    "size": 0.022461302,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.r37"
+                },
+                {
+                    "number": 40,
+                    "size": 0.05,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.rar"
+                },
+                {
+                    "number": 41,
+                    "size": 0.000002925,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.sfv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE[rartv]-[rarbg.to]",
+            "size_total": 1.922456199,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.922455998,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE[rarbg]/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 7.2e-8,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE[rarbg]/star.trek.discovery.s02e06.internal.1080p.web.x264-bamboozle.nfo"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Star.Trek.Discovery.S02E06.iNTERNAL.HDR.1080p.WEB.H265-AMRAP[rartv]-[rarbg.to]",
+            "size_total": 2.66335795,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.HDR.1080p.WEB.H265-AMRAP[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.HDR.1080p.WEB.H265-AMRAP[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.663357294,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.HDR.1080p.WEB.H265-AMRAP[rarbg]/Star.Trek.Discovery.S02E06.iNTERNAL.HDR.1080p.WEB.H265-AMRAP.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 5.27e-7,
+                    "path": "Star.Trek.Discovery.S02E06.iNTERNAL.HDR.1080p.WEB.H265-AMRAP[rarbg]/star.trek.discovery.s02e06.internal.hdr.1080p.web.h265-amrap.nfo"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69 [IPT]",
+            "size_total": 4.203427564,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.002773077,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.002793141,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.003106482,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002637101,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 4.192116139,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001624,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69.nfo"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEBRip.DDP5.1.x264-AJP69[rartv]-[rarbg.to]",
+            "size_total": 4.192116268,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEBRip.DDP5.1.x264-AJP69[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEBRip.DDP5.1.x264-AJP69[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 4.192116139,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEBRip.DDP5.1.x264-AJP69[rarbg]/Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69.mkv"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69 [IPT]",
+            "size_total": 2.30346032,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000931198,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000996055,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00113583,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001087847,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.299307769,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001621,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69/Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69.nfo"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.720p.AMZN.WEBRip.DDP5.1.x264-AJP69[rartv]-[rarbg.to]",
+            "size_total": 2.299307898,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.720p.AMZN.WEBRip.DDP5.1.x264-AJP69[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.720p.AMZN.WEBRip.DDP5.1.x264-AJP69[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 2.299307769,
+                    "path": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.720p.AMZN.WEBRip.DDP5.1.x264-AJP69[rarbg]/Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69.mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS [IPT]",
+            "size_total": 0.408587017,
+            "files_total": 23,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 9e-8,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.00858573,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.r19"
+                },
+                {
+                    "number": 22,
+                    "size": 0.02,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 23,
+                    "size": 0.000001197,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS/star.trek.discovery.s02e06.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "star.trek.discovery.s02e06.webrip.x264-tbs[eztv].mkv",
+            "size_total": 0.408583252,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.408583252,
+                    "path": "star.trek.discovery.s02e06.webrip.x264-tbs[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.408583471,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.408583252,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS[rarbg]/star.trek.discovery.s02e06.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 9e-8,
+                    "path": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS[rarbg]/star.trek.discovery.s02e06.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 14 (Акива Голдсман, Адам Кэйн) [2019, США, Фантастика, [rutracker-5676364]",
+            "size_total": 13.380307468,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.787828629,
+                    "path": "Star.Trek.Discovery.S02.1080p.NF.WEB-DL.DDP5.1.x264-CasStudio/Star.Trek.Discovery.S02E01.Brother.1080p.NF.WEB-DL.DDP5.1.x264-CasStudio.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.607366391,
+                    "path": "Star.Trek.Discovery.S02.1080p.NF.WEB-DL.DDP5.1.x264-CasStudio/Star.Trek.Discovery.S02E02.New.Eden.1080p.NF.WEB-DL.DDP5.1.x264-CasStudio.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.096776181,
+                    "path": "Star.Trek.Discovery.S02.1080p.NF.WEB-DL.DDP5.1.x264-CasStudio/Star.Trek.Discovery.S02E03.Point.of.Light.1080p.NF.WEB-DL.DDP5.1.x264-CasStudio.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.045921192,
+                    "path": "Star.Trek.Discovery.S02.1080p.NF.WEB-DL.DDP5.1.x264-CasStudio/Star.Trek.Discovery.S02E04.An.Obol.For.Charon.1080p.NF.WEB-DL.DDP5.1.x264-CasStudio.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.470164506,
+                    "path": "Star.Trek.Discovery.S02.1080p.NF.WEB-DL.DDP5.1.x264-CasStudio/Star.Trek.Discovery.S02E05.Saints.of.Imperfection.1080p.NF.WEB-DL.DDP5.1.x264-CasStudio.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.372250569,
+                    "path": "Star.Trek.Discovery.S02.1080p.NF.WEB-DL.DDP5.1.x264-CasStudio/Star.Trek.Discovery.S02E06.The.Sound.of.Thunder.1080p.NF.WEB-DL.DDP5.1.x264-CasStudio.mkv"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 14 (Акива Голдсман, Адам Кэйн) [2019, США, Фантастика, [rutracker-5676545]",
+            "size_total": 4.188325018,
+            "files_total": 24,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000065789,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Eng/Star.Trek.Discovery.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000054179,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Eng/Star.Trek.Discovery.S02E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000057273,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Eng/Star.Trek.Discovery.S02E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000062669,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Eng/Star.Trek.Discovery.S02E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00005583,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Eng/Star.Trek.Discovery.S02E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000058812,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Eng/Star.Trek.Discovery.S02E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000082191,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Rus/Star.Trek.Discovery.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000068715,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Rus/Star.Trek.Discovery.S02E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000070404,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Rus/Star.Trek.Discovery.S02E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000078787,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Rus/Star.Trek.Discovery.S02E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000068642,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Rus/Star.Trek.Discovery.S02E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000072925,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Rus/Star.Trek.Discovery.S02E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.807428096,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Star.Trek.Discovery.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 14,
+                    "size": 0.0000011,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Star.Trek.Discovery.S02E01.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.586657792,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Star.Trek.Discovery.S02E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 16,
+                    "size": 4.95e-7,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Star.Trek.Discovery.S02E02.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.662593536,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Star.Trek.Discovery.S02E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000002318,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Star.Trek.Discovery.S02E03.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.687396864,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Star.Trek.Discovery.S02E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000002444,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Star.Trek.Discovery.S02E04.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.696260608,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Star.Trek.Discovery.S02E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 22,
+                    "size": 6.53e-7,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Star.Trek.Discovery.S02E05.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.747184128,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Star.Trek.Discovery.S02E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].avi"
+                },
+                {
+                    "number": 24,
+                    "size": 7.68e-7,
+                    "path": "Star Trek Discovery (Season 2) WEB-DLRip/Star.Trek.Discovery.S02E06.WEB-DLRip.RGzsRutracker.[Wentworth_Miller].srt"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 14 (Акива Голдсман, Адам Кэйн) [2019, США, фантастика, [rutracker-5676838]",
+            "size_total": 23.292182391,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.49605632,
+                    "path": "Star.Trek.Discovery.S02.1080p.WEB-DL.OmskBird/Star.Trek.Discovery.S02E01.1080p.WEB-DL.OmskBird.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.092822925,
+                    "path": "Star.Trek.Discovery.S02.1080p.WEB-DL.OmskBird/Star.Trek.Discovery.S02E02.1080p.WEB-DL.OmskBird.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.622509154,
+                    "path": "Star.Trek.Discovery.S02.1080p.WEB-DL.OmskBird/Star.Trek.Discovery.S02E03.1080p.WEB-DL.OmskBird.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.893617779,
+                    "path": "Star.Trek.Discovery.S02.1080p.WEB-DL.OmskBird/Star.Trek.Discovery.S02E04.1080p.WEB-DL.OmskBird.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.940761029,
+                    "path": "Star.Trek.Discovery.S02.1080p.WEB-DL.OmskBird/Star.Trek.Discovery.S02E05.1080p.WEB-DL.OmskBird.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 4.246415184,
+                    "path": "Star.Trek.Discovery.S02.1080p.WEB-DL.OmskBird/Star.Trek.Discovery.S02E06.1080p.WEB-DL.OmskBird.mkv"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 14 (Алекс Курцман) [2019, США, Фантастика, WEB-DL 1080p [rutracker-5676334]",
+            "size_total": 22.987997455,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.436776928,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.1080p/StarTrek.Discovery.S02E01.AMZN.WEBRip.TeamNotDead.1080p.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000095742,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.1080p/StarTrek.Discovery.S02E01.AMZN.WEBRip.TeamNotDead.1080p.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 3.050252504,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.1080p/StarTrek.Discovery.S02E02.AMZN.WEBRip.TeamNotDead.1080p.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000077888,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.1080p/StarTrek.Discovery.S02E02.AMZN.WEBRip.TeamNotDead.1080p.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 3.574404734,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.1080p/StarTrek.Discovery.S02E03.AMZN.WEBRip.TeamNotDead.1080p.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000077363,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.1080p/StarTrek.Discovery.S02E03.AMZN.WEBRip.TeamNotDead.1080p.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 3.843724709,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.1080p/StarTrek.Discovery.S02E04.AMZN.WEBRip.TeamNotDead.1080p.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000096189,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.1080p/StarTrek.Discovery.S02E04.AMZN.WEBRip.TeamNotDead.1080p.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 3.89019247,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.1080p/StarTrek.Discovery.S02E05.AMZN.WEBRip.TeamNotDead.1080p.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000077908,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.1080p/StarTrek.Discovery.S02E05.AMZN.WEBRip.TeamNotDead.1080p.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 4.192134684,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.1080p/StarTrek.Discovery.S02E06.AMZN.WEBRip.TeamNotDead.1080p.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000086336,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.1080p/StarTrek.Discovery.S02E06.AMZN.WEBRip.TeamNotDead.1080p.srt"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 14 (Алекс Курцман) [2019, США, Фантастика, WEB-DL 720p] [rutracker-5676338]",
+            "size_total": 11.83179581,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.156449736,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.720p/StarTrek.Discovery.S02E01.AMZN.WEBRip.TeamNotDead.720p.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000095742,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.720p/StarTrek.Discovery.S02E01.AMZN.WEBRip.TeamNotDead.720p.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 1.479331148,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.720p/StarTrek.Discovery.S02E02.AMZN.WEBRip.TeamNotDead.720p.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000077888,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.720p/StarTrek.Discovery.S02E02.AMZN.WEBRip.TeamNotDead.720p.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 1.723433489,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.720p/StarTrek.Discovery.S02E03.AMZN.WEBRip.TeamNotDead.720p.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000077363,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.720p/StarTrek.Discovery.S02E03.AMZN.WEBRip.TeamNotDead.720p.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 2.025241711,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.720p/StarTrek.Discovery.S02E04.AMZN.WEBRip.TeamNotDead.720p.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000096189,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.720p/StarTrek.Discovery.S02E04.AMZN.WEBRip.TeamNotDead.720p.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 2.147501986,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.720p/StarTrek.Discovery.S02E05.AMZN.WEBRip.TeamNotDead.720p.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000077908,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.720p/StarTrek.Discovery.S02E05.AMZN.WEBRip.TeamNotDead.720p.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 2.299326314,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.720p/StarTrek.Discovery.S02E06.AMZN.WEBRip.TeamNotDead.720p.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000086336,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead.720p/StarTrek.Discovery.S02E06.AMZN.WEBRip.TeamNotDead.720p.srt"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 14 (Алекс Курцман) [2019, США, Фантастика, WEB-DLRip-AV [rutracker-5676343]",
+            "size_total": 2.994118465,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.582677412,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead/StarTrek.Discovery.S02E01.AMZN.WEBRip.TeamNotDead.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000095742,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead/StarTrek.Discovery.S02E01.AMZN.WEBRip.TeamNotDead.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.418006682,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead/StarTrek.Discovery.S02E02.AMZN.WEBRip.TeamNotDead.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000077888,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead/StarTrek.Discovery.S02E02.AMZN.WEBRip.TeamNotDead.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.472538982,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead/StarTrek.Discovery.S02E03.AMZN.WEBRip.TeamNotDead.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000077363,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead/StarTrek.Discovery.S02E03.AMZN.WEBRip.TeamNotDead.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.490444769,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead/StarTrek.Discovery.S02E04.AMZN.WEBRip.TeamNotDead.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000096189,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead/StarTrek.Discovery.S02E04.AMZN.WEBRip.TeamNotDead.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.496712494,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead/StarTrek.Discovery.S02E05.AMZN.WEBRip.TeamNotDead.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000077908,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead/StarTrek.Discovery.S02E05.AMZN.WEBRip.TeamNotDead.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.5332267,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead/StarTrek.Discovery.S02E06.AMZN.WEBRip.TeamNotDead.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000086336,
+                    "path": "StarTrek.Discovery.S02.TeamNotDead/StarTrek.Discovery.S02E06.AMZN.WEBRip.TeamNotDead.srt"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 14 (Олатунде Осунсанми, Дуглас Арниокоски, Джонатан Фре [rutracker-5677416]",
+            "size_total": 4.728700058,
+            "files_total": 24,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000065789,
+                    "path": "Star Trek Discovery S02 LostFilm/Eng/Star.Trek.Discovery.S02E01.WEB-DLRip.Rus.Eng.LostFilm.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000054179,
+                    "path": "Star Trek Discovery S02 LostFilm/Eng/Star.Trek.Discovery.S02E02.WEB-DLRip.Rus.Eng.LostFilm.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000057273,
+                    "path": "Star Trek Discovery S02 LostFilm/Eng/Star.Trek.Discovery.S02E03.WEB-DLRip.Rus.Eng.LostFilm.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000062669,
+                    "path": "Star Trek Discovery S02 LostFilm/Eng/Star.Trek.Discovery.S02E04.WEB-DLRip.Rus.Eng.LostFilm.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00005583,
+                    "path": "Star Trek Discovery S02 LostFilm/Eng/Star.Trek.Discovery.S02E05.WEB-DLRip.Rus.Eng.LostFilm.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000058812,
+                    "path": "Star Trek Discovery S02 LostFilm/Eng/Star.Trek.Discovery.S02E06.WEB-DLRip.Rus.Eng.LostFilm.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.000082191,
+                    "path": "Star Trek Discovery S02 LostFilm/Rus/Star.Trek.Discovery.S02E01.WEB-DLRip.Rus.Eng.LostFilm.rus.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000068715,
+                    "path": "Star Trek Discovery S02 LostFilm/Rus/Star.Trek.Discovery.S02E02.WEB-DLRip.Rus.Eng.LostFilm.rus.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.000070404,
+                    "path": "Star Trek Discovery S02 LostFilm/Rus/Star.Trek.Discovery.S02E03.WEB-DLRip.Rus.Eng.LostFilm.rus.srt"
+                },
+                {
+                    "number": 10,
+                    "size": 0.000078787,
+                    "path": "Star Trek Discovery S02 LostFilm/Rus/Star.Trek.Discovery.S02E04.WEB-DLRip.Rus.Eng.LostFilm.rus.srt"
+                },
+                {
+                    "number": 11,
+                    "size": 0.000068642,
+                    "path": "Star Trek Discovery S02 LostFilm/Rus/Star.Trek.Discovery.S02E05.WEB-DLRip.Rus.Eng.LostFilm.rus.srt"
+                },
+                {
+                    "number": 12,
+                    "size": 0.000072925,
+                    "path": "Star Trek Discovery S02 LostFilm/Rus/Star.Trek.Discovery.S02E06.WEB-DLRip.Rus.Eng.LostFilm.rus.srt"
+                },
+                {
+                    "number": 13,
+                    "size": 0.911675392,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E01.WEB-DLRip.Rus.Eng.LostFilm.avi"
+                },
+                {
+                    "number": 14,
+                    "size": 0.0000011,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E01.WEB-DLRip.Rus.Eng.LostFilm.forc.srt"
+                },
+                {
+                    "number": 15,
+                    "size": 0.66208768,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E02.WEB-DLRip.Rus.Eng.LostFilm.avi"
+                },
+                {
+                    "number": 16,
+                    "size": 4.95e-7,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E02.WEB-DLRip.Rus.Eng.LostFilm.forc.srt"
+                },
+                {
+                    "number": 17,
+                    "size": 0.748132352,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E03.WEB-DLRip.Rus.Eng.LostFilm.avi"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000002318,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E03.WEB-DLRip.Rus.Eng.LostFilm.forc.srt"
+                },
+                {
+                    "number": 19,
+                    "size": 0.776155136,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E04.WEB-DLRip.Rus.Eng.LostFilm.avi"
+                },
+                {
+                    "number": 20,
+                    "size": 0.000002444,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E04.WEB-DLRip.Rus.Eng.LostFilm.forc.srt"
+                },
+                {
+                    "number": 21,
+                    "size": 0.786171904,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E05.WEB-DLRip.Rus.Eng.LostFilm.avi"
+                },
+                {
+                    "number": 22,
+                    "size": 6.53e-7,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E05.WEB-DLRip.Rus.Eng.LostFilm.forc.srt"
+                },
+                {
+                    "number": 23,
+                    "size": 0.8436736,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E06.WEB-DLRip.Rus.Eng.LostFilm.avi"
+                },
+                {
+                    "number": 24,
+                    "size": 7.68e-7,
+                    "path": "Star Trek Discovery S02 LostFilm/Star.Trek.Discovery.S02E06.WEB-DLRip.Rus.Eng.LostFilm.forc.srt"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 15 (Акива Голдсман, Адам Кэйн, Ли Роуз) [2019, США, Фан [rutracker-5677535]",
+            "size_total": 12.134470667,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.215462846,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 720p l JASKiER)/Star.Trek.Discovery.S02E01.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.521658934,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 720p l JASKiER)/Star.Trek.Discovery.S02E02.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.771295152,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 720p l JASKiER)/Star.Trek.Discovery.S02E03.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.074880135,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 720p l JASKiER)/Star.Trek.Discovery.S02E04.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.197827266,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 720p l JASKiER)/Star.Trek.Discovery.S02E05.720p.Jaskier.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.353346334,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 720p l JASKiER)/Star.Trek.Discovery.S02E06.720p.Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 15 (Акива Голдсман, Адам Кэйн, Ли Роуз) [2019, США, Фан [rutracker-5677537]",
+            "size_total": 23.290706857,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.495797533,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 1080p l JASKiER)/Star.Trek.Discovery.S02E01.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.092585922,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 1080p l JASKiER)/Star.Trek.Discovery.S02E02.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 3.622272923,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 1080p l JASKiER)/Star.Trek.Discovery.S02E03.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 3.893368272,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 1080p l JASKiER)/Star.Trek.Discovery.S02E04.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 3.940521897,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 1080p l JASKiER)/Star.Trek.Discovery.S02E05.1080p.Jaskier.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 4.24616031,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 1080p l JASKiER)/Star.Trek.Discovery.S02E06.1080p.Jaskier.mkv"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 15 (Акива Голдсман, Адам Кэйн, Ли Роуз) [2019, США, Фан [rutracker-5677541]",
+            "size_total": 3.958786048,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.770471936,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 400p l JASKiER)/Star.Trek.Discovery.S02E01.400p.Jaskier.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.552853504,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 400p l JASKiER)/Star.Trek.Discovery.S02E02.400p.Jaskier.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 0.624869376,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 400p l JASKiER)/Star.Trek.Discovery.S02E03.400p.Jaskier.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.648388608,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 400p l JASKiER)/Star.Trek.Discovery.S02E04.400p.Jaskier.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.65695744,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 400p l JASKiER)/Star.Trek.Discovery.S02E05.400p.Jaskier.avi"
+                },
+                {
+                    "number": 6,
+                    "size": 0.705245184,
+                    "path": "Star.Trek.Discovery Season 2 (WEB-DL l 400p l JASKiER)/Star.Trek.Discovery.S02E06.400p.Jaskier.avi"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 22,
+            "name": "Star-Trek-Discovery-S02E06-WEBRip-x264-TBS[ettv]",
+            "btih": "5dd38eebefb6734494dcc02df00c8c3a7d346b47",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.408583451,
+            "creation": "2019-02-22T02:31:06.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 110851,
+            "uuploaders": 47835
+        },
+        {
+            "id": 40,
+            "name": "star.trek.discovery.s02e06.webrip.x264-tbs[eztv].mkv",
+            "btih": "1f792d501f6ef74b14bd69a3423283531417a8fa",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.408583252,
+            "creation": "2019-02-22T01:47:17.000000000Z,EZTV,Visit us: https://eztv.io/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 84524,
+            "uuploaders": 33406
+        },
+        {
+            "id": 41,
+            "name": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "699c9467a5120addbd2a54701e8a50d76f86f7d2",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.408583471,
+            "creation": "2019-02-22T01:43:28.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 80750,
+            "uuploaders": 23254
+        },
+        {
+            "id": 17,
+            "name": "Star-Trek-Discovery-S02E06-The-Sounds-of-Thunder-1080p-AMZN-WEB-DL-DD",
+            "btih": "41a610fa9d8cce3305439d0000673c1df1f9ff47",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 4.203428255,
+            "creation": "2019-02-22T05:22:36.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 65183,
+            "uuploaders": 3577
+        },
+        {
+            "id": 14,
+            "name": "Star-Trek-Discovery-S02E06-720p-WEBRip-x264-TBS[ettv]",
+            "btih": "a124cb5972d1abf8569aee834dbfd6505ff4aba4",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.25710468,
+            "creation": "2019-02-22T02:08:38.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 58902,
+            "uuploaders": 9349
+        },
+        {
+            "id": 29,
+            "name": "Star.Trek.Discovery.S02E06.720p.WEBRip.x265-MiNX[eztv].mkv",
+            "btih": "234d74158ae711391378565daaa7de05f342f424",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.296386253,
+            "creation": "2019-02-22T02:41:34.000000000Z,EZTV,Visit us: https://eztv.io/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 57341,
+            "uuploaders": 15562
+        },
+        {
+            "id": 28,
+            "name": "Star.Trek.Discovery.S02E06.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "7171183cee6f47eeb7062f7cbf9bcbcf9dde964e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.257104719,
+            "creation": "2019-02-22T01:52:03.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 56304,
+            "uuploaders": 14494
+        },
+        {
+            "id": 1,
+            "name": "[rutor.is]Star.Trek.Discovery.S02.1080p.GostFilm",
+            "btih": "a6199669c6f5f8c8d1ebaeac269bd391a94dbeda",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 21.729134542,
+            "creation": "2019-02-22T14:21:59.000000000Z,uTorrent/3.5,http://rutor.is/torrent/683365",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 56002,
+            "uuploaders": 3216
+        },
+        {
+            "id": 42,
+            "name": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 14 (Акива Голдсман, Адам Кэйн) [2019, США, Фантастика, [rutracker-5676364]",
+            "btih": "8c1a88415b723561cc0fa01f302c6ea2fc3271e7",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 13.380307468,
+            "creation": "2019-02-22T10:55:37.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),https://rutracker.org/forum/viewtopic.php?t=5676364",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 55331,
+            "uuploaders": 3862
+        },
+        {
+            "id": 15,
+            "name": "star-trek-discovery-s02e06-720p-webrip-x264-tbs[eztv]",
+            "btih": "ed118fa9b6da0a3b154bbaaf60047da0b1d2b5e8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.257104495,
+            "creation": "2019-02-22T02:30:55.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 52215,
+            "uuploaders": 17006
+        },
+        {
+            "id": 33,
+            "name": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE[rartv]-[rarbg.to]",
+            "btih": "3d9f96384c2e93278f46c7dfa66758aa49a067cc",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.922456199,
+            "creation": "2019-02-22T01:45:14.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 51991,
+            "uuploaders": 15284
+        },
+        {
+            "id": 52,
+            "name": "multi-btih-0-2-x-[rutor.is]STD_(s02)_LF",
+            "btih": "3a7c25a69b6db99a7854ef44ba5b98ba622b700f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.728700058,
+            "creation": "2019-02-24T10:14:13.000000000Z,uTorrent/3000,http://rutor.is/torrent/676800",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 50018,
+            "uuploaders": 5073
+        },
+        {
+            "id": 46,
+            "name": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 14 (Алекс Курцман) [2019, США, Фантастика, WEB-DL 720p] [rutracker-5676338]",
+            "btih": "783532894f90e81412fb5448a4350653c015324f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 11.83179581,
+            "creation": "2019-02-22T18:01:32.000000000Z,uTorrent/3.5,https://rutracker.org/forum/viewtopic.php?t=5676338",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 47918,
+            "uuploaders": 286
+        },
+        {
+            "id": 36,
+            "name": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEBRip.DDP5.1.x264-AJP69[rartv]-[rarbg.to]",
+            "btih": "cc90d5fd4b087b1904f90a8f80a7edfcbf3412f9",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.192116268,
+            "creation": "2019-02-22T04:49:26.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 43613,
+            "uuploaders": 10758
+        },
+        {
+            "id": 19,
+            "name": "Star-Trek-Discovery-S02E06-The-Sounds-of-Thunder-720p-AMZN-WEB-DL-DD",
+            "btih": "f9f5acd160d96c45744deccf69a1bbdd1c384c53",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.299307769,
+            "creation": "2019-02-22T12:00:09.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41234,
+            "uuploaders": 9017
+        },
+        {
+            "id": 38,
+            "name": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.720p.AMZN.WEBRip.DDP5.1.x264-AJP69[rartv]-[rarbg.to]",
+            "btih": "5ac930d52357f7d5c95aa12e8029aa04bd8f044c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.299307898,
+            "creation": "2019-02-22T04:48:52.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 37020,
+            "uuploaders": 5026
+        },
+        {
+            "id": 11,
+            "name": "Star-Trek-Discovery-2x06-The-Sounds-of-Thunder-ITA-ENG-1080p-AMZN-WEB-DLMux-DD5-1-H-264-Morpheus",
+            "btih": "1f1a3f63d0850b94df7a67803a63344693880ddb",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.246355218,
+            "creation": "2019-02-22T23:30:08.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 35745,
+            "uuploaders": 5357
+        },
+        {
+            "id": 16,
+            "name": "Star-Trek-Discovery-S02E06-iNTERNAL-1080p-WEB-x264-BAMBOOZLE",
+            "btih": "c7b3a3d5f0e21f24fd4edc50467fb544cb9cd0ff",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.923208514,
+            "creation": "2019-02-22T04:01:30.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 35600,
+            "uuploaders": 8212
+        },
+        {
+            "id": 10,
+            "name": "Star-Trek-Discovery-2x06-The-Sounds-of-Thunder-720p-ita-eng-sub-ita-eng-MIRCrew",
+            "btih": "2389d5698d4066094d21c845ba273d14e407df1f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.129224317,
+            "creation": "2019-02-23T17:30:14.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 35132,
+            "uuploaders": 2690
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Star.Trek.Discovery.S02.WEBRip.OmskBird",
+            "btih": "b4b031a77d2e7554a0f665931304c7bce7161a4f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 4.725765086,
+            "creation": "2019-02-23T15:41:18.000000000Z,uTorrent/3.5.4,http://rutor.is/torrent/676616",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 34316,
+            "uuploaders": 1706
+        },
+        {
+            "id": 54,
+            "name": "multi-btih-2-2-x-[rutor.is]Star.Trek.Discovery_Season_2_WEB-DL_l_400p_l_JA",
+            "btih": "bb9a12e64989398f3fe4ef577935a352cc91de74",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 3.958786048,
+            "creation": "2019-02-25T14:45:10.000000000Z,uTorrent/2210,http://rutor.is/torrent/676823",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33645,
+            "uuploaders": 1469
+        },
+        {
+            "id": 44,
+            "name": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 14 (Акива Голдсман, Адам Кэйн) [2019, США, фантастика, [rutracker-5676838]",
+            "btih": "1a0b6c5ff67979aec75333c0c73ede92d4841ba7",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 23.292182391,
+            "creation": "2019-02-23T16:41:59.000000000Z,uTorrent/3.5.4,https://rutracker.org/forum/viewtopic.php?t=5676838",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33556,
+            "uuploaders": 791
+        },
+        {
+            "id": 23,
+            "name": "Star-Trek-Discovery-S02E06-WEBRip-x264-TBS[TGx]",
+            "btih": "7d3a2a86498ae03cc112577c005e138a1664151c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.409951418,
+            "creation": "2019-02-22T01:55:50.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 32518,
+            "uuploaders": 2148
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]Star.Trek.Discovery.S02.720p.GostFilm",
+            "btih": "6f69a6c3be7798486fb7e1beaf4c4458beac39a9",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 10.758389296,
+            "creation": "2019-02-22T14:16:46.000000000Z,uTorrent/3.5,http://rutor.is/torrent/683363",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 32048,
+            "uuploaders": 5101
+        },
+        {
+            "id": 21,
+            "name": "Star-Trek-Discovery-S02E06-WEB-DL-XviD-B4ND1T69",
+            "btih": "705f9e4c389d1320e40549e642fcf5829d17b0c9",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.551488985,
+            "creation": "2019-02-22T13:55:52.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 31859,
+            "uuploaders": 965
+        },
+        {
+            "id": 34,
+            "name": "Star.Trek.Discovery.S02E06.iNTERNAL.HDR.1080p.WEB.H265-AMRAP[rartv]-[rarbg.to]",
+            "btih": "f07f0cec6fb4441ac4e7ab87bf2bf5a8d8de149a",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 2.66335795,
+            "creation": "2019-02-22T12:29:09.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 31698,
+            "uuploaders": 4097
+        },
+        {
+            "id": 53,
+            "name": "multi-btih-1-2-x-[rutor.is]Star.Trek.Discovery_Season_2_WEB-DL_l_1080p_l_J",
+            "btih": "8a417a24fb3070d7680fc937dbfdee4961e0f0a3",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 23.290706857,
+            "creation": "2019-02-25T14:43:38.000000000Z,uTorrent/2210,http://rutor.is/torrent/676822",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 31574,
+            "uuploaders": 1640
+        },
+        {
+            "id": 45,
+            "name": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 14 (Алекс Курцман) [2019, США, Фантастика, WEB-DL 1080p [rutracker-5676334]",
+            "btih": "2e5c7cef6d3edb5191a937ba856653c268fa4fbd",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 22.987997455,
+            "creation": "2019-02-22T17:58:05.000000000Z,uTorrent/3.5,https://rutracker.org/forum/viewtopic.php?t=5676334",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 31370,
+            "uuploaders": 367
+        },
+        {
+            "id": 20,
+            "name": "Star-Trek-Discovery-S02E06-VOSTFR-WEB-DL-XviD-ZT",
+            "btih": "f2d6e4c536a6e082a76669040d46c836a2bdc20f",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 0.472380164,
+            "creation": "2019-02-22T10:09:34.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 30860,
+            "uuploaders": 3166
+        },
+        {
+            "id": 26,
+            "name": "Star.Trek.Discovery.S02E06.480p.x264-mSD[eztv].mkv",
+            "btih": "e426eb9c48265933dc090fa2b6c978e798aa846f",
+            "resolution": "2160",
+            "encoding": "264",
+            "gigabytes": 0.276269598,
+            "creation": "2019-02-22T02:21:31.000000000Z,EZTV,Visit us: https://eztv.io/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 29928,
+            "uuploaders": 11523
+        },
+        {
+            "id": 13,
+            "name": "Star-Trek-Discovery-S02E06-720p-WEBRip-x264-TBS",
+            "btih": "168c786b6331e04488ada191c0ebc3998000b6cc",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.257481791,
+            "creation": "2019-02-22T03:45:51.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23955,
+            "uuploaders": 1708
+        },
+        {
+            "id": 12,
+            "name": "Star-Trek-Discovery-S02E06-720p-WEBRip-x264-SSN",
+            "btih": "3b0542303958248ae66ee2a135347986299bd3ea",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.646485182,
+            "creation": "2019-02-22T09:45:25.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22305,
+            "uuploaders": 1720
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]Star.Trek.Discovery.S02.720p.WEBRip.OmskBird",
+            "btih": "5ba36f3e3a126b8c6bb3cc0385385c43c24a6357",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 7.486553388,
+            "creation": "2019-02-23T15:27:58.000000000Z,uTorrent/3.5.4,http://rutor.is/torrent/676613",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21093,
+            "uuploaders": 1560
+        },
+        {
+            "id": 47,
+            "name": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 14 (Алекс Курцман) [2019, США, Фантастика, WEB-DLRip-AV [rutracker-5676343]",
+            "btih": "04cc09e62fd4f3c41531624f51ede8592996b307",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 2.994118465,
+            "creation": "2019-02-22T18:03:24.000000000Z,uTorrent/3.5,https://rutracker.org/forum/viewtopic.php?t=5676343",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17752,
+            "uuploaders": 478
+        },
+        {
+            "id": 55,
+            "name": "multi-btih-3-2-x-[rutor.is]Star.Trek.Discovery_Season_2_WEB-DL_l_720p_l_JA",
+            "btih": "138617c84640f51b46d3b1415286ad44efa13b5c",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 12.134470667,
+            "creation": "2019-02-25T14:44:43.000000000Z,uTorrent/2210,http://rutor.is/torrent/676821",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17009,
+            "uuploaders": 1441
+        },
+        {
+            "id": 18,
+            "name": "Star-Trek-Discovery-S02E06-The-Sounds-of-Thunder-1080p-AMZN-WEBrip-x265-5-1-AAC-D0ct0rLew[SEV]",
+            "btih": "028e144c2ee38561d320cb83b3e265753350ddc8",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.92428468,
+            "creation": "2019-02-22T20:00:51.000000000Z,Torrent RW PHP Class - http://github.com/adriengibrat/torrent-rw,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16940,
+            "uuploaders": 3131
+        },
+        {
+            "id": 43,
+            "name": "Звёздный путь Дискавери Star Trek Discovery Сезон 2 Серии 1-6 из 14 (Акива Голдсман, Адам Кэйн) [2019, США, Фантастика, [rutracker-5676545]",
+            "btih": "ddcc568be69280440388c52fdcb75f9aa32e70b3",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 4.188325018,
+            "creation": "2019-02-22T21:54:53.000000000Z,uTorrent/2040,https://rutracker.org/forum/viewtopic.php?t=5676545",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 13840,
+            "uuploaders": 1641
+        },
+        {
+            "id": 32,
+            "name": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.WEB.x264-BAMBOOZLE [IPT]",
+            "btih": "22102cb2ebc613f1ac7013be13c7f813e27d1dde",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.922464299,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 10073,
+            "uuploaders": 5600
+        },
+        {
+            "id": 24,
+            "name": "Star.Trek.Discovery.S02E05.iNTERNAL.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "8a28acba3634585d604b60ba1848bedd76446650",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.871092938,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3127,
+            "uuploaders": 1380
+        },
+        {
+            "id": 31,
+            "name": "Star.Trek.Discovery.S02E06.iNTERNAL.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "e34d100a44ce84dd3c9c38864bcc73b64332c8d3",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.857971198,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2931,
+            "uuploaders": 1340
+        },
+        {
+            "id": 35,
+            "name": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.1080p.AMZN.WEB-DL.DD+5.1.H.264-AJP69 [IPT]",
+            "btih": "b6c8c68c6acbba76a94fdd3f7c723521c1e52140",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 4.203427564,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 2563,
+            "uuploaders": 1253
+        },
+        {
+            "id": 27,
+            "name": "Star.Trek.Discovery.S02E06.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "ad7c03991860ae3e46cb8b6f23d6c921440e22b7",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.436336787,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1560,
+            "uuploaders": 717
+        },
+        {
+            "id": 39,
+            "name": "Star.Trek.Discovery.S02E06.WEBRip.x264-TBS [IPT]",
+            "btih": "bf6a3e726c076b35f8fec014fedfc9945781e96c",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.408587017,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1535,
+            "uuploaders": 763
+        },
+        {
+            "id": 9,
+            "name": "Star Trek Discovery S02E06 720p WEBRip x264-SSN [IPT]",
+            "btih": "027c02543cabf4b0c00b4870943724594739c582",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.646485182,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1048,
+            "uuploaders": 502
+        },
+        {
+            "id": 30,
+            "name": "Star.Trek.Discovery.S02E06.AAC.MP4-Mobile [IPT]",
+            "btih": "9728da032d4ed4f6fcd1c61924f860337e770962",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.24662821,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 736,
+            "uuploaders": 433
+        },
+        {
+            "id": 37,
+            "name": "Star.Trek.Discovery.S02E06.The.Sounds.of.Thunder.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69 [IPT]",
+            "btih": "f688a365562b2d559efce7778e196312cc975208",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.30346032,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 571,
+            "uuploaders": 374
+        },
+        {
+            "id": 25,
+            "name": "Star.Trek.Discovery.S02E05.Saints.of.Imperfection.720p.AMZN.WEB-DL.DD+5.1.H.264-AJP69 [IPT]",
+            "btih": "3c031ffbf1c4e7bb3fa6368db9d1ed53bd1a4dae",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.15119164,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 315,
+            "uuploaders": 221
+        }
+    ]
+}
