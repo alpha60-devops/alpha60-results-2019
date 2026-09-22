@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-05T07:27:37Z
 - Evidence: read-only Day-member stream of the selected cache archive; no raw sample contents were opened
@@ -38,11 +38,11 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![I Am The Night collection size histogram](figures/i-am-the-night-106-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,24 +65,29 @@ None detected.
 
 ![i-am-the-night-106 downloads by day](figures/i-am-the-night-106-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2019/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2019/refs/heads/main/data/geojson.cumulative/i-am-the-night-106-cumulative-aggregate.geojson.gz" data-map-title="I Am The Night — i-am-the-night-106" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open I Am The Night (i-am-the-night-106) cumulative data map in new window" title="Opens interactive map for I Am The Night (i-am-the-night-106) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 2.66 | 38.42 | 19.34 | 22.30 | 1.68 | 12.09 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![I Am The Night cumulative map](figures/i-am-the-night-106-carto.png)](figures/i-am-the-night-106-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/i-am-the-night-106-data-ge-1080p.webp)](figures/i-am-the-night-106-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/i-am-the-night-106-data-lt-1080p.webp)](figures/i-am-the-night-106-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

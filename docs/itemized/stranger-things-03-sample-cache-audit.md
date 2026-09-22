@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-05T07:27:37Z
 - Evidence: read-only Day-member stream of the selected cache archive; no raw sample contents were opened
@@ -40,11 +40,11 @@ description: "Cache coverage and visualization audit for one media object."
 - missing Day index: 27
 - missing Day index: 28
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Stranger Things collection size histogram](figures/stranger-things-03-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -67,24 +67,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![stranger-things-03 downloads by day](figures/stranger-things-03-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2019/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2019/refs/heads/main/data/geojson.cumulative/stranger-things-03-cumulative-aggregate.geojson.gz" data-map-title="Stranger Things — stranger-things-03" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Stranger Things (stranger-things-03) cumulative data map in new window" title="Opens interactive map for Stranger Things (stranger-things-03) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 8.16 | 18.11 | 31.45 | 33.55 | 2.12 | 1.24 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Stranger Things cumulative map](figures/stranger-things-03-carto.png)](figures/stranger-things-03-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/stranger-things-03-data-ge-1080p.webp)](figures/stranger-things-03-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/stranger-things-03-data-lt-1080p.webp)](figures/stranger-things-03-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-05T07:27:37Z
 - Evidence: read-only Day-member stream of the selected cache archive; no raw sample contents were opened
@@ -38,11 +38,11 @@ description: "Cache coverage and visualization audit for one media object."
 
 None detected.
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Ferhat Ile Sirin collection size histogram](figures/ferhat-ile-sirin-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,24 +65,29 @@ None detected.
 
 ![ferhat-ile-sirin downloads by day](figures/ferhat-ile-sirin-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2019/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2019/refs/heads/main/data/geojson.cumulative/ferhat-ile-sirin-cumulative-aggregate.geojson.gz" data-map-title="Ferhat Ile Sirin — ferhat-ile-sirin" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Ferhat Ile Sirin (ferhat-ile-sirin) cumulative data map in new window" title="Opens interactive map for Ferhat Ile Sirin (ferhat-ile-sirin) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 0.19 | 8.87 | 10.73 | 29.20 | 0.37 | 1.11 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Ferhat Ile Sirin cumulative map](figures/ferhat-ile-sirin-carto.png)](figures/ferhat-ile-sirin-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/ferhat-ile-sirin-data-ge-1080p.webp)](figures/ferhat-ile-sirin-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/ferhat-ile-sirin-data-lt-1080p.webp)](figures/ferhat-ile-sirin-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
